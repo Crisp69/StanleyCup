@@ -1,0 +1,49 @@
+1|David Pokorný|3|||9|Florida|fla
+2|Juha Tynjälä|2|1||8|Anaheim|ana
+3|Lars Puhakka|2|1||8|Columbus|cbj
+4|Adolf Lopuchovský|1|1||5|Toronto|tor
+5|Simon Figura|1|1||5|Boston|bos
+6|Šimon Pastierik|1|1||5|Florida|fla
+7|Daniel Galajd|1|||3|Montreal|mtl
+8|Ivan Dlhopolček|1|||3|St. Louis|stl
+9|Matti Hynönen|1|||3|Anaheim|ana
+10|Pankrác Civáň|1|||3|Calgary|cgy
+11|Pankrác Dzúrik|1|||3|Nashville|nas
+12|Potap Borisov|1|||3|Colorado|col
+13|Richard Kolompár|1|||3|Columbus|cbj
+14|Róbert Tonin|1|||3|Phoenix|phx
+15|Todor Ivanov|1|||3|NY Rangers|nyr
+16|Tomáš Košťál|1|||3|Florida|fla
+17|Vincenc Dvořáček|1|||3|Vancouver|van
+18|Oskar Záhorec||1|1|3|Florida|fla
+19|Teppo Simontaival||1|1|3|Anaheim|ana
+20|Dāvis Barons|||3|3|Columbus|cbj
+21|Alex Carlier||1||2|San Jose|sjs
+22|Andrey Vysotskiy||1||2|Colorado|col
+23|Benoit Gomez||1||2|Nashville|nas
+24|Bruno Cunčukovs||1||2|Dallas|dal
+25|Jozef Palkovič||1||2|Calgary|cgy
+26|Keijo Näs||1||2|Anaheim|ana
+27|Ladislav Hatala||1||2|Phoenix|phx
+28|Marián Richtarčík||1||2|Tampa Bay|tbl
+29|Pavol Behinský||1||2|Edmonton|edm
+30|Pravoslav Šmelko||1||2|Florida|fla
+31|Romuald Błaszczak||1||2|San Jose|sjs
+32|Svetozár Bobuš||1||2|Atlanta|atl
+33|Tony Muncy||1||2|Dallas|dal
+34|Uolevi Bergroth||1||2|Anaheim|ana
+35|Martin Budinský|||2|2|Florida|fla
+36|Albín Drozda|||1|1|Phoenix|phx
+37|Burkhard Kohler|||1|1|Philadelphia|phi
+38|Einari Kuula|||1|1|Anaheim|ana
+39|Ernesto Ingrassia|||1|1|Philadelphia|phi
+40|Ignác Zajíček|||1|1|Boston|bos
+41|Ismo Malm|||1|1|Florida|fla
+42|Izidor Forrai|||1|1|Boston|bos
+43|Kirill Semenov|||1|1|St. Louis|stl
+44|Konštantín Maťašovský|||1|1|Edmonton|edm
+45|Matěj Přikryl|||1|1|Edmonton|edm
+46|Mathew Hooper|||1|1|Boston|bos
+47|Richard Groves|||1|1|Colorado|col
+48|Tomáš Havelka|||1|1|Columbus|cbj
+49|Urko Marolt|||1|1|Detroit|det

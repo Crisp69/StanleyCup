@@ -1,0 +1,21 @@
+1||Jukums Ērglis|4|153|144|94.1%|1|6.8|Washington|was|29166338|240|2.25|
+2||Denis Možucha|2|78|73|93.6%|0|6.7|Anaheim|ana|29627564|120|2.50|
+3||Yuriy Bakhvalov|8|155|144|92.9%|2|5.3|Boston|bos|28500438|480|1.38|
+4||Erik Nentwig|2|92|84|91.3%|0|6.9|Tampa Bay|tbl|26987654|120|4.00|
+5||Yaroslav Belyakov|8|244|220|90.2%|0|5.9|Colorado|col|26900028|480|3.00|
+6||Valio Wendelin|6|116|103|88.8%|2|5.3|NY Rangers|nyr|27529605|360|2.17|
+7||Wilhelm Nielsen|4|98|86|87.8%|1|5.4|St. Louis|stl|29010523|240|3.00|
+8||Adam Miček|6|146|128|87.7%|1|5.3|LA Kings|lak|26049920|360|3.00|
+9||Bohumír Dlouhý|3|88|76|86.4%|0|5.3|Ottawa|ott|29241980|180|4.00|
+10||Jaroslav Bednařík|2|71|61|85.9%|0|5.5|Buffalo|buf|29623573|120|5.00|
+11||Argentino Estrada|1|35|30|85.7%|0|5.6|Ottawa|ott|21192844|60|5.00|
+12||Miron Surautsau|4|89|76|85.4%|1|5.0|Calgary|cgy|22262697|233.566666667|3.34|
+13||Christian Davidsson|2|68|58|85.3%|0|5.5|Vancouver|van|24975545|120|5.00|
+14||Antun Milanović|2|79|66|83.5%|0|5.4|Columbus|cbj|31219039|120|6.50|
+15||Ján Džogan|2|41|34|82.9%|0|4.7|Nashville|nas|22670313|82.05|5.12|
+16||František Schrötter|2|41|34|82.9%|0|4.8|Carolina|car|26967848|86.3666666667|4.86|
+17||Viktar Dzerazhnia|2|88|65|73.9%|0|4.5|Montreal|mtl|22293755|120|11.50|
+-||Pankrác Šrámek|1|2|2|100.0%|0|4.2|Calgary|cgy|26191720|6.43333333333|0.00|
+-||Radoslav Zajko|1|24|23|95.8%|0|5.7|Nashville|nas|31669640|37.95|1.58|
+-||Rafael Zahnd|1|15|14|93.3%|0|5.0|Carolina|car|26905564|33.6333333333|1.78|
+

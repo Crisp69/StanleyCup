@@ -1,0 +1,21 @@
+19.02.2012|Bart Bates|col|1 goals + 1 asists|20121963|Leonard Olekšák|col|1 goals + 0 asists|29010162|Felix Herbst|tor|1 goals + 0 asists|19212548
+18.02.2012|Jonatán Pichlač|tor|98.2% svs, 0 shotout|16825202|Loic Lefevre|col|95.7% svs, 0 shotout|18517170|Ilkka Ahtonen|tor|2 goals + 0 asists|20302282
+12.02.2012|Jonatán Pichlač|tor|95.5% svs, 0 shotout|16825202|Loic Lefevre|col|94.1% svs, 0 shotout|18517170|Robert Schwarz|col|2 goals + 1 asists|17167699
+11.02.2012|Jakub Chytil|col|2 goals + 1 asists|20111575|Jonatán Pichlač|tor|96.2% svs, 0 shotout|16825202|Elizej Skrúcaný|tor|1 goals + 1 asists|27570829
+05.02.2012|Roland Werning|car|5 goals + 0 asists|18135904|Hilary Kupczyk|car|2 goals + 4 asists|20209771|Víťazoslav Gažo|sjs|3 goals + 0 asists|16258865
+04.02.2012|Hans-Erik Nørgaard|chi|98% svs, 0 shotout|21156671|Marek Slíž|car|4 goals + 0 asists|18115266|Vavrinec Banka|stl|3 goals + 1 asists|23003063
+29.01.2012|Hans-Erik Nørgaard|chi|97.7% svs, 0 shotout|21156671|Martin Demeš|col|2 goals + 2 asists|17129434|Reinis Baltrausis|stl|100% svs, 1 shotout|20210989
+28.01.2012|Hank Box|was|3 goals + 0 asists|27666573|Leontīns Zviņķis|car|2 goals + 2 asists|19623446|Roman Travin|det|96.8% svs, 0 shotout|16134007
+22.01.2012|Marijan Urtelj|lak|3 goals + 2 asists|27535481|Leonards Plaude|car|4 goals + 0 asists|19176468|Etienne Dugas|dal|100% svs, 1 shotout|26041188
+21.01.2012|Vavrinec Banka|stl|4 goals + 2 asists|23003063|Albrecht Pampúch|njd|100% svs, 0 shotout|29535297|Blahoslav Adamec|nyi|100% svs, 1 shotout|16873338
+15.01.2012|Olívius Husárik|min|4 goals + 0 asists|21303772|Johan Legendre|nas|4 goals + 0 asists|16144784|Michal Hanáček|det|0 goals + 5 asists|16004550
+14.01.2012|Robert Schwarz|col|4 goals + 1 asists|17167699|Mario Bourque|edm|3 goals + 1 asists|28310242|Richard Meduna|bos|2 goals + 3 asists|27667602
+08.01.2012|Kaspars Lejiņš|det|7 goals + 0 asists|17285576|Remus Kalatovič|wpg|6 goals + 1 asists|18142888|Gustav Nygård|stl|2 goals + 4 asists|18267013
+07.01.2012|Ilkka Ahtonen|tor|4 goals + 2 asists|20302282|Jan Hrdina|pit|3 goals + 1 asists|19502145|Elizej Skrúcaný|tor|2 goals + 3 asists|27570829
+01.01.2012|Michal Kňažko|min|3 goals + 3 asists|19854979|Víťazoslav Gažo|sjs|4 goals + 0 asists|16258865|Servác Lipiansky|stl|1 goals + 5 asists|20417823
+31.12.2011|Mikuláš Mlákar|min|3 goals + 2 asists|18258624|Jonatán Pichlač|tor|100% svs, 1 shotout|16825202|Dario Heim|stl|3 goals + 1 asists|22268022
+25.12.2011|Marcel Drienovský|det|5 goals + 0 asists|19221781|Alan Vodný|nyr|4 goals + 0 asists|27685654|Pekka Rissanen|nas|4 goals + 0 asists|20258861
+24.12.2011|Albert Degr|tbl|4 goals + 3 asists|16836326|Jiří Doubrava|car|4 goals + 1 asists|18954739|Samuel Dzierżak|cgy|3 goals + 1 asists|26894692
+18.12.2011|Albert Degr|tbl|5 goals + 1 asists|16836326|Roland Werning|car|4 goals + 2 asists|18135904|Marcello Städler|tbl|4 goals + 1 asists|23015970
+17.12.2011|Martin Nováček|col|3 goals + 1 asists|16213283|Filip Bogusz|van|3 goals + 0 asists|24715747|Jocelyn Thibault|pit|97.8% svs, 0 shotout|22385348
+16.12.2011|William Howe|sjs|5 goals + 0 asists|20293696|Rauli Salmio|wpg|4 goals + 2 asists|18120118|Marek Slíž|car|4 goals + 1 asists|18115266

@@ -1,0 +1,4 @@
+poprava|1|1|0|0|1|
+earlt|1|1|0|0|1|
+globox|1|1|0|0|1|
+pescalune|1|1|0|0|1|

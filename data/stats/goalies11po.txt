@@ -1,0 +1,26 @@
+1||Miljenko Sokač|1|11|11|100,0%|1|4,9|NY Rangers|nyr
+2||Željko Špoljarec|8|205|194|94,6%|2|5,9|Ottawa|ott
+3||Vojtech Pichňa|3|61|57|93,4%|2|5,4|Florida|fla
+4||Vital Vantsovich|5|110|102|92,7%|1|5,5|Florida|fla
+5||Víťazoslav Lazarák|4|65|60|92,3%|2|5,2|Anaheim|ana
+6||Jan Burda|8|241|221|91,7%|0|6,0|Colorado|col
+7||Denis Chekmarev|4|115|105|91,3%|0|5,9|NY Rangers|nyr
+8||Eugen Chytrý|4|78|71|91,0%|1|5,2|Montreal|mtl
+9||David Hanzlík|2|53|48|90,6%|0|5,6|Dallas|dal
+10||Richard Štěpánek|2|73|66|90,4%|0|6,2|Tampa Bay|tbl
+11||Lukáš Čonka|2|51|46|90,2%|0|5,6|Vancouver|van
+12||Karl Buller|2|39|35|89,7%|0|5,1|San Jose|sjs
+13||Alfréd Čvirik|6|163|145|89,0%|1|5,6|St. Louis|stl
+14||Robert Jacobsen|2|69|61|88,4%|0|6,0|NJ Devils|njd
+15||Jindřich Roubal|3|47|41|87,2%|0|4,8|Anaheim|ana
+16||Jacky Petit|2|79|68|86,1%|0|5,9|Phoenix|phx
+17||Stipo Pulja|4|28|24|85,7%|0|4,5|St. Louis|stl
+18||Gregor Kičo|2|34|29|85,3%|1|4,8|NY Islanders|nyi
+19||Eižens Orlovs|2|52|44|84,6%|0|5,1|Philadelphia|phi
+20||Jozef Lazík|1|25|21|84,0%|0|4,9|Philadelphia|phi
+21||Armands Tuncis|3|48|40|83,3%|0|4,7|Vancouver|van
+22||Laimis Bergsons|2|40|33|82,5%|0|4,7|NY Islanders|nyi
+23||Chris Kocjan|2|51|42|82,4%|0|5,0|Detroit|det
+24||Miervaldis Aukliņš|2|10|8|80,0%|0|4,3|Montreal|mtl
+25||Kryštof Cibulka|1|16|12|75,0%|0|4,3|Detroit|det
+26||Martin Pastov|2|19|13|68,4%|0|3,9|San Jose|sjs

@@ -1,0 +1,24 @@
+1||Tomáš Hlaváč|1|47|46|97.9%|0|7.9|Ottawa|ott|14047582|60|1.00|
+2||Jan Dobiáš|8|203|194|95.6%|4|6.1|Colorado|col|9292382|480|1.13|
+3||Hans Zutter|2|71|67|94.4%|0|6.6|Columbus|cbj|9556447|120|2.00|
+4||Nasko Agov|4|80|75|93.8%|2|5.5|NY Islanders|nyi|7411865|240|1.25|
+5||David Kozák|5|119|111|93.3%|2|5.7|Florida|fla|11959398|300|1.60|
+6||Manuel Mankovecký|4|156|145|92.9%|0|6.6|Detroit|det|17155279|240|2.75|
+7||Kevin Wickli|4|122|112|91.8%|0|5.9|Tampa Bay|tbl|8647053|240|2.50|
+8||Huko Polli|2|46|42|91.3%|0|5.5|NJ Devils|njd|10775416|68.5|3.50|
+9||Sepp Sluiter|2|55|50|90.9%|1|5.8|Anaheim|ana|17113025|120|2.50|
+10||Jauhen Ustinov|6|151|136|90.1%|0|5.5|NJ Devils|njd|10614062|356.85|2.52|
+11||Eric Jenlain|2|58|52|89.7%|0|5.8|Vancouver|van|14951394|120|3.00|
+12||Henning Rekdal|6|158|141|89.2%|1|5.5|St. Louis|stl|13791500|360|2.83|
+13||Michal Feješ|2|74|66|89.2%|0|6.1|Buffalo|buf|17511670|120|4.00|
+14||Daniel Galajd|2|74|66|89.2%|0|6.0|Montreal|mtl|15148312|120|4.00|
+15||Patrik Kočiš|2|72|64|88.9%|0|6.0|Nashville|nas|15189453|115.266666667|4.16|
+16||Asztrik Schuszter|2|31|27|87.1%|0|4.7|Edmonton|edm|18220766|61.1833333333|3.92|
+17||Marcel Sopko|1|27|23|85.2%|0|5.5|NJ Devils|njd|22718601|60|4.00|
+18||Laurent Prigent|2|69|58|84.1%|0|5.4|Columbus|cbj|14343485|120|5.50|
+19||Bálint Mádl|2|63|51|81.0%|0|4.9|Carolina|car|16669639|118.9|6.06|
+20||Adam Nesvadba|1|26|21|80.8%|0|4.8|Florida|fla|17820429|60|5.00|
+21||Silvián Novák|1|30|19|63.3%|0|3.3|Ottawa|ott|26069149|60|11.00|
+-||Ján Džogan|2|3|3|100.0%|0|4.0|Nashville|nas|22670313|4.73333333333|0.00|
+-||Dávid Madleniak|2|32|30|93.8%|0|5.1|Edmonton|edm|9807964|58.8166666667|2.04|
+

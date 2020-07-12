@@ -1,0 +1,30 @@
+Stanley Cup Finals|** NY RANGERS **|Vancouver Canucks®|5712|5619|1|12|2007|nyr|van|2|5|1
+Stanley Cup Finals|Vancouver Canucks®|** NY RANGERS **|5619|5712|2|12|2007|van|nyr|3|2|1
+Conference Finals|Montreal Canadiens|** NY RANGERS **|2747|5712|24|11|2007|mtl|nyr|0|1|1
+Conference Finals|Colorado Avalanche ®|Vancouver Canucks®|9441|5619|24|11|2007|col|van|5|2|2
+Conference Finals|** NY RANGERS **|Montreal Canadiens|5712|2747|25|11|2007|nyr|mtl|2|1|1
+Conference Finals|Vancouver Canucks®|Colorado Avalanche ®|5619|9441|25|11|2007|van|col|9|2|2
+Conference Semifinals|Montreal Canadiens|New York Islanders|2747|2733|17|11|2007|mtl|nyi|4|1|1
+Conference Semifinals|** NY RANGERS **|Carolina Hurricanes ™|5712|12981|17|11|2007|nyr|car|5|1|0
+Conference Semifinals|Anaheim Ducks ™|Vancouver Canucks®|2449|5619|17|11|2007|ana|van|1|2|0
+Conference Semifinals|Colorado Avalanche ®|Columbus Blue Jacket ™|9441|5678|17|11|2007|col|cbj|9|2|2
+Conference Semifinals|New York Islanders|Montreal Canadiens|2733|2747|18|11|2007|nyi|mtl|0|5|1
+Conference Semifinals|Carolina Hurricanes ™|** NY RANGERS **|12981|5712|18|11|2007|car|nyr|1|2|0
+Conference Semifinals|Vancouver Canucks®|Anaheim Ducks ™|5619|2449|18|11|2007|van|ana|5|3|0
+Conference Semifinals|Columbus Blue Jacket ™|Colorado Avalanche ®|5678|9441|18|11|2007|cbj|col|2|4|2
+Conference Quarterfinals|Montreal Canadiens|Washington Capitals ™|2747|2751|10|11|2007|mtl|was|6|0|1
+Conference Quarterfinals|** NY RANGERS **|Tampa Bay Lightning®|5712|16293|10|11|2007|nyr|tbl|4|3|0
+Conference Quarterfinals|Carolina Hurricanes ™|Florida Panthers ®|12981|16237|10|11|2007|car|fla|6|1|0
+Conference Quarterfinals|New York Islanders|Toronto Maple Leafs ®|2733|9503|10|11|2007|nyi|tor|3|1|0
+Conference Quarterfinals|Nashville Predators™|Vancouver Canucks®|23488|5619|10|11|2007|nas|van|1|2|0
+Conference Quarterfinals|Anaheim Ducks ™|Chicago Blackhawks ®|2449|2295|10|11|2007|ana|chi|10|2|0
+Conference Quarterfinals|Colorado Avalanche ®|St.Louis Blues™|9441|5650|10|11|2007|col|stl|4|2|0
+Conference Quarterfinals|Columbus Blue Jacket ™|Calgary Flames®|5678|18866|10|11|2007|cbj|cgy|4|3|2
+Conference Quarterfinals|Washington Capitals ™|Montreal Canadiens|2751|2747|11|11|2007|was|mtl|1|6|1
+Conference Quarterfinals|Tampa Bay Lightning®|** NY RANGERS **|16293|5712|11|11|2007|tbl|nyr|0|1|0
+Conference Quarterfinals|Florida Panthers ®|Carolina Hurricanes ™|16237|12981|11|11|2007|fla|car|4|8|0
+Conference Quarterfinals|Toronto Maple Leafs ®|New York Islanders|9503|2733|11|11|2007|tor|nyi|4|2|0
+Conference Quarterfinals|Vancouver Canucks®|Nashville Predators™|5619|23488|11|11|2007|van|nas|5|1|0
+Conference Quarterfinals|Chicago Blackhawks ®|Anaheim Ducks ™|2295|2449|11|11|2007|chi|ana|1|4|0
+Conference Quarterfinals|St.Louis Blues™|Colorado Avalanche ®|5650|9441|11|11|2007|stl|col|1|6|0
+Conference Quarterfinals|Calgary Flames®|Columbus Blue Jacket ™|18866|5678|11|11|2007|cgy|cbj|1|5|2

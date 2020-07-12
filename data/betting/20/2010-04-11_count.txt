@@ -1,0 +1,3 @@
+misko|8|14
+zoidberg|7|14
+sollu|9|14

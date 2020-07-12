@@ -1,0 +1,32 @@
+phi|Philadelphia Flyers|17911|atlantic|East|1|1|12|1|0|78 : 20|25|1
+fla|Florida Panthers|2372|southeast|East|2|1|11|1|1|86 : 19|23|1
+ott|Ottawa Senators ®|2787|northeast|East|3|1|8|1|4|47 : 27|17|1
+njd|New Jersey Devils®|12576|atlantic|East|4|2|10|1|2|65 : 31|21|1
+nyi|New York Islanders ®|19992|atlantic|East|5|3|9|1|3|52 : 33|19|1
+mtl|Montreal Canadiens|2747|northeast|East|6|2|8|1|4|66 : 39|17|1
+nyr|** NY RANGERS **|5712|atlantic|East|7|4|7|2|4|52 : 32|16|1
+was|- Washington Capitals -|3597|southeast|East|8|2|7|1|5|51 : 42|15|1
+atl|Atlanta Thrashers ® |2654|southeast|East|9|3|6|2|5|42 : 40|14|0
+bos|HC05 BB Boston Bruins|5|northeast|East|10|3|5|0|8|39 : 48|10|0
+tbl|Tampa Bay Lightning ®|16293|southeast|East|11|4|4|0|9|41 : 42|8|0
+tor|Toronto Maple Leafs ®|29473|northeast|East|12|4|3|0|10|24 : 63|6|0
+pit|Pittsburgh Penguins ®|876|atlantic|East|13|5|3|0|10|23 : 70|6|0
+buf|Buffalo Sabres|28475|northeast|East|14|5|2|0|11|27 : 74|4|0
+car|Carolina Hurricanes ®|19051|southeast|East|15|5|0|0|13|11 : 83|0|0
+||||||||||||
+||||||||||||
+stl|St. Louis Blues™|2769|central|West|1|1|9|1|3|54 : 25|19|1
+edm|Edmonton Oilers™|25621|northwest|West|2|1|9|1|3|49 : 21|19|1
+dal|Dallas Stars™|12548|pacific|West|3|1|9|0|4|49 : 39|18|1
+det|Detroit Red Wings ™|23149|central|West|4|2|9|1|3|58 : 42|19|1
+chi|Chicago Blackhawks™|5650|central|West|5|3|7|3|3|49 : 30|17|1
+cbj|Columbus Blue Jacket™|5678|central|West|6|4|8|1|4|42 : 37|17|1
+min|Minnesota Wild™|23488|northwest|West|7|2|7|1|5|70 : 40|15|1
+phx|Phoenix Coyotes®|2499|pacific|West|8|2|6|2|5|34 : 39|14|1
+van|Vancouver Canucks®|23742|northwest|West|9|3|6|0|7|40 : 53|12|0
+sjs|San Jose Shark|6576|pacific|West|10|3|4|3|6|50 : 39|11|0
+cgy|Calgary Flames®|18866|northwest|West|11|4|4|0|9|29 : 55|8|0
+ana|Anaheim Ducks ™|30489|pacific|West|12|4|3|1|9|34 : 54|7|0
+nas|Nashville Predators ™|30351|central|West|13|5|3|0|10|27 : 52|6|0
+col|Colorado Avalanche|9441|northwest|West|14|5|2|0|11|15 : 64|4|0
+lak|Los Angeles Kings ®|23979|pacific|West|15|5|1|1|11|14 : 65|3|0

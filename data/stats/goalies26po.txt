@@ -1,0 +1,22 @@
+1||Oscar Maudlin|8|191|183|95.8%|4|5.9|Colorado|col|13803905|480|1.00|
+2||Aleksandrs Bergsons|4|116|110|94.8%|0|6.3|Detroit|det|13123516|208.316666667|1.73|
+3||Jakub Čermák|2|67|62|92.5%|0|6.3|Florida|fla|12673994|120|2.50|
+4||Erkki Tella|6|144|131|91.0%|1|5.6|NJ Devils|njd|17447808|360|2.17|
+5||Gennaro Parravicini|2|73|66|90.4%|0|6.0|Philadelphia|phi|14324984|120|3.50|
+6||Michel Meili|8|197|177|89.8%|0|5.5|Atlanta|atl|17152958|480|2.50|
+7||Marin Bakalov|4|86|77|89.5%|0|5.3|Carolina|car|19339743|240|2.25|
+8||Jonatán Pichlač|4|113|101|89.4%|1|5.7|Toronto|tor|16825202|240|3.00|
+9||Pēteris Ūsiņš|1|36|32|88.9%|0|5.9|NY Islanders|nyi|16041536|60|4.00|
+10||Reinis Baltrausis|4|97|86|88.7%|2|5.5|St. Louis|stl|20210989|240|2.75|
+11||Hans-Erik Nørgaard|2|86|76|88.4%|0|6.4|Chicago|chi|21156671|120|5.00|
+12||Patrik Kočiš|2|66|58|87.9%|0|5.8|Nashville|nas|15189453|85.9333333333|5.59|
+13||Sepp Sluiter|6|155|133|85.8%|0|5.1|Anaheim|ana|17113025|360|3.67|
+14||Damian Ackerknecht|2|77|65|84.4%|0|5.7|Montreal|mtl|20629504|120|6.00|
+15||Stan Lackovič|2|24|20|83.3%|0|4.5|San Jose|sjs|23457558|67.45|3.56|
+16||Yuriy Baskakov|2|65|54|83.1%|0|5.2|Minnesota|min|16218067|90.3166666667|7.31|
+17||Aarno Suntioinen|1|35|28|80.0%|0|4.9|NY Islanders|nyi|13160012|60|7.00|
+-||Manuel Mankovecký|1|25|23|92.0%|0|5.6|Detroit|det|17155279|31.6833333333|3.79|
+-||Hugo Kukučiak|1|11|10|90.9%|0|4.5|Minnesota|min|21342258|29.6833333333|2.02|
+-||Havel Franěk|1|29|25|86.2%|0|5.4|San Jose|sjs|14808227|53.5|4.49|
+-||Ján Džogan|1|21|17|81.0%|0|4.6|Nashville|nas|22670313|34.0666666667|7.05|
+

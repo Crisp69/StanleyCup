@@ -1,0 +1,31 @@
+Stanley Cup Finals|Atlanta Thrashers ™|Colorado Avalanche|27410|9441|14|05|2011|atl|col|3|2|1|877218164|1029|
+
+Stanley Cup Finals|Colorado Avalanche|Atlanta Thrashers ™|9441|27410|15|05|2011|col|atl|2|4|1|877216583|1030|
+Conference Finals|Atlanta Thrashers ™|Florida Panthers ®|27410|14852|07|05|2011|atl|fla|4|2|1|877154628|1025|
+Conference Finals|Anaheim Ducks ®|Colorado Avalanche|3597|9441|07|05|2011|ana|col|2|3|2|877154608|1026|
+Conference Finals|Florida Panthers ®|Atlanta Thrashers ™|14852|27410|08|05|2011|fla|atl|3|2|1|877154629|1027|
+Conference Finals|Colorado Avalanche|Anaheim Ducks ®|9441|3597|08|05|2011|col|ana|4|2|2|877154610|1028|
+Conference Semifinals|Atlanta Thrashers ™|New York Islanders®|27410|23488|30|04|2011|atl|nyi|4|1|1|877133451|1017|
+Conference Semifinals|New Jersey Devils®|Florida Panthers ®|12576|14852|30|04|2011|njd|fla|1|3|0|877131834|1018|
+Conference Semifinals|Anaheim Ducks ®|Chicago Blackhawks ™|3597|18857|30|04|2011|ana|chi|2|1|0|877139493|1019|
+Conference Semifinals|Colorado Avalanche|San Jose Sharks™|9441|35895|30|04|2011|col|sjs|2|1|2|877131429|1020|
+Conference Semifinals|New York Islanders®|Atlanta Thrashers ™|23488|27410|01|05|2011|nyi|atl|2|4|1|877133088|1021|
+Conference Semifinals|Florida Panthers ®|New Jersey Devils®|14852|12576|01|05|2011|fla|njd|4|3|0|877131835|1022|
+Conference Semifinals|Chicago Blackhawks ™|Anaheim Ducks ®|18857|3597|01|05|2011|chi|ana|3|4|0|877139494|1023|
+Conference Semifinals|San Jose Sharks™|Colorado Avalanche|35895|9441|01|05|2011|sjs|col|4|5|2|877131430|1024|
+Conference Quarterfinals|Atlanta Thrashers ™|Toronto Maple Leafs ®|27410|29473|23|04|2011|atl|tor|1|0|1|877113711|1001|
+Conference Quarterfinals|New Jersey Devils®|Philadelphia Flyers ®|12576|23983|23|04|2011|njd|phi|10|5|0|877114150|1002|
+Conference Quarterfinals|Buffalo Sabres|New York Islanders®|28475|23488|23|04|2011|buf|nyi|0|9|0|877114769|1003|
+Conference Quarterfinals|Florida Panthers ®|Carolina Hurricanes ®|14852|29501|23|04|2011|fla|car|3|2|0|877114582|1004|
+Conference Quarterfinals|Anaheim Ducks ®|Los Angeles Kings ®|3597|23979|23|04|2011|ana|lak|15|1|0|877115147|1005|
+Conference Quarterfinals|Colorado Avalanche|St. Louis Blues®|9441|16565|23|04|2011|col|stl|0|1|0|877113408|1006|
+Conference Quarterfinals|Columbus Blue Jackets|Chicago Blackhawks ™|4928|18857|23|04|2011|cbj|chi|1|5|0|877115779|1007|
+Conference Quarterfinals|San Jose Sharks™|Nashville Predators ™|35895|19992|23|04|2011|sjs|nas|5|4|2|877118633|1008|
+Conference Quarterfinals|Toronto Maple Leafs ®|Atlanta Thrashers ™|29473|27410|24|04|2011|tor|atl|3|4|1|877113712|1009|
+Conference Quarterfinals|Philadelphia Flyers ®|New Jersey Devils®|23983|12576|24|04|2011|phi|njd|2|9|0|877114152|1010|
+Conference Quarterfinals|New York Islanders®|Buffalo Sabres|23488|28475|24|04|2011|nyi|buf|4|1|0|877114770|1011|
+Conference Quarterfinals|Carolina Hurricanes ®|Florida Panthers ®|29501|14852|24|04|2011|car|fla|6|5|0|877114583|1012|
+Conference Quarterfinals|Los Angeles Kings ®|Anaheim Ducks ®|23979|3597|24|04|2011|lak|ana|2|5|0|877115148|1013|
+Conference Quarterfinals|St. Louis Blues®|Colorado Avalanche|16565|9441|24|04|2011|stl|col|2|8|0|877113409|1014|
+Conference Quarterfinals|Chicago Blackhawks ™|Columbus Blue Jackets|18857|4928|24|04|2011|chi|cbj|2|0|0|877115781|1015|
+Conference Quarterfinals|Nashville Predators ™|San Jose Sharks™|19992|35895|24|04|2011|nas|sjs|3|5|2|877118635|1016|

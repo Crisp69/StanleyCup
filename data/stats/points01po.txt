@@ -1,0 +1,20 @@
+1||Oleg Oboňa|10|9|7|16|15|7,49|||Anaheim|ana
+2||Valentin Stančić|10|11|3|14|10|6,98|||Washington|was
+3||Alojz Štrbák|5|7|3|10|4|7,34|||St. Louis|stl
+4||Klaus Eltschinger|10|4|5|9|3|6,19|||Anaheim|ana
+5||Kristián Cabánek|10|0|9|9|10|6,39|||Washington|was
+6||Jaakko Asikainen|7|8|0|8|10|6,90|||Colorado|col
+7||Damian Zapata|10|8|0|8|14|6,67|||Anaheim|ana
+8||Hugo Šablatúra|10|7|1|8|15|6,69|||Anaheim|ana
+9||Albert Zikmund|10|6|2|8|3|6,12|||Anaheim|ana
+10||Radúz Bondra|4|6|1|7|-1|6,60|||NY Islanders|nyi
+11||Arpád Červeň|7|2|5|7|8|6,56|||Washington|was
+12||Oskari Trulli|10|0|7|7|-2|5,65|||Washington|was
+13||Vladimír Bakula|4|6|0|6|4|6,95|||Phoenix|phx
+14||Boleslav Pastierik|5|0|6|6|4|6,46|||St. Louis|stl
+15||Ahmed Balorda|6|0|6|6|5|6,42|||Toronto|tor
+16||Vincent De Wolf|8|3|3|6|4|6,03|||Colorado|col
+17||Adrián Baňár|8|2|4|6|-3|5,64|||Colorado|col
+18||Walenty Gołębiewski|8|2|4|6|-1|5,70|||Washington|was
+19||Timotej-Tim Hribar|9|0|6|6|-2|5,72|||Anaheim|ana
+20||Nikola Sertić|10|4|2|6|8|6,15|||Anaheim|ana

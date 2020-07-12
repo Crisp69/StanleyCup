@@ -1,0 +1,33 @@
+33|bos|Boston Bruins ®|1220|snipper|84067
+32|nyr|New York Rangers ™|2787|sllaby|18936
+31|car|Carolina Hurricanes|33552|PoprAvA|347599
+30|wpg|Winnipeg Jets|27410|Maci9|143187
+29|col|Colorado Avalanche|9441|sollu|35429
+28|col|Colorado Avalanche|9441|sollu|35429
+27|car|Carolina Hurricanes|33552|PoprAvA|347599
+26|col|Colorado Avalanche|9441|sollu|35429
+25|atl|Atlanta Thrashers|27410|Maci9|143187
+24|col|Colorado Avalanche|9441|sollu|35429
+23|chi|Chicago Blackhawks|29135|fatal|172413
+22|col|Colorado Avalanche|9441|sollu|35429
+21|col|Colorado Avalanche|9441|sollu|35429
+20|ott|Ottawa Senators|5|IRON|70210
+19|fla|Florida Panthers|14852|Zoidberg|68804
+18|fla|Florida Panthers|14852|Zoidberg|68804
+17|ott|Ottawa Senators|2787|sllaby|18936
+16|ott|Ottawa Senators|2787|sllaby|18936
+15|njd|New Jersey Devils|12576|Trsto|46610
+14|stl|St.Louis Blues|2769|hogy|25482
+13|fla|Florida Panthers|2372|vlasto|12845
+12|col|Colorado Avalanche|9441|sollu|35429
+11|col|Colorado Avalanche|9441|sollu|35429
+10|col|Colorado Avalanche|9441|sollu|35429
+9|fla|Florida Panthers|2733|matho|18569
+8|mtl|Montreal Canadiens|2747|roman99|38934
+7|van|Vancouver Canucks|5619|Wanadoes|24775
+6|col|Colorado Avalanche|9441|sollu|35429
+5|col|Colorado Avalanche|9441|sollu|35429
+4|nyi|New York Islanders|2733|matho|18569
+3|nyi|New York Islanders|2733|matho|18569
+2|ana|Anaheim Ducks|2449|ktulu|10249
+1|ana|Anaheim Ducks|2449|ktulu|10249

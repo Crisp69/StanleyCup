@@ -1,0 +1,23 @@
+1||Dominik Dogáň|2|65|61|93.8%|1|6.3|Philadelphia|phi|17413772|120|2.00|
+2||Miķelis Kalnišs|6|133|123|92.5%|2|5.6|Colorado|col|10753182|360|1.67|
+3||Frank Raisch|6|142|131|92.3%|2|5.6|St. Louis|stl|15146512|360|1.83|
+4||Manuel Mankovecký|2|61|56|91.8%|0|5.9|Detroit|det|17155279|120|2.50|
+5||Eric Jenlain|2|72|66|91.7%|1|6.3|Chicago|chi|14951394|120|3.00|
+6||David Kozák|2|36|33|91.7%|0|5.2|Florida|fla|11959398|120|1.50|
+7||Michel Meili|2|64|58|90.6%|0|5.9|Atlanta|atl|17152958|120|3.00|
+8||Jonatán Pichlač|2|83|75|90.4%|0|6.5|Toronto|tor|16825202|120|4.00|
+9||Havel Franěk|4|103|93|90.3%|0|5.5|San Jose|sjs|14808227|188.133333334|3.19|
+10||Bálint Mádl|6|158|142|89.9%|1|5.6|Carolina|car|16669639|360|2.67|
+11||Jauhen Ustinov|5|149|134|89.9%|0|5.8|NJ Devils|njd|10614062|290.616666667|3.10|
+12||Tomáš Hlaváč|4|105|94|89.5%|0|5.5|Ottawa|ott|14047582|240|2.75|
+13||Patrick Cornu|4|98|87|88.8%|0|5.3|NJ Devils|njd|12690312|189.383333333|3.48|
+14||Kārlis Rībenis|2|49|42|85.7%|0|5.3|Colorado|col|18548312|120|3.50|
+15||Gerald Brandner|2|49|42|85.7%|0|5.2|Anaheim|ana|12708643|120|3.50|
+16||Bogusław Onuszko|2|45|36|80.0%|0|4.7|Florida|fla|9262979|120|4.50|
+17||Peter Vysocký|2|49|39|79.6%|0|4.7|NY Islanders|nyi|16240308|120|5.00|
+18||Valio Wendelin|4|108|85|78.7%|0|4.8|Phoenix|phx|27529605|211.033333333|6.54|
+19||Oleg Pisarčík|1|32|25|78.1%|0|4.6|Vancouver|van|13198093|60|7.00|
+20||Roger Williams|1|43|33|76.7%|0|4.9|Vancouver|van|21583271|60|10.00|
+-||Yaroslav Belyakov|1|17|15|88.2%|0|4.9|Phoenix|phx|26900028|28.9666666667|4.14|
+-||Stan Lackovič|2|32|27|84.4%|0|4.6|San Jose|sjs|23457558|54.1833333333|5.54|
+

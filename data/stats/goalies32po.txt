@@ -1,0 +1,22 @@
+1||Otto Tommila|8|206|191|92.7%|0|5.8|St. Louis|stl|18265448|480|1.88|
+2||Etienne Dugas|2|66|60|90.9%|0|6.0|Dallas|dal|26041188|120|3.00|
+3||Jaroslav Korček|6|182|165|90.7%|0|5.9|Toronto|tor|23010996|360|2.83|
+4||Rafael Zahnd|4|75|68|90.7%|0|5.3|Washington|was|26905564|210.2|2.00|
+5||Adam Miček|4|117|105|89.7%|1|5.7|LA Kings|lak|26049920|240|3.00|
+6||Miron Surautsau|5|109|97|89.0%|1|5.2|Calgary|cgy|22262697|300|2.40|
+7||Esa Nyyssölä|2|62|55|88.7%|0|5.7|Tampa Bay|tbl|23446864|120|3.50|
+8||Milan Biloveský|2|66|58|87.9%|0|5.8|Montreal|mtl|20220217|120|4.00|
+9||Štěpán Vácha|1|24|21|87.5%|0|5.3|Calgary|cgy|26146532|60|3.00|
+10||Radule Jovičić|1|31|27|87.1%|0|5.6|Detroit|det|22256530|60|4.00|
+11||Jaroslav Bednařík|2|61|53|86.9%|0|5.5|Buffalo|buf|29623573|120|4.00|
+12||Raitis Apinis|3|45|39|86.7%|2|4.9|Detroit|det|19471576|180|2.00|
+13||Yuriy Bakhvalov|4|107|92|86.0%|0|5.4|Boston|bos|28500438|240|3.75|
+14||Valio Wendelin|8|151|129|85.4%|0|5.0|NY Rangers|nyr|27529605|480|2.75|
+15||Michal Skuban|2|96|82|85.4%|0|6.2|Chicago|chi|29630308|120|7.00|
+16||Lillo Pellin|2|81|68|84.0%|0|5.5|NY Islanders|nyi|27114964|120|6.50|
+17||Carl Drake|1|27|22|81.5%|0|4.9|Columbus|cbj|29726637|60|5.00|
+18||Filip Dohnal|1|52|42|80.8%|0|5.6|Phoenix|phx|29007338|60|10.00|
+19||Częstogniew Bunc|1|56|45|80.4%|0|5.6|Phoenix|phx|31864105|60|11.00|
+20||Carl Drake|1|26|20|76.9%|0|4.4|St. Louis|stl|29726637|60|6.00|
+-||František Schrötter|1|12|12|100.0%|0|5.0|Washington|was|26967848|29.8|0.00|
+

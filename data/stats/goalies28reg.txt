@@ -1,0 +1,55 @@
+1||Reinis Baltrausis|13|305|288|94.4%|4|5.7|St. Louis|stl|20210989|780|1.31|
+2||Vincenzo Benini|7|137|129|94.2%|2|5.5|Detroit|det|18159167|420|1.14|
+3||Jonatán Pichlač|12|233|219|94.0%|3|5.4|Toronto|tor|16825202|720|1.17|
+4||Vavrinec Figura|13|275|254|92.4%|0|5.6|Florida|fla|15587700|780|1.62|
+5||Damian Ackerknecht|12|249|228|91.6%|3|5.4|Montreal|mtl|20629504|720|1.75|
+6||Ján Džogan|13|319|292|91.5%|4|5.7|Nashville|nas|22670313|708.45|2.29|
+7||Yuriy Bakhvalov|13|322|294|91.3%|1|5.7|Boston|bos|28500438|780|2.15|
+8||Etienne Dugas|12|351|320|91.2%|1|6.0|Dallas|dal|26041188|703.65|2.64|
+9||Hans-Erik Nørgaard|12|316|288|91.1%|4|5.7|Chicago|chi|21156671|720|2.33|
+10||Michel Meili|13|272|247|90.8%|3|5.3|Winnipeg|wpg|17152958|780|1.92|
+11||Jocelyn Thibault|11|259|235|90.7%|4|5.5|Pittsburgh|pit|22385348|607.75|2.37|
+12||Viesturs Zalcmanis|13|351|317|90.3%|3|5.6|NY Rangers|nyr|27544641|780|2.62|
+13||Marin Bakalov|12|181|163|90.1%|5|4.9|Carolina|car|19339743|720|1.50|
+14||Glenn Clark|13|475|425|89.5%|2|6.1|Calgary|cgy|24711743|765.683333333|3.92|
+15||Carl Drake|12|178|159|89.3%|4|4.8|Columbus|cbj|29726637|527.200000001|2.16|
+16||Michal Feješ|13|271|241|88.9%|3|5.2|Buffalo|buf|17511670|780|2.31|
+17||Gatis Pakalns|13|371|329|88.7%|2|5.6|Tampa Bay|tbl|27990891|699.233333333|3.60|
+18||Elemír Lohyňa|13|361|320|88.6%|4|5.6|NY Islanders|nyi|17574474|780|3.15|
+19||Stan Lackovič|13|208|184|88.5%|3|4.9|San Jose|sjs|23457558|613.499999999|2.35|
+20||Čistomil Romanovič|13|237|209|88.2%|0|5.0|Edmonton|edm|20647986|436.05|3.85|
+21||Oscar Maudlin|11|157|138|87.9%|4|4.9|Colorado|col|13803905|660|1.73|
+22||Valio Wendelin|13|350|301|86.0%|1|5.3|Phoenix|phx|27529605|780|3.77|
+23||Josef Spáčil|13|644|548|85.1%|0|6.1|Philadelphia|phi|18159996|780|7.38|
+24||Rafael Zahnd|13|394|331|84.0%|1|5.5|Washington|was|26905564|780|4.85|
+25||Adam Miček|11|376|314|83.5%|1|5.5|LA Kings|lak|26049920|660|5.64|
+26||Bohumír Dlouhý|11|312|257|82.4%|0|4.9|Ottawa|ott|29241980|464.650000001|7.10|
+27||Albrecht Pampúch|13|456|374|82.0%|0|5.2|NJ Devils|njd|29535297|699.25|7.04|
+28||Ailill Dalry|11|527|416|78.9%|0|5.4|Vancouver|van|29257370|660|10.09|
+-||Lauris Dzintariņš|1|20|19|95.0%|0|5.4|Toronto|tor|18297705|60|1.00|
+-||Ladislav Beňa|2|37|35|94.6%|0|5.5|LA Kings|lak|26505803|120|1.00|
+-||Daniel Duda|4|35|33|94.3%|0|4.8|Minnesota|min|16262366|123.5|0.97|
+-||Manuel Mankovecký|6|93|87|93.5%|4|5.2|Detroit|det|17155279|360|1.00|
+-||Hugo Kukučiak|13|116|108|93.1%|0|4.6|Minnesota|min|21342258|387.999999999|1.24|
+-||Yuriy Baskakov|9|80|74|92.5%|0|4.6|Minnesota|min|16218067|268.500000001|1.34|
+-||Loic Lefevre|2|38|35|92.1%|0|5.3|Colorado|col|18517170|120|1.50|
+-||Ruslan Hitrun|9|220|202|91.8%|0|5.6|Ottawa|ott|25765790|315.35|3.42|
+-||Benjamin Ferrand|2|41|37|90.2%|0|5.3|Dallas|dal|24300997|76.2166666667|3.15|
+-||Dominik Hubač|1|35|31|88.6%|0|5.9|Montreal|mtl|21603251|60|4.00|
+-||František Miškanin|8|43|38|88.4%|0|4.2|NJ Devils|njd|29565349|80.75|3.72|
+-||Terry Sellars|7|102|90|88.2%|0|4.8|Edmonton|edm|20616518|201.816666666|3.57|
+-||Víctor Ibias|4|49|43|87.8%|0|4.6|San Jose|sjs|13366779|96.4333333334|3.73|
+-||Pravomil Monka|4|45|39|86.7%|0|4.4|Nashville|nas|28799468|71.55|5.03|
+-||Patrick Zentriegen|2|30|26|86.7%|0|4.7|San Jose|sjs|14045151|70.0666666667|3.43|
+-||Larry Smith|6|123|105|85.4%|0|5.0|Columbus|cbj|21941487|252.8|4.27|
+-||Jaroslav Halák|3|111|93|83.8%|0|5.4|Pittsburgh|pit|24109404|172.25|6.27|
+-||David Hron|1|24|20|83.3%|0|5.1|Carolina|car|27678847|60|4.00|
+-||Denis Možucha|5|105|87|82.9%|0|4.7|Anaheim|ana|29627564|156.95|6.88|
+-||Enok Arntsen|13|245|202|82.4%|0|4.7|Anaheim|ana|29725370|366.199999999|7.05|
+-||Ray Hills|5|81|64|79.0%|0|4.4|Edmonton|edm|29543567|142.133333333|7.18|
+-||Kevin Wickli|3|64|49|76.6%|0|4.4|Tampa Bay|tbl|8647053|80.7666666667|11.14|
+-||Bruce Atkins|2|84|64|76.2%|0|4.7|Vancouver|van|29908537|120|10.00|
+-||Jonne Ilola|1|40|30|75.0%|0|4.6|Chicago|chi|24995076|60|10.00|
+-||Vic Holland|1|12|9|75.0%|0|4.0|Calgary|cgy|27670116|14.3166666667|12.57|
+-||Valér Dlábik|8|162|119|73.5%|0|4.2|Anaheim|ana|29689194|256.85|10.04|
+

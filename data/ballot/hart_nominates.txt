@@ -1,0 +1,15 @@
+08:27:57 16.01.2013|sllaby|Maurícius Jakub;NY Rangers;forward;13G - 11g + 33a = 44p, 37 (+/-)|195.212.29.166
+20:31:57 14.01.2013|speedysportwhiz|Sofroniusz Skotnicki;Carolina;forward;13G - 4g + 17a = 21p, 16 (+/-)|95.105.193.12
+20:26:04 14.01.2013|martin polo|Eerikki Kohtala;Phoenix;forward;11G - 1g + 7a = 8p, -1 (+/-)|95.105.193.12
+16:59:38 13.01.2013|Poliku|Bystrík Bačinský;Tampa Bay;forward;13G - 12g + 21a = 33p, 9 (+/-)|86.30.156.24
+15:20:37 13.01.2013|rau-ben Zee|Seppo Niemitalo;Columbus;forward;12G - 4g + 14a = 18p, 3 (+/-)|213.243.137.158
+23:48:19 12.01.2013|lalime|Nino Orman;Anaheim;forward;6G - 3g + 12a = 15p, 13 (+/-)|82.181.208.166
+20:35:27 12.01.2013|cPalo|Albertín Cimbala;LA Kings;forward;13G - 18g + 28a = 46p, 30 (+/-)|193.107.252.82
+20:31:27 12.01.2013|Trsto|Ivo Pavārds;NJ Devils;forward;13G - 8g + 1a = 9p, -11 (+/-)|91.227.224.1
+20:11:01 12.01.2013|JaRomE121|Pavel Baranskiy;NY Islanders;goalie;6G - 157shs/147svs - 93.6% - 1 shotouts|213.181.130.9
+13:59:25 12.01.2013|delarocha|Jakub Štěpán;Ottawa;forward;13G - 19g + 16a = 35p, 25 (+/-)|91.127.183.166
+23:13:06 11.01.2013|Globox|Miloš Kuniš;Calgary;forward;12G - 16g + 21a = 37p, 34 (+/-)|188.167.108.110
+21:35:32 11.01.2013|jAc|Radim Žoldák;Buffalo;forward;13G - 13g + 18a = 31p, 20 (+/-)|85.135.5.250
+22:21:30 09.01.2013|Flaherty|Rastislav Lukčo;Minnesota;forward;12G - 7g + 3a = 10p, -15 (+/-)|178.41.152.35
+22:19:19 09.01.2013|Zoidberg|Tapani Bergbom;Florida;goalie;13G - 423shs/364svs - 86.1% - 0 shotouts|94.113.16.42
+22:11:18 09.01.2013|snipper|Yuriy Bakhvalov;Boston;goalie;13G - 246shs/233svs - 94.7% - 6 shotouts|195.168.209.3

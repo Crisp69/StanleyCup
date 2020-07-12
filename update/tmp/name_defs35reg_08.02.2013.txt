@@ -1,0 +1,3 @@
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/domains1/do011100/public/www_root/stanleycup/update/count_stats.php</b> on line <b>332</b><br />
+

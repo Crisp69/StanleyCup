@@ -1,0 +1,6 @@
+tomson|3|5
+misko|11|14
+iron|10|12
+sollu|10|14
+zoidberg|9|14
+lordik13|8|14

@@ -1,0 +1,17 @@
+1-2||Jauhen Ustinov|1|33|30|90.9|0|5.9|NJ Devils|njd|10614062|50.6166666667||col|06.03.2011
+2-2||Patrick Cornu|1|7|4|57.1|0|3.6|NJ Devils|njd|12690312|9.38333333333||col|06.03.2011
+1-1||Miķelis Kalnišs|1|24|21|87.5|0|5.3|Colorado|col|10753182|60||njd|06.03.2011
+1-1||Miķelis Kalnišs|1|27|25|92.6|0|5.9|Colorado|col|10753182|60||njd|05.03.2011
+1-1||Patrick Cornu|1|37|33|89.2|0|6.1|NJ Devils|njd|12690312|60||col|05.03.2011
+1-2||Bálint Mádl|1|24|19|79.2|0|4.6|Carolina|car|16669639|60||njd|27.02.2011
+1-1||Miķelis Kalnišs|1|28|27|96.4|0|6.4|Colorado|col|10753182|60||stl|27.02.2011
+1-2||Jauhen Ustinov|1|23|21|91.3|0|5.5|NJ Devils|njd|10614062|60||car|27.02.2011
+1-2||Frank Raisch|1|32|30|93.8|0|6.2|St. Louis|stl|15146512|60||col|27.02.2011
+1-2||Jauhen Ustinov|1|37|33|89.2|0|6.2|NJ Devils|njd|10614062|60||car|26.02.2011
+1-1||Miķelis Kalnišs|1|15|11|73.3|0|4.2|Colorado|col|10753182|60||stl|26.02.2011
+1-2||Bálint Mádl|1|26|21|80.8|0|4.8|Carolina|car|16669639|60||njd|26.02.2011
+1-2||Frank Raisch|1|41|35|85.4|0|5.7|St. Louis|stl|15146512|60||col|26.02.2011
+1-2||Jauhen Ustinov|1|37|33|89.2|0|6.2|NJ Devils|njd|10614062|60||car|26.02.2011
+1-1||Miķelis Kalnišs|1|15|11|73.3|0|4.2|Colorado|col|10753182|60||stl|26.02.2011
+1-2||Bálint Mádl|1|26|21|80.8|0|4.8|Carolina|car|16669639|60||njd|26.02.2011
+1-2||Frank Raisch|1|41|35|85.4|0|5.7|St. Louis|stl|15146512|60||col|26.02.2011

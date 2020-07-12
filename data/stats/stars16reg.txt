@@ -1,0 +1,29 @@
+1|Juha Tynjälä|2|||6|Washington|was
+2|Cyril Delattre|1|||3|Ottawa|ott
+3|František Šebek|1|||3|Florida|fla
+4|Gordon Beeney|1|||3|San Jose|sjs
+5|Heikko Murrut|1|||3|Calgary|cgy
+6|Johann-Sebastian Morgenroth|1|||3|Philadelphia|phi
+7|Mike Ludden|1|||3|Ottawa|ott
+8|Svatoslav Dostál|1|||3|Boston|bos
+9|Yves Petitot|1|||3|St. louis|stl
+10|Bruno Salussoglia||1||2|Dallas|dal
+11|Daniel Krupička||1||2|Boston|bos
+12|Daniels Meistars||1||2|St. louis|stl
+13|Dobroslav Komárek||1||2|Ottawa|ott
+14|Dominik Hašek||1||2|Pittsburgh|pit
+15|Isaac Hansson||1||2|Nashville|nas
+16|János Czene||1||2|St. louis|stl
+17|Marek Michlík||1||2|Calgary|cgy
+18|Petr Vaculík||1||2|Ottawa|ott
+19|Robin Pelikán||1||2|Ottawa|ott
+20|Edgars Asaris|||1|1|LA Kings|lak
+21|František Ulrich|||1|1|Calgary|cgy
+22|Jan Hejda|||1|1|Pittsburgh|pit
+23|Laimis Bergsons|||1|1|NY Islanders|nyi
+24|Lukáš Němec|||1|1|St. louis|stl
+25|Matti Hynönen|||1|1|Washington|was
+26|Michal Gaži|||1|1|Nashville|nas
+27|Pavol Behinský|||1|1|Edmonton|edm
+28|Tomáš Vlk|||1|1|Ottawa|ott
+29|Vladimír Paleček|||1|1|St. louis|stl

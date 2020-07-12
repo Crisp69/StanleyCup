@@ -1,0 +1,30 @@
+Anaheim Ducks ®|Anaheim|ana|pacific
+Winnipeg Jets™|Winnipeg|wpg|southeast
+Boston Bruins ®|Boston|bos|northeast
+Buffalo Sabres|Buffalo|buf|northeast
+Calgary Flames ®|Calgary|cgy|northwest
+Carolina Hurricanes|Carolina|car|southeast
+Chicago Blackhawks ™|Chicago|chi|central
+Colorado Avalanche|Colorado|col|northwest
+Columbus Blue Jackets|Columbus|cbj|central
+Dallas Stars®|Dallas|dal|pacific
+Detroid Red Wings™|Detroit|det|central
+Edmonton Oilers ®|Edmonton|edm|northwest
+Florida Panthers®|Florida|fla|southeast
+Los Angeles Kings ®|LA Kings|lak|pacific
+Minnesota Wild®|Minnesota|min|northwest
+Montreal Canadiens ™|Montreal|mtl|northeast
+Nashville Predators ™|Nashville|nas|central
+New Jersey Devils®|NJ Devils|njd|atlantic
+Ottawa Senators©|Ottawa|ott|northeast
+Philadelphia Flyers ®|Philadelphia|phi|atlantic
+Phoenix Coyotes ®|Phoenix|phx|pacific
+Pittsburgh Penguins|Pittsburgh|pit|atlantic
+New York Islanders™|NY Islanders|nyi|atlantic
+New York Rangers ™|NY Rangers|nyr|atlantic
+San Jose Sharks™|San Jose|sjs|pacific
+St. Louis Blues ™|St. Louis|stl|central
+Tampa Bay Lightning ®|Tampa Bay|tbl|southeast
+Toronto Maple Leafs ™|Toronto|tor|northeast
+Vancouver Canucks™|Vancouver|van|northwest
+Washington Capitals®|Washington|was|southeast

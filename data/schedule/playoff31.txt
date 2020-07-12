@@ -1,0 +1,31 @@
+Stanley Cup Finals|Minnesota Wild®|Carolina Hurricanes ™|5709|33552|07|07|2012|min|car|1|7|1|882586975|1029|
+
+Stanley Cup Finals|Carolina Hurricanes ™|Minnesota Wild®|33552|5709|08|07|2012|car|min|12|2|1|882586976|1030|
+Conference Finals|Boston Bruins ®|Carolina Hurricanes ™|1220|33552|30|06|2012|bos|car|4|9|1|882483577|1025|
+Conference Finals|Minnesota Wild®|Phoenix Coyotes ®|5709|2787|30|06|2012|min|phx|5|2|2|882482024|1026|
+Conference Finals|Carolina Hurricanes ™|Boston Bruins ®|33552|1220|01|07|2012|car|bos|5|3|1|882483578|1027|
+Conference Finals|Phoenix Coyotes ®|Minnesota Wild®|2787|5709|01|07|2012|phx|min|0|2|2|882482025|1028|
+Conference Semifinals|Winnipeg Jets ★™|Carolina Hurricanes ™|27410|33552|23|06|2012|wpg|car|2|3|1|882475841|1017|
+Conference Semifinals|Boston Bruins ®|Florida Panthers|1220|14852|23|06|2012|bos|fla|8|2|0|882465986|1018|
+Conference Semifinals|Minnesota Wild®|Calgary Flames ®|5709|36702|23|06|2012|min|cgy|3|2|0|882465166|1019|
+Conference Semifinals|Phoenix Coyotes ®|Los Angeles Kings ®|2787|23979|23|06|2012|phx|lak|4|0|2|882465768|1020|
+Conference Semifinals|Carolina Hurricanes ™|Winnipeg Jets ★™|33552|27410|24|06|2012|car|wpg|10|2|1|882475842|1021|
+Conference Semifinals|Florida Panthers|Boston Bruins ®|14852|1220|24|06|2012|fla|bos|5|3|0|882465987|1022|
+Conference Semifinals|Calgary Flames ®|Minnesota Wild®|36702|5709|24|06|2012|cgy|min|2|3|0|882465168|1023|
+Conference Semifinals|Los Angeles Kings ®|Phoenix Coyotes ®|23979|2787|24|06|2012|lak|phx|5|4|2|882465770|1024|
+Conference Quarterfinals|Winnipeg Jets ★™|Montreal Canadiens ™|27410|39418|16|06|2012|wpg|mtl|0|2|1|882452864|1001|
+Conference Quarterfinals|Boston Bruins ®|New York Islanders™|1220|35972|16|06|2012|bos|nyi|9|0|0|882455148|1002|
+Conference Quarterfinals|** NY RANGERS **|Carolina Hurricanes ™|5712|33552|16|06|2012|nyr|car|3|8|0|882452818|1003|
+Conference Quarterfinals|Florida Panthers|Toronto Maple Leafs ®|14852|29473|16|06|2012|fla|tor|2|1|0|882450814|1004|
+Conference Quarterfinals|Minnesota Wild®|Colorado Avalanche|5709|18850|16|06|2012|min|col|7|3|0|882453078|1005|
+Conference Quarterfinals|Phoenix Coyotes ®|Vancouver Canucks™|2787|12519|16|06|2012|phx|van|3|1|0|882452562|1006|
+Conference Quarterfinals|Detroit Red Wings™|Calgary Flames ®|19051|36702|16|06|2012|det|cgy|3|5|0|882451508|1007|
+Conference Quarterfinals|Los Angeles Kings ®|Nashville Predators ™|23979|19992|16|06|2012|lak|nas|3|1|2|882451311|1008|
+Conference Quarterfinals|Montreal Canadiens ™|Winnipeg Jets ★™|39418|27410|17|06|2012|mtl|wpg|3|6|1|882452865|1009|
+Conference Quarterfinals|New York Islanders™|Boston Bruins ®|35972|1220|17|06|2012|nyi|bos|2|8|0|882455147|1010|
+Conference Quarterfinals|Carolina Hurricanes ™|** NY RANGERS **|33552|5712|17|06|2012|car|nyr|3|0|0|882452819|1011|
+Conference Quarterfinals|Toronto Maple Leafs ®|Florida Panthers|29473|14852|17|06|2012|tor|fla|4|3|0|882450815|1012|
+Conference Quarterfinals|Colorado Avalanche|Minnesota Wild®|18850|5709|17|06|2012|col|min|2|3|0|882453079|1013|
+Conference Quarterfinals|Vancouver Canucks™|Phoenix Coyotes ®|12519|2787|17|06|2012|van|phx|1|2|0|882452563|1014|
+Conference Quarterfinals|Calgary Flames ®|Detroit Red Wings™|36702|19051|17|06|2012|cgy|det|4|3|0|882451275|1015|
+Conference Quarterfinals|Nashville Predators ™|Los Angeles Kings ®|19992|23979|17|06|2012|nas|lak|1|3|2|882451312|1016|

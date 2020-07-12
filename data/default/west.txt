@@ -1,0 +1,15 @@
+Anaheim|3597
+Calgary|23488
+Chicago|1091
+Colorado|9441
+Columbus|32234
+Dallas|21496
+Detroit|23149
+Edmonton|25621
+LA Kings|23979
+Minnesota|16284
+Nashville|21888
+Phoenix|2499
+San Jose|25619
+St. Louis|16565
+Vancouver|29135

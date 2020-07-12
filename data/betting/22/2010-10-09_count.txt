@@ -1,0 +1,4 @@
+pescalune|0|2
+misko|1|2
+jac|1|2
+sollu|0|1

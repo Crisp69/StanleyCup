@@ -1,0 +1,25 @@
+1||Tuure Lehto|1|2|2|100.0%|0|4.1|Detroit|det|25907321|4.18333333333|0.00|
+2||Jan Dobiáš|2|52|50|96.2%|1|6.0|Colorado|col|9292382|120|1.00|
+3||Jauhen Ustinov|4|119|113|95.0%|1|6.3|NJ Devils|njd|10614062|240|1.50|
+4||Andrey Vysotskiy|6|149|141|94.6%|2|5.9|Colorado|col|8048787|360|1.33|
+5||David Kozák|8|187|176|94.1%|1|5.8|Florida|fla|11959398|480|1.38|
+6||Eric Jenlain|2|45|42|93.3%|0|5.7|Vancouver|van|14951394|120|1.50|
+7||Armands Latvānis|2|80|74|92.5%|0|6.6|Phoenix|phx|13245688|120|3.00|
+8||Asztrik Schuszter|2|25|23|92.0%|0|4.8|Edmonton|edm|18220766|52.35|2.29|
+9||Manuel Mankovecký|6|182|167|91.8%|1|5.9|Detroit|det|17155279|355.816666667|2.53|
+10||Daniel Galajd|2|84|77|91.7%|0|6.7|Montreal|mtl|15148312|120|3.50|
+11||Jonatán Pichlač|2|65|59|90.8%|0|5.8|Toronto|tor|16825202|120|3.00|
+12||Sepp Sluiter|4|43|39|90.7%|0|4.7|Anaheim|ana|17113025|155.3|1.55|
+13||Dominik Dogáň|1|41|37|90.2%|0|6.4|Atlanta|atl|17413772|50.6166666667|4.74|
+14||Henning Rekdal|2|70|63|90.0%|0|6.1|St. Louis|stl|13791500|120|3.50|
+15||Guido Fechter|1|10|9|90.0%|0|4.8|Ottawa|ott|11521449|60|1.00|
+16||Tomáš Hlaváč|2|75|67|89.3%|0|6.2|Tampa Bay|tbl|14047582|120|4.00|
+17||Bálint Mádl|6|162|144|88.9%|0|5.6|Carolina|car|16669639|353.583333333|3.05|
+18||Robbie Martin|2|70|62|88.6%|0|6.0|Calgary|cgy|13136128|117.183333333|4.10|
+19||András Gerő|2|61|54|88.5%|0|5.7|Atlanta|atl|13605050|69.3833333333|6.05|
+20||Einari Kuula|2|26|23|88.5%|0|4.7|Anaheim|ana|13251453|84.7|2.13|
+21||Igor Kačenkovič|2|53|44|83.0%|0|5.1|Ottawa|ott|24286036|120|4.50|
+22||Dávid Madleniak|2|28|23|82.1%|0|4.4|Edmonton|edm|9807964|67.65|4.43|
+23||Constantin Stoicescu|1|20|16|80.0%|0|4.4|Ottawa|ott|12997009|60|4.00|
+24||Gordan Guza|2|64|46|71.9%|0|4.2|Vancouver|van|25277883|120|9.00|
+

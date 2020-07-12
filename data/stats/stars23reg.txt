@@ -1,0 +1,49 @@
+1|Marek Májik|2||2|8|NJ Devils|njd
+2|Arthur Pitt|2|||6|Washington|was
+3|Oskar Záhorec|2|||6|Florida|fla
+4|Artúr Konvický|1|1||5|Ottawa|ott
+5|Jan Melichar|1|1||5|Florida|fla
+6|Kirill Semenov|1|1||5|St. Louis|stl
+7|Iľja Pavlikovský||2||4|Carolina|car
+8|Martin Chvátal||1|2|4|NJ Devils|njd
+9|Bálint Mádl|1|||3|Carolina|car
+10|Carsten Pauly|1|||3|St. Louis|stl
+11|Gianluca Massera|1|||3|Phoenix|phx
+12|Gonzalo Herriaga|1|||3|NJ Devils|njd
+13|Heinz Häfele|1|||3|Ottawa|ott
+14|Jiří Hašek|1|||3|Chicago|chi
+15|Radek Sobota|1|||3|Chicago|chi
+16|Roman Haluška|1|||3|Colorado|col
+17|Rudolf Mišík|1|||3|NJ Devils|njd
+18|Tomáš Petrovický|1|||3|Chicago|chi
+19|Viesturs Ekerts|1|||3|Calgary|cgy
+20|Vincent Chochol|1|||3|LA Kings|lak
+21|Nikolajs Priede||1|1|3|Chicago|chi
+22|Atle Borg||1||2|St. Louis|stl
+23|David Kočí||1||2|Ottawa|ott
+24|Elo Chovanec||1||2|Chicago|chi
+25|Enrico Cantini||1||2|St. Louis|stl
+26|Evgeniy Turkovskiy||1||2|Ottawa|ott
+27|Filip Kořínek||1||2|Phoenix|phx
+28|Jauhen Ustinov||1||2|NJ Devils|njd
+29|Lukáš Macura||1||2|St. Louis|stl
+30|Matěj Přikryl||1||2|Edmonton|edm
+31|Mikail Sjöberg||1||2|NY Islanders|nyi
+32|Milan Paluška||1||2|San Jose|sjs
+33|Pavol Behinský||1||2|Edmonton|edm
+34|Pēteris Briedis||1||2|Chicago|chi
+35|Robin Brookes||1||2|San Jose|sjs
+36|Bartoloměj Coufal|||2|2|NY Islanders|nyi
+37|Eric Jenlain|||2|2|Chicago|chi
+38|Bruno Chabada|||1|1|Ottawa|ott
+39|Dalimil Valeš|||1|1|Buffalo|buf
+40|Eino Kamsula|||1|1|Anaheim|ana
+41|Ervin Cserna|||1|1|St. Louis|stl
+42|Ilmari Allinen|||1|1|San Jose|sjs
+43|Jorma Lyyra|||1|1|Chicago|chi
+44|Luuk Overbeek|||1|1|San Jose|sjs
+45|Manuel Mankovecký|||1|1|Detroit|det
+46|Matti Hynönen|||1|1|Anaheim|ana
+47|Ondřej Dobeš|||1|1|Calgary|cgy
+48|Patrik Janík|||1|1|NJ Devils|njd
+49|Prosimir Nitowski|||1|1|Anaheim|ana

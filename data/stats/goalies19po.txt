@@ -1,0 +1,22 @@
+1||Kenny Plesch|1|10|10|100.0%|1|4.7|Philadelphia|phi|19808983
+2||Olafs Bulders|2|59|57|96.6%|0|6.4|Calgary|cgy|7086696
+3||Miervaldis Aukliņš|6|231|218|94.4%|1|6.7|Tampa Bay|tbl|13241316
+4||David Kozák|7|115|108|93.9%|2|5.4|Florida|fla|11959398
+5||Dāvis Barons|3|81|75|92.6%|1|5.9|Columbus|cbj|6762253
+6||Ferdynand Bugliński|2|66|61|92.4%|0|6.3|St. Louis|stl|7912209
+7||Ezio Pellicciari|2|38|35|92.1%|1|5.2|Columbus|cbj|6874302
+8||Mathew Hooper|4|78|71|91.0%|0|5.3|Boston|bos|14890253
+9||Andrey Vysotskiy|4|125|112|89.6%|0|5.9|Colorado|col|8048787
+10||Daniel Galajd|2|76|68|89.5%|0|6.2|Montreal|mtl|15148312
+11||Niilo Sario|6|148|132|89.2%|0|5.5|Dallas|dal|15376560
+12||Eric Jenlain|2|62|55|88.7%|0|5.8|Vancouver|van|14951394
+13||Sepp Sluiter|3|61|54|88.5%|0|5.2|Anaheim|ana|17113025
+14||Einari Kuula|6|172|152|88.4%|0|5.6|Anaheim|ana|13251453
+15||Fides Antczak|4|110|97|88.2%|0|5.5|Washington|was|14148102
+16||Pablo Elze|2|41|36|87.8%|0|5.2|Nashville|nas|11952350
+17||András Gerő|2|48|42|87.5%|0|5.3|Atlanta|atl|13605050
+18||Burkhard Kohler|2|71|59|83.1%|0|5.3|Philadelphia|phi|17107981
+19||Lukáš Kliment|1|21|17|81.0%|0|4.7|Florida|fla|16812897
+20||Juraj Kuľhavý|2|51|41|80.4%|0|4.7|NY Rangers|nyr|20413122
+21||Cyriak Bielasik|2|25|19|76.0%|0|4.3|Washington|was|20105731
+

@@ -1,0 +1,33 @@
+wpg|Winnipeg Jets ★™|27410|southeast|East|1|1|12|1|0|85 : 15|25|1
+tor|Toronto Maple Leafs ®|29473|northeast|East|2|1|12|1|0|67 : 11|25|1
+phi|Philadelphia Flyers ®|23983|atlantic|East|3|1|9|0|4|48 : 21|18|1
+fla|Florida Panthers ®|14852|southeast|East|4|2|10|1|2|100 : 21|21|1
+nyi|New York Islanders®|18850|atlantic|East|5|2|9|0|4|53 : 21|18|1
+car|Carolina Hurricanes ™|33552|southeast|East|6|3|7|3|3|87 : 25|17|1
+buf|Buffalo Sabres|28475|northeast|East|7|2|7|2|4|50 : 31|16|1
+pit|Pittsburgh Penguins|876|atlantic|East|8|3|6|0|7|41 : 53|12|1
+was|The Washington Capitals|1659|southeast|East|9|4|5|0|8|30 : 67|10
+nyr|** NY RANGERS **|5712|atlantic|East|10|4|4|2|7|33 : 55|10
+mtl|Montreal Canadiens ™|39418|northeast|East|11|3|4|1|8|33 : 47|9
+bos|Boston Bruins ®|1220|northeast|East|12|4|3|0|10|28 : 68|6
+njd|New Jersey Devils®|12576|atlantic|East|13|5|3|0|10|23 : 105|6
+tbl|Tampa Bay Lightning ®|16293|southeast|East|14|5|1|0|12|9 : 88|2
+ott|Ottawa Senators©|29402|northeast|East|15|5|0|0|13|3 : 103|0
+
+
+col|Colorado Avalanche|9441|northwest|West|1|1|11|0|2|103 : 17|22|1
+sjs|San Jose Sharks™|35895|pacific|West|2|1|10|1|2|91 : 22|21|1
+stl|St. Louis Blues ™|23488|central|West|3|1|10|1|2|76 : 23|21|1
+chi|Chicago Blackhawks ™|18857|central|West|4|2|9|0|4|56 : 22|18|1
+min|Minnesota Wild®|5709|northwest|West|5|2|8|1|4|56 : 23|17|1
+det|Detroit Red Wings™|19051|central|West|6|3|8|0|5|56 : 27|16|1
+nas|Nashville Predators ™|19992|central|West|7|4|7|1|5|53 : 26|15|1
+ana|Anaheim Ducks ®|3597|pacific|West|8|2|6|0|7|47 : 73|12|1
+lak|Los Angeles Kings ®|23979|pacific|West|9|3|6|0|7|44 : 48|12
+phx|Phoenix Coyotes ®|2787|pacific|West|10|4|4|1|8|19 : 58|9
+dal|Dallas Stars ®|27996|pacific|West|11|5|4|0|9|28 : 45|8
+cbj|Columbus Blue Jackets|4928|central|West|12|5|3|2|8|20 : 49|8
+cgy|Calgary Flames ®|36702|northwest|West|13|3|3|0|10|17 : 59|6
+van|Vancouver Canucks~|39037|northwest|West|14|4|3|0|10|16 : 76|6
+edm|Edmonton Oilers ® |38448|northwest|West|15|5|2|0|11|14 : 87|4
+

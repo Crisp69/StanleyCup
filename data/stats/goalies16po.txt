@@ -1,0 +1,28 @@
+1||Burkhard Kohler|2|49|46|93.9%|0|6.0|Philadelphia|phi|17107981
+2||Bruno Salussoglia|2|49|46|93.9%|0|6.0|Dallas|dal|7298413
+3||Olafs Bulders|6|158|148|93.7%|2|5.9|Calgary|cgy|7086696
+4||Lukáš Němec|8|186|171|91.9%|2|5.5|St. Louis|stl|9899883
+5||Laimis Bergsons|2|73|67|91.8%|0|6.3|NY Islanders|nyi|7463592
+6||Bohumír Minarovjech|2|61|55|90.2%|0|5.8|Detroit|det|7795798
+7||Sepp Sluiter|1|20|18|90.0%|0|5.0|Washington|was|17113025
+8||Armands Latvānis|4|79|71|89.9%|0|5.4|Ottawa|ott|13245688
+9||Alojz Gallo|3|67|60|89.6%|0|5.3|Washington|was|8072703
+10||Alexander Kharin|4|105|93|88.6%|0|5.5|Edmonton|edm|5083073
+11||Vitālijs Namdaris|2|52|46|88.5%|0|5.5|Boston|bos|11817499
+12||Jozef Lazík|4|95|84|88.4%|0|5.4|Philadelphia|phi|4761192
+13||Gothard Stjern|2|58|51|87.9%|0|5.5|Nashville|nas|7446307
+14||Denis Chekmarev|2|65|57|87.7%|0|5.8|NY Rangers|nyr|10751634
+15||Józef Bancerz|4|99|86|86.9%|0|5.3|Ottawa|ott|5082918
+16||Gregor Taliga|1|15|13|86.7%|0|4.8|St. Louis|stl|9275125
+17||Igor Pimenov|2|80|69|86.3%|0|5.9|Buffalo|buf|7900441
+18||Alfréd Čvirik|1|36|31|86.1%|0|5.6|Chicago|chi|2683142
+19||Michal Albrecht|2|70|60|85.7%|0|5.6|Boston|bos|12898081
+20||Einari Kuula|3|41|35|85.4%|0|4.6|Washington|was|13251453
+21||Vladislavs Sarkanplūme|1|30|25|83.3%|0|5.2|Tampa Bay|tbl|16165848
+22||Stipo Pulja|2|53|43|81.1%|0|4.7|Chicago|chi|13069079
+23||Kevin Wickli|1|25|20|80.0%|0|4.8|Tampa Bay|tbl|8647053
+24||Prokop Kuľha|2|52|41|78.8%|0|4.6|San Jose|sjs|6686142
+25||Oscar Moran|1|22|17|77.3%|0|4.4|Dallas|dal|17485428
+26||Vladislav Smoleňák|1|28|21|75.0%|0|4.4|Dallas|dal|6421019
+27||Marek Kužiel|1|23|16|69.6%|0|4.0|Edmonton|edm|13435401
+

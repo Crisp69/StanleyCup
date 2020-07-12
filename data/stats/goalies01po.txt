@@ -1,0 +1,10 @@
+1||Lukáš Červeňák|8|168|157|93,45%|||Toronto|tor
+2||Jusztin Réss|2|59|55|93,22%|||Chicago|chi
+3||Kauko Turunen|6|150|139|92,67%|||Carolina|car
+4||Víťazoslav Lazarák|10|213|196|92,02%|||Anaheim|ana
+5||Josef Orság|4|64|58|90,62%|||Phoenix|phx
+6||Branislav Majer|2|64|57|89,06%|||Florida|fla
+7||Mauri Perttala|1|18|16|88,89%|||Calgary|cgy
+8||Klement Bendík|1|18|16|88,89%|||Minnesota|min
+9||Gillis Christiansen|2|44|39|88,64%|||New Jersey|njd
+10||Jan Matti Koenig|8|179|156|87,15%|||Colorado|col

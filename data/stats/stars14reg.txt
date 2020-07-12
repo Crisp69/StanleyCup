@@ -1,0 +1,24 @@
+1|Vladimír Paleček|2|||6|St. Louis|stl
+2|Jiří Chaloupka|1|1||5|Florida|fla
+3|Jozef Kroták|1|1||5|Florida|fla
+4|Milan Mentel|1|1||5|St. Louis|stl
+5|František Ulrich|1|||3|Minnesota|min
+6|Gregor Taliga|1|||3|St. Louis|stl
+7|Mikael Ottosson|1|||3|NY Rangers|nyr
+8|Roman Haluška|1|||3|Colorado|col
+9|Vendelín Šíp|1|||3|LA Kings|lak
+10|Jan Novotný||1|1|3|NJ Devils|njd
+11|Benny Zenoni||1||2|NY Rangers|nyr
+12|Joakim Langli||1||2|Montreal|mtl
+13|Stanislav Spišák||1||2|NY Islanders|nyi
+14|Tom Collins||1||2|St. Louis|stl
+15|Tuomo Larsson||1||2|Florida|fla
+16|Uldis Avotinš||1||2|LA Kings|lak
+17|Daniels Meistars|||2|2|St. Louis|stl
+18|Jozef Lazík|||1|1|Philadelphia|phi
+19|Ladislav Harvilla|||1|1|St. Louis|stl
+20|Leo Jaakonaho|||1|1|Atlanta|atl
+21|Mika Karjalainen|||1|1|NJ Devils|njd
+22|Oskar Harvaniak|||1|1|Florida|fla
+23|Štefan Blaška|||1|1|toronto|tor
+24|Zbyšek Šmíd|||1|1|Colorado|col

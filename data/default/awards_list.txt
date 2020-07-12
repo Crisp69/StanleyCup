@@ -1,0 +1,17 @@
+a|stanleycup|Stanley Cup|
+a|pres|Presidents' Trophy|
+a|jack|Jack Adams Award|
+a|wall|Prince of Wales Trophy|
+a|cla|Clarence S. Campbell Bowl|
+a|conn|Conn Smythe Trophy|
+a|hart|Hart Memorial Trophy|
+a|art|Art Ross Trophy|
+a|moris|Maurice 'Rocket' Richard Trophy|
+a|james|James Norris Memorial Trophy|
+a|vezina|Vezina Trophy|
+a|will|William M. Jennings Trophy|
+a|calder|Calder Memorial Trophy|
+a|lady|Lady Byng Memorial Trophy|
+a|lester|Lester B. Pearson Trophy|
+a|frank|Frank J. Selke Trophy|
+a|bill|Bill Masterton Memorial Trophy|

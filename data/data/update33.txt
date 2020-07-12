@@ -1,0 +1,158 @@
+1354216644|teams details|teams_addinfo|
+1353901348|stars|stars|
+1353901316|income stats|stats_income|
+1353901304|stats|stats|
+1353901240|results|schedule|
+1353802620|stars|stars|
+1353802554|income stats|stats_income|
+1353802538|stats|stats|
+1353802393|results|schedule|
+1353296389|playoff schedule|schedule|
+1353296332|stars|stars|
+1353296313|income stats|stats_income|
+1353296308|stats|stats|
+1353296266|results|schedule|
+1353191258|stars|stars|
+1353191213|income stats|stats_income|
+1353190833|stats|stats|
+1353190759|results|schedule|
+1352745651|playoff schedule|schedule|
+1352745587|stars|stars|
+1352745561|income stats|stats_income|
+1352745529|stats|stats|
+1352745343|results|schedule|
+1352623111|stars|stars|
+1352623088|income stats|stats_income|
+1352623081|stats|stats|
+1352623042|results|schedule|
+1352622952|stats|stats|
+1352622851|results|schedule|
+1352134845|playoff schedule|schedule|
+1352134609|stars|stars|
+1352134589|income stats|stats_income|
+1352134577|stats|stats|
+1352134049|results|schedule|
+1352133177|results|schedule|
+1352133111|results|schedule|
+1352132870|results|schedule|
+1352085602|stars|stars|
+1352085577|income stats|stats_income|
+1352085555|stats|stats|
+1352085501|results|schedule|
+1352085439|results|schedule|
+1352085375|results|schedule|
+1352015433|stars|stars|
+1352015407|income stats|stats_income|
+1352015393|stats|stats|
+1352015219|results|schedule|
+1351480729|playoff schedule|schedule|
+1351480675|stars|stars|
+1351480646|income stats|stats_income|
+1351480638|teams stats|teams_stats|
+1351480629|stats|stats|
+1351480534|standings|standings|
+1351480509|results|schedule|
+1351370987|stars|stars|
+1351370962|income stats|stats_income|
+1351370958|teams stats|teams_stats|
+1351370953|teams details|teams_addinfo|
+1351370877|stats|stats|
+1351370772|standings|standings|
+1351370765|results|schedule|
+1351104726|stats|stats|
+1351104552|stats|stats|
+1351104196|stats|stats|
+1351103921|stats|stats|
+1351103802|stats|stats|
+1351102417|stats|stats|
+1351102326|standings|standings|
+1351102314|results|schedule|
+1351102035|stats|stats|
+1351101955|standings|standings|
+1351101949|results|schedule|
+1351101837|stats|stats|
+1351101717|standings|standings|
+1351101711|results|schedule|
+1351101558|stats|stats|
+1351101412|standings|standings|
+1351101390|results|schedule|
+1350874248|stars|stars|
+1350874218|income stats|stats_income|
+1350874214|teams stats|teams_stats|
+1350874209|stats|stats|
+1350874097|standings|standings|
+1350874092|results|schedule|
+1350767747|stars|stars|
+1350767732|income stats|stats_income|
+1350767718|teams stats|teams_stats|
+1350767708|teams details|teams_addinfo|
+1350767675|stats|stats|
+1350767382|standings|standings|
+1350767211|results|schedule|
+1350752179|stats|stats|
+1350752006|stats|stats|
+1350751008|standings|standings|
+1350750987|results|schedule|
+1350750147|stats|stats|
+1350322642|stats|stats|
+1350312663|stars|stars|
+1350312648|income stats|stats_income|
+1350312645|teams stats|teams_stats|
+1350312637|stats|stats|
+1350312580|standings|standings|
+1350312576|results|schedule|
+1350214492|stars|stars|
+1350214473|income stats|stats_income|
+1350214470|teams stats|teams_stats|
+1350214462|teams details|teams_addinfo|
+1350214439|stats|stats|
+1350214318|standings|standings|
+1350214304|results|schedule|
+1349971792|magazine|magazine.php&id_magazine=61|
+1349723073|stars|stars|
+1349723056|income stats|stats_income|
+1349722989|teams stats|teams_stats|
+1349722956|stats|stats|
+1349722843|standings|standings|
+1349722838|results|schedule|
+1349588716|stars|stars|
+1349588691|income stats|stats_income|
+1349588687|teams stats|teams_stats|
+1349588675|teams details|teams_addinfo|
+1349588593|stats|stats|
+1349588511|standings|standings|
+1349588501|results|schedule|
+1349063323|stars|stars|
+1349063306|income stats|stats_income|
+1349063301|teams stats|teams_stats|
+1349063282|stats|stats|
+1349063043|standings|standings|
+1349063016|results|schedule|
+1348984851|stars|stars|
+1348984826|income stats|stats_income|
+1348984822|teams stats|teams_stats|
+1348984810|stats|stats|
+1348984733|standings|standings|
+1348984728|results|schedule|
+1348858404|stars|stars|
+1348858391|income stats|stats_income|
+1348858386|teams stats|teams_stats|
+1348858381|teams details|teams_addinfo|
+1348858358|stats|stats|
+1348858232|standings|standings|
+1348858214|results|schedule|
+1348771702|results|schedule|
+1348384026|stars|stars|
+1348384003|income stats|stats_income|
+1348383999|teams stats|teams_stats|
+1348383991|stats|stats|
+1348383876|standings|standings|
+1348383871|results|schedule|
+1348264328|betting office|bo|
+1348264316|stars|stars|
+1348264281|income stats|stats_income|
+1348264276|teams stats|teams_stats|
+1348264261|teams details|teams_addinfo|
+1348264235|stats|stats|
+1348263886|standings|standings|
+1348263872|results|schedule|

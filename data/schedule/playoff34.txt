@@ -1,0 +1,31 @@
+Stanley Cup Finals|Boston Bruins ®|Colorado  Avalanche|1220|18850|02|02|2013|bos|col|6|0|1|885133614|1029|
+
+Stanley Cup Finals|Colorado  Avalanche|Boston Bruins ®|18850|1220|03|02|2013|col|bos|1|4|1|885133615|1030|
+Conference Finals|Boston Bruins ®|New York Rangers ™|1220|2787|26|01|2013|bos|nyr|5|1|1|885033878|1025|
+Conference Finals|Los Angeles Kings ®|Colorado  Avalanche|23979|18850|26|01|2013|lak|col|4|8|2|885033467|1026|
+Conference Finals|New York Rangers ™|Boston Bruins ®|2787|1220|27|01|2013|nyr|bos|4|1|1|885033879|1027|
+Conference Finals|Colorado  Avalanche|Los Angeles Kings ®|18850|23979|27|01|2013|col|lak|0|1|2|885033468|1028|
+Conference Semifinals|Boston Bruins ®|Ottawa Senators©|1220|29402|19|01|2013|bos|ott|5|2|1|885025811|1017|
+Conference Semifinals|Washington Capitals®|New York Rangers ™|29437|2787|19|01|2013|was|nyr|4|2|0|885014870|1018|
+Conference Semifinals|St. Louis Blues ™|Colorado  Avalanche|23488|18850|19|01|2013|stl|col|4|5|0|885014551|1019|
+Conference Semifinals|Calgary Flames ®|Los Angeles Kings ®|36702|23979|19|01|2013|cgy|lak|3|4|2|885014215|1020|
+Conference Semifinals|Ottawa Senators©|Boston Bruins ®|29402|1220|20|01|2013|ott|bos|1|5|1|885025812|1021|
+Conference Semifinals|New York Rangers ™|Washington Capitals®|2787|29437|20|01|2013|nyr|was|4|0|0|885014871|1022|
+Conference Semifinals|Colorado  Avalanche|St. Louis Blues ™|18850|23488|20|01|2013|col|stl|4|2|0|885014553|1023|
+Conference Semifinals|Los Angeles Kings ®|Calgary Flames ®|23979|36702|20|01|2013|lak|cgy|5|4|2|885014216|1024|
+Conference Quarterfinals|Boston Bruins ®|Montreal Canadiens ™|1220|39418|12|01|2013|bos|mtl|9|2|1|885000251|1001|
+Conference Quarterfinals|Washington Capitals®|Buffalo Sabres|29437|28475|12|01|2013|was|buf|4|3|0|885002229|1002|
+Conference Quarterfinals|New York Rangers ™|Tampa Bay Lightning ®|2787|16293|12|01|2013|nyr|tbl|4|3|0|885006829|1003|
+Conference Quarterfinals|Ottawa Senators©|Carolina Hurricanes ™|29402|1659|12|01|2013|ott|car|4|2|0|884999847|1004|
+Conference Quarterfinals|St. Louis Blues ™|Nashville Predators ™|23488|19992|12|01|2013|stl|nas|3|0|0|884999393|1005|
+Conference Quarterfinals|Calgary Flames ®|Anaheim Ducks ®|36702|3597|12|01|2013|cgy|ana|3|4|0|885000349|1006|
+Conference Quarterfinals|Los Angeles Kings ®|Columbus Blue Jackets|23979|16632|12|01|2013|lak|cbj|7|1|0|884999545|1007|
+Conference Quarterfinals|Vancouver Canucks™|Colorado  Avalanche|12519|18850|12|01|2013|van|col|1|5|2|885002647|1008|
+Conference Quarterfinals|Montreal Canadiens ™|Boston Bruins ®|39418|1220|13|01|2013|mtl|bos|0|14|1|885000252|1009|
+Conference Quarterfinals|Buffalo Sabres|Washington Capitals®|28475|29437|13|01|2013|buf|was|0|6|0|885002230|1010|
+Conference Quarterfinals|Tampa Bay Lightning ®|New York Rangers ™|16293|2787|13|01|2013|tbl|nyr|0|4|0|885006830|1011|
+Conference Quarterfinals|Carolina Hurricanes ™|Ottawa Senators©|1659|29402|13|01|2013|car|ott|5|4|0|884999848|1012|
+Conference Quarterfinals|Nashville Predators ™|St. Louis Blues ™|19992|23488|13|01|2013|nas|stl|3|5|0|885002590|1013|
+Conference Quarterfinals|Anaheim Ducks ®|Calgary Flames ®|3597|36702|13|01|2013|ana|cgy|0|2|0|885000350|1014|
+Conference Quarterfinals|Columbus Blue Jackets|Los Angeles Kings ®|16632|23979|13|01|2013|cbj|lak|2|6|0|884999546|1015|
+Conference Quarterfinals|Colorado  Avalanche|Vancouver Canucks™|18850|12519|13|01|2013|col|van|5|2|2|885002649|1016|

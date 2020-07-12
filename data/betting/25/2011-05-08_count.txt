@@ -1,0 +1,4 @@
+globox|2|2|0|0|2|
+earlt|1|2|0|-0.5|2|
+pescalune|1|2|0|-0.5|2|
+delarocha|2|2|0|0|2|

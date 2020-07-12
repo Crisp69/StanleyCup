@@ -1,0 +1,47 @@
+1|Tomáš Vlk|2|2||10|Ottawa|ott
+2|Robin Pelikán|2||1|7|Ottawa|ott
+3|Izsák Pápay|1|1||5|Ottawa|ott
+4|Peter Holečka|1|1||5|NY Islanders|nyi
+5|Philip Corkin|1|1||5|Ottawa|ott
+6|David Kozák|1||1|4|Florida|fla
+7|Dobroslav Komárek|1||1|4|Ottawa|ott
+8|Emil Odehnal|1||1|4|Nashville|nas
+9|František Ulrich|1||1|4|Calgary|cgy
+10|Juha Tynjälä|1||1|4|Anaheim|ana
+11|Konštantín Maťašovský||2||4|Edmonton|edm
+12|Augustín Bulejko|1|||3|Calgary|cgy
+13|Joonas Vuorisalmi|1|||3|Colorado|col
+14|Pankrác Civáň|1|||3|Calgary|cgy
+15|Paul Alexandre|1|||3|Minnesota|min
+16|Reinhardt Gehlen|1|||3|San Jose|sjs
+17|Roman Haluška|1|||3|Colorado|col
+18|Silvestrs Skrastiņš|1|||3|Philadelphia|phi
+19|Šimon Pastierik|1|||3|Florida|fla
+20|Theo Stolwijk|1|||3|Philadelphia|phi
+21|Anton Pestov||1||2|Calgary|cgy
+22|Cyril Delattre||1||2|Ottawa|ott
+23|David Pokorný||1||2|Florida|fla
+24|Ernesto Ingrassia||1||2|Philadelphia|phi
+25|František Šebek||1||2|Florida|fla
+26|Gordon Beeney||1||2|San Jose|sjs
+27|Marek Michlík||1||2|Calgary|cgy
+28|Martin Urda||1||2|Minnesota|min
+29|Patrik Sládečka||1||2|Boston|bos
+30|Petr Vaculík||1||2|Ottawa|ott
+31|Servác Rajnoha||1||2|NY Islanders|nyi
+32|Teodor Nica||1||2|Vancouver|van
+33|Teodor Sýkora||1||2|Tampa Bay|tbl
+34|Torsti Nikulainen||1||2|Anaheim|ana
+35|Pavol Behinský|||2|2|Edmonton|edm
+36|Zoran Levc|||2|2|Detroit|det
+37|Atvars Ievzieds|||1|1|NJ Devils|njd
+38|Josef Slabý|||1|1|Columbus|cbj
+39|Juraj Banka|||1|1|Atlanta|atl
+40|Medard Čajka|||1|1|Florida|fla
+41|Mojmír Porubčan|||1|1|San Jose|sjs
+42|Patrik Kočiš|||1|1|NY Islanders|nyi
+43|Paul Wilson|||1|1|Vancouver|van
+44|Petr Hanzal|||1|1|Ottawa|ott
+45|Tapio Hirvinen|||1|1|Ottawa|ott
+46|Urko Marolt|||1|1|Detroit|det
+47|Zbyšek Šmíd|||1|1|Colorado|col

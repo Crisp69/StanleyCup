@@ -1,0 +1,48 @@
+1|Marcel Blažek|3|1||11|Florida|fla
+2|David Pokorný|2|||6|Florida|fla
+3|Oskar Záhorec|2|||6|Florida|fla
+4|František Šebek|1|1|1|6|Florida|fla
+5|Šimon Pastierik|1|1|1|6|Florida|fla
+6|Juha Tynjälä|1|1||5|Anaheim|ana
+7|Teppo Simontaival||2|1|5|Anaheim|ana
+8|Adolf Lopuchovský|1||1|4|Toronto|tor
+9|Adam Mikuláš|1|||3|St. Louis|stl
+10|Alexander Kharin|1|||3|Edmonton|edm
+11|Atis Sluckis|1|||3|Dallas|dal
+12|David Kozák|1|||3|Florida|fla
+13|František Ulrich|1|||3|Calgary|cgy
+14|Miroslav Klouda|1|||3|Nashville|nas
+15|Olívius Lazarik|1|||3|San Jose|sjs
+16|Oszkár Takács|1|||3|Dallas|dal
+17|Pankrác Civáň|1|||3|Calgary|cgy
+18|Radovan Tomaník|1|||3|LA Kings|lak
+19|Vincent Chochol||1|1|3|LA Kings|lak
+20|Bruno Paštéka||1||2|Nashville|nas
+21|Dávid Šafárik||1||2|NY Rangers|nyr
+22|Dominik Cmár||1||2|NJ Devils|njd
+23|Ernesto Ingrassia||1||2|Philadelphia|phi
+24|Jozef Palkovič||1||2|Calgary|cgy
+25|Marcin Tkaczyk||1||2|Dallas|dal
+26|Marek Michlík||1||2|Calgary|cgy
+27|Martin Budinský||1||2|Calgary|cgy
+28|Patrik Burda||1||2|Calgary|cgy
+29|Pavol Behinský||1||2|Edmonton|edm
+30|Peter Hlebanja||1||2|Detroit|det
+31|Pravoslav Šmelko||1||2|Florida|fla
+32|Velimir Krušlin||1||2|Washington|was
+33|Vincenc Dvořáček||1||2|Vancouver|van
+34|Olafs Bulders|||2|2|Calgary|cgy
+35|Bryan Blackwell|||1|1|NY Islanders|nyi
+36|Elo Chovanec|||1|1|Vancouver|van
+37|Eric Jenlain|||1|1|Vancouver|van
+38|Jan Březina|||1|1|Calgary|cgy
+39|Józef Bancerz|||1|1|Ottawa|ott
+40|Keijo Näs|||1|1|Anaheim|ana
+41|Konštantín Maťašovský|||1|1|Edmonton|edm
+42|Ladislav Císař|||1|1|Boston|bos
+43|Matěj Přikryl|||1|1|Edmonton|edm
+44|Matti Hynönen|||1|1|Anaheim|ana
+45|Saverio Cordero|||1|1|Nashville|nas
+46|Steffen Diemel|||1|1|Dallas|dal
+47|Vít Hozák|||1|1|Florida|fla
+48|Walter Szekielda|||1|1|Philadelphia|phi

@@ -1,0 +1,8 @@
+sollu|1|1
+jac|2|2
+trsto|2|2
+tomson|0|2
+lordik13|2|2
+misko|0|1
+pescalune|2|2
+zoidberg|1|1

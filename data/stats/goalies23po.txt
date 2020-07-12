@@ -1,0 +1,21 @@
+1||Asztrik Schuszter|2|41|41|100.0%|0|5.8|Edmonton|edm|18220766|61.1333333333|0.00|
+2||Eric Jenlain|8|203|192|94.6%|1|6.0|Chicago|chi|14951394|480|1.38|
+3||Manuel Mankovecký|2|49|46|93.9%|1|5.8|Detroit|det|17155279|95.0833333333|1.89|
+4||Michal Feješ|2|64|60|93.8%|0|6.3|Buffalo|buf|17511670|120|2.00|
+5||Bálint Mádl|6|126|118|93.7%|3|5.5|Carolina|car|16669639|360|1.33|
+6||Patrik Kočiš|2|86|80|93.0%|0|6.9|Nashville|nas|15189453|120|3.00|
+7||Jan Dobiáš|4|109|101|92.7%|0|5.9|Colorado|col|9292382|240|2.00|
+8||Lukáš Macura|4|144|133|92.4%|0|6.5|St. Louis|stl|13593079|240|2.75|
+9||Tomáš Hlaváč|4|84|77|91.7%|2|5.5|Ottawa|ott|14047582|240|1.75|
+10||David Kozák|4|93|84|90.3%|2|5.4|Florida|fla|11959398|240|2.25|
+11||Rinat Kukushkin|5|122|110|90.2%|0|5.5|San Jose|sjs|12988957|300|2.40|
+12||Jauhen Ustinov|8|258|229|88.8%|0|5.8|NJ Devils|njd|10614062|480|3.63|
+13||Sepp Sluiter|2|53|45|84.9%|0|5.1|Anaheim|ana|17113025|120|4.00|
+14||Miroslav Lobodin|2|52|43|82.7%|0|5.0|NY Islanders|nyi|9661264|120|4.50|
+15||Daniel Galajd|2|92|73|79.3%|0|5.2|Montreal|mtl|15148312|120|9.50|
+16||Kevin Wickli|2|105|81|77.1%|0|5.2|Tampa Bay|tbl|8647053|120|12.00|
+-||Moisey Rodionov|1|3|3|100.0%|0|4.1|San Jose|sjs|18753470|6.73333333333|0.00|
+-||Gregory Katz|1|48|44|91.7%|0|6.9|San Jose|sjs|13782226|53.2666666667|4.51|
+-||Dávid Madleniak|2|36|31|86.1%|0|4.7|Edmonton|edm|9807964|58.8666666667|5.10|
+-||Des Bates|1|14|12|85.7%|0|4.5|Detroit|det|12545512|24.9166666667|4.82|
+

@@ -1,0 +1,10 @@
+Ramon Makarewicz;Minnesota;forward;12G - 2g + 6a = 8p, -8 (+/-)||
+Martin Marhuľa;Phoenix;forward;11G - 2g + 1a = 3p, -3 (+/-)||
+Vladimír Andrle;Tampa Bay;defender;13G - 3g + 6a = 9p, 4 (+/-)|petrik 2.0|1
+Onni Hakkarainen;Columbus;defender;11G - 1g + 4a = 5p, 6 (+/-)|rau-ben Zee|1
+Aapeli Lintunen;Anaheim;defender;12G - 1g + 4a = 5p, -5 (+/-)||
+Ulrich Rybár;LA Kings;forward;13G - 0g + 0a = 0p, -7 (+/-)||
+Ivo Pavārds;NJ Devils;forward;13G - 8g + 1a = 9p, -11 (+/-)|JaRomE121, lalime, Trsto, sllaby, globox|5
+Denis Ľahký;NY Islanders;forward;12G - 1g + 1a = 2p, -3 (+/-)||
+Alexej Odehnal;Buffalo;forward;13G - 5g + 3a = 8p, 6 (+/-)|snipper|1
+Tapani Bergbom;Florida;goalie;13G - 423shs/364svs - 86.1% - 0 shotouts||

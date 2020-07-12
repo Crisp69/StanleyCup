@@ -1,0 +1,15 @@
+Atlanta|18857
+Boston|1220
+Buffalo|28475
+Carolina|19051
+Florida|14852
+Montreal|39418
+New Jersey|12576
+Islanders|38448
+Rangers|5712
+Ottawa|2787
+Philadelphia|17911
+Pittsburgh|876
+Tampa Bay|2747
+Toronto|29473
+Washington|1659

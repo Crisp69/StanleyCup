@@ -1,0 +1,59 @@
+1|sollu|Colorado|21|11|6|9|117
+2|ktulu|Anaheim|12|4|6|2|52
+3|matho|NY Islanders, Florida|8|5|1|3|41
+4|sllaby|Ottawa, Phoenix, NY Rangers|7|3|3|3|40
+5|Trsto|NJ Devils|6|7||1|32
+6|Zoidberg|Florida|6|3|2|2|31
+7|PoprAvA|Carolina|4|3||2|23
+8|maci9|Atlanta, Winnipeg|3|2||2|19
+9|roman99|Montreal|4|2|1|1|18
+10|hogy|St.Louis|3|3||1|17
+11|lalime|Anaheim|7|2|1||16
+12|snipper|Boston|5|1|1|1|16
+13|lordik13|Nashville, Calgary|9|2|||15
+14|misko|Carolina, Detroit|5|2|1||14
+15|Wanadoes|Vancouver|1|2||1|12
+16|Jan Starsi|St.Louis|3|1|2||12
+17|vlasto|Vancouver, Florida|3|1||1|11
+18|POWERTEAM|NY Rangers|8|1|||11
+19|IRON|Ottawa|2|1||1|10
+19|Fatal|Vancouver, Chicago|2|1||1|10
+21|ViktorKee|Ottawa|4|1|1||10
+22|peeha|Philadelphia|5||1||8
+23|Flaherty|Minnesota|1|1|1||7
+24|LEAFS|Toronto|3||1||6
+24|MBD|Atlanta, Toronto|3||1||6
+24|miggi123|Edmonton|3||1||6
+27|petrik|St.Loius, Chicago|5||||5
+27|acapone|Toronto|5||||5
+27|GloboX|Calgary|2|1|||5
+27|cPalo|LA Kings|2|1|||5
+31|Xander|Columbus|1||1||4
+32|siki|Washington|1|1|||4
+33|luqshi|Carolina|4||||4
+33|chorche|Chicago|4||||4
+35|Poliku|Tampa Bay|3||||3
+35|sexo|Tampa, Ottawa|3||||3
+35|EARLT|San Jose|3||||3
+38|Terzo|San Jose|2||||2
+38|jarno|Dallas|2||||2
+38|Yzerman19|Detroit|2||||2
+38|davben|Dallas|2||||2
+38|stipey|NY Islanders , Colorado|2||||2
+43|wregget|Boston|1||||1
+43|neo13|Florida|1||||1
+43|tipler|Minnesota|1||||1
+43|Dopink|Nashville|1||||1
+43|forsberg21|St.Louis|1||||1
+43|lepke|NY Islanders|1||||1
+43|michal7|Calgary|1||||1
+43|starcok77|Tampa|1||||1
+43|Lothar|Carolina|1||||1
+43|marleau12|San Jose|1||||1
+43|furmint|Atlanta, Philadelphia|1||||1
+43|jAc|Buffalo|1||||1
+43|Lord Stanley|Columbus|1||||1
+43|noel|Philadelphia|1||||1
+43|speedysprtshwiz|Washington, Carolina|1||||1
+43|jetsdude|Winnipeg|1||||1
+43|Pete80|Detroit|1||||1

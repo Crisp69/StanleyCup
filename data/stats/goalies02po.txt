@@ -1,0 +1,10 @@
+1||Benedek Csizmadia|1|10|10|100,00%|||Buffalo|buf
+2||Marek Osuský|1|3|3|100,00%|||Pittsburgh|pit
+3||Taisto Kukkamäki|1|23|22|95,65%|||Washington|was
+4||Marián Blažek|1|35|33|94,29%|||Florida|fla
+5||Víťazoslav Lazarák|3|52|46|88,46%|||Anaheim|ana
+6||Mârtiňđ Dzirnavnieks|3|79|69|87,34%|||NY Islanders|nyi
+7||Jan Matti Koenig|6|133|116|87,22%|||Colorado|col
+8||Jozef Jóčik|5|78|68|87,18%|||Anaheim|ana
+9||Lukáš Červeňák|6|162|141|87,04%|||Toronto|tor
+10||Richard Klepanec|2|58|49|84,48%|||Calgary|cgy

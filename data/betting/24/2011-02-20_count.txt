@@ -1,0 +1,5 @@
+snipper|2|4|0|-1|
+earlt|1|3|0|-1|
+sollu|3|3|0|0|
+pescalune|3|4|0|-0.5|
+misko|2|4|0|-1|

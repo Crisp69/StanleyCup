@@ -1,0 +1,23 @@
+1||Vincenzo Benini|3|97|92|94.8%|0|6.6|Detroit|det|18159167|161.1|1.86|
+2||Hans-Erik Nørgaard|2|94|87|92.6%|0|7.2|Chicago|chi|21156671|120|3.50|
+3||Loic Lefevre|8|198|183|92.4%|2|5.7|Colorado|col|18517170|480|1.88|
+4||Stan Lackovič|4|79|72|91.1%|0|5.3|San Jose|sjs|23457558|215.133333333|1.95|
+5||Jonatán Pichlač|4|67|60|89.6%|1|5.0|Toronto|tor|16825202|185.116666667|2.27|
+6||Fernando Altorfer|1|38|34|89.5%|0|6.0|NY Rangers|nyr|24142568|60|4.00|
+7||Marin Bakalov|8|159|142|89.3%|2|5.3|Carolina|car|19339743|480|2.13|
+8||Vavrinec Figura|6|220|196|89.1%|0|6.1|Florida|fla|15587700|360|4.00|
+9||Ján Džogan|2|69|61|88.4%|0|5.8|Nashville|nas|22670313|120|4.00|
+10||Viesturs Zalcmanis|1|30|26|86.7%|0|5.3|NY Rangers|nyr|27544641|60|4.00|
+11||Norbert Gróf|2|67|58|86.6%|0|5.5|Detroit|det|20129265|111.233333333|4.85|
+12||Evsey Klimontovich|3|37|32|86.5%|0|4.7|Detroit|det|30047382|87.6666666667|3.42|
+13||Yuriy Bakhvalov|4|139|118|84.9%|0|5.6|Boston|bos|28500438|240|5.25|
+14||Damian Ackerknecht|2|59|50|84.7%|0|5.2|Montreal|mtl|20629504|120|4.50|
+15||Daniel Duda|4|70|59|84.3%|0|4.9|Minnesota|min|16262366|180.85|3.65|
+16||Michel Meili|2|43|36|83.7%|0|4.9|Winnipeg|wpg|17152958|120|3.50|
+17||Michal Feješ|2|77|64|83.1%|0|5.3|Buffalo|buf|17511670|120|6.50|
+18||Carl Drake|2|56|46|82.1%|0|5.0|Columbus|cbj|29726637|98.1|6.12|
+19||Reinis Baltrausis|2|60|48|80.0%|0|4.8|St. Louis|stl|20210989|120|6.00|
+-||Lauris Dzintariņš|1|26|24|92.3%|0|5.7|Toronto|tor|18297705|54.8833333333|2.19|
+-||Patrick Zentriegen|1|14|11|78.6%|0|4.2|San Jose|sjs|14045151|24.8666666667|7.24|
+-||Larry Smith|1|16|11|68.8%|0|3.9|Columbus|cbj|21941487|21.9|13.70|
+

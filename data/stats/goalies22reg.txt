@@ -1,0 +1,55 @@
+1||Henning Rekdal|13|235|223|94.9%|5|5.3|St. Louis|stl|13791500|780|0.92|
+2||David Kozák|12|190|177|93.2%|5|5.2|Florida|fla|11959398|720|1.08|
+3||Tomáš Hlaváč|13|376|349|92.8%|2|6.0|Ottawa|ott|14047582|780|2.08|
+4||Jan Dobiáš|12|216|200|92.6%|5|5.4|Colorado|col|9292382|720|1.33|
+5||Jauhen Ustinov|13|332|306|92.2%|4|5.7|NJ Devils|njd|10614062|780|2.00|
+6||Daniel Galajd|13|331|305|92.1%|1|5.7|Montreal|mtl|15148312|780|2.00|
+7||Kevin Wickli|12|285|262|91.9%|5|5.6|Tampa Bay|tbl|8647053|720|1.92|
+8||Patrik Kočiš|13|406|372|91.6%|0|6.1|Nashville|nas|15189453|746.7|2.73|
+9||Mathew Hooper|13|420|383|91.2%|0|5.9|Boston|bos|14890253|691.35|3.21|
+10||Sepp Sluiter|12|270|246|91.1%|4|5.5|Anaheim|ana|17113025|720|2.00|
+11||Bálint Mádl|13|297|270|90.9%|0|5.5|Carolina|car|16669639|758.683333333|2.14|
+12||Manuel Mankovecký|13|285|258|90.5%|2|5.4|Detroit|det|17155279|760.05|2.13|
+13||Jonatán Pichlač|13|335|303|90.4%|0|5.7|Toronto|tor|16825202|746.216666667|2.57|
+14||Eric Jenlain|13|291|263|90.4%|0|5.6|Vancouver|van|14951394|780|2.15|
+15||Nasko Agov|10|247|222|89.9%|1|5.6|NY Islanders|nyi|7411865|600|2.50|
+16||András Gerő|13|443|398|89.8%|1|6.0|Atlanta|atl|13605050|780|3.46|
+17||Armands Latvānis|13|441|396|89.8%|1|6.0|Phoenix|phx|13245688|780|3.46|
+18||Edvard Narobe|13|332|298|89.8%|2|5.5|Calgary|cgy|17136280|780|2.62|
+19||Michal Feješ|13|282|253|89.7%|4|5.4|Buffalo|buf|17511670|780|2.23|
+20||Zvonimir Vučković|7|224|201|89.7%|1|6.0|San Jose|sjs|14459604|420|3.29|
+21||Alex Záskalický|13|329|294|89.4%|1|5.6|LA Kings|lak|20434531|681.966666666|3.08|
+22||Fides Antczak|9|274|245|89.4%|0|5.6|Washington|was|14148102|405.583333333|4.29|
+23||Josef Slabý|13|593|526|88.7%|1|6.4|Chicago|chi|13376808|780|5.15|
+24||Marian Figliar|11|363|321|88.4%|1|5.8|Minnesota|min|12652532|660|3.82|
+25||Jiří Bartoš|11|404|353|87.4%|0|5.9|Dallas|dal|19503638|660|4.64|
+26||Asztrik Schuszter|13|151|132|87.4%|0|4.7|Edmonton|edm|18220766|412.250000001|2.77|
+27||Ilya Bryzgalov|13|396|332|83.8%|0|5.3|Pittsburgh|pit|14342010|681.016666667|5.64|
+28||Fernando Altorfer|13|431|360|83.5%|0|5.3|NY Rangers|nyr|24142568|780|5.46|
+29||Čistomil Romanovič|13|257|210|81.7%|0|4.6|Philadelphia|phi|20647986|400.933333334|7.03|
+-||Adam Nesvadba|1|14|14|100.0%|1|5.5|Florida|fla|17820429|60|0.00|
+-||Kieron Price|2|53|52|98.1%|0|6.0|LA Kings|lak|13808984|70.0166666667|0.86|
+-||Kārlis Rībenis|1|29|28|96.6%|0|6.4|Colorado|col|18548312|60|1.00|
+-||Laurent Prigent|4|77|74|96.1%|2|5.7|Columbus|cbj|14343485|240|0.75|
+-||Reinis Baltrausis|3|48|45|93.8%|1|5.2|NY Islanders|nyi|20210989|180|1.00|
+-||Ján Džogan|11|16|15|93.8%|0|4.0|Nashville|nas|22670313|33.0666666667|1.81|
+-||Deny Walter|3|78|72|92.3%|0|5.8|Columbus|cbj|21318002|180|2.00|
+-||Lauris Dzintariņš|4|12|11|91.7%|0|4.3|Toronto|tor|18297705|33.7833333333|1.78|
+-||Hans Zutter|6|154|140|90.9%|0|5.8|Columbus|cbj|9556447|360|2.33|
+-||Dávid Madleniak|12|161|146|90.7%|0|4.9|Edmonton|edm|9807964|367.749999999|2.45|
+-||Zbyněk Masopust|4|63|57|90.5%|0|4.8|Philadelphia|phi|13806342|113.75|3.16|
+-||Fridrich Lackovec|3|50|45|90.0%|0|5.1|Boston|bos|24565354|88.65|3.38|
+-||Tomáš Bendík|1|20|18|90.0%|0|5.2|Philadelphia|phi|6912235|30.05|3.99|
+-||Tuure Lehto|1|8|7|87.5%|0|4.2|Detroit|det|25907321|19.95|3.01|
+-||Einari Kuula|1|23|20|87.0%|0|5.2|Anaheim|ana|13251453|60|3.00|
+-||Gordie Grainger|6|197|170|86.3%|1|5.5|San Jose|sjs|7162218|360|4.50|
+-||Terry Sellars|8|143|121|84.6%|0|4.7|Philadelphia|phi|20616518|235.266666666|5.61|
+-||Dominik Hašek|2|69|57|82.6%|0|5.2|Pittsburgh|pit|14879160|98.9833333333|7.27|
+-||Etienne Dugas|2|39|32|82.1%|0|4.7|Dallas|dal|26041188|61.2666666667|6.86|
+-||Sidón Martončík|2|58|47|81.0%|0|5.1|Minnesota|min|21540252|120|5.50|
+-||Lachezar Samardzhiev|12|196|154|78.6%|0|4.4|Washington|was|25879740|374.416666667|6.73|
+-||Radomir Pushkov|1|11|8|72.7%|0|4.3|Tampa Bay|tbl|23019418|60|3.00|
+-||Benjamin Ferrand|2|35|25|71.4%|0|4.0|Dallas|dal|24300997|58.7333333333|10.22|
+-||Gorazd Masár|1|15|10|66.7%|0|3.7|LA Kings|lak|25311112|28.0166666667|10.71|
+-||Johannes Railo|3|3|1|33.3%|0|3.8|Carolina|car|25842684|6.61666666667|18.14|
+

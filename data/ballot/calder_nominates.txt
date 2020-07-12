@@ -1,0 +1,10 @@
+17:36:55 17.01.2013|Flaherty|Ramon Makarewicz;Minnesota;forward;12G - 2g + 6a = 8p, -8 (+/-)|178.41.152.35
+20:26:29 14.01.2013|martin polo|Martin Marhuľa;Phoenix;forward;11G - 2g + 1a = 3p, -3 (+/-)|95.105.193.12
+16:59:53 13.01.2013|Poliku|Vladimír Andrle;Tampa Bay;defender;13G - 3g + 6a = 9p, 4 (+/-)|86.30.156.24
+15:22:14 13.01.2013|rau-ben Zee|Onni Hakkarainen;Columbus;defender;11G - 1g + 4a = 5p, 6 (+/-)|213.243.137.158
+23:49:25 12.01.2013|lalime|Aapeli Lintunen;Anaheim;defender;12G - 1g + 4a = 5p, -5 (+/-)|82.181.208.166
+20:35:51 12.01.2013|cPalo|Ulrich Rybár;LA Kings;forward;13G - 0g + 0a = 0p, -7 (+/-)|193.107.252.82
+20:31:33 12.01.2013|Trsto|Ivo Pavārds;NJ Devils;forward;13G - 8g + 1a = 9p, -11 (+/-)|91.227.224.1
+20:12:01 12.01.2013|JaRomE121|Denis Ľahký;NY Islanders;forward;12G - 1g + 1a = 2p, -3 (+/-)|213.181.130.9
+21:36:05 11.01.2013|jAc|Alexej Odehnal;Buffalo;forward;13G - 5g + 3a = 8p, 6 (+/-)|85.135.5.250
+22:19:28 09.01.2013|Zoidberg|Tapani Bergbom;Florida;goalie;13G - 423shs/364svs - 86.1% - 0 shotouts|94.113.16.42

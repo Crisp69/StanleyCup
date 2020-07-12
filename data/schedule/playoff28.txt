@@ -1,0 +1,31 @@
+Stanley Cup Finals|Carolina Hurricanes ™|Colorado Avalanche|33552|9441|10|12|2011|car|col|2|6|1|879947199|1029|
+
+Stanley Cup Finals|Colorado Avalanche|Carolina Hurricanes ™|9441|33552|11|12|2011|col|car|3|2|1|879947200|1030|
+Conference Finals|Carolina Hurricanes ™|Florida Panthers ®|33552|14852|03|12|2011|car|fla|8|3|1|879836055|1025|
+Conference Finals|Detroit Red Wings™|Colorado Avalanche|19051|9441|03|12|2011|det|col|2|8|2|879930982|1026|
+Conference Finals|Florida Panthers ®|Carolina Hurricanes ™|14852|33552|04|12|2011|fla|car|2|3|1|879836057|1027|
+Conference Finals|Colorado Avalanche|Detroit Red Wings™|9441|19051|04|12|2011|col|det|2|1|2|879837786|1028|
+Conference Semifinals|Carolina Hurricanes ™|Boston Bruins ®|33552|1220|26|11|2011|car|bos|9|0|1|879828057|1017|
+Conference Semifinals|Toronto Maple Leafs ®|Florida Panthers ®|29473|14852|26|11|2011|tor|fla|4|5|0|879827437|1018|
+Conference Semifinals|Detroit Red Wings™|Minnesota Wild®|19051|5709|26|11|2011|det|min|2|3|0|879816572|1019|
+Conference Semifinals|Colorado Avalanche|San Jose Sharks™|9441|35895|26|11|2011|col|sjs|5|0|2|879816665|1020|
+Conference Semifinals|Boston Bruins ®|Carolina Hurricanes ™|1220|33552|27|11|2011|bos|car|2|7|1|879828058|1021|
+Conference Semifinals|Florida Panthers ®|Toronto Maple Leafs ®|14852|29473|27|11|2011|fla|tor|3|2|0|879827438|1022|
+Conference Semifinals|Minnesota Wild®|Detroit Red Wings™|5709|19051|27|11|2011|min|det|2|5|0|879816573|1023|
+Conference Semifinals|San Jose Sharks™|Colorado Avalanche|35895|9441|27|11|2011|sjs|col|6|2|2|879817640|1024|
+Conference Quarterfinals|Carolina Hurricanes ™|Buffalo Sabres|33552|28475|19|11|2011|car|buf|8|0|1|879812413|1001|
+Conference Quarterfinals|Toronto Maple Leafs ®|Montreal Canadiens ™|29473|39418|19|11|2011|tor|mtl|5|1|0|879804731|1002|
+Conference Quarterfinals|** NY RANGERS **|Boston Bruins ®|5712|1220|19|11|2011|nyr|bos|2|4|0|879804490|1003|
+Conference Quarterfinals|Florida Panthers ®|Winnipeg Jets ★™|14852|27410|19|11|2011|fla|wpg|4|3|0|879804230|1004|
+Conference Quarterfinals|Detroit Red Wings™|Columbus Blue Jackets|19051|4928|19|11|2011|det|cbj|10|2|0|879803215|1005|
+Conference Quarterfinals|Colorado Avalanche|Chicago Blackhawks ™|9441|18857|19|11|2011|col|chi|3|2|0|879803229|1006|
+Conference Quarterfinals|San Jose Sharks™|Nashville Predators ™|35895|19992|19|11|2011|sjs|nas|3|2|0|879805806|1007|
+Conference Quarterfinals|Minnesota Wild®|St. Louis Blues ™|5709|23488|19|11|2011|min|stl|6|1|2|879801112|1008|
+Conference Quarterfinals|Buffalo Sabres|Carolina Hurricanes ™|28475|33552|20|11|2011|buf|car|1|5|1||1009|
+Conference Quarterfinals|Montreal Canadiens ™|Toronto Maple Leafs ®|39418|29473|20|11|2011|mtl|tor|0|4|0|879804732|1010|
+Conference Quarterfinals|Boston Bruins ®|** NY RANGERS **|1220|5712|20|11|2011|bos|nyr|4|3|0|879804491|1011|
+Conference Quarterfinals|Winnipeg Jets ★™|Florida Panthers ®|27410|14852|20|11|2011|wpg|fla|4|3|0|879804231|1012|
+Conference Quarterfinals|Columbus Blue Jackets|Detroit Red Wings™|4928|19051|20|11|2011|cbj|det|2|5|0|879803216|1013|
+Conference Quarterfinals|Chicago Blackhawks ™|Colorado Avalanche|18857|9441|20|11|2011|chi|col|0|4|0|879803228|1014|
+Conference Quarterfinals|Nashville Predators ™|San Jose Sharks™|19992|35895|20|11|2011|nas|sjs|1|5|0|879805807|1015|
+Conference Quarterfinals|St. Louis Blues ™|Minnesota Wild®|23488|5709|20|11|2011|stl|min|4|6|2|879801113|1016|

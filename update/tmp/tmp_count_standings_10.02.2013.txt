@@ -1,0 +1,33 @@
+2|ana|Anaheim Ducks ®|pacific|3597|west|1|0|2|14|14|0
+6|bos|Boston Bruins ®|northeast|1220|east|3|0|0|25|3|22
+4|buf|Buffalo Sabres|northeast|28475|east|2|0|1|18|14|4
+6|cgy|Calgary Flames ®|northwest|36702|west|3|0|0|17|4|13
+6|car|Carolina Hurricanes|southeast|1659|east|3|0|0|26|1|25
+4|chi|Chicago Blackhawks ™|central|18857|west|2|0|1|6|9|-3
+4|col|Colorado  Avalanche|northwest|18850|west|2|0|1|18|8|10
+2|cbj|Columbus Blue Jackets|central|16632|west|1|0|2|14|13|1
+2|dal|Dallas Stars®|pacific|20005|west|1|0|2|6|20|-14
+0|det|Detroid Red Wings™|central|39762|west|0|0|3|5|18|-13
+0|edm|Edmonton Oilers ®|northwest|38448|west|0|0|3|6|20|-14
+0|fla|Florida Panthers®|southeast|14852|east|0|0|3|0|19|-19
+6|lak|Los Angeles Kings ®|pacific|23979|west|3|0|0|23|1|22
+0|min|Minnesota Wild®|northwest|5709|west|0|0|3|8|18|-10
+2|mtl|Montreal Canadiens ™|northeast|39418|east|1|0|2|4|13|-9
+4|nas|Nashville Predators ™|central|19992|west|2|0|1|16|11|5
+2|njd|New Jersey Devils®|atlantic|12576|east|1|0|2|8|7|1
+4|nyi|New York Islanders™|atlantic|35972|east|2|0|1|18|6|12
+0|nyr|New York Rangers ™|atlantic|2787|east|0|0|3|0|22|-22
+5|ott|Ottawa Senators©|northeast|29402|east|2|1|0|10|7|3
+0|phi|Philadelphia Flyers ®|atlantic|23983|east|0|0|3|0|24|-24
+2|phx|Phoenix Coyotes ®|pacific|25617|west|1|0|2|13|13|0
+2|pit|Pittsburgh Penguins|atlantic|876|east|1|0|2|3|9|-6
+0|sjs|San Jose Sharks™|pacific|35895|west|0|0|3|4|28|-24
+4|stl|St. Louis Blues ™|central|23488|west|2|0|1|11|8|3
+2|tbl|Tampa Bay Lightning ®|southeast|16293|east|1|0|2|11|10|1
+5|tor|Toronto Maple Leafs ™|northeast|19002|east|2|1|0|12|5|7
+6|van|Vancouver Canucks™|northwest|12519|west|3|0|0|16|8|8
+6|was|Washington Capitals®|southeast|29437|east|3|0|0|21|4|17
+4|wpg|Winnipeg Jets™|southeast|30206|east|2|0|1|8|4|4
+0|atl|Atlanta Thrashers ™|
+|
+|east|0|0|0|0|0|0

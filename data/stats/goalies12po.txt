@@ -1,0 +1,28 @@
+1||Alfréd Čvirik|5|95|91|95,8%|2|5,5|Chicago|chi
+2||Miervaldis Aukliņš|2|40|38|95,0%|0|5,5|Montreal|mtl
+3||Stipo Pulja|2|34|32|94,1%|0|5,3|Chicago|chi
+4||Jacky Petit|1|31|29|93,5%|0|6,0|Phoenix|phx
+5||Denis Chekmarev|4|119|111|93,3%|1|6,1|NY Rangers|nyr
+6||Richard Štěpánek|2|91|84|92,3%|0|7,1|Tampa Bay|tbl
+7||Jan Burda|6|141|130|92,2%|2|5,7|Colorado|col
+8||Joseph Parmentier|2|46|42|91,3%|0|5,5|Colorado|col
+9||Matej Hriadel|2|68|62|91,2%|0|6,3|Columbus|cbj
+10||Edvin Pelander|2|66|60|90,9%|0|6,0|Chicago|chi
+11||Eugen Chytrý|5|119|108|90,8%|0|5,6|Montreal|mtl
+12||Hvedar Pivavarau|2|64|58|90,6%|0|6,0|Carolina|car
+13||Vasil Olejka|1|21|19|90,5%|0|5,1|Edmonton|edm
+14||Gregor Taliga|2|72|65|90,3%|0|6,1|St. Louis|stl
+15||Lukáš Čonka|2|47|42|89,4%|0|5,2|Vancouver|van
+16||Andrej Polomský|1|27|24|88,9%|0|5,4|Phoenix|phx
+17||Armands Tuncis|3|44|39|88,6%|0|4,8|Vancouver|van
+18||Víťazoslav Lazarák|2|47|41|87,2%|0|5,2|Anaheim|ana
+19||Robert Jacobsen|7|163|142|87,1%|0|5,3|NJ Devils|njd
+20||Laimis Bergsons|2|72|62|86,1%|0|5,7|NY Islanders|nyi
+21||Daniel Muro|2|78|67|85,9%|0|5,8|Columbus|cbj
+22||Stian Kroken|2|28|24|85,7%|0|4,7|Edmonton|edm
+23||Koloman Bolla|3|74|63|85,1%|0|5,0|Ottawa|ott
+24||Branislav Galbavý|2|59|50|84,7%|0|5,2|Boston|bos
+25||Željko Špoljarec|4|39|31|79,5%|1|4,2|Ottawa|ott
+26||Patrik Sládečka|2|18|14|77,8%|0|4,1|Boston|bos
+27||Lukáš Němec|2|15|11|73,3%|0|3,9|St. Louis|stl
+28||Tomáš Bossi|2|35|25|71,4%|0|4,0|NJ Devils|njd

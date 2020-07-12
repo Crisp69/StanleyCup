@@ -1,0 +1,15 @@
+Maurícius Jakub;NY Rangers;forward;13G - 11g + 33a = 44p, 37 (+/-)|globox|1
+Sofroniusz Skotnicki;Carolina;forward;13G - 4g + 17a = 21p, 16 (+/-)||
+Eerikki Kohtala;Phoenix;forward;11G - 1g + 7a = 8p, -1 (+/-)||
+Bystrík Bačinský;Tampa Bay;forward;13G - 12g + 21a = 33p, 9 (+/-)||
+Seppo Niemitalo;Columbus;forward;12G - 4g + 14a = 18p, 3 (+/-)|rau-ben Zee|1
+Nino Orman;Anaheim;forward;6G - 3g + 12a = 15p, 13 (+/-)||
+Albertín Cimbala;LA Kings;forward;13G - 18g + 28a = 46p, 30 (+/-)|lalime, petrik 2.0, sllaby|3
+Ivo Pavārds;NJ Devils;forward;13G - 8g + 1a = 9p, -11 (+/-)|Trsto|1
+Pavel Baranskiy;NY Islanders;goalie;6G - 157shs/147svs - 93.6% - 1 shotouts||
+Jakub Štěpán;Ottawa;forward;13G - 19g + 16a = 35p, 25 (+/-)|JaRomE121|1
+Miloš Kuniš;Calgary;forward;12G - 16g + 21a = 37p, 34 (+/-)||
+Radim Žoldák;Buffalo;forward;13G - 13g + 18a = 31p, 20 (+/-)||
+Rastislav Lukčo;Minnesota;forward;12G - 7g + 3a = 10p, -15 (+/-)||
+Tapani Bergbom;Florida;goalie;13G - 423shs/364svs - 86.1% - 0 shotouts||
+Yuriy Bakhvalov;Boston;goalie;13G - 246shs/233svs - 94.7% - 6 shotouts|snipper|1

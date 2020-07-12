@@ -1,0 +1,5 @@
+symbian|0|1
+zoidberg|1|1
+snipper|1|1
+sollu|1|1
+misko|1|1

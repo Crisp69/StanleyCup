@@ -1,0 +1,30 @@
+Stanley Cup Finals|Anaheim Ducks ™ |New York Islanders|2449|2733|9|12|2006|ana|nyi|8|3|1
+Stanley Cup Finals|New York Islanders |Anaheim Ducks ™|2733|2449|10|12|2006|nyi|ana|4|9|1
+Conference Finals|New York Islanders |Toronto Maple Leafs ™|2733|6270|2|12|2006|nyi|tor|9|4|1
+Conference Finals|Anaheim Ducks ™ |Colorado Avalanche ®|2449|9441|2|12|2006|ana|col|6|5|2
+Conference Finals|Toronto Maple Leafs ™ |New York Islanders|6270|2733|3|12|2006|tor|nyi|3|7|1
+Conference Finals|Colorado Avalanche ® |Anaheim Ducks ™|9441|2449|3|12|2006|col|ana|5|6|2
+Conference Semifinals|New York Islanders |New York Rangers|2733|9401|25|11|2006|nyi|nyr|8|4|1
+Conference Semifinals|Toronto Maple Leafs ™ |Florida Panthers ®|6270|16237|25|11|2006|tor|fla|2|0|0
+Conference Semifinals|Anaheim Ducks ™ |Chicago Blackhawks ®|2449|2295|25|11|2006|ana|chi|9|1|0
+Conference Semifinals|Colorado Avalanche ® |Nashville Predators|9441|12952|25|11|2006|col|nas|5|2|2
+Conference Semifinals|New York Rangers |New York Islanders|9401|2733|26|11|2006|nyr|nyi|2|11|1
+Conference Semifinals|Florida Panthers ® |Toronto Maple Leafs ™|16237|6270|26|11|2006|fla|tor|1|8|0
+Conference Semifinals|Chicago Blackhawks ® |Anaheim Ducks ™|2295|2449|26|11|2006|chi|ana|2|9|0
+Conference Semifinals|Nashville Predators |Colorado Avalanche ®|12952|9441|26|11|2006|nas|col|0|5|2
+Conference Quarterfinals|New York Islanders |Carolina Hurricanes ®|2733|12981|18|11|2006|nyi|car|7|0|1
+Conference Quarterfinals|Toronto Maple Leafs ™ |Buffalo Sabres|6270|4932|18|11|2006|tor|buf|5|3|0
+Conference Quarterfinals|Florida Panthers ® |Atlanta Thrashers™|16237|16237|18|11|2006|fla|fla|8|3|0
+Conference Quarterfinals|Ottawa Senators |New York Rangers|13079|9401|18|11|2006|ott|nyr|5|6|0
+Conference Quarterfinals|Anaheim Ducks ™ |Dallas Stars™|2449|12548|18|11|2006|ana|dal|11|1|0
+Conference Quarterfinals|Colorado Avalanche ® |Vancouver Canucks|9441|31104|18|11|2006|col|van|4|1|0
+Conference Quarterfinals|Nashville Predators |Columbus Blue Jackets®|12952|14602|18|11|2006|nas|cbj|7|3|0
+Conference Quarterfinals|Calgary Flames® |Chicago Blackhawks ®|18866|2449|18|11|2006|cgy|ana|1|3|2
+Conference Quarterfinals|Carolina Hurricanes ® |New York Islanders|12981|2733|19|11|2006|car|nyi|3|11|1
+Conference Quarterfinals|Buffalo Sabres |Toronto Maple Leafs ™|4932|6270|19|11|2006|buf|tor|1|6|0
+Conference Quarterfinals|Atlanta Thrashers™ |Florida Panthers ®|16237|16237|19|11|2006|fla|fla|2|3|0
+Conference Quarterfinals|New York Rangers |Ottawa Senators|9401|13079|19|11|2006|nyr|ott|6|0|0
+Conference Quarterfinals|Dallas Stars™ |Anaheim Ducks ™|12548|2449|19|11|2006|dal|ana|2|8|0
+Conference Quarterfinals|Vancouver Canucks |Colorado Avalanche ®|31104|9441|19|11|2006|van|col|2|6|0
+Conference Quarterfinals|Columbus Blue Jackets® |Nashville Predators|14602|12952|19|11|2006|cbj|nas|1|7|0
+Conference Quarterfinals|Chicago Blackhawks ® |Calgary Flames®|2449|18866|19|11|2006|ana|cgy|6|1|2

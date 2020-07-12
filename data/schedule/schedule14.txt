@@ -1,0 +1,195 @@
+B|Minnesota Wild|Colorado Avalanche |23488|9441|30|1|2009|min|col|0|12|1
+B|Calgary Flames|Vancouver Canucks|18866|26095|30|1|2009|cgy|van|2|0|0
+C|Toronto Maple Leafs |Boston Bruins |9503|1220|30|1|2009|tor|bos|10|0|0
+C|Montreal Canadiens|Ottawa Senators |2747|2787|30|1|2009|mtl|ott|7|3|0
+C|Buffalo Sabres|Edmonton Oilers @|28475|18843|30|1|2009|buf|edm|2|5|0
+A|Detroit Red Wings |Columbus Blue Jacket|23149|5678|30|1|2009|det|cbj|7|4|0
+A|Chicago Blackhawks|Nashville Predators |5650|30351|30|1|2009|chi|nas|5|2|0
+B|New Jersey Devils(Nr)|Philadelphia Flyers|12576|17911|30|1|2009|njd|phi|2|3|0
+B|New York Islanders |** NY RANGERS **|19992|5712|30|1|2009|nyi|nyr|2|7|0
+A|St. Louis Blues|Pittsburgh Penguins |2769|876|30|1|2009|stl|pit|11|4|0
+C|San Jose Shark|Dallas Stars|6576|12548|30|1|2009|sjs|dal|6|2|0
+C|Phoenix Coyotes|Anaheim Ducks |2499|30489|30|1|2009|phx|ana|5|0|0
+A|Carolina Hurricanes |- Washington Capitals -|12981|3597|30|1|2009|car|was|2|3|0
+A|Atlanta Thrashers  |Florida Panthers|2654|2372|30|1|2009|atl|fla|4|4|0
+C|Los Angeles Kings |Tampa Bay Lightning |23979|16293|30|1|2009|lak|tbl|1|4|2
+A|Detroit Red Wings |Chicago Blackhawks|23149|5650|31|1|2009|det|chi|2|4|1
+A|Nashville Predators |St. Louis Blues|30351|2769|31|1|2009|nas|stl|1|11|0
+B|** NY RANGERS **|New Jersey Devils(Nr)|5712|12576|31|1|2009|nyr|njd|12|0|0
+B|Pittsburgh Penguins |New York Islanders |876|19992|31|1|2009|pit|nyi|3|6|0
+A|Columbus Blue Jacket|Philadelphia Flyers|5678|17911|31|1|2009|cbj|phi|4|9|0
+A|Florida Panthers|Ottawa Senators |2372|2787|31|1|2009|fla|ott|5|2|0
+A|- Washington Capitals -|Montreal Canadiens|3597|2747|31|1|2009|was|mtl|0|2|0
+A|Tampa Bay Lightning |Toronto Maple Leafs |16293|9503|31|1|2009|tbl|tor|2|5|0
+A|Carolina Hurricanes |Buffalo Sabres|12981|28475|31|1|2009|car|buf|2|3|0
+A|Atlanta Thrashers  |Boston Bruins |2654|1220|31|1|2009|atl|bos|7|0|0
+C|San Jose Shark|Colorado Avalanche |6576|9441|31|1|2009|sjs|col|0|1|0
+C|Anaheim Ducks |Edmonton Oilers @|30489|18843|31|1|2009|ana|edm|0|8|0
+C|Phoenix Coyotes|Calgary Flames|2499|18866|31|1|2009|phx|cgy|4|1|0
+C|Dallas Stars|Minnesota Wild|12548|23488|31|1|2009|dal|min|11|0|0
+C|Los Angeles Kings |Vancouver Canucks|23979|26095|31|1|2009|lak|van|6|4|2
+B|Minnesota Wild|Edmonton Oilers @|23488|18843|1|2|2009|min|edm|1|7|1
+B|Colorado Avalanche |Vancouver Canucks|9441|26095|1|2|2009|col|van|5|0|0
+C|Toronto Maple Leafs |Buffalo Sabres|9503|28475|1|2|2009|tor|buf|10|3|0
+C|Boston Bruins |Ottawa Senators |1220|2787|1|2|2009|bos|ott|0|4|0
+B|Calgary Flames|Montreal Canadiens|18866|2747|1|2|2009|cgy|mtl|4|4|0
+A|Columbus Blue Jacket|St. Louis Blues|5678|2769|1|2|2009|cbj|stl|0|11|0
+A|Detroit Red Wings |Nashville Predators |23149|30351|1|2|2009|det|nas|4|3|0
+B|Philadelphia Flyers|Pittsburgh Penguins |17911|876|1|2|2009|phi|pit|2|0|0
+B|New Jersey Devils(Nr)|New York Islanders |12576|19992|1|2|2009|njd|nyi|5|0|0
+A|Chicago Blackhawks|** NY RANGERS **|5650|5712|1|2|2009|chi|nyr|3|6|0
+C|San Jose Shark|Los Angeles Kings |6576|23979|1|2|2009|sjs|lak|2|1|0
+C|Dallas Stars|Anaheim Ducks |12548|30489|1|2|2009|dal|ana|5|0|0
+A|Carolina Hurricanes |Tampa Bay Lightning |12981|16293|1|2|2009|car|tbl|1|3|0
+A|- Washington Capitals -|Florida Panthers|3597|2372|1|2|2009|was|fla|3|6|0
+A|Atlanta Thrashers  |Phoenix Coyotes|2654|2499|1|2|2009|atl|phx|4|0|2
+B|Colorado Avalanche |Edmonton Oilers @|9441|18843|7|2|2009|col|edm|2|2|1
+B|Calgary Flames|Minnesota Wild|18866|23488|7|2|2009|cgy|min|9|0|0
+C|Boston Bruins |Buffalo Sabres|1220|28475|7|2|2009|bos|buf|1|3|0
+C|Montreal Canadiens|Toronto Maple Leafs |2747|9503|7|2|2009|mtl|tor|2|4|0
+C|Ottawa Senators |Vancouver Canucks|2787|26095|7|2|2009|ott|van|8|0|0
+B|** NY RANGERS **|Florida Panthers|5712|2372|7|2|2009|nyr|fla|8|2|0
+B|New Jersey Devils(Nr)|- Washington Capitals -|12576|3597|7|2|2009|njd|was|9|2|0
+B|Philadelphia Flyers|Tampa Bay Lightning |17911|16293|7|2|2009|phi|tbl|1|2|0
+B|New York Islanders |Carolina Hurricanes |19992|12981|7|2|2009|nyi|car|2|2|0
+B|Pittsburgh Penguins |Atlanta Thrashers  |876|2654|7|2|2009|pit|atl|1|3|0
+C|San Jose Shark|Chicago Blackhawks|6576|5650|7|2|2009|sjs|chi|1|3|0
+C|Anaheim Ducks |St. Louis Blues|30489|2769|7|2|2009|ana|stl|1|13|0
+C|Phoenix Coyotes|Columbus Blue Jacket|2499|5678|7|2|2009|phx|cbj|7|4|0
+C|Dallas Stars|Detroit Red Wings |12548|23149|7|2|2009|dal|det|2|0|0
+C|Los Angeles Kings |Nashville Predators |23979|30351|7|2|2009|lak|nas|7|0|2
+B|Minnesota Wild|Vancouver Canucks|23488|26095|8|2|2009|min|van|3|2|1
+B|Calgary Flames|Edmonton Oilers @|18866|18843|8|2|2009|cgy|edm|2|1|0
+C|Toronto Maple Leafs |Ottawa Senators |9503|2787|8|2|2009|tor|ott|6|5|0
+C|Montreal Canadiens|Buffalo Sabres|2747|28475|8|2|2009|mtl|buf|4|2|0
+C|Boston Bruins |Colorado Avalanche |1220|9441|8|2|2009|bos|col|0|1|0
+A|Columbus Blue Jacket|Nashville Predators |5678|30351|8|2|2009|cbj|nas|4|4|0
+A|Chicago Blackhawks|St. Louis Blues|5650|2769|8|2|2009|chi|stl|2|4|0
+B|Philadelphia Flyers|New York Islanders |17911|19992|8|2|2009|phi|nyi|11|0|0
+B|** NY RANGERS **|Pittsburgh Penguins |5712|876|8|2|2009|nyr|pit|12|1|0
+A|Detroit Red Wings |New Jersey Devils(Nr)|23149|12576|8|2|2009|det|njd|2|5|0
+C|San Jose Shark|Anaheim Ducks |6576|30489|8|2|2009|sjs|ana|13|0|0
+C|Phoenix Coyotes|Los Angeles Kings |2499|23979|8|2|2009|phx|lak|4|4|0
+A|Carolina Hurricanes |Florida Panthers|12981|2372|8|2|2009|car|fla|0|9|0
+A|Atlanta Thrashers  |Tampa Bay Lightning |2654|16293|8|2|2009|atl|tbl|2|4|0
+A|- Washington Capitals -|Dallas Stars|3597|12548|8|2|2009|was|dal|2|3|2
+A|Detroit Red Wings |St. Louis Blues|23149|2769|14|2|2009|det|stl|1|6|1
+A|Chicago Blackhawks|Columbus Blue Jacket|5650|5678|14|2|2009|chi|cbj|4|0|0
+B|New Jersey Devils(Nr)|Pittsburgh Penguins |12576|876|14|2|2009|njd|pit|9|0|0
+B|** NY RANGERS **|Philadelphia Flyers|5712|17911|14|2|2009|nyr|phi|3|2|0
+A|Nashville Predators |New York Islanders |30351|19992|14|2|2009|nas|nyi|0|7|0
+C|Ottawa Senators |San Jose Shark|2787|6576|14|2|2009|ott|sjs|3|6|0
+C|Montreal Canadiens|Anaheim Ducks |2747|30489|14|2|2009|mtl|ana|4|0|0
+C|Toronto Maple Leafs |Phoenix Coyotes|9503|2499|14|2|2009|tor|phx|7|3|0
+C|Buffalo Sabres|Dallas Stars|28475|12548|14|2|2009|buf|dal|2|2|0
+C|Boston Bruins |Los Angeles Kings |1220|23979|14|2|2009|bos|lak|0|10|0
+B|Colorado Avalanche |Florida Panthers|9441|2372|14|2|2009|col|fla|1|8|0
+B|Edmonton Oilers @|- Washington Capitals -|18843|3597|14|2|2009|edm|was|1|7|0
+B|Calgary Flames|Tampa Bay Lightning |18866|16293|14|2|2009|cgy|tbl|1|6|0
+B|Minnesota Wild|Carolina Hurricanes |23488|12981|14|2|2009|min|car|7|0|0
+B|Vancouver Canucks|Atlanta Thrashers  |26095|2654|14|2|2009|van|atl|0|9|2
+C|Dallas Stars|Los Angeles Kings |12548|23979|15|2|2009|dal|lak|6|4|1
+C|San Jose Shark|Phoenix Coyotes|6576|2499|15|2|2009|sjs|phx|7|2|0
+A|- Washington Capitals -|Tampa Bay Lightning |3597|16293|15|2|2009|was|tbl|3|1|0
+A|Carolina Hurricanes |Atlanta Thrashers  |12981|2654|15|2|2009|car|atl|0|5|0
+A|Florida Panthers|Anaheim Ducks |2372|30489|15|2|2009|fla|ana|15|1|0
+B|** NY RANGERS **|Colorado Avalanche |5712|9441|15|2|2009|nyr|col|10|0|0
+B|New Jersey Devils(Nr)|Edmonton Oilers @|12576|18843|15|2|2009|njd|edm|5|2|0
+B|Philadelphia Flyers|Calgary Flames|17911|18866|15|2|2009|phi|cgy|5|0|0
+B|New York Islanders |Minnesota Wild|19992|23488|15|2|2009|nyi|min|1|6|0
+B|Pittsburgh Penguins |Vancouver Canucks|876|26095|15|2|2009|pit|van|5|0|0
+A|Chicago Blackhawks|Ottawa Senators |5650|2787|15|2|2009|chi|ott|1|4|0
+A|St. Louis Blues|Montreal Canadiens|2769|2747|15|2|2009|stl|mtl|6|3|0
+A|Columbus Blue Jacket|Toronto Maple Leafs |5678|9503|15|2|2009|cbj|tor|2|9|0
+A|Detroit Red Wings |Buffalo Sabres|23149|28475|15|2|2009|det|buf|3|2|0
+A|Nashville Predators |Boston Bruins |30351|1220|15|2|2009|nas|bos|1|2|2
+B|Colorado Avalanche |Calgary Flames|9441|18866|21|2|2009|col|cgy|0|4|1
+B|Edmonton Oilers @|Vancouver Canucks|18843|26095|21|2|2009|edm|van|10|0|0
+C|Boston Bruins |Montreal Canadiens|1220|2747|21|2|2009|bos|mtl|0|11|0
+C|Buffalo Sabres|Ottawa Senators |28475|2787|21|2|2009|buf|ott|1|1|0
+B|Minnesota Wild|Toronto Maple Leafs |23488|9503|21|2|2009|min|tor|2|4|0
+A|Chicago Blackhawks|Florida Panthers|5650|2372|21|2|2009|chi|fla|2|8|0
+A|St. Louis Blues|- Washington Capitals -|2769|3597|21|2|2009|stl|was|10|0|0
+A|Columbus Blue Jacket|Tampa Bay Lightning |5678|16293|21|2|2009|cbj|tbl|2|4|0
+A|Detroit Red Wings |Carolina Hurricanes |23149|12981|21|2|2009|det|car|5|3|0
+A|Nashville Predators |Atlanta Thrashers  |30351|2654|21|2|2009|nas|atl|1|4|0
+B|** NY RANGERS **|San Jose Shark|5712|6576|21|2|2009|nyr|sjs|0|1|0
+B|New Jersey Devils(Nr)|Anaheim Ducks |12576|30489|21|2|2009|njd|ana|6|1|0
+B|Philadelphia Flyers|Phoenix Coyotes|17911|2499|21|2|2009|phi|phx|3|0|0
+B|New York Islanders |Dallas Stars|19992|12548|21|2|2009|nyi|dal|1|3|0
+B|Pittsburgh Penguins |Los Angeles Kings |876|23979|21|2|2009|pit|lak|4|10|2
+B|Edmonton Oilers @|Toronto Maple Leafs |18843|9503|22|2|2009|edm|tor|1|7|1
+C|Boston Bruins |Minnesota Wild|1220|23488|22|2|2009|bos|min|1|5|0
+B|Colorado Avalanche |Montreal Canadiens|9441|2747|22|2|2009|col|mtl|0|8|0
+C|Ottawa Senators |Calgary Flames|2787|18866|22|2|2009|ott|cgy|3|2|0
+B|Vancouver Canucks|Buffalo Sabres|26095|28475|22|2|2009|van|buf|3|10|0
+A|St. Louis Blues|Philadelphia Flyers|2769|17911|22|2|2009|stl|phi|6|0|0
+A|Columbus Blue Jacket|New Jersey Devils(Nr)|5678|12576|22|2|2009|cbj|njd|1|6|0
+B|** NY RANGERS **|Detroit Red Wings |5712|23149|22|2|2009|nyr|det|6|0|0
+B|New York Islanders |Chicago Blackhawks|19992|5650|22|2|2009|nyi|chi|2|4|0
+A|Nashville Predators |Pittsburgh Penguins |30351|876|22|2|2009|nas|pit|1|3|0
+C|Los Angeles Kings |Carolina Hurricanes |23979|12981|22|2|2009|lak|car|11|2|0
+A|- Washington Capitals -|San Jose Shark|3597|6576|22|2|2009|was|sjs|1|2|0
+A|Atlanta Thrashers  |Dallas Stars|2654|12548|22|2|2009|atl|dal|3|2|0
+A|Florida Panthers|Phoenix Coyotes|2372|2499|22|2|2009|fla|phx|3|1|0
+A|Tampa Bay Lightning |Anaheim Ducks |16293|30489|22|2|2009|tbl|ana|8|1|2
+B|Vancouver Canucks|Toronto Maple Leafs |26095|9503|28|2|2009|van|tor|0|11|1
+B|Edmonton Oilers @|Boston Bruins |18843|1220|28|2|2009|edm|bos|9|1|0
+C|Montreal Canadiens|Minnesota Wild|2747|23488|28|2|2009|mtl|min|4|3|0
+C|Ottawa Senators |Colorado Avalanche |2787|9441|28|2|2009|ott|col|4|1|0
+C|Buffalo Sabres|Calgary Flames|28475|18866|28|2|2009|buf|cgy|2|3|0
+A|Nashville Predators |Philadelphia Flyers|30351|17911|28|2|2009|nas|phi|2|5|0
+A|St. Louis Blues|New Jersey Devils(Nr)|2769|12576|28|2|2009|stl|njd|0|6|0
+A|Columbus Blue Jacket|** NY RANGERS **|5678|5712|28|2|2009|cbj|nyr|0|13|0
+B|New York Islanders |Detroit Red Wings |19992|23149|28|2|2009|nyi|det|6|4|0
+B|Pittsburgh Penguins |Chicago Blackhawks|876|5650|28|2|2009|pit|chi|1|4|0
+C|Anaheim Ducks |Carolina Hurricanes |30489|12981|28|2|2009|ana|car|1|3|0
+C|Los Angeles Kings |- Washington Capitals -|23979|3597|28|2|2009|lak|was|3|0|0
+A|Atlanta Thrashers  |San Jose Shark|2654|6576|28|2|2009|atl|sjs|0|0|0
+A|Florida Panthers|Dallas Stars|2372|12548|28|2|2009|fla|dal|10|3|0
+A|Tampa Bay Lightning |Phoenix Coyotes|16293|2499|28|2|2009|tbl|phx|4|0|2
+C|Dallas Stars|Phoenix Coyotes|12548|2499|1|3|2009|dal|phx|1|0|1
+C|Anaheim Ducks |Los Angeles Kings |30489|23979|1|3|2009|ana|lak|2|4|0
+A|- Washington Capitals -|Atlanta Thrashers  |3597|2654|1|3|2009|was|atl|0|5|0
+A|Tampa Bay Lightning |Florida Panthers|16293|2372|1|3|2009|tbl|fla|6|6|0
+A|Carolina Hurricanes |San Jose Shark|12981|6576|1|3|2009|car|sjs|0|4|0
+C|Ottawa Senators |** NY RANGERS **|2787|5712|1|3|2009|ott|nyr|4|1|0
+C|Montreal Canadiens|New Jersey Devils(Nr)|2747|12576|1|3|2009|mtl|njd|4|6|0
+C|Toronto Maple Leafs |Philadelphia Flyers|9503|17911|1|3|2009|tor|phi|6|2|0
+C|Buffalo Sabres|New York Islanders |28475|19992|1|3|2009|buf|nyi|1|6|0
+C|Boston Bruins |Pittsburgh Penguins |1220|876|1|3|2009|bos|pit|1|0|0
+B|Colorado Avalanche |Chicago Blackhawks|9441|5650|1|3|2009|col|chi|1|8|0
+B|Edmonton Oilers @|St. Louis Blues|18843|2769|1|3|2009|edm|stl|0|6|0
+B|Calgary Flames|Columbus Blue Jacket|18866|5678|1|3|2009|cgy|cbj|2|0|0
+B|Minnesota Wild|Detroit Red Wings |23488|23149|1|3|2009|min|det|5|3|0
+B|Vancouver Canucks|Nashville Predators |26095|30351|1|3|2009|van|nas|1|4|2
+C|Toronto Maple Leafs |Calgary Flames|9503|18866|7|3|2009|tor|cgy|8|1|1
+B|Vancouver Canucks|Boston Bruins |26095|1220|7|3|2009|van|bos|2|1|0
+B|Edmonton Oilers @|Montreal Canadiens|18843|2747|7|3|2009|edm|mtl|0|5|0
+C|Ottawa Senators |Minnesota Wild|2787|23488|7|3|2009|ott|min|1|4|0
+C|Buffalo Sabres|Colorado Avalanche |28475|9441|7|3|2009|buf|col|3|1|0
+B|Philadelphia Flyers|Chicago Blackhawks|17911|5650|7|3|2009|phi|chi|3|0|0
+B|New Jersey Devils(Nr)|Nashville Predators |12576|30351|7|3|2009|njd|nas|7|2|0
+A|St. Louis Blues|** NY RANGERS **|2769|5712|7|3|2009|stl|nyr|3|2|0
+B|New York Islanders |Columbus Blue Jacket|19992|5678|7|3|2009|nyi|cbj|7|3|0
+B|Pittsburgh Penguins |Detroit Red Wings |876|23149|7|3|2009|pit|det|3|1|0
+C|Phoenix Coyotes|Carolina Hurricanes |2499|12981|7|3|2009|phx|car|5|1|0
+C|Anaheim Ducks |- Washington Capitals -|30489|3597|7|3|2009|ana|was|2|2|0
+C|Los Angeles Kings |Atlanta Thrashers  |23979|2654|7|3|2009|lak|atl|2|2|0
+A|Florida Panthers|San Jose Shark|2372|6576|7|3|2009|fla|sjs|8|6|0
+A|Tampa Bay Lightning |Dallas Stars|16293|12548|7|3|2009|tbl|dal|1|2|2
+C|Toronto Maple Leafs |Colorado Avalanche |9503|9441|8|3|2009|tor|col|10|0|1
+B|Calgary Flames|Boston Bruins |18866|1220|8|3|2009|cgy|bos|6|1|0
+B|Vancouver Canucks|Montreal Canadiens|26095|2747|8|3|2009|van|mtl|0|8|0
+C|Ottawa Senators |Edmonton Oilers @|2787|18843|8|3|2009|ott|edm|8|1|0
+C|Buffalo Sabres|Minnesota Wild|28475|23488|8|3|2009|buf|min|0|9|0
+B|Philadelphia Flyers|Detroit Red Wings |17911|23149|8|3|2009|phi|det|2|2|0
+A|Chicago Blackhawks|New Jersey Devils(Nr)|5650|12576|8|3|2009|chi|njd|1|3|0
+A|Nashville Predators |** NY RANGERS **|30351|5712|8|3|2009|nas|nyr|0|9|0
+A|St. Louis Blues|New York Islanders |2769|19992|8|3|2009|stl|nyi|8|4|0
+B|Pittsburgh Penguins |Columbus Blue Jacket|876|5678|8|3|2009|pit|cbj|0|3|0
+C|Dallas Stars|Carolina Hurricanes |12548|12981|8|3|2009|dal|car|12|2|0
+C|Phoenix Coyotes|- Washington Capitals -|2499|3597|8|3|2009|phx|was|11|2|0
+C|Anaheim Ducks |Atlanta Thrashers  |30489|2654|8|3|2009|ana|atl|0|6|0
+A|Florida Panthers|Los Angeles Kings |2372|23979|8|3|2009|fla|lak|7|3|0
+A|Tampa Bay Lightning |San Jose Shark|16293|6576|8|3|2009|tbl|sjs|0|2|2

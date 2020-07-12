@@ -1,0 +1,31 @@
+Stanley Cup Finals|Ottawa Senators ®|St. Louis Blues|2787|2769|22|08|2009|ott|stl|3|2|1|19019184|
+
+Stanley Cup Finals|St. Louis Blues|Ottawa Senators ®|2769|2787|23|08|2009|stl|ott|5|6|1|19019185
+Conference Finals|Ottawa Senators ®|Philadelphia Flyers|2787|17911|15|08|2009|ott|phi|3|4|1|18938383|
+Conference Finals|**Calgary Flames**|St. Louis Blues|23488|2769|15|08|2009|cgy|stl|0|5|2|18939222|
+Conference Finals|Philadelphia Flyers|Ottawa Senators ®|17911|2787|16|08|2009|phi|ott|3|5|1|18938382|
+Conference Finals|St. Louis Blues|**Calgary Flames**|2769|23488|16|08|2009|stl|cgy|3|0|2|18939223|
+Conference Semifinals|Ottawa Senators ®|- Washington Capitals -|2787|3597|08|08|2009|ott|was|4|1|1|18914159|
+Conference Semifinals|Philadelphia Flyers|HC 05 BB Boston Bruins|17911|5|08|08|2009|phi|bos|4|2|0|18909838|
+Conference Semifinals|**Calgary Flames**|Edmonton Oilers™|23488|25621|08|08|2009|cgy|edm|4|0|0|18910335|
+Conference Semifinals|St. Louis Blues™|Dallas Stars™|2769|12548|08|08|2009|stl|dal|5|3|2|18917819|
+Conference Semifinals|- Washington Capitals -|Ottawa Senators ®|3597|2787|09|08|2009|was|ott|1|5|1|18914160|
+Conference Semifinals|HC 05 BB Boston Bruins|Philadelphia Flyers|5|17911|09|08|2009|bos|phi|1|6|0|18909839|
+Conference Semifinals|Edmonton Oilers™|**Calgary Flames**|25621|23488|09|08|2009|edm|cgy|1|10|0|18910336|
+Conference Semifinals|Dallas Stars™|St. Louis Blues™|12548|2769|09|08|2009|dal|stl|2|7|2|18923899|
+Conference Quarterfinals|Ottawa Senators ®|Buffalo Sabres|2787|28475|1|8|2009|ott|buf|5|4|1||
+Conference Quarterfinals|Philadelphia Flyers|New York Islanders ®|17911|19992|1|8|2009|phi|nyi|3|1|0||
+Conference Quarterfinals|Tampa Bay Lightning ®|- Washington Capitals -|16293|3597|1|8|2009|tbl|was|3|5|0||
+Conference Quarterfinals|HC 05 BB Boston Bruins|** NY RANGERS **|5|5712|1|8|2009|bos|nyr|5|1|0||
+Conference Quarterfinals|**Calgary Flames**|Detroit Red Wings ™|23488|23149|1|8|2009|cgy|det|2|0|0||
+Conference Quarterfinals|St. Louis Blues™|Chicago Blackhawks™|2769|5650|1|8|2009|stl|chi|7|1|0||
+Conference Quarterfinals|Dallas Stars™|Nashville Predators© |12548|21888|1|8|2009|dal|nas|3|1|0||
+Conference Quarterfinals|San Jose Shark|Edmonton Oilers™|6576|25621|1|8|2009|sjs|edm|2|4|2||
+Conference Quarterfinals|Buffalo Sabres|Ottawa Senators ®|28475|2787|2|8|2009|buf|ott|1|6|1||
+Conference Quarterfinals|New York Islanders ®|Philadelphia Flyers|19992|17911|2|8|2009|nyi|phi|2|3|0||
+Conference Quarterfinals|- Washington Capitals -|Tampa Bay Lightning ®|3597|16293|2|8|2009|was|tbl|5|3|0||
+Conference Quarterfinals|** NY RANGERS **|HC 05 BB Boston Bruins|5712|5|2|8|2009|nyr|bos|5|3|0||
+Conference Quarterfinals|Detroit Red Wings ™|**Calgary Flames**|23149|23488|2|8|2009|det|cgy|1|4|0||
+Conference Quarterfinals|Chicago Blackhawks™|St. Louis Blues™|5650|2769|2|8|2009|chi|stl|2|8|0||
+Conference Quarterfinals|Nashville Predators© |Dallas Stars™|21888|12548|2|8|2009|nas|dal|2|4|0||
+Conference Quarterfinals|Edmonton Oilers™|San Jose Shark|25621|6576|2|8|2009|edm|sjs|7|3|2||

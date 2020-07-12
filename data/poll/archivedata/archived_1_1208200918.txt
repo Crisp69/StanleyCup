@@ -1,0 +1,25 @@
+<?
+$a[0] = "Normal";
+$a[1] = "Playoff";
+$a[2] = "Don\'t care";
+$a[3] = "";
+$a[4] = "";
+$a[5] = "";
+$a[6] = "";
+$a[7] = "";
+$a[8] = "";
+$a[9] = "";
+
+$v[0] = "14";
+$v[1] = "11";
+$v[2] = "2";
+$v[3] = "";
+$v[4] = "";
+$v[5] = "";
+$v[6] = "";
+$v[7] = "";
+$v[8] = "";
+$v[9] = "";
+$total = "27";
+$ask = "Do you want to play Normal friendlies (ends with tie) or Playoff friendlies (overtime if tied) for regular season games?";
+?>

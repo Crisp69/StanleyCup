@@ -1,0 +1,106 @@
+1293401404|stars|stars|
+1293401382|income stats|stats_income|
+1293401364|betting office|bo|
+1293401353|teams details|teams_addinfo|
+1293401322|stats|stats|
+1293401277|results|schedule|
+1293326616|stars|stars|
+1293326570|income stats|stats_income|
+1293326517|betting office|bo|
+1293326459|stats|stats|
+1293326249|results|schedule|
+1293326244|results|schedule|
+1293322906|magazine|magazine.php&id_magazine=51|
+1293029249|playoff schedule|schedule|
+1292989597|magazine|magazine.php&id_magazine=50|
+1292794341|stars|stars|
+1292794298|income stats|income_stats|
+1292794286|betting office|bo|
+1292794271|stats|stats|
+1292794237|results|schedule|
+1292709370|stars|stars|
+1292709332|income stats|income_stats|
+1292709321|betting office|bo|
+1292709299|stats|stats|
+1292709209|results|schedule|
+1292248095|playoff schedule|schedule|
+1292247879|stars|stars|
+1292247836|income stats|income_stats|
+1292247794|betting office|bo|
+1292247784|stats|stats|
+1292247720|results|schedule|
+1292136405|betting office|bo|
+1292136366|stars|stars|
+1292136289|income stats|income_stats|
+1292136254|betting office|bo|
+1292136192|stats|stats|
+1292135984|results|schedule|
+1291585235|playoff schedule|schedule|
+1291585130|playoff schedule|schedule|
+1291585066|stars|stars|
+1291585045|income stats|income_stats|
+1291585034|betting office|bo|
+1291585020|teams details|teams_addinfo|
+1291584979|stats|stats|
+1291583979|results|schedule|
+1291506191|income stats|income_stats|
+1291499707|stars|stars|
+1291499682|income stats|income_stats|
+1291499516|betting office|bo|
+1291499510|teams details|teams_addinfo|
+1291499481|stats|stats|
+1291498799|results|schedule|
+1291413416|teams details|teams_addinfo|
+1290979854|playoff schedule|schedule|
+1290979842|stars|stars|
+1290979798|income stats|income_stats|
+1290979793|teams stats|teams_stats|
+1290979787|betting office|bo|
+1290979779|teams details|teams_addinfo|
+1290979752|stats|stats|
+1290979649|standings|standings|
+1290979463|results|schedule|
+1290894229|standings|standings|
+1290894144|stars|stars|
+1290894123|income stats|income_stats|
+1290894119|teams stats|teams_stats|
+1290894111|betting office|bo|
+1290894100|teams details|teams_addinfo|
+1290894068|stats|stats|
+1290893981|standings|standings|
+1290893950|results|schedule|
+1290374897|stars|stars|
+1290374861|teams details|teams_addinfo|
+1290374840|betting office|bo|
+1290374840|income stats|income_stats|
+1290374839|teams stats|teams_stats|
+1290374816|stats|stats|
+1290374726|standings|standings|
+1290374687|results|schedule|
+1290289573|stars|stars|
+1290289552|income stats|income_stats|
+1290289549|teams stats|teams_stats|
+1290289533|betting office|bo|
+1290289526|teams details|teams_addinfo|
+1290289500|stats|stats|
+1290289410|standings|standings|
+1290289378|results|schedule|
+1290207728|teams details|teams_addinfo|
+1289772659|income stats|income_stats|
+1289769962|stars|stars|
+1289769934|teams stats|teams_stats|
+1289769918|betting office|bo|
+1289769917|teams details|teams_addinfo|
+1289769888|stats|stats|
+1289769794|standings|standings|
+1289769779|results|schedule|
+1289686803|standings|standings|
+1289686788|results|schedule|
+1289685200|stars|stars|
+1289685167|teams stats|teams_stats|
+1289685146|betting office|bo|
+1289685133|teams details|teams_addinfo|
+1289685092|stats|stats|
+1289684929|standings|standings|
+1289684893|results|schedule|
+1289602083|teams details|teams_addinfo|

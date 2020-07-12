@@ -1,0 +1,135 @@
+A|Edmonton Oilers |Colorado Avalanche |18843|9441|15|10|2006|edm|col|0|7|1
+A|Vancouver Canucks |Minnesota Wild |31104|3388|15|10|2006|van|min|3|2|0
+A|New York Rangers |New Jersey Devils |9401|12576|15|10|2006|nyr|njd|2|5|0
+A|Philadelphia Flyers |Pittsburgh Penguins |17911|6301|15|10|2006|phi|pit|4|2|0
+A|New York Islanders |Calgary Flames |2733|18866|15|10|2006|nyi|cgy|8|0|0
+B|Columbus Blue Jackets |Nashville Predators |14602|12952|15|10|2006|cbj|nas|1|3|0
+B|St. Louis Blues |Detroit Red Wings |23513|23149|15|10|2006|stl|det|9|3|0
+B|Carolina Hurricanes |Florida Panthers |12981|16237|15|10|2006|car|fla|1|6|0
+B|Washington Capitals |Tampa Bay Lightning |13696|16293|15|10|2006|was|tbl|4|1|0
+B|Atlanta Thrashers |Chicago Blackhawks |16844|2295|15|10|2006|atl|chi|6|3|0
+C|Buffalo Sabres |Ottawa Senators |4932|13079|15|10|2006|buf|ott|3|4|0
+C|Toronto Maple Leafs |Montreal Canadiens |6270|21672|15|10|2006|tor|mtl|3|2|0
+C|Boston Bruins |Anaheim Ducks |28601|2449|15|10|2006|bos|ana|2|8|0
+C|Dallas Stars |Los Angeles Kings |12548|23979|15|10|2006|dal|lak|5|0|0
+C|Phoenix Coyotes |San Jose Sharks |3744|25619|15|10|2006|phx|sjs|2|1|2
+A|Colorado Avalanche |New York Islanders |9441|2733|21|10|2006|col|nyi|4|2|1
+A|Edmonton Oilers |New York Rangers |18843|9401|21|10|2006|edm|nyr|1|9|0
+A|Minnesota Wild |New Jersey Devils |3388|12576|21|10|2006|min|njd|3|5|0
+A|Pittsburgh Penguins |Calgary Flames |6301|18866|21|10|2006|pit|cgy|1|9|0
+A|Philadelphia Flyers |Vancouver Canucks |17911|31104|21|10|2006|phi|van|4|3|0
+B|Columbus Blue Jackets |Atlanta Thrashers |14602|16844|21|10|2006|cbj|atl|6|6|0
+B|Detroit Red Wings |Florida Panthers |23149|16237|21|10|2006|det|fla|0|8|0
+B|Washington Capitals |Chicago Blackhawks |13696|2295|21|10|2006|was|chi|1|2|0
+B|Carolina Hurricanes |Nashville Predators |12981|12952|21|10|2006|car|nas|5|4|0
+B|Tampa Bay Lightning |St. Louis Blues |16293|23513|21|10|2006|tbl|stl|4|0|0
+C|Buffalo Sabres |Anaheim Ducks |4932|2449|21|10|2006|buf|ana|2|10|0
+C|Ottawa Senators |Dallas Stars |13079|12548|21|10|2006|ott|dal|4|1|0
+C|Montreal Canadiens |Los Angeles Kings |21672|23979|21|10|2006|mtl|lak|3|4|0
+C|Toronto Maple Leafs |Phoenix Coyotes |6270|3744|21|10|2006|tor|phx|8|0|0
+C|San Jose Sharks |Boston Bruins |25619|28601|21|10|2006|sjs|bos|6|2|2
+A|Calgary Flames |Minnesota Wild |18866|3388|22|10|2006|cgy|min|8|0|1
+A|Edmonton Oilers |Vancouver Canucks |18843|31104|22|10|2006|edm|van|1|4|0
+A|New York Islanders |Philadelphia Flyers |2733|17911|22|10|2006|nyi|phi|12|0|0
+A|New Jersey Devils |Pittsburgh Penguins |12576|6301|22|10|2006|njd|pit|5|0|0
+A|New York Rangers |Colorado Avalanche |9401|9441|22|10|2006|nyr|col|3|4|0
+B|Chicago Blackhawks |Detroit Red Wings |2295|23149|22|10|2006|chi|det|4|2|0
+B|Nashville Predators |St. Louis Blues |12952|23513|22|10|2006|nas|stl|6|5|0
+B|Atlanta Thrashers |Tampa Bay Lightning |16844|16293|22|10|2006|atl|tbl|4|1|0
+B|Florida Panthers |Washington Capitals |16237|13696|22|10|2006|fla|was|3|2|0
+B|Carolina Hurricanes |Columbus Blue Jackets |12981|14602|22|10|2006|car|cbj|7|9|0
+C|Boston Bruins |Montreal Canadiens |28601|21672|22|10|2006|bos|mtl|3|3|0
+C|Ottawa Senators |Toronto Maple Leafs |13079|6270|22|10|2006|ott|tor|1|7|0
+C|Buffalo Sabres |Dallas Stars |4932|12548|22|10|2006|buf|dal|6|1|0
+C|Anaheim Ducks |Phoenix Coyotes |2449|3744|22|10|2006|ana|phx|8|0|0
+C|Los Angeles Kings |San Jose Sharks |23979|25619|22|10|2006|lak|sjs|1|6|2
+A|Colorado Avalanche |Calgary Flames |9441|18866|28|10|2006|col|cgy|1|1|1
+A|Edmonton Oilers |Minnesota Wild |18843|3388|28|10|2006|edm|min|4|2|0
+A|Vancouver Canucks |Pittsburgh Penguins |31104|6301|28|10|2006|van|pit|1|6|0
+A|New York Islanders |New York Rangers |2733|9401|28|10|2006|nyi|nyr|9|1|0
+A|Philadelphia Flyers |New Jersey Devils |17911|12576|28|10|2006|phi|njd|7|3|0
+B|Chicago Blackhawks |Columbus Blue Jackets |2295|14602|28|10|2006|chi|cbj|3|2|0
+B|Nashville Predators |Detroit Red Wings |12952|23149|28|10|2006|nas|det|5|1|0
+B|Atlanta Thrashers |Carolina Hurricanes |16844|12981|28|10|2006|atl|car|1|3|0
+B|Florida Panthers |Tampa Bay Lightning |16237|16293|28|10|2006|fla|tbl|4|5|0
+B|Washington Capitals |St. Louis Blues |13696|23513|28|10|2006|was|stl|6|2|0
+C|Boston Bruins |Buffalo Sabres |28601|4932|28|10|2006|bos|buf|1|9|0
+C|Ottawa Senators |Montreal Canadiens |13079|21672|28|10|2006|ott|mtl|3|1|0
+C|Anaheim Ducks |Dallas Stars |2449|12548|28|10|2006|ana|dal|12|0|0
+C|Los Angeles Kings |Phoenix Coyotes |23979|3744|28|10|2006|lak|phx|3|1|0
+C|San Jose Sharks |Toronto Maple Leafs |25619|6270|28|10|2006|sjs|tor|0|4|2
+A|Calgary Flames |Philadelphia Flyers |18866|17911|29|10|2006|cgy|phi|4|0|1
+A|Minnesota Wild |New York Rangers |3388|9401|29|10|2006|min|nyr|2|8|0
+A|Vancouver Canucks |New Jersey Devils |31104|12576|29|10|2006|van|njd|3|2|0
+A|Pittsburgh Penguins |Colorado Avalanche |6301|9441|29|10|2006|pit|col|0|9|0
+A|New York Islanders |Edmonton Oilers |2733|18843|29|10|2006|nyi|edm|10|1|0
+B|Nashville Predators |Atlanta Thrashers |12952|16844|29|10|2006|nas|atl|2|2|0
+B|Detroit Red Wings |Carolina Hurricanes |23149|12981|29|10|2006|det|car|0|10|0
+B|St. Louis Blues |Florida Panthers |23513|16237|29|10|2006|stl|fla|0|2|0
+B|Tampa Bay Lightning |Chicago Blackhawks |16293|2295|29|10|2006|tbl|chi|5|5|0
+B|Washington Capitals |Columbus Blue Jackets |13696|14602|29|10|2006|was|cbj|5|6|0
+C|Montreal Canadiens |Dallas Stars |21672|12548|29|10|2006|mtl|dal|0|2|0
+C|Toronto Maple Leafs |Los Angeles Kings |6270|23979|29|10|2006|tor|lak|4|0|0
+C|Phoenix Coyotes |Boston Bruins |3744|28601|29|10|2006|phx|bos|3|4|0
+C|San Jose Sharks |Buffalo Sabres |25619|4932|29|10|2006|sjs|buf|2|4|0
+C|Anaheim Ducks |Ottawa Senators |2449|13079|29|10|2006|ana|ott|13|1|2
+A|Calgary Flames |New Jersey Devils |18866|12576|4|11|2006|cgy|njd|5|2|1
+A|Colorado Avalanche |Philadelphia Flyers |9441|17911|4|11|2006|col|phi|8|0|0
+A|Minnesota Wild |New York Islanders |3388|2733|4|11|2006|min|nyi|1|5|0
+A|Vancouver Canucks |New York Rangers |31104|9401|4|11|2006|van|nyr|4|7|0
+A|Pittsburgh Penguins |Edmonton Oilers |6301|18843|4|11|2006|pit|edm|4|2|0
+B|Chicago Blackhawks |Florida Panthers |2295|16237|4|11|2006|chi|fla|1|3|0
+B|Nashville Predators |Washington Capitals |12952|13696|4|11|2006|nas|was|7|2|0
+B|Detroit Red Wings |Atlanta Thrashers |23149|16844|4|11|2006|det|atl|5|2|0
+B|St. Louis Blues |Carolina Hurricanes |23513|12981|4|11|2006|stl|car|0|3|0
+B|Tampa Bay Lightning |Columbus Blue Jackets |16293|14602|4|11|2006|tbl|cbj|4|2|0
+C|Montreal Canadiens |Anaheim Ducks |21672|2449|4|11|2006|mtl|ana|3|8|0
+C|Toronto Maple Leafs |Dallas Stars |6270|12548|4|11|2006|tor|dal|5|0|0
+C|Los Angeles Kings |Boston Bruins |23979|28601|4|11|2006|lak|bos|4|5|0
+C|Phoenix Coyotes |Buffalo Sabres |3744|4932|4|11|2006|phx|buf|1|7|0
+C|San Jose Sharks |Ottawa Senators |25619|13079|4|11|2006|sjs|ott|1|2|2
+A|Calgary Flames |Vancouver Canucks |18866|31104|5|11|2006|cgy|van|4|4|1
+A|Colorado Avalanche |Minnesota Wild |9441|3388|5|11|2006|col|min|8|0|0
+A|New York Islanders |Pittsburgh Penguins |2733|6301|5|11|2006|nyi|pit|6|0|0
+A|New York Rangers |Philadelphia Flyers |9401|17911|5|11|2006|nyr|phi|7|4|0
+A|New Jersey Devils |Edmonton Oilers |12576|18843|5|11|2006|njd|edm|3|7|0
+B|Chicago Blackhawks |St. Louis Blues |2295|23513|5|11|2006|chi|stl|5|2|0
+B|Columbus Blue Jackets |Detroit Red Wings |14602|23149|5|11|2006|cbj|det|4|3|0
+B|Atlanta Thrashers |Washington Capitals |16844|13696|5|11|2006|atl|was|6|2|0
+B|Carolina Hurricanes |Tampa Bay Lightning |12981|16293|5|11|2006|car|tbl|7|6|0
+B|Florida Panthers |Nashville Predators |16237|12952|5|11|2006|fla|nas|4|0|0
+C|Boston Bruins |Toronto Maple Leafs |28601|6270|5|11|2006|bos|tor|0|5|0
+C|Buffalo Sabres |Montreal Canadiens |4932|21672|5|11|2006|buf|mtl|6|5|0
+C|Ottawa Senators |Los Angeles Kings |13079|23979|5|11|2006|ott|lak|6|2|0
+C|Anaheim Ducks |San Jose Sharks |2449|25619|5|11|2006|ana|sjs|10|3|0
+C|Dallas Stars |Phoenix Coyotes |12548|3744|5|11|2006|dal|phx|0|1|2
+A|Calgary Flames |New York Rangers |18866|9401|11|11|2006|cgy|nyr|1|6|1
+A|Vancouver Canucks |New York Islanders |31104|2733|11|11|2006|van|nyi|3|7|0
+A|New Jersey Devils |Colorado Avalanche |12576|9441|11|11|2006|njd|col|0|6|0
+A|Philadelphia Flyers |Edmonton Oilers |17911|18843|11|11|2006|phi|edm|3|1|0
+A|Pittsburgh Penguins |Minnesota Wild |6301|3388|11|11|2006|pit|min|2|4|0
+B|Chicago Blackhawks |Carolina Hurricanes |2295|12981|11|11|2006|chi|car|6|2|0
+B|Columbus Blue Jackets |Florida Panthers |14602|16237|11|11|2006|cbj|fla|2|5|0
+B|Detroit Red Wings |Washington Capitals |23149|13696|11|11|2006|det|was|5|2|0
+B|St. Louis Blues |Atlanta Thrashers |23513|16844|11|11|2006|stl|atl|1|6|0
+B|Tampa Bay Lightning |Nashville Predators |16293|12952|11|11|2006|tbl|nas|4|5|0
+C|Montreal Canadiens |San Jose Sharks |21672|25619|11|11|2006|mtl|sjs|1|0|0
+C|Toronto Maple Leafs |Anaheim Ducks |6270|2449|11|11|2006|tor|ana|0|4|0
+C|Dallas Stars |Boston Bruins |12548|28601|11|11|2006|dal|bos|2|6|0
+C|Los Angeles Kings |Buffalo Sabres |23979|4932|11|11|2006|lak|buf|0|4|0
+C|Phoenix Coyotes |Ottawa Senators |3744|13079|11|11|2006|phx|ott|2|7|2
+A|Colorado Avalanche |Vancouver Canucks |9441|31104|12|11|2006|col|van|6|2|1
+A|Edmonton Oilers |Calgary Flames |18843|18866|12|11|2006|edm|cgy|2|5|0
+A|Minnesota Wild |Philadelphia Flyers |3388|17911|12|11|2006|min|phi|1|6|0
+A|New York Rangers |Pittsburgh Penguins |9401|6301|12|11|2006|nyr|pit|8|2|0
+A|New Jersey Devils |New York Islanders |12576|2733|12|11|2006|njd|nyi|0|13|0
+B|Columbus Blue Jackets |St. Louis Blues |14602|23513|12|11|2006|cbj|stl|5|6|0
+B|Nashville Predators |Chicago Blackhawks |12952|2295|12|11|2006|nas|chi|3|2|0
+B|Detroit Red Wings |Tampa Bay Lightning |23149|16293|12|11|2006|det|tbl|0|7|0
+B|Carolina Hurricanes |Washington Capitals |12981|13696|12|11|2006|car|was|8|10|0
+B|Florida Panthers |Atlanta Thrashers |16237|16844|12|11|2006|fla|atl|1|5|0
+C|Buffalo Sabres |Toronto Maple Leafs |4932|6270|12|11|2006|buf|tor|1|5|0
+C|Ottawa Senators |Boston Bruins |13079|28601|12|11|2006|ott|bos|4|2|0
+C|Montreal Canadiens |Phoenix Coyotes |21672|3744|12|11|2006|mtl|phx|3|0|0
+C|Dallas Stars |San Jose Sharks |12548|25619|12|11|2006|dal|sjs|2|0|0
+C|Anaheim Ducks |Los Angeles Kings |2449|23979|12|11|2006|ana|lak|5|2|2

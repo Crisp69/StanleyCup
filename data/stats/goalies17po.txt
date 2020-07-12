@@ -1,0 +1,25 @@
+1||Simo Đorđević|1|24|23|95.8%|0|6.1|Calgary|cgy|6254090
+2||David Kozák|6|117|109|93.2%|3|5.4|Florida|fla|11959398
+3||Armands Latvānis|4|55|51|92.7%|2|5.1|Ottawa|ott|13245688
+4||Józef Bancerz|4|99|91|91.9%|1|5.8|Ottawa|ott|5082918
+5||Denis Chekmarev|2|72|66|91.7%|0|6.3|NY Rangers|nyr|10751634
+6||Patrik Kočiš|4|133|121|91.0%|0|6.1|NY Islanders|nyi|15189453
+7||Olafs Bulders|7|197|178|90.4%|1|5.8|Calgary|cgy|7086696
+8||Zbyšek Šmíd|2|72|65|90.3%|0|6.2|Colorado|col|5086694
+9||Bine Valant|4|125|112|89.6%|0|5.8|Detroit|det|16092879
+10||Burkhard Kohler|1|28|25|89.3%|0|5.6|Philadelphia|phi|17107981
+11||Miervaldis Aukliņš|2|74|66|89.2%|0|6.2|Tampa Bay|tbl|13241316
+12||Nick Seddon|2|72|64|88.9%|0|6.0|St. Louis|stl|8098951
+13||Einari Kuula|6|193|169|87.6%|0|5.8|Anaheim|ana|13251453
+14||Patrik Sládečka|2|32|28|87.5%|1|4.9|Boston|bos|12214577
+15||Pablo Elze|2|47|41|87.2%|0|5.1|Nashville|nas|11952350
+16||Zdeno Korytko|1|14|12|85.7%|0|4.6|Boston|bos|18500612
+17||Pankrác Kružliak|3|86|73|84.9%|0|5.2|Boston|bos|16439600
+18||Alexander Kharin|4|101|85|84.2%|0|5.1|Edmonton|edm|5083073
+19||Prokop Kuľha|2|54|44|81.5%|0|5.0|San Jose|sjs|6686142
+20||Daniel Galajd|2|85|68|80.0%|0|5.2|Montreal|mtl|15148312
+21||Milan Pešek|4|10|8|80.0%|2|4.1|NY Islanders|nyi|19183649
+22||Walter Szekielda|1|23|18|78.3%|0|4.4|Philadelphia|phi|7140718
+23||Marek Kužiel|1|11|7|63.6%|0|3.6|Edmonton|edm|13435401
+24||Juraj Kuľhavý|2|15|7|46.7%|0|3.5|NY Rangers|nyr|20413122
+

@@ -1,0 +1,10 @@
+1||Arild Lyssand|8|11|4|15|12||||NY Islanders|nyi
+2||Hugo Šablatúra|6|8|1|9|9||||Anaheim|ana
+3||Matej Domian|8|8|3|11|10||||Anaheim|ana
+4||Albert Zikmund|5|7|0|7|6||||Anaheim|ana
+5||Norbert Kuśnierz|8|7|3|10|15||||Anaheim|ana
+6||Aurel Kuruc|8|7|0|7|12||||NY Islanders|nyi
+7||Damian Zapata|5|5|0|5|5||||Anaheim|ana
+8||Eugeniusz Rynkiewicz|6|5|2|7|8||||NY Islanders|nyi
+9||Ľudomil Čonko|7|5|1|6|6||||NY Islanders|nyi
+10||Klaus Eltschinger|8|5|6|11|5||||Anaheim|ana

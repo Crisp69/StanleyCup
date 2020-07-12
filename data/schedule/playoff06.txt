@@ -1,0 +1,30 @@
+Stanley Cup Finals|Montreal Canadiens|Colorado Avalanche ®|2747|9441|22|9|2007|mtl|col|1|2|1
+Stanley Cup Finals|Colorado Avalanche ®|Montreal Canadiens|9441|2747|23|9|2007|col|mtl|4|1|1
+Conference Finals|Montreal Canadiens|New York Islanders|2747|2733|15|9|2007|mtl|nyi|0|5|1
+Conference Finals|Anaheim Ducks ™|Colorado Avalanche ®|2449|9441|15|9|2007|ana|col|1|5|2
+Conference Finals|New York Islanders|Montreal Canadiens|2733|2747|16|9|2007|nyi|mtl|2|7|1
+Conference Finals|Colorado Avalanche ®|Anaheim Ducks ™|9441|2449|16|9|2007|col|ana|3|5|2
+Conference Semifinals|Montreal Canadiens|Toronto Maple Leafs ®|2747|9503|8|9|2007|mtl|tor|3|0|1
+Conference Semifinals|New York Islanders|Boston Bruins|2733|1220|8|9|2007|nyi|bos|8|2|0
+Conference Semifinals|Anaheim Ducks ™|Chicago Blackhawks ®|2449|2295|8|9|2007|ana|chi|8|1|0
+Conference Semifinals|Colorado Avalanche ®|St.Louis Blues™|9441|5650|8|9|2007|col|stl|3|1|2
+Conference Semifinals|Toronto Maple Leafs ®|Montreal Canadiens|9503|2747|9|9|2007|tor|mtl|1|3|1
+Conference Semifinals|Boston Bruins|New York Islanders|1220|2733|9|9|2007|bos|nyi|0|16|0
+Conference Semifinals|Chicago Blackhawks ®|Anaheim Ducks ™|2295|2449|9|9|2007|chi|ana|0|8|0
+Conference Semifinals|St.Louis Blues™|Colorado Avalanche ®|5650|9441|9|9|2007|stl|col|1|2|2
+Conference Quarterfinals|Montreal Canadiens|Tampa Bay Lightning®|2747|16293|26|8|2007|mtl|tbl|3|1|1
+Conference Quarterfinals|New York Islanders|Buffalo Sabres™|2733|9506|26|8|2007|nyi|buf|1|0|0
+Conference Quarterfinals|Carolina Hurricanes ™|Toronto Maple Leafs ®|12981|9503|26|8|2007|car|tor|2|7|0
+Conference Quarterfinals|Boston Bruins|Philadelphia Flyers ®|1220|17911|26|8|2007|bos|phi|6|0|0
+Conference Quarterfinals|Anaheim Ducks ™|Minnesota Wild|2449|3388|26|8|2007|ana|min|15|0|0
+Conference Quarterfinals|Colorado Avalanche ®|Edmonton Oilers @|9441|18843|26|8|2007|col|edm|2|4|0
+Conference Quarterfinals|St.Louis Blues™|Phoenix Coyotes®|5650|2499|26|8|2007|stl|phx|8|1|0
+Conference Quarterfinals|Vancouver Canucks®|Chicago Blackhawks ®|5619|2295|26|8|2007|van|chi|0|7|2
+Conference Quarterfinals|Tampa Bay Lightning®|Montreal Canadiens|16293|2747|26|8|2007|tbl|mtl|3|6|1
+Conference Quarterfinals|Buffalo Sabres™|New York Islanders|9506|2733|26|8|2007|buf|nyi|2|7|0
+Conference Quarterfinals|Toronto Maple Leafs ®|Carolina Hurricanes ™|9503|12981|26|8|2007|tor|car|2|3|0
+Conference Quarterfinals|Philadelphia Flyers ®|Boston Bruins|17911|1220|26|8|2007|phi|bos|1|4|0
+Conference Quarterfinals|Minnesota Wild|Anaheim Ducks ™|3388|2449|26|8|2007|min|ana|0|13|0
+Conference Quarterfinals|Edmonton Oilers @|Colorado Avalanche ®|18843|9441|26|8|2007|edm|col|1|5|0
+Conference Quarterfinals|Phoenix Coyotes®|St.Louis Blues™|2499|5650|26|8|2007|phx|stl|3|0|0
+Conference Quarterfinals|Chicago Blackhawks ®|Vancouver Canucks®|2295|5619|26|8|2007|chi|van|1|0|2

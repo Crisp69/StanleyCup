@@ -1,0 +1,5 @@
+sollu|4|4
+tomson|4|4
+snipper|3|3
+zoidberg|3|4
+misko|4|4

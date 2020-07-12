@@ -1,0 +1,61 @@
+1||Jonatán Pichlač|13|243|232|95.5%|7|5.5|Toronto|tor|16825202|780|0.85|
+2||Josef Spáčil|10|208|195|93.8%|2|5.6|Philadelphia|phi|18159996|600|1.30|
+3||Michel Meili|13|229|214|93.4%|6|5.2|Winnipeg|wpg|17152958|780|1.15|
+4||Pēteris Ūsiņš|9|193|180|93.3%|4|5.5|NY Islanders|nyi|16041536|540|1.44|
+5||Yuriy Baskakov|13|164|153|93.3%|1|5.0|Minnesota|min|16218067|413.1|1.60|
+6||Oscar Maudlin|12|188|175|93.1%|6|5.2|Colorado|col|13803905|720|1.08|
+7||Hans-Erik Nørgaard|12|298|276|92.6%|4|5.8|Chicago|chi|21156671|720|1.83|
+8||Reinis Baltrausis|13|308|285|92.5%|4|5.6|St. Louis|stl|20210989|780|1.77|
+9||Ján Džogan|13|298|275|92.3%|4|5.5|Nashville|nas|22670313|717.049999999|1.92|
+10||Jakub Čermák|12|226|207|91.6%|4|5.4|Florida|fla|12673994|720|1.58|
+11||Stan Lackovič|11|164|150|91.5%|3|5.0|San Jose|sjs|23457558|533.45|1.57|
+12||Michal Feješ|13|361|330|91.4%|3|5.9|Buffalo|buf|17511670|780|2.38|
+13||Manuel Mankovecký|8|192|173|90.1%|1|5.5|Detroit|det|17155279|439.75|2.59|
+14||Glenn Clark|11|303|271|89.4%|1|5.7|Calgary|cgy|24711743|585.466666666|3.28|
+15||Marin Bakalov|12|213|188|88.3%|5|5.0|Carolina|car|19339743|720|2.08|
+16||Larry Smith|11|311|274|88.1%|2|5.5|Columbus|cbj|21941487|639.783333333|3.47|
+17||Valio Wendelin|12|381|335|87.9%|1|5.7|Phoenix|phx|27529605|662.933333334|4.16|
+18||Damian Ackerknecht|13|370|323|87.3%|2|5.4|Montreal|mtl|20629504|780|3.62|
+19||Etienne Dugas|10|292|255|87.3%|0|5.5|Dallas|dal|26041188|551.483333333|4.03|
+20||Viesturs Zalcmanis|13|426|371|87.1%|3|5.7|NY Rangers|nyr|27544641|780|4.23|
+21||Adam Miček|13|362|314|86.7%|2|5.4|LA Kings|lak|26049920|780|3.69|
+22||Jocelyn Thibault|12|264|228|86.4%|1|5.0|Pittsburgh|pit|22385348|608.05|3.55|
+23||Nestser Pauliak|11|447|380|85.0%|1|5.9|Vancouver|van|19227999|660|6.09|
+24||Yuriy Bakhvalov|11|362|306|84.5%|0|5.5|Boston|bos|28500438|660|5.09|
+25||Sepp Sluiter|7|128|108|84.4%|2|4.9|Anaheim|ana|17113025|420|2.86|
+26||Ruslan Hitrun|12|359|300|83.6%|0|5.1|Ottawa|ott|25765790|474.583333333|7.46|
+27||Gatis Pakalns|10|365|303|83.0%|1|5.3|Tampa Bay|tbl|27990891|498.833333333|7.46|
+28||Rafael Zahnd|12|286|229|80.1%|1|4.8|Washington|was|26905564|500.766666665|6.83|
+29||Čistomil Romanovič|13|236|185|78.4%|0|4.4|Edmonton|edm|20647986|404.033333334|7.57|
+30||Albrecht Pampúch|10|300|223|74.3%|0|4.3|NJ Devils|njd|29535297|401.55|11.51|
+-||Erkki Tella|3|34|34|100.0%|3|5.2|NJ Devils|njd|17447808|180|0.00|
+-||Jonne Ilola|1|19|19|100.0%|1|5.9|Chicago|chi|24995076|60|0.00|
+-||Vincenzo Benini|6|143|135|94.4%|2|5.8|Detroit|det|18159167|340.25|1.41|
+-||Benjamin Ferrand|6|130|122|93.8%|0|5.6|Dallas|dal|24300997|228.516666667|2.10|
+-||Havel Franěk|1|31|29|93.5%|0|6.3|San Jose|sjs|14808227|60|2.00|
+-||Víctor Ibias|5|89|83|93.3%|0|5.2|San Jose|sjs|13366779|186.55|1.93|
+-||Patrik Kočiš|3|45|42|93.3%|0|4.9|Nashville|nas|15189453|62.9500000001|2.86|
+-||Jan Hrabovský|12|146|136|93.2%|0|4.9|Washington|was|27992924|279.233333335|2.15|
+-||Arnošt Novák|1|27|25|92.6%|0|6.0|Florida|fla|29223646|60|2.00|
+-||Hugo Kukučiak|12|145|133|91.7%|0|4.8|Minnesota|min|21342258|366.9|1.96|
+-||Enok Arntsen|4|78|71|91.0%|0|5.2|Anaheim|ana|29725370|112.033333333|3.75|
+-||Terry Sellars|5|68|61|89.7%|0|4.8|Edmonton|edm|20616518|143.866666666|2.92|
+-||Michael Zysset|3|75|67|89.3%|0|5.4|Philadelphia|phi|15184900|180|2.67|
+-||Nigel Gauthier|2|78|69|88.5%|0|6.3|Vancouver|van|29035140|120|4.50|
+-||Vesa Klankki|2|42|37|88.1%|0|5.2|Phoenix|phx|29022748|79.0333333333|3.80|
+-||Boris Ilyenko|2|85|73|85.9%|0|5.9|Boston|bos|28337227|120|6.00|
+-||Kevin Wickli|6|182|156|85.7%|0|5.3|Tampa Bay|tbl|8647053|281.166666667|5.55|
+-||Elemír Lohyňa|4|53|45|84.9%|1|4.7|NY Islanders|nyi|17574474|240|2.00|
+-||Miķelis Kalnišs|1|25|21|84.0%|0|5.1|Colorado|col|10753182|60|4.00|
+-||František Miškanin|8|157|129|82.2%|0|4.7|NJ Devils|njd|29565349|198.45|8.47|
+-||Jaroslav Halák|4|89|72|80.9%|0|4.7|Pittsburgh|pit|24109404|171.95|5.93|
+-||Bohumír Dlouhý|9|217|173|79.7%|0|4.5|Ottawa|ott|29241980|305.416666667|8.64|
+-||Ray Hills|8|138|109|79.0%|0|4.4|Edmonton|edm|29543567|232.1|7.50|
+-||Peter Gondera|3|61|47|77.0%|0|4.3|Calgary|cgy|27575752|85.2833333334|9.85|
+-||Carl Drake|5|50|38|76.0%|0|4.2|Columbus|cbj|29726637|140.216666667|5.13|
+-||Vic Holland|1|41|31|75.6%|0|4.7|Calgary|cgy|27670116|49.25|12.18|
+-||Valér Dlábik|6|126|95|75.4%|0|4.3|Anaheim|ana|29689194|170.966666667|10.88|
+-||Gilbert Thibault|1|34|25|73.5%|0|4.2|Anaheim|ana|29705815|40|13.50|
+-||Drago Janežič|2|26|19|73.1%|0|4.1|Phoenix|phx|28290205|38.0333333333|11.04|
+-||Maunu Viitanen|1|22|16|72.7%|0|4.0|Anaheim|ana|29676889|37|9.73|
+

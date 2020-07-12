@@ -1,0 +1,673 @@
+1||Juha Tynjälä|13|18|5|23|9|5.4|54||Anaheim|ana|13000953|9|0|12|3
+2||Jan Melichar|13|15|7|22|29|6.4|56||Florida|fla|11957309|4|0|12|7
+3||Adam Nový|13|15|7|22|11|5.9|53||Buffalo|buf|12192597|3|0|2|6
+4||Martin Chvátal|12|15|7|22|5|5.2|44||NJ Devils|njd|14904442|7|0|2|5
+5||Oskar Záhorec|13|15|3|18|22|5.8|74||Florida|fla|9263934|2|1|6|2
+6||Servác Gregorík|13|15|2|17|12|5.2|47||Carolina|car|13378218|5|0|4|3
+7||Roman Haluška|12|14|8|22|14|6.5|55||Colorado|col|10792784|7|0|2|4
+8||Jiří Hašek|13|14|3|17|14|5.4|44||Vancouver|van|14785587|4|1|8|0
+9||Torsti Nikulainen|13|13|4|17|14|5.1|79||Anaheim|ana|11021623|4|0|8|6
+10||Adolf Lopuchovský|13|12|9|21|8|5.4|58||Toronto|tor|15390957|3|0|6|3
+11||Bartoloměj Coufal|12|12|9|21|14|5.7|49||NY Islanders|nyi|13140099|6|0|6|5
+12||Emil Jurak|13|12|7|19|29|6.1|43||Florida|fla|10317148|0|0|14|1
+13||Gonzalo Herriaga|12|12|6|18|3|4.8|46||NJ Devils|njd|14383772|8|0|2|3
+14||Gabriel Green|13|11|11|22|16|5.8|52||Colorado|col|14037449|4|0|6|6
+15||German Avdeev|13|11|6|17|-2|4.9|38||Washington|was|13595378|3|1|20|5
+16||David Kočí|9|10|9|19|19|6.7|38||Ottawa|ott|16446189|4|0|4|1
+17||Elo Chovanec|13|10|8|18|7|5.3|39||Vancouver|van|14812631|3|2|8|2
+18||Evgeniy Turkovskiy|9|10|5|15|17|5.9|28||Ottawa|ott|16619763|6|0|2|3
+19||Ladislav Císař|13|10|4|14|15|5.1|29||Boston|bos|16843366|0|0|18|8
+20||Tomáš Petrovický|13|10|3|13|0|4.8|52||Vancouver|van|14134933|6|0|6|2
+21||Artúr Konvický|13|10|3|13|20|5.2|37||Ottawa|ott|16740904|0|0|6|8
+22||Marián Bobko|13|10|1|11|12|4.7|44||Carolina|car|12887411|2|0|2|1
+23||Tapani Vallin|11|9|7|16|6|4.8|44||NY Islanders|nyi|10638287|4|0|8|4
+24||Arthur Pitt|13|9|6|15|-3|4.6|42||Washington|was|19206895|2|0|4|2
+25||Oldrich Blaškovič|13|9|4|13|-5|4.1|47||San Jose|sjs|16226652|4|1|14|4
+26||Marek Michlík|11|9|3|12|-1|4.5|34||Phoenix|phx|9869943|5|0|0|2
+27||Martin Urda|11|9|1|10|7|4.7|44||Minnesota|min|10324757|1|2|6|5
+28||Prosimir Nitowski|12|8|10|18|12|6.0|47||Anaheim|ana|12226724|3|0|4|2
+29||Axelis Buinickas|11|8|10|18|8|6.1|34||NY Islanders|nyi|15623944|2|0|8|2
+30||Szymon Dymek|13|8|7|15|12|5.3|31||Columbus|cbj|10875060|5|0|4|2
+31||Razvan Ţiriac|13|8|7|15|14|5.2|31||LA Kings|lak|12665018|0|0|8|2
+32||Arpád Majerník|13|8|5|13|3|4.6|31||Atlanta|atl|9897433|0|0|6|1
+33||Thierry Chevalier|13|8|4|12|13|5.0|51||Columbus|cbj|10755022|1|0|2|3
+34||Martin Nováček|13|8|4|12|10|4.7|48||Colorado|col|16213283|2|1|6|2
+35||David Pokorný|13|8|4|12|21|5.5|41||Florida|fla|13790674|0|0|6|3
+36||Saku Laukkanen|11|8|4|12|5|4.7|24||Ottawa|ott|14323486|4|1|2|7
+37||Teofil Chwiejczak|9|8|2|10|-1|5.0|25||Phoenix|phx|14139726|2|0|4|4
+38||Joonas Vuorisalmi|13|8|1|9|8|4.7|43||Colorado|col|17101176|3|0|2|1
+39||Richard Groves|13|7|20|27|17|6.3|48||Colorado|col|13440081|3|0|4|0
+40||František Šebek|13|7|14|21|21|5.9|51||Florida|fla|12433153|2|0|18|1
+41||Maroš Hulek|13|7|9|16|11|5.5|36||Buffalo|buf|9543536|0|0|16|2
+42||Miroslav Šulc|13|7|8|15|7|5.0|41||Toronto|tor|18739140|2|0|8|2
+43||Vincent Chochol|13|7|6|13|14|5.2|46||LA Kings|lak|12989793|1|0|4|2
+44||Roland Werning|13|7|3|10|2|4.5|39||NJ Devils|njd|18135904|2|0|12|3
+45||Adrián Révay|12|7|0|7|1|4.0|57||Carolina|car|16437888|3|0|12|1
+46||Alexej Kubánek|11|6|8|14|12|5.3|42||Tampa Bay|tbl|10350829|2|0|16|3
+47||Vincenc Dvořáček|13|6|8|14|13|5.3|40||Vancouver|van|13842761|0|0|14|1
+48||Alojz Vrana|13|6|7|13|13|5.0|45||Tampa Bay|tbl|9871408|0|0|14|1
+49||Boris Koudela|13|6|6|12|11|5.2|34||Buffalo|buf|15380479|3|0|6|3
+50||Miro Radarov|12|6|4|10|4|4.8|46||Columbus|cbj|20215312|3|1|4|1
+51||Michal Hanáček|12|6|4|10|-1|4.9|43||Detroit|det|16004550|2|0|10|2
+52||Bine Udir|12|6|4|10|10|4.6|38||Columbus|cbj|11466075|0|0|8|1
+53||Connor Cooke|11|6|4|10|10|4.5|34||Columbus|cbj|9092227|0|0|14|3
+54||Christoph Ballack|13|6|4|10|3|4.5|34||Tampa Bay|tbl|12207012|1|0|6|1
+55||Viesturs Melnalksnis|12|6|4|10|10|4.9|23||Ottawa|ott|16467536|0|0|2|1
+56||Balbin Żurek|13|6|3|9|8|4.4|39||NJ Devils|njd|14151959|1|0|8|1
+57||Omar Jasenčič|13|6|3|9|2|4.5|38||Calgary|cgy|16464069|2|0|0|2
+58||Imants Froļikovs|11|6|3|9|1|4.4|34||Montreal|mtl|10790645|3|0|0|0
+59||Henk Spijker|13|6|3|9|5|4.7|31||Edmonton|edm|11969431|0|0|10|0
+60||Maroš Richter|13|6|3|9|5|4.6|30||Columbus|cbj|13195302|1|2|0|1
+61||Marcel Drienovský|12|6|2|8|-3|4.2|42||Detroit|det|19221781|3|0|8|1
+62||Milan Baluch|12|6|2|8|6|4.5|27||St. Louis|stl|10515323|2|1|8|0
+63||Kaspars Lejiņš|13|6|1|7|1|4.3|33||Detroit|det|17285576|0|1|10|3
+64||Pavol Behinský|8|6|0|6|7|4.4|33||Edmonton|edm|8129366|2|0|2|1
+65||Igor Klobučník|13|6|0|6|2|4.0|29||NJ Devils|njd|19292622|1|0|0|0
+66||Keijo Näs|9|5|15|20|10|5.9|32||Anaheim|ana|13600149|4|0|0|2
+67||Iľja Pavlikovský|13|5|13|18|12|5.3|26||Carolina|car|13607461|1|0|6|0
+68||Matěj Přikryl|13|5|11|16|2|5.1|39||Edmonton|edm|11831062|1|0|0|0
+69||Bonifác Doležel|13|5|9|14|9|5.0|19||Toronto|tor|18268456|0|1|12|3
+70||Jacob Vestergaard|11|5|7|12|16|5.2|31||NY Islanders|nyi|16222349|1|1|14|0
+71||Vasil Schablik|13|5|6|11|2|4.5|35||Montreal|mtl|17238648|2|0|6|2
+72||Blahoslav Kazík|13|5|6|11|8|4.6|29||Minnesota|min|17129313|1|1|10|1
+73||Jan Cibulka|13|5|5|10|2|4.5|36||Tampa Bay|tbl|17468188|3|0|14|1
+74||Iuliu Stancu|13|5|5|10|8|4.9|31||Columbus|cbj|11223240|0|0|0|2
+75||Jean-François Lester|13|5|5|10|5|4.5|28||Nashville|nas|15831297|3|1|0|0
+76||Kristaps Emsis|13|5|5|10|15|5.1|27||Boston|bos|17267122|0|0|4|3
+77||Henri Guillaume|11|5|5|10|10|4.8|23||Ottawa|ott|14154481|0|0|16|4
+78||Ondrej Gendiar|13|5|5|10|-6|4.3|55||Edmonton|edm|16423541|4|0|6|3
+79||Petr Klouda|13|5|4|9|5|4.5|34||Buffalo|buf|17817338|1|0|4|0
+80||Dušan Konc|12|5|4|9|13|4.8|33||Tampa Bay|tbl|14062283|1|0|8|0
+81||Marek Řehák|13|5|4|9|11|4.4|30||Anaheim|ana|14043546|0|0|4|3
+82||Mioljub Vlahović|13|5|3|8|-5|4.2|26||Nashville|nas|11001702|1|1|2|4
+83||Rudolf Filip|13|5|2|7|11|4.6|29||Detroit|det|11971266|1|0|12|0
+84||Radek Sobota|11|5|1|6|6|4.2|35||Vancouver|van|14176620|0|0|18|1
+85||Pavel Machala|11|5|1|6|1|4.6|24||Calgary|cgy|15816586|2|0|10|2
+86||Pauls Murjānis|13|5|1|6|3|4.3|18||San Jose|sjs|15313197|0|0|6|2
+87||Michal Doleček|13|5|1|6|-1|4.0|63||Montreal|mtl|7925347|1|0|26|0
+88||Pavol Kňazovický|12|5|0|5|3|4.0|28||Montreal|mtl|19334240|0|0|8|2
+89||Čestmír Kuropčák|7|5|0|5|2|4.2|18||Nashville|nas|16228972|1|1|4|3
+90||Vlastimil Davidovič|13|5|0|5|8|4.5|17||St. Louis|stl|11979349|0|0|4|0
+91||Andre Balimann|6|5|0|5|6|5.4|13||Tampa Bay|tbl|13596811|1|0|0|3
+92||Sam Short|12|4|13|17|27|6.7|47||Florida|fla|11815548|0|0|0|0
+93||Ernest Horbacz|13|4|10|14|16|5.3|24||Boston|bos|16221989|0|1|12|2
+94||Matti Hynönen|7|4|10|14|6|6.4|22||Anaheim|ana|13131889|3|0|0|1
+95||Jannick Wolter/s|13|4|9|13|-2|4.4|31||Toronto|tor|20259105|3|0|12|0
+96||Nikolajs Priede|13|4|8|12|9|4.8|35||Vancouver|van|16288208|0|0|8|2
+97||Thomas Herve|13|4|7|11|13|5.2|22||Vancouver|van|15620211|0|0|8|0
+98||Marián Bomberovič|13|4|7|11|14|4.9|49||Tampa Bay|tbl|20089934|0|0|10|0
+99||Paul Dormann|13|4|6|10|5|4.7|34||Carolina|car|16221937|2|0|12|0
+100||Günther Wenisch|12|4|6|10|9|4.7|30||Detroit|det|15397988|0|0|4|4
+101||Albertín Badáň|11|4|4|8|-8|4.4|22||NY Rangers|nyr|20090912|2|0|6|2
+102||Jarmo Saarijärvi|12|4|4|8|11|4.8|39||NY Islanders|nyi|18116026|0|0|14|3
+103||Baltazár Švagrík|13|4|3|7|7|4.5|20||St. Louis|stl|16847302|0|0|2|0
+104||Ľubomír Vaňo|13|4|2|6|8|4.5|25||Tampa Bay|tbl|17437347|0|0|8|0
+105||Peter Holečka|13|4|2|6|4|4.3|25||Nashville|nas|12992087|1|0|6|0
+106||Oivind Ingebretsen|12|4|2|6|-3|4.1|24||Atlanta|atl|10758775|1|1|6|1
+107||Martin Demeš|11|4|1|5|8|4.3|29||Colorado|col|17129434|0|0|8|0
+108||Jakub Vondráček|11|4|1|5|6|4.5|28||Edmonton|edm|10617973|0|0|8|0
+109||Patrik Eliáš|12|4|1|5|-10|3.4|25||Pittsburgh|pit|13836761|2|1|14|0
+110||Peter Bondra|13|4|1|5|-16|3.3|19||Pittsburgh|pit|19645118|2|0|8|0
+111||Cornel Şerbănescu|9|4|1|5|3|4.2|19||Phoenix|phx|21161379|2|0|6|0
+112||Bartolomej Bartákovič|13|4|1|5|0|4.1|16||Toronto|tor|21467374|0|0|12|0
+113||Matěj Jeníček|13|4|0|4|3|4.0|32||Atlanta|atl|10989815|3|0|8|0
+114||Šimon Pastierik|13|4|0|4|10|4.3|20||Florida|fla|10827809|0|0|12|2
+115||Marjan Kavec|9|4|0|4|3|4.7|11||Anaheim|ana|15801469|0|0|0|0
+116||Viesturs Melngailis|12|3|9|12|10|5.0|23||Columbus|cbj|11014106|0|0|8|0
+117||Heinz Häfele|7|3|9|12|5|6.2|20||Ottawa|ott|16118091|1|0|0|1
+118||Egils Katlaps|12|3|6|9|8|4.6|18||Ottawa|ott|16262074|0|0|4|0
+119||Fred Slater|13|3|6|9|-2|4.3|29||Washington|was|17811910|0|0|2|1
+120||Jozef Oboňa|13|3|5|8|12|4.6|18||Detroit|det|14641042|0|0|6|1
+121||Juzef Patkauka|12|3|5|8|0|4.7|40||Edmonton|edm|10329119|2|0|0|0
+122||Gustav Josefsson|11|3|5|8|5|4.6|35||St. Louis|stl|11049845|1|0|10|0
+123||Róbert Mlynka|13|3|4|7|6|4.3|26||Toronto|tor|7214994|0|0|2|1
+124||Albin Łuba|10|3|4|7|10|4.7|25||Tampa Bay|tbl|18576111|1|0|0|0
+125||Servác Lipiansky|11|3|4|7|3|4.3|20||NY Islanders|nyi|20417823|0|0|14|0
+126||Alexandre Martins|7|3|4|7|0|4.3|16||Calgary|cgy|13835574|3|0|0|0
+127||Michal Hašek|13|3|4|7|15|4.6|28||NY Islanders|nyi|11143436|0|0|2|0
+128||Normunds Skaidiņš|13|3|4|7|3|4.2|30||Calgary|cgy|9726836|0|0|8|0
+129||Kristaps Dzenis|13|3|4|7|6|4.3|42||St. Louis|stl|11226363|2|0|4|0
+130||Luuk Veldkamp|13|3|4|7|3|4.2|27||Calgary|cgy|8541009|0|0|4|0
+131||Ģirts Zandmans|13|3|3|6|1|4.1|26||Buffalo|buf|20422005|1|0|6|1
+132||Viorel Gheorghe|13|3|3|6|7|4.3|26||Carolina|car|15531929|0|0|2|0
+133||Branislav Trabalík|12|3|3|6|-5|4.1|18||Nashville|nas|14634290|0|1|10|2
+134||Sebastien Zumdick|5|3|3|6|0|3.9|17||San Jose|sjs|15405270|0|0|0|2
+135||Jacky Chassard|13|3|3|6|-7|3.8|17||Dallas|dal|16621141|0|0|0|1
+136||Vilmo Kivimäe|12|3|3|6|3|4.4|16||St. Louis|stl|7614450|2|0|2|0
+137||Fedot Snegov|13|3|3|6|-11|3.5|16||NY Rangers|nyr|15865585|1|0|20|0
+138||Teodor Nica|9|3|3|6|1|4.4|33||Vancouver|van|14763837|1|1|4|0
+139||Egils Eglītis|11|3|2|5|3|4.1|22||Carolina|car|13854654|0|0|0|0
+140||Fadey Maksarov|13|3|2|5|5|4.2|20||Edmonton|edm|17276770|0|0|6|0
+141||Jori Vehkajärvi|13|3|2|5|-1|4.0|18||Edmonton|edm|12211608|0|0|4|0
+142||Branislav Strnisko|8|3|2|5|7|5.0|18||Toronto|tor|10762804|0|0|0|1
+143||Almar Matthesen|13|3|2|5|3|4.1|16||Calgary|cgy|8872618|0|0|14|0
+144||Marcel Blažek|13|3|2|5|7|4.4|14||Florida|fla|11459993|0|0|4|0
+145||Riku Nokkila|6|3|2|5|1|4.8|13||Calgary|cgy|16225249|1|2|12|1
+146||Libor Dvořáček|13|3|2|5|-10|3.5|13||Minnesota|min|15622987|1|0|2|1
+147||Jakub Chytil|13|3|2|5|8|4.2|13||Colorado|col|20111575|0|0|12|0
+148||Miroslav Hromek|13|3|2|5|-1|3.9|33||Toronto|tor|18543379|1|0|2|0
+149||Mario Lemieux|13|3|2|5|-8|3.6|30||Pittsburgh|pit|12234007|0|2|4|0
+150||Peter Hotový|13|3|2|5|-9|3.5|27||Philadelphia|phi|19764884|1|0|14|0
+151||Jean Gregoire|11|3|1|4|-9|3.5|23||Dallas|dal|16221293|1|2|18|1
+152||Vladimír Maščenik|13|3|1|4|-7|3.8|20||San Jose|sjs|20639015|0|0|0|0
+153||William Light|12|3|1|4|-17|3.3|17||Philadelphia|phi|21965838|2|0|6|0
+154||Radoslav Godor|13|3|1|4|-14|3.5|17||LA Kings|lak|21762292|2|0|4|0
+155||Ludvik Kremš|13|3|1|4|-1|4.1|41||Buffalo|buf|21669796|0|0|0|0
+156||Róbert Skopal|13|3|1|4|6|4.1|27||St. Louis|stl|12455635|0|0|16|1
+157||David Alejandro Quintana|7|3|0|3|5|4.8|13||St. Louis|stl|13194092|0|1|4|0
+158||Carsten Pauly|4|3|0|3|1|5.0|9||St. Louis|stl|15184438|2|0|0|1
+159||Hans-Jørn Thorninger|12|3|0|3|-18|3.5|27||Chicago|chi|25439443|2|0|10|0
+160||Marek Májik|13|2|15|17|-1|5.1|40||NJ Devils|njd|18271496|2|0|14|2
+161||Eino Kamsula|13|2|12|14|8|5.0|31||Anaheim|ana|15378813|0|0|4|0
+162||Mikita Rat'kovich|13|2|10|12|9|4.8|19||NJ Devils|njd|19369206|0|0|0|0
+163||Leonhard Hlawatsch|13|2|10|12|13|4.8|26||Columbus|cbj|11004517|1|0|14|0
+164||Béla Zoubek|13|2|10|12|6|4.6|27||NJ Devils|njd|13616633|2|0|2|0
+165||Jonatán Dušik|13|2|9|11|0|4.3|28||Detroit|det|18193013|0|0|14|0
+166||Dale Miles|13|2|8|10|7|4.7|33||Columbus|cbj|11980847|1|0|8|1
+167||Patrycjusz Ziółkowski|11|2|7|9|13|4.9|39||LA Kings|lak|11055540|0|0|6|0
+168||Mikael Väisänen|12|2|7|9|7|4.7|36||St. Louis|stl|9866764|0|0|0|0
+169||Olívius Lazarik|13|2|7|9|-5|4.0|18||San Jose|sjs|16226655|0|0|2|1
+170||Medard Čajka|13|2|6|8|23|5.1|16||Florida|fla|12891339|0|0|12|0
+171||Miroslav Stojanović|13|2|6|8|5|4.5|29||Columbus|cbj|14466064|2|0|4|0
+172||Martin Kadlec|9|2|5|7|17|5.4|13||Ottawa|ott|16463644|0|0|6|0
+173||Jakub Votruba|13|2|5|7|11|4.4|45||Detroit|det|19233086|1|0|4|0
+174||Marek Souček|13|2|5|7|9|4.6|25||St. Louis|stl|11925396|1|0|2|1
+175||Ladislav Behič|13|2|5|7|-13|3.7|26||Boston|bos|22277227|2|0|10|0
+176||Ilpo Tynjälä|13|2|4|6|4|4.3|33||Nashville|nas|13373807|1|0|6|0
+177||Dalimil Valeš|13|2|4|6|5|4.3|34||Buffalo|buf|12647578|0|0|2|0
+178||Ján Bubeník|13|2|4|6|14|4.5|18||LA Kings|lak|12200626|0|0|2|0
+179||Ādolfs Pakalniņš|13|2|3|5|3|4.3|32||Calgary|cgy|16198209|1|0|2|0
+180||Norman Kobezda|13|2|3|5|10|4.4|20||NY Islanders|nyi|18124935|0|2|6|0
+181||Nicolas Lacombe|13|2|3|5|-14|3.6|28||Dallas|dal|17244370|0|1|6|1
+182||Levoslav Demjan|13|2|3|5|-2|3.9|27||Nashville|nas|19661029|0|0|4|0
+183||Ilmaras Čepkovska|13|2|3|5|2|4.3|37||St. Louis|stl|12879222|1|0|10|1
+184||Edgars Martināns|13|2|3|5|1|4.1|30||Calgary|cgy|17101529|0|0|4|0
+185||Michal Diviš|13|2|2|4|-7|3.7|14||Chicago|chi|16657119|0|0|0|0
+186||Martin Motyčka|10|2|2|4|8|4.8|12||Toronto|tor|20372265|0|0|10|0
+187||Olavi Elf|9|2|2|4|4|4.1|19||Columbus|cbj|9085551|0|0|12|0
+188||Prokop Buriánek|13|2|2|4|1|3.9|29||Buffalo|buf|23421140|0|2|14|0
+189||Manuel Šramko|13|2|2|4|-7|3.8|25||Nashville|nas|18257595|1|0|22|0
+190||Lyly Käräjäoja|10|2|2|4|7|4.8|20||Anaheim|ana|13840670|0|0|8|2
+191||Jeremiáš Lacík|10|2|2|4|-9|3.8|22||Boston|bos|24288776|2|0|12|0
+192||Edmund Keusch|8|2|2|4|-6|3.7|25||Edmonton|edm|16611487|1|0|2|0
+193||Rudolf Mišík|12|2|2|4|4|4.0|18||NJ Devils|njd|19293200|0|0|12|1
+194||Eduard Šútor|13|2|1|3|-1|3.8|17||Carolina|car|14656743|0|0|0|0
+195||Arnault Papaux|13|2|1|3|-5|3.6|17||NY Islanders|nyi|18531461|0|0|10|0
+196||Manuel Francisty|7|2|1|3|-1|4.3|15||NY Rangers|nyr|26152999|1|0|10|0
+197||Markus Aisslinger|13|2|1|3|2|3.9|11||Montreal|mtl|7913075|0|0|8|0
+198||Herman Block|3|2|1|3|0|5.0|10||San Jose|sjs|8609074|0|0|0|0
+199||Ādams Prūsis|11|2|1|3|-4|3.7|9||Atlanta|atl|12194738|0|0|2|0
+200||Mariss Dzerkalis|6|2|1|3|3|4.8|8||St. Louis|stl|14332890|0|0|0|0
+201||Anton Boykov|7|2|1|3|-1|3.7|6||Phoenix|phx|13422247|0|0|0|0
+202||Tichomír Michalenko|12|2|1|3|-10|3.4|19||Minnesota|min|20651242|1|0|10|0
+203||Tomi Ronkainen|11|2|1|3|-8|3.3|27||Boston|bos|21532952|2|0|0|0
+204||Piatro Ksiandzou|13|2|1|3|-1|3.8|23||Calgary|cgy|17307218|0|0|12|1
+205||Michal Matejka|13|2|1|3|3|4.0|27||San Jose|sjs|16438034|1|0|0|0
+206||Lukáš Laczk|13|2|1|3|2|3.9|30||NY Islanders|nyi|19637329|0|0|8|0
+207||Jan Bečka|13|2|1|3|-19|3.1|31||NY Rangers|nyr|21532078|0|0|10|0
+208||Gabriel Bujnik|8|2|1|3|-5|4.1|31||NY Islanders|nyi|22672098|1|0|8|0
+209||Franco Vernetti|13|2|1|3|5|3.9|25||Buffalo|buf|19352425|0|0|8|0
+210||Branislav Bondra|11|2|1|3|-12|3.4|24||Dallas|dal|20078488|1|0|8|0
+211||Jan Šourek|8|2|0|2|1|3.8|17||Detroit|det|8955723|0|0|4|1
+212||Shane Rioch|12|2|0|2|-15|3.4|16||Philadelphia|phi|21202523|0|0|2|0
+213||Víťazoslav Krátky|13|2|0|2|-14|3.4|12||LA Kings|lak|17377077|0|0|2|0
+214||Ivan Bačík|9|2|0|2|-4|3.6|11||Phoenix|phx|18207692|0|0|0|0
+215||Maxim Šulka|5|2|0|2|0|4.4|10||Calgary|cgy|20852590|0|0|4|0
+216||Matias Veijanen|13|2|0|2|-5|3.6|7||Chicago|chi|20844285|0|0|6|1
+217||Edgars Upurnieks|13|2|0|2|-13|3.3|7||Boston|bos|23117116|0|0|14|0
+218||Medard Polák|3|2|0|2|-2|3.0|6||Washington|was|13109569|1|0|0|1
+219||Teppo Simontaival|1|2|0|2|0|6.0|4||Anaheim|ana|7791716|2|0|2|1
+220||Rudolf Faragó|13|2|0|2|-4|3.7|18||LA Kings|lak|16100489|0|0|4|0
+221||Gašper Sodja|11|1|21|22|24|6.7|25||Ottawa|ott|16373077|0|1|10|0
+222||Adam Tapio|13|1|12|13|3|4.8|25||Atlanta|atl|12422016|1|0|2|0
+223||Ľubomír Rajčan|13|1|12|13|9|5.0|17||Colorado|col|8216561|1|0|2|0
+224||Potap Borisov|13|1|8|9|9|4.7|41||Colorado|col|17633934|0|0|4|0
+225||Valentýn Hrubeš|13|1|8|9|14|4.9|35||NY Islanders|nyi|9284959|0|0|6|0
+226||Stefan Wieczerniak|13|1|8|9|6|4.5|20||NJ Devils|njd|11221307|1|0|10|0
+227||Imanol Elía|10|1|8|9|1|4.4|24||Phoenix|phx|21257454|0|0|14|0
+228||Jaroslav Ďurica|13|1|7|8|5|4.2|25||Buffalo|buf|20438591|1|0|16|0
+229||Jarolím Ďurčák|13|1|6|7|5|4.4|24||Edmonton|edm|11016919|0|0|6|0
+230||Arttu Issakainen|13|1|6|7|-3|4.2|24||Detroit|det|17636629|1|0|0|0
+231||Julián Jiménez|13|1|6|7|7|4.6|17||St. Louis|stl|16241661|1|0|0|0
+232||Robert Schwarz|13|1|5|6|8|4.6|33||Colorado|col|17167699|0|0|4|0
+233||Samuli Rautio|13|1|5|6|0|4.0|23||Montreal|mtl|14309732|0|0|10|0
+234||Zacharias Bersnak|13|1|5|6|1|4.1|18||NJ Devils|njd|19221873|0|0|2|0
+235||Vladimir Konstantinov|13|1|5|6|-13|3.6|17||Pittsburgh|pit|20256890|1|0|4|0
+236||Tomáš Filander|11|1|5|6|14|5.1|12||Boston|bos|16444552|0|0|6|0
+237||Mikael Samuelsson|13|1|5|6|-15|3.4|18||Pittsburgh|pit|13895437|0|0|4|0
+238||Dárius Mikulášik|13|1|5|6|4|4.3|17||Atlanta|atl|15686323|1|0|8|0
+239||Atis Pagrabs|13|1|5|6|11|4.5|16||Anaheim|ana|10766435|0|0|0|0
+240||Gregor Kurilla|13|1|4|5|5|4.3|33||Minnesota|min|18501476|0|0|24|0
+241||Tiarnach McIntyre|12|1|4|5|-2|4.0|25||Toronto|tor|18149509|1|0|12|0
+242||Matej Pecho|13|1|4|5|13|4.6|22||Colorado|col|14338994|0|0|8|0
+243||Edward Hampton|13|1|4|5|3|4.2|22||San Jose|sjs|18732009|0|0|6|0
+244||Bernard Novák|13|1|4|5|-1|3.7|25||Calgary|cgy|19392090|1|0|18|0
+245||Timoteo Díez|5|1|4|5|-2|4.8|10||Phoenix|phx|15176099|1|0|2|1
+246||Marián Mosoriak|9|1|4|5|-1|4.1|16||Vancouver|van|14780081|0|0|4|0
+247||Jorma Lyyra|13|1|4|5|6|4.5|17||Vancouver|van|15388967|1|0|4|0
+248||Jonathan Tanguy|13|1|4|5|6|4.3|13||NJ Devils|njd|15616758|0|0|2|0
+249||Jakub Walter|13|1|4|5|3|4.2|10||Calgary|cgy|11810768|0|0|0|0
+250||Dobroslav Kolečáni|9|1|4|5|2|4.2|17||Tampa Bay|tbl|10753347|0|0|2|0
+251||David Žák|13|1|4|5|-2|4.0|13||Atlanta|atl|16221236|0|1|10|0
+252||Atle Borg|5|1|4|5|4|5.5|10||St. Louis|stl|11039300|0|0|0|0
+253||Anatoliy Volokhov|13|1|4|5|5|4.2|18||NJ Devils|njd|19355673|0|0|4|0
+254||Ilkka Ahtonen|13|1|4|5|-1|4.0|9||Toronto|tor|20302282|0|0|4|0
+255||Gabriel Pluhař|13|1|3|4|0|4.0|37||Calgary|cgy|11966626|0|0|4|0
+256||Vaidimantas Osipovičius|13|1|3|4|-10|3.5|20||Boston|bos|21555296|1|0|6|0
+257||Torjus Hofseth|12|1|3|4|-16|3.7|20||Chicago|chi|25890709|0|0|2|0
+258||Tiberiu Olteanu|7|1|3|4|2|4.8|24||Carolina|car|16464988|1|0|0|0
+259||Rastislav Jankulár|11|1|3|4|11|4.2|21||Colorado|col|16235623|0|0|8|0
+260||Marek Kurka|13|1|3|4|-11|3.5|21||Boston|bos|23763478|1|0|12|0
+261||Ján Števko|13|1|3|4|11|4.4|20||Columbus|cbj|12060608|0|0|4|0
+262||Ivo Machač|13|1|3|4|6|4.1|20||Toronto|tor|17245057|0|0|2|0
+263||Olavi Venemies|13|1|3|4|7|4.3|19||Vancouver|van|14781000|1|0|2|0
+264||Daumants Spole|13|1|3|4|16|4.7|16||Anaheim|ana|15059262|0|0|0|0
+265||Vlaho Vančo|9|1|3|4|-8|3.4|9||Washington|was|7922788|0|0|4|0
+266||Tadeáš Bajer|12|1|3|4|6|4.2|9||Toronto|tor|10824550|0|0|0|0
+267||Adam Čech|13|1|2|3|-4|3.6|8||Chicago|chi|16499303|0|0|0|1
+268||Povl Warrer|13|1|2|3|2|4.0|32||Montreal|mtl|12991729|1|0|2|0
+269||Peter Frtús|13|1|2|3|8|4.2|22||Toronto|tor|19297764|0|0|0|0
+270||Pavel Šíp|10|1|2|3|4|4.1|24||Carolina|car|16119225|0|0|8|0
+271||Brian Ihlica|13|1|2|3|7|4.2|21||Carolina|car|15599805|1|0|6|0
+272||Ales Salei|13|1|2|3|2|3.9|21||Columbus|cbj|12655756|0|0|6|0
+273||Zítomír Žitňanský|13|1|2|3|-17|3.2|14||Philadelphia|phi|23436840|0|0|6|0
+274||Tichomír Práznovský|12|1|2|3|16|4.8|18||Boston|bos|16679739|0|0|0|0
+275||Rūdolfs Kalns|13|1|2|3|0|4.0|18||Montreal|mtl|15373358|0|0|12|0
+276||Ralfs Daugavietis|5|1|2|3|3|3.4|10||Tampa Bay|tbl|8989331|1|0|4|0
+277||Paul Wilson|7|1|2|3|2|4.6|18||Vancouver|van|15140333|1|0|0|0
+278||Dominik Gumieniak|13|1|2|3|8|4.3|15||Columbus|cbj|7117962|0|0|8|0
+279||Dan Ligas|13|1|2|3|8|4.2|15||St. Louis|stl|15229573|0|0|12|0
+280||Andrey Markov|11|1|2|3|-6|3.2|12||Pittsburgh|pit|12665192|0|0|12|0
+281||Anatoliy Zaitsev|11|1|2|3|-20|3.0|15||Chicago|chi|24732940|1|0|16|0
+282||Norbert Batory|13|1|1|2|-21|2.9|7||Philadelphia|phi|14046838|1|0|4|0
+283||Flavio Scagliusi|13|1|1|2|-13|3.3|6||Dallas|dal|12186652|0|0|2|0
+284||Emil Šimáček|3|1|1|2|2|5.0|6||NJ Devils|njd|26049890|0|0|2|0
+285||Jakub Volek|12|1|1|2|-8|3.3|5||Atlanta|atl|19463333|0|0|12|0
+286||Demeter Šramko|3|1|1|2|-1|4.5|4||Colorado|col|20614940|0|0|12|0
+287||Ovídius Ladický|13|1|1|2|-2|3.7|3||Nashville|nas|19661026|0|0|8|0
+288||Heinz Lausen|4|1|1|2|1|4.6|2||Tampa Bay|tbl|11953292|0|0|2|1
+289||Leif Munkvold|2|1|1|2|2|5.5|1||Phoenix|phx|13143247|0|0|0|0
+290||Willy Kleist|11|1|1|2|-1|3.8|21||Phoenix|phx|18198607|0|0|4|0
+291||Rudolf Horňak|10|1|1|2|-10|3.1|23||NY Rangers|nyr|22667052|1|0|8|0
+292||Marcus Näslund|13|1|1|2|-13|3.2|22||Pittsburgh|pit|19184638|0|0|18|1
+293||Hugolín Bečica|13|1|1|2|3|3.9|25||Montreal|mtl|18766906|0|0|2|0
+294||Ezechiele Toldo|11|1|1|2|-6|3.8|23||Dallas|dal|11817825|1|0|6|0
+295||Usko Sallamo|10|1|1|2|-5|3.9|11||Atlanta|atl|9193324|0|0|0|0
+296||Petr Hanzal|11|1|1|2|-7|3.5|10||Phoenix|phx|20235071|0|0|8|0
+297||Michal Trnka|12|1|1|2|-1|4.2|12||Edmonton|edm|11264853|0|0|8|0
+298||Ludwig Bohlin|10|1|1|2|-1|4.1|14||Atlanta|atl|24342276|0|0|6|0
+299||Ján Zelinka|13|1|1|2|-9|3.5|14||LA Kings|lak|15154887|0|0|0|0
+300||Joe Coote|7|1|1|2|2|3.6|11||San Jose|sjs|15430473|0|0|10|0
+301||Jaroslav Novák|13|1|1|2|2|3.9|15||Montreal|mtl|16113967|0|0|0|0
+302||Ivan Mazanovský|9|1|1|2|-5|3.4|10||Atlanta|atl|9677078|0|0|12|0
+303||Homér Strečka|11|1|1|2|-5|3.6|11||San Jose|sjs|17451799|0|0|0|0
+304||Dominik Kalivoda|13|1|1|2|-19|3.2|12||NY Rangers|nyr|20366565|0|0|10|1
+305||Christopher Libby|13|1|1|2|-1|3.6|11||Carolina|car|17105704|0|0|8|0
+306||Branislav Ondrík|9|1|1|2|0|4.2|18||Montreal|mtl|16239729|0|0|2|0
+307||Ade Rinehart|8|1|1|2|3|4.4|10||Washington|was|26140476|0|0|16|0
+308||Maximilián Vaško|13|1|1|2|-2|3.8|9||Nashville|nas|14455838|0|0|2|1
+309||Isidor Eisenbarth|13|1|1|2|-6|3.6|9||Atlanta|atl|12450344|0|0|6|0
+310||Samuel Parkkima|11|1|0|1|-17|2.9|8||Chicago|chi|25300487|0|0|8|0
+311||Maxime Sauvage|13|1|0|1|-8|3.3|8||Dallas|dal|20622809|0|0|6|0
+312||Ján Moravec|13|1|0|1|-2|3.5|7||Anaheim|ana|17144824|0|0|4|0
+313||Yann Lagarde|12|1|0|1|-6|3.3|6||Dallas|dal|13372179|0|0|18|0
+314||Craig Payne|13|1|0|1|-8|3.4|6||Philadelphia|phi|18326479|0|0|2|0
+315||Vojtěch Kulhavý|11|1|0|1|1|3.7|5||Chicago|chi|15610925|0|0|2|1
+316||Petr Sigaev|12|1|0|1|-8|3.4|5||Atlanta|atl|20178918|0|0|0|0
+317||Mišo Kovač|4|1|0|1|0|4.3|5||Montreal|mtl|16442065|0|0|4|0
+318||David Mulholland|13|1|0|1|-11|3.2|5||Boston|bos|24450983|0|0|12|0
+319||Reijo Saine|11|1|0|1|-1|3.5|4||Chicago|chi|17476244|0|0|4|0
+320||Jerome Chretien|2|1|0|1|-2|3.9|4||Philadelphia|phi|14322059|0|0|0|0
+321||Jay Kidd|11|1|0|1|1|4.2|4||NY Rangers|nyr|18262077|0|1|0|0
+322||Pompeu Santiago|3|1|0|1|1|4.7|3||Anaheim|ana|25302346|0|0|2|0
+323||Denis Borták|12|1|0|1|-9|3.3|3||Minnesota|min|21730759|0|0|2|0
+324||Baptiste Leroy|1|1|0|1|1|5.4|1||Philadelphia|phi|14610488|0|0|0|0
+325||Olaf Muntschick|13|1|0|1|-15|3.2|30||NY Rangers|nyr|20901352|0|0|0|0
+326||Manuel Pruvost|13|1|0|1|-7|3.5|21||Dallas|dal|21158490|0|0|14|0
+327||Július Hupcej|13|1|0|1|-19|2.8|24||NY Rangers|nyr|24541675|0|0|20|0
+328||Jozef Jedlička|13|1|0|1|-4|3.7|22||LA Kings|lak|19258105|0|0|10|0
+329||Bojan Jalovec|12|1|0|1|-9|3.4|23||Minnesota|min|20621917|1|0|10|0
+330||Álmos Berki|11|1|0|1|-6|3.6|13||Atlanta|atl|8348020|0|0|6|0
+331||Václav Hejduk|13|1|0|1|-23|2.9|19||Chicago|chi|24570749|1|0|10|0
+332||Tatu Hallantie|11|1|0|1|-5|3.5|19||Atlanta|atl|15144520|0|0|0|0
+333||Pavel Datsyuk|13|1|0|1|-15|2.9|18||Pittsburgh|pit|21986632|0|0|20|0
+334||Ladislav Cerulík|13|1|0|1|-2|3.6|15||Nashville|nas|11823956|0|0|8|0
+335||Kristian Näppi|13|1|0|1|2|3.8|11||Ottawa|ott|23767138|0|1|20|0
+336||Kirill Semenov|13|1|0|1|6|4.0|19||St. Louis|stl|12897903|0|0|2|0
+337||Kari Toikka|10|1|0|1|-9|3.4|10||Philadelphia|phi|25741724|1|0|2|0
+338||Frederik Martynyuk|13|1|0|1|-4|3.6|14||LA Kings|lak|13373706|0|0|8|0
+339||Dele MacInnis|13|1|0|1|-21|2.9|14||Philadelphia|phi|17404852|0|0|6|0
+340||Christobal Ruiz|12|1|0|1|-4|3.6|15||Dallas|dal|18125899|1|0|8|0
+341||Brendan Moriarty|13|1|0|1|-9|3.4|16||Phoenix|phx|22669180|0|0|4|0
+342||Alex Van den Balck|12|1|0|1|-5|3.6|15||Dallas|dal|17159245|0|0|8|0
+343||Ailill Fagg|13|1|0|1|4|3.9|14||Atlanta|atl|20227332|0|0|20|0
+344||Svätopluk Bukvaj|3|1|0|1|3|4.9|9||Colorado|col|19487833|0|0|6|0
+345||Caspar Widmann|5|1|0|1|-2|3.2|9||Washington|was|16104155|0|0|0|0
+346||Oliver Jamrich|13|0|13|13|11|5.2|19||Buffalo|buf|13247542|0|0|10|0
+347||Miodrag Vukotić|7|0|11|11|15|6.7|15||Carolina|car|14194745|0|0|0|0
+348||Daniel Čermák|11|0|11|11|5|5.2|35||Anaheim|ana|14165934|0|0|4|0
+349||Tomáš Košťál|12|0|10|10|19|5.7|19||Florida|fla|12660787|0|0|16|0
+350||Pēteris Briedis|13|0|9|9|14|5.0|22||Vancouver|van|15163364|0|0|4|0
+351||Dragan Simić|6|0|9|9|14|6.7|11||Carolina|car|13121101|0|0|0|0
+352||Sebastjan Šter|13|0|8|8|5|4.2|40||Carolina|car|17122049|0|0|22|0
+353||Martin Zoubek|13|0|8|8|1|4.3|32||Buffalo|buf|16631233|0|0|0|0
+354||Valentin Panov|13|0|7|7|-2|4.2|19||Washington|was|13381908|0|0|2|0
+355||Jan Březina|13|0|7|7|21|5.0|21||Florida|fla|11824605|0|0|2|0
+356||Oleg Horáček|13|0|6|6|8|4.5|18||Tampa Bay|tbl|11292931|0|0|8|0
+357||David Sýkora|13|0|6|6|16|4.7|24||Colorado|col|17311961|0|0|10|0
+358||Colin McGooken|13|0|6|6|11|4.5|20||Detroit|det|17127157|0|0|12|0
+359||Norton Strand|13|0|5|5|-10|3.7|29||Philadelphia|phi|18642462|0|0|10|0
+360||Marcel Konečný|11|0|5|5|13|5.0|29||Tampa Bay|tbl|10752325|0|0|2|0
+361||Ladislav Ďateľ|13|0|5|5|-6|3.8|15||Nashville|nas|16042094|0|0|10|0
+362||Ladislav Koubek|13|0|5|5|9|4.5|19||NY Islanders|nyi|11975232|0|0|4|0
+363||Jonas De Backer|13|0|5|5|2|4.2|40||Edmonton|edm|11941013|0|0|18|0
+364||Erik Štork|7|0|5|5|4|5.0|15||Phoenix|phx|22675679|0|0|12|0
+365||Emilian Staśkiewicz|13|0|5|5|8|4.2|8||Toronto|tor|10326757|0|0|4|0
+366||Natan Lopatin|9|0|4|4|-5|3.7|13||San Jose|sjs|10314295|0|0|8|0
+367||Matej Špaňo|10|0|4|4|-2|4.3|15||Phoenix|phx|22279226|0|0|6|0
+368||Matej Trakovický|10|0|4|4|-2|3.8|12||Phoenix|phx|21531588|0|0|6|0
+369||Ljubomir Ćefarin|13|0|4|4|3|4.1|9||Montreal|mtl|16614871|0|0|6|0
+370||František Sviček|7|0|4|4|0|3.6|10||LA Kings|lak|21555504|0|0|6|0
+371||Franc Par|13|0|4|4|11|4.4|24||Ottawa|ott|20689804|0|0|24|0
+372||Filip Zvěřina|13|0|4|4|0|4.1|18||Detroit|det|23760053|0|0|8|0
+373||Esa Tiitta|4|0|4|4|11|6.5|10||Florida|fla|17136295|0|0|2|0
+374||Branko Petač|11|0|4|4|10|4.9|28||LA Kings|lak|19335678|0|0|6|0
+375||Bohuš Behúl|10|0|4|4|4|4.5|13||Minnesota|min|13697346|0|0|6|0
+376||Artúr Ivanov|13|0|4|4|11|4.3|10||Colorado|col|17158103|0|0|2|0
+377||Vitomir Sušanj|10|0|3|3|3|3.9|12||San Jose|sjs|15477412|0|0|12|0
+378||Tomáš Soukup|10|0|3|3|6|4.6|19||Tampa Bay|tbl|16251914|0|0|6|0
+379||Tapio Viljanen|4|0|3|3|4|5.4|16||Calgary|cgy|18511916|0|0|4|0
+380||Sidney Crosby|13|0|3|3|-4|3.4|15||Pittsburgh|pit|18936502|0|0|12|0
+381||Róbert Bajtala|11|0|3|3|5|4.5|13||Edmonton|edm|10140046|0|0|8|0
+382||Pravoslav Cimrman|9|0|3|3|3|4.5|9||Anaheim|ana|19813885|0|0|0|0
+383||Paavo Krapu|9|0|3|3|3|4.5|6||Anaheim|ana|13196470|0|0|2|0
+384||Michal Procházka|12|0|3|3|-2|3.8|4||Atlanta|atl|12676348|0|0|2|0
+385||Lucián Horodník|13|0|3|3|-10|3.4|15||Philadelphia|phi|18936557|0|0|4|0
+386||Konstantin Davidov|12|0|3|3|6|4.3|11||St. Louis|stl|13456390|0|0|10|0
+387||Karol Ondov|10|0|3|3|-8|3.5|13||NY Rangers|nyr|14459057|0|0|0|0
+388||Karol Janák|13|0|3|3|-9|3.6|20||San Jose|sjs|25712171|0|0|18|0
+389||Johan Stenvik|13|0|3|3|-16|3.2|8||Chicago|chi|20142023|0|0|0|0
+390||Imanuel Vittek|12|0|3|3|3|4.2|24||St. Louis|stl|16642787|0|0|0|0
+391||Gregor Sobotík|5|0|3|3|-2|3.2|14||Washington|was|13372411|0|0|2|0
+392||Floretín Demeš|6|0|3|3|1|4.6|10||Vancouver|van|19223466|0|0|4|0
+393||Eduard Kanareykin|12|0|3|3|9|4.7|15||Colorado|col|17513436|0|0|0|0
+394||David Němec|13|0|3|3|29|5.1|18||Florida|fla|10767790|0|0|12|0
+395||David Kaňa|13|0|3|3|11|4.5|18||Buffalo|buf|14627317|0|0|20|0
+396||Burkhard Wittingkämper|13|0|3|3|0|3.8|18||LA Kings|lak|21761552|0|0|10|0
+397||Bedřich Vávra|11|0|3|3|-4|3.7|9||NY Islanders|nyi|18298379|0|0|10|0
+398||Ahti Pekola|13|0|3|3|-6|3.6|20||Minnesota|min|19337320|0|0|2|0
+399||Truman Burdick|13|0|2|2|-3|3.7|22||Detroit|det|17437761|0|0|4|0
+400||Thierry Deggelmann|13|0|2|2|2|3.9|11||Montreal|mtl|16475149|0|0|6|0
+401||Robert Janoušek|11|0|2|2|2|4.0|20||Montreal|mtl|15406153|0|0|6|0
+402||René Krasňan|13|0|2|2|-14|3.3|11||LA Kings|lak|15620216|0|0|0|0
+403||Petr Kopecký|12|0|2|2|4|4.1|10||St. Louis|stl|11356445|0|0|8|0
+404||Nikodije Šijan|8|0|2|2|1|3.5|12||Edmonton|edm|20406588|0|0|2|0
+405||Miķelis Ezerietis|10|0|2|2|-6|3.9|12||Minnesota|min|20141615|0|0|0|0
+406||Martin Budinský|13|0|2|2|7|3.9|13||Florida|fla|11724535|0|0|4|0
+407||Mario Prendergast|13|0|2|2|-20|3.0|16||Philadelphia|phi|21734106|0|0|6|0
+408||Marek Mojžíš|13|0|2|2|13|4.4|17||Vancouver|van|16558398|0|0|4|0
+409||Manfred Dalpiaz|4|0|2|2|1|4.6|5||Phoenix|phx|19311699|0|0|4|0
+410||Lukáš Vinš|12|0|2|2|1|3.7|3||Chicago|chi|24497164|0|0|2|0
+411||Leon Buhajewski|9|0|2|2|6|4.0|8||Calgary|cgy|9289803|0|0|2|0
+412||Kazimír Mišák|11|0|2|2|-8|3.2|10||Boston|bos|24962901|0|0|12|0
+413||Jāzeps Arsēns|13|0|2|2|-3|3.5|8||Chicago|chi|13389472|0|0|0|0
+414||Juris Pleškovs|13|0|2|2|5|4.1|30||Edmonton|edm|14806090|0|0|8|0
+415||Joran Uneken|5|0|2|2|0|4.5|9||NY Islanders|nyi|21743792|0|0|2|0
+416||Erik Poikajärvi|4|0|2|2|4|5.0|10||NJ Devils|njd|11007119|0|0|2|0
+417||Elvis Tanyasi|13|0|2|2|1|3.9|19||NJ Devils|njd|19213218|0|0|12|0
+418||Egor Vasiliev|13|0|2|2|2|3.9|34||Nashville|nas|12645561|0|0|14|0
+419||Efrem Kurashyov|7|0|2|2|-2|4.3|24||Detroit|det|21155130|0|0|8|0
+420||Edouard Jourdan|7|0|2|2|-5|3.5|8||Dallas|dal|16423259|0|0|0|0
+421||Daniel Ptáček|2|0|2|2|0|5.0|0||Calgary|cgy|19197986|0|0|0|0
+422||Byrge Salting|4|0|2|2|-1|3.0|5||Washington|was|9692039|0|0|2|0
+423||Brian Orset|13|0|2|2|-14|3.4|18||Dallas|dal|19296050|0|0|20|0
+424||Bojan Kadlič|5|0|2|2|-3|4.1|14||Carolina|car|24974362|0|0|8|0
+425||Alojz Gábriš|10|0|2|2|-7|3.9|12||San Jose|sjs|21743618|0|0|8|0
+426||Alexander Glova|12|0|2|2|0|4.2|13||Montreal|mtl|18153923|0|0|6|0
+427||Albertín Cimbala|8|0|2|2|-8|3.7|4||LA Kings|lak|25743846|0|0|14|0
+428||Aaron McCallum|7|0|2|2|1|4.3|3||Vancouver|van|16916904|0|0|2|0
+429||Zoran Jaso|13|0|1|1|-15|3.2|23||NY Rangers|nyr|25269622|0|0|16|0
+430||Zlatko Varga|4|0|1|1|2|4.5|7||Vancouver|van|21559408|0|0|4|0
+431||Zbyšek Klečka|6|0|1|1|-9|3.3|5||Phoenix|phx|26043360|0|0|4|0
+432||Wayne Crosby|12|0|1|1|-20|2.8|15||Philadelphia|phi|25704163|0|0|2|0
+433||Vincent Hordelay|13|0|1|1|-19|3.1|12||NY Rangers|nyr|18750389|0|0|6|0
+434||Viesturs Tītars|3|0|1|1|0|4.3|6||San Jose|sjs|14166318|0|0|0|0
+435||Tomáš Orlovský|7|0|1|1|-5|3.2|7||Boston|bos|18115891|0|0|2|0
+436||Toms Pujāts|13|0|1|1|-2|3.5|5||Anaheim|ana|11291689|0|0|6|0
+437||Simon Dubaj|3|0|1|1|-1|2.7|2||Edmonton|edm|25393327|0|0|2|0
+438||Sergej Piroš|6|0|1|1|0|3.4|4||Edmonton|edm|13152363|0|0|0|0
+439||Sebastián Murillo|6|0|1|1|2|3.7|13||Edmonton|edm|9054081|0|0|0|0
+440||Samuel Lenárt|5|0|1|1|-4|3.9|2||Ottawa|ott|23755356|0|0|8|0
+441||Sami Salo|9|0|1|1|-9|3.0|11||Pittsburgh|pit|15606119|0|0|4|0
+442||Richard Lintner|13|0|1|1|-15|3.1|10||Pittsburgh|pit|15145568|0|0|6|0
+443||Regis Regnier|1|0|1|1|2|6.2|7||Columbus|cbj|7311616|0|0|6|0
+444||Raymond Collin|13|0|1|1|-13|3.3|10||Dallas|dal|21309606|0|0|8|0
+445||Petr Píša|13|0|1|1|-15|3.3|8||Philadelphia|phi|19914720|0|0|12|0
+446||Otmar Červený|13|0|1|1|-3|3.8|5||Ottawa|ott|23798081|0|0|22|0
+447||Omar Lottenbach|13|0|1|1|6|3.9|10||St. Louis|stl|13007685|0|0|6|0
+448||Niculae Stanciulescu|3|0|1|1|-1|4.2|7||Montreal|mtl|16228772|0|0|2|0
+449||Māris Bute|13|0|1|1|-2|3.8|4||Anaheim|ana|17318992|0|0|0|0
+450||Márius Besedič|1|0|1|1|1|5.6|3||Detroit|det|18528356|0|0|0|0
+451||Miska Sorri|13|0|1|1|-2|3.8|10||Anaheim|ana|18128755|0|0|6|0
+452||Miroslav Trošt|13|0|1|1|-17|3.2|14||Philadelphia|phi|19448502|0|0|0|0
+453||Michal Koutný|13|0|1|1|-21|2.9|3||Chicago|chi|23444928|0|0|8|0
+454||Marián Čonko|11|0|1|1|-7|3.3|7||Phoenix|phx|18217377|0|0|4|0
+455||Marcel Gajdošík|3|0|1|1|0|4.5|2||Vancouver|van|24779845|0|0|2|0
+456||Lukáš Hlaváč|13|0|1|1|0|3.7|13||Detroit|det|18245433|0|0|2|0
+457||Ludvig Englund|12|0|1|1|-21|3.0|30||Chicago|chi|24786088|0|0|10|0
+458||Levoslav Smolárik|13|0|1|1|-16|3.2|9||NY Rangers|nyr|20090913|0|0|4|0
+459||Lawrence Phillips|7|0|1|1|2|4.3|5||Tampa Bay|tbl|13157488|0|0|2|0
+460||Laurent Boulanger|2|0|1|1|-1|4.2|2||NY Islanders|nyi|24093283|0|0|0|0
+461||Lars Stelte|9|0|1|1|-1|4.1|15||Calgary|cgy|20414877|0|0|0|0
+462||Kvitoslav Buchta|13|0|1|1|-10|3.3|12||Phoenix|phx|20132572|0|0|8|0
+463||Jouko Jääskinen|13|0|1|1|16|4.5|17||Anaheim|ana|13390998|0|0|0|0
+464||Joshua Haslam|5|0|1|1|0|3.3|6||Tampa Bay|tbl|10338977|0|0|0|0
+465||John Conn|13|0|1|1|-2|3.7|14||Anaheim|ana|21351736|0|0|20|0
+466||Jaroslav Spišiak|13|0|1|1|0|3.7|19||Nashville|nas|20417069|0|0|12|0
+467||Jaroslav Mihokov|9|0|1|1|-3|3.3|4||San Jose|sjs|23446542|0|0|8|0
+468||Jan Hýbl|9|0|1|1|3|3.6|12||Florida|fla|13140529|0|0|4|0
+469||Jakub Šlechta|7|0|1|1|7|4.7|12||Florida|fla|12307840|0|0|2|0
+470||Ivans Rožkalns|11|0|1|1|1|4.1|2||NY Rangers|nyr|16124457|0|0|0|0
+471||Igor Slamka|13|0|1|1|-6|3.5|6||Minnesota|min|20621918|0|0|0|0
+472||Ignacy Boruń|1|0|1|1|-2|3.8|3||Philadelphia|phi|13389925|0|0|0|0
+473||Hermod Svanning|4|0|1|1|-3|3.0|2||Washington|was|9698869|0|0|0|0
+474||Fred Lunt|13|0|1|1|-8|3.4|7||San Jose|sjs|20765978|0|0|12|0
+475||Filip Kořínek|2|0|1|1|-1|4.1|1||Phoenix|phx|18133093|0|0|2|0
+476||Erik Sidor|1|0|1|1|0|5.2|2||Phoenix|phx|25381365|0|0|2|0
+477||Dāvis Mazkalniņš|12|0|1|1|-9|3.4|11||Minnesota|min|20128369|0|0|2|0
+478||Dárius Košk|8|0|1|1|3|4.5|12||St. Louis|stl|16282198|0|0|0|0
+479||Drahomír Šafárik|13|0|1|1|6|3.9|17||Minnesota|min|13973996|0|0|4|0
+480||Dmitriy Timanov|8|0|1|1|-2|3.5|7||Atlanta|atl|16437960|0|0|6|0
+481||Bogdan Tsaplin|11|0|1|1|1|4.1|4||NY Rangers|nyr|15376002|0|0|0|0
+482||Björn Lohmann|5|0|1|1|2|3.7|9||Phoenix|phx|8513571|0|0|0|0
+483||Benjamin Dickens|13|0|1|1|-14|3.0|25||Washington|was|24755506|0|0|6|0
+484||Alexey Zhitnik|13|0|1|1|-10|3.0|14||Pittsburgh|pit|21783234|0|0|18|0
+485||Alexander Barron|9|0|1|1|-7|3.4|6||Washington|was|13138013|0|0|10|0
+486||Albert Dolejší|3|0|1|1|0|3.1|12||Montreal|mtl|16028215|0|0|0|0
+487||Alan Porras|2|0|1|1|0|4.6|2||Atlanta|atl|24142095|0|0|0|0
+488||Adrián Priesol|13|0|1|1|-5|3.6|9||NY Islanders|nyi|21243445|0|0|8|0
+489||Štefan Lejko|2|0|0|0|-3|3.2|7||Boston|bos|16498821|0|0|0|0
+490||Ľubomír Višňovský|6|0|0|0|-4|3.6|0||Pittsburgh|pit|25837615|0|0|4|0
+491||Ēvalds Egle|2|0|0|0|-1|3.6|0||Phoenix|phx|26148479|0|0|0|0
+492||Zlatko Sekso|2|0|0|0|-4|3.0|1||Ottawa|ott|5662547|0|0|6|0
+493||Zdeněk Dvořáček|9|0|0|0|2|3.7|2||NJ Devils|njd|20324654|0|0|0|0
+494||Yannick Henry|13|0|0|0|-13|3.2|5||Dallas|dal|21949659|0|0|2|0
+495||Vlastimil Pružinský|7|0|0|0|-3|3.2|8||Edmonton|edm|14164773|0|0|0|0
+496||Vladimír Bečvář|6|0|0|0|-4|3.6|13||San Jose|sjs|7069981|0|0|4|0
+497||Viliam Drgoň|13|0|0|0|-14|3.0|17||LA Kings|lak|25858178|0|0|26|0
+498||Vavrinec Dlhý|2|0|0|0|-2|3.3|0||Ottawa|ott|24079586|0|0|0|0
+499||Valdemar Hanuš|2|0|0|0|0|4.0|1||Chicago|chi|26152381|0|0|2|0
+500||Urban Milkovič|1|0|0|0|0|4.1|6||NY Islanders|nyi|24087127|0|0|0|0
+501||Tomáš Maťo|7|0|0|0|3|3.7|17||Florida|fla|13393758|0|0|2|0
+502||Tomáš Cihlář|4|0|0|0|-4|3.5|0||Phoenix|phx|26065693|0|0|6|0
+503||Tobiasz Cedro|11|0|0|0|1|4.0|0||NY Rangers|nyr|17625854|0|0|0|0
+504||Timotej Olšavský|13|0|0|0|-2|3.6|1||Nashville|nas|24353771|0|0|2|0
+505||Tihomir Petkov|2|0|0|0|-1|3.6|0||Phoenix|phx|26383589|0|0|0|0
+506||Tero Turva|9|0|0|0|-1|4.1|16||NY Islanders|nyi|19258800|0|0|0|0
+507||Teemu Selänne|5|0|0|0|-4|3.5|0||Pittsburgh|pit|19496663|0|0|4|0
+508||Tadeáš Popély|7|0|0|0|0|3.1|10||Tampa Bay|tbl|22715663|0|0|6|0
+509||Svetozár Bobuš|13|0|0|0|-6|3.5|17||Atlanta|atl|13787170|0|0|8|0
+510||Slavomír Bolla|6|0|0|0|-10|3.1|1||Washington|was|24556909|0|0|0|0
+511||Silvián Novák|2|0|0|0|-2|3.3|1||Ottawa|ott|26069149|0|0|0|0
+512||Silvester Petrovič|1|0|0|0|-1|3.5|0||Phoenix|phx|25694059|0|0|2|0
+513||Siarhey Petrykau|11|0|0|0|-10|3.5|5||Minnesota|min|23090923|0|0|4|0
+514||Sergey Makarov|5|0|0|0|0|3.1|1||Pittsburgh|pit|22274954|0|0|4|0
+515||Sergey Gonchar|13|0|0|0|-8|3.4|19||Pittsburgh|pit|17238948|0|0|2|0
+516||Samuel Galbavý|8|0|0|0|-6|3.6|8||NY Rangers|nyr|26046807|0|0|2|0
+517||Ronnie Isenschmid|11|0|0|0|-3|3.4|8||Chicago|chi|22782805|0|0|6|0
+518||Ronald Paštéka|13|0|0|0|-5|3.5|5||Minnesota|min|23504055|0|0|2|0
+519||Rolf Weindler|2|0|0|0|0|3.9|1||Washington|was|12657717|0|0|0|0
+520||Roland Liptai|2|0|0|0|0|4.2|2||Calgary|cgy|18131813|0|0|0|0
+521||Robert Švehla|7|0|0|0|-5|3.0|0||Pittsburgh|pit|14877367|0|0|2|0
+522||Robert Stanley|2|0|0|0|0|4.0|1||Chicago|chi|25001998|0|0|0|0
+523||Robert Mládek|2|0|0|0|0|3.8|2||Chicago|chi|21961277|0|0|0|0
+524||Raimond Kull|1|0|0|0|-1|3.4|0||Phoenix|phx|25388204|0|0|0|0
+525||Raimo Sukula|13|0|0|0|-3|3.4|0||Dallas|dal|24294068|0|0|6|0
+526||Radek Dvořák|5|0|0|0|-4|3.5|5||Pittsburgh|pit|11571675|0|0|0|0
+527||Pēteris Lazdiņš|9|0|0|0|-7|3.6|3||Philadelphia|phi|21159287|0|0|6|0
+528||Przybywoj Adamiak|5|0|0|0|-1|2.8|5||Toronto|tor|20122581|0|0|6|0
+529||Prokop Drahovský|11|0|0|0|-3|3.5|1||Nashville|nas|22670312|0|0|2|0
+530||Petr Svoboda|5|0|0|0|-5|3.4|3||Pittsburgh|pit|22668413|0|0|2|0
+531||Petr Matula|2|0|0|0|-5|2.7|0||Phoenix|phx|26244383|0|0|6|0
+532||Petr Kupka|13|0|0|0|-1|3.6|18||Detroit|det|20232283|0|0|2|0
+533||Petr Jedlička|13|0|0|0|-10|3.5|5||Minnesota|min|25394259|0|0|4|0
+534||Peter Jurdák|1|0|0|0|0|4.1|2||St. Louis|stl|23412070|0|0|2|0
+535||Pavol Demitra|2|0|0|0|-1|3.6|0||Pittsburgh|pit|18931053|0|0|0|0
+536||Oskari Torikka|3|0|0|0|0|3.9|1||Carolina|car|26176200|0|0|4|0
+537||Ondřej Míka|1|0|0|0|1|4.5|1||Calgary|cgy|20108607|0|0|2|0
+538||Ondřej Hanáček|8|0|0|0|-14|3.1|3||Washington|was|25746606|0|0|14|0
+539||Olli Äikiö|1|0|0|0|-1|3.3|0||Boston|bos|25071411|0|0|0|0
+540||Oleksiy Bilozor|5|0|0|0|-4|3.5|10||San Jose|sjs|12432663|0|0|12|0
+541||Ojārs Davidovs|13|0|0|0|-3|3.4|5||NY Rangers|nyr|24083160|0|0|6|0
+542||Norbert Mrázik|13|0|0|0|-1|3.8|25||Edmonton|edm|12475289|0|0|10|0
+543||Niko Tolonen|10|0|0|0|-10|3.5|1||Washington|was|25379247|0|0|2|0
+544||Murtagh M´guire|4|0|0|0|-6|3.1|0||Phoenix|phx|26192345|0|0|2|0
+545||Miroslav Šatan|12|0|0|0|-8|3.4|4||Pittsburgh|pit|21730339|0|0|4|0
+546||Miroljub Sekulović|4|0|0|0|-1|2.9|2||Washington|was|15411149|0|0|0|0
+547||Milan Topalović|2|0|0|0|-2|3.3|1||Ottawa|ott|21310888|0|0|2|0
+548||Milan Hvizdák|13|0|0|0|-2|3.7|0||Nashville|nas|23434062|0|0|2|0
+549||Milan Baďura|2|0|0|0|-2|3.5|0||Ottawa|ott|26069146|0|0|2|0
+550||Michal Štvarták|3|0|0|0|-6|3.0|0||Minnesota|min|25328996|0|0|0|0
+551||Michal Urban|1|0|0|0|0|4.0|1||Florida|fla|16236189|0|0|0|0
+552||Michal Rezek|5|0|0|0|-10|2.8|2||NY Rangers|nyr|24083238|0|0|2|0
+553||Michal Novák|2|0|0|0|-4|2.9|7||San Jose|sjs|25401729|0|0|6|0
+554||Michal Jozefovič|3|0|0|0|-4|3.4|0||Ottawa|ott|25266785|0|0|4|0
+555||Michael Reichel|13|0|0|0|-21|2.9|10||Chicago|chi|25434954|0|0|12|0
+556||Melchior Jurek|2|0|0|0|-3|3.2|1||San Jose|sjs|14300119|0|0|0|0
+557||Mathias Wagner|13|0|0|0|-14|3.1|1||Chicago|chi|19537954|0|0|0|0
+558||Martin Volf|6|0|0|0|-9|3.3|6||Carolina|car|24998375|0|0|6|0
+559||Martin Senecký|8|0|0|0|-7|2.9|8||Minnesota|min|25328997|0|0|8|0
+560||Martin Králíček|2|0|0|0|-1|3.6|0||Tampa Bay|tbl|26331533|0|0|6|0
+561||Martin Filipčič|4|0|0|0|-3|3.7|2||Calgary|cgy|26359756|0|0|0|0
+562||Mark Messier|6|0|0|0|-9|3.1|0||Pittsburgh|pit|22255770|0|0|4|0
+563||Marián Ferk|3|0|0|0|-4|1.8|2||Atlanta|atl|21743968|0|0|4|0
+564||Marek Štempel|3|0|0|0|0|4.0|0||Nashville|nas|26054556|0|0|0|0
+565||Marek Zábranský|12|0|0|0|2|4.2|10||Buffalo|buf|20300471|0|0|14|0
+566||Marek Malinovský|4|0|0|0|0|3.0|6||Calgary|cgy|18121934|0|0|4|0
+567||Manuel Andoga|9|0|0|0|3|4.3|17||Vancouver|van|24522823|0|0|10|0
+568||Lukáš Gróf|2|0|0|0|1|4.3|3||Tampa Bay|tbl|24533977|0|0|4|0
+569||Luke Fenton|7|0|0|0|0|3.5|3||Edmonton|edm|24543869|0|0|2|0
+570||Luděk Němec|3|0|0|0|-1|3.7|1||Carolina|car|21536957|0|0|4|0
+571||Lucien Fouquet|2|0|0|0|-3|3.2|2||Dallas|dal|24088499|0|0|0|0
+572||Lorenzo Benton|12|0|0|0|-8|3.3|6||Philadelphia|phi|25848331|0|0|4|0
+573||Leoš Borták|1|0|0|0|-2|2.8|1||NY Rangers|nyr|24292887|0|0|6|0
+574||Leonard Mihály|13|0|0|0|-15|3.2|14||NY Rangers|nyr|23001215|0|0|10|0
+575||Ladislav Znamenák|3|0|0|0|-3|3.3|3||Phoenix|phx|25853162|0|0|4|0
+576||Ladislav Nagy|1|0|0|0|0|3.9|0||Pittsburgh|pit|10773525|0|0|0|0
+577||Kyle Chen|4|0|0|0|-3|3.6|1||Washington|was|25383330|0|0|0|0
+578||Kustaa Räisänen|3|0|0|0|-2|2.4|5||NY Rangers|nyr|19299554|0|0|0|0
+579||Kurt Rabatin|9|0|0|0|-4|3.7|6||Atlanta|atl|24530344|0|0|4|0
+580||Krasoslav Zelina|2|0|0|0|-2|3.5|3||Phoenix|phx|24290012|0|0|2|0
+581||Karp Scherbakov|2|0|0|0|1|4.3|0||Anaheim|ana|20219275|0|0|2|0
+582||Karol Pavukovič|7|0|0|0|-2|3.9|3||Ottawa|ott|24301758|0|0|4|0
+583||Ján Madzin|13|0|0|0|-10|3.4|4||Minnesota|min|25832402|0|0|10|0
+584||Ján Kučera|4|0|0|0|0|4.0|0||Nashville|nas|26340100|0|0|0|0
+585||Ján Kupka|9|0|0|0|-2|3.5|0||Nashville|nas|17640969|0|0|0|0
+586||Jáchym Húska|6|0|0|0|-9|3.3|3||Washington|was|25874398|0|0|0|0
+587||Jáchym Bobál|13|0|0|0|-17|3.0|18||Philadelphia|phi|23015298|0|0|4|0
+588||Juras' Trusau|2|0|0|0|-2|3.4|0||Phoenix|phx|26334831|0|0|0|0
+589||Juraj Vida|4|0|0|0|0|4.1|2||Edmonton|edm|20440896|0|0|0|0
+590||Julien Jestin|3|0|0|0|-8|2.7|6||Dallas|dal|25840735|0|0|2|0
+591||Jordán Hirko|12|0|0|0|-9|3.7|9||Minnesota|min|22085133|0|0|16|0
+592||Joni Similä|2|0|0|0|-4|2.8|3||Washington|was|26375086|0|0|0|0
+593||John Logsdon|3|0|0|0|-4|3.2|2||Washington|was|21153698|0|0|0|0
+594||Joe Sakic|11|0|0|0|-14|2.9|3||Pittsburgh|pit|20770439|0|0|8|0
+595||Joe Purvis|1|0|0|0|-1|3.5|6||Edmonton|edm|9730509|0|0|0|0
+596||Jiří Dohnal|4|0|0|0|-1|3.7|0||Chicago|chi|25740967|0|0|0|0
+597||Jimmie Hickman|3|0|0|0|-4|3.4|0||Washington|was|25831481|0|0|4|0
+598||Jere Toropainen|12|0|0|0|3|4.2|17||Tampa Bay|tbl|10147162|0|0|4|0
+599||Jere Junell|6|0|0|0|-9|3.3|2||Washington|was|26152059|0|0|6|0
+600||Jeff Atkinson|2|0|0|0|0|4.1|1||Atlanta|atl|24142989|0|0|0|0
+601||Jaroslav Drugacs|12|0|0|0|-1|3.6|6||Nashville|nas|19857976|0|0|6|0
+602||Jan Holík|13|0|0|0|3|3.9|21||Buffalo|buf|22671780|0|0|12|0
+603||Jan Hejda|12|0|0|0|-9|3.2|1||Pittsburgh|pit|22664851|0|0|6|0
+604||Jalmari Martineero|1|0|0|0|0|3.8|3||Philadelphia|phi|15868006|0|0|0|0
+605||Jakub Němec|1|0|0|0|-2|2.8|1||Calgary|cgy|18772088|0|0|0|0
+606||Jakub Laporčák|2|0|0|0|0|4.0|2||LA Kings|lak|16639132|0|0|2|0
+607||Jagor Platkouski|4|0|0|0|0|2.9|4||Washington|was|11496912|0|0|4|0
+608||Izidor Barabáš|13|0|0|0|-7|3.4|5||Philadelphia|phi|11724076|0|0|4|0
+609||Iwan Mass|6|0|0|0|-10|3.1|10||Washington|was|25588709|0|0|4|0
+610||Iuliu Sterescu|5|0|0|0|-1|2.7|2||Washington|was|12913808|0|0|2|0
+611||Intars Ābols|1|0|0|0|-3|2.3|0||Phoenix|phx|26175512|0|0|0|0
+612||Ilya Tokarev|13|0|0|0|-5|3.6|6||Ottawa|ott|23774794|0|0|14|0
+613||Ilya Kulikov|11|0|0|0|-7|3.3|6||Minnesota|min|24975683|0|0|2|0
+614||Ilmari Tuokkola|4|0|0|0|-1|3.8|0||Washington|was|25540934|0|0|0|0
+615||Igor Larionov|6|0|0|0|-4|3.0|0||Pittsburgh|pit|24334860|0|0|0|0
+616||Ignacio Olivera|13|0|0|0|-10|3.4|11||Minnesota|min|23636521|0|0|2|0
+617||Hugo Offret|12|0|0|0|-7|3.7|3||Dallas|dal|25551974|0|0|6|0
+618||Hermann Högger|2|0|0|0|-1|3.6|0||Washington|was|11723939|0|0|2|0
+619||Hendrik Stäuber|2|0|0|0|0|3.9|0||Toronto|tor|25558739|0|0|2|0
+620||Gordie Fournier|6|0|0|0|-2|3.1|3||Philadelphia|phi|14439540|0|0|0|0
+621||Gerard Pietrzak|5|0|0|0|0|4.0|1||Edmonton|edm|24813414|0|0|4|0
+622||Gavin Yates|1|0|0|0|0|3.8|0||Philadelphia|phi|14111077|0|0|2|0
+623||Gabriel Martinko|5|0|0|0|-5|2.9|0||Atlanta|atl|21349390|0|0|0|0
+624||Fraňo Kuric|6|0|0|0|0|3.9|0||Nashville|nas|26147228|0|0|0|0
+625||Franc Rugelj|2|0|0|0|4|5.0|9||Anaheim|ana|18335387|0|0|4|0
+626||Filip Sláma|1|0|0|0|1|4.5|3||Buffalo|buf|20221368|0|0|0|0
+627||Filip Kropáček|12|0|0|0|-6|3.1|9||Philadelphia|phi|18292424|0|0|8|0
+628||Fedor Šimkáč|13|0|0|0|-13|3.2|3||Boston|bos|24971382|0|0|8|0
+629||Fedor Lešták|1|0|0|0|-4|2.0|2||San Jose|sjs|25712168|0|0|4|0
+630||Ervin Cserna|11|0|0|0|3|4.3|20||St. Louis|stl|14240727|0|0|20|0
+631||Eric Engelaar|12|0|0|0|-8|3.3|3||Philadelphia|phi|25761405|0|0|2|0
+632||Eric Carpentier|3|0|0|0|-7|2.9|4||Dallas|dal|22665006|0|0|2|0
+633||Eliáš Bujdoš|13|0|0|0|-10|3.3|1||Washington|was|25422895|0|0|0|0
+634||Edo Klavžar|8|0|0|0|-8|3.5|9||Dallas|dal|25310759|0|0|2|0
+635||Dávid Vlach|13|0|0|0|-6|3.6|3||Ottawa|ott|23905350|0|0|14|0
+636||Dávid Demek|1|0|0|0|0|4.2|0||Ottawa|ott|26138500|0|0|2|0
+637||Dušan Peterčák|4|0|0|0|-9|2.8|9||NY Rangers|nyr|21310818|0|0|6|0
+638||Dragan Kjucukov|2|0|0|0|0|3.8|0||Washington|was|10755358|0|0|0|0
+639||Des Freeman|2|0|0|0|-2|3.4|0||Minnesota|min|24602352|0|0|0|0
+640||Dalibor Slodičák|1|0|0|0|0|4.1|0||Nashville|nas|25311498|0|0|0|0
+641||Ctibor Kudlačák|4|0|0|0|0|4.0|2||Edmonton|edm|21160530|0|0|2|0
+642||Clinton Valadez|4|0|0|0|-9|2.9|3||Washington|was|26330739|0|0|2|0
+643||Clint Prendergast|8|0|0|0|-2|3.9|14||Columbus|cbj|26178498|0|0|8|0
+644||Clement Ilhe|13|0|0|0|-3|3.5|0||Dallas|dal|18742040|0|0|0|0
+645||Cedrick McIntosh|7|0|0|0|-5|3.6|1||Washington|was|24084039|0|0|0|0
+646||Cedric Benett|13|0|0|0|-3|3.4|1||Dallas|dal|21309609|0|0|0|0
+647||Casper Högberg|13|0|0|0|-8|3.2|5||Chicago|chi|25671030|0|0|6|0
+648||Bruno Raibais|1|0|0|0|0|3.8|0||Washington|was|26078960|0|0|0|0
+649||Brane Podgoršek|2|0|0|0|-3|3.3|1||Washington|was|24759305|0|0|0|0
+650||Boleslav Spanyik|2|0|0|0|0|4.0|1||Tampa Bay|tbl|24081679|0|0|2|0
+651||Bertín Petr|13|0|0|0|0|3.5|1||Chicago|chi|15149495|0|0|0|0
+652||Bernard Nejedlý|8|0|0|0|-11|3.3|2||Washington|was|26174388|0|0|6|0
+653||Bernard Mouton|13|0|0|0|-10|3.3|5||Dallas|dal|20223278|0|0|20|0
+654||Ben Dudfield|1|0|0|0|-3|2.3|2||Philadelphia|phi|14201328|0|0|0|0
+655||Aurel Majerčík|4|0|0|0|-2|3.7|3||Minnesota|min|26270120|0|0|0|0
+656||Atvars Incis|3|0|0|0|-2|2.4|3||Toronto|tor|11820027|0|0|0|0
+657||Arpád Čonko|8|0|0|0|3|4.2|9||San Jose|sjs|9663845|0|0|6|0
+658||Arne Behler|2|0|0|0|1|4.2|7||Tampa Bay|tbl|24272970|0|0|2|0
+659||Armands Jankovskis|13|0|0|0|-5|3.5|14||Nashville|nas|17665526|0|0|8|0
+660||Ante Zovko|12|0|0|0|-8|3.2|8||Atlanta|atl|10750387|0|0|6|0
+661||Andri Fankhauser|5|0|0|0|-4|3.6|2||Carolina|car|25293994|0|0|6|0
+662||Andrej Borza|1|0|0|0|-1|3.4|2||Phoenix|phx|11078316|0|0|0|0
+663||Aljaž Hočevar|3|0|0|0|-3|3.5|3||Chicago|chi|26398327|0|0|2|0
+664||Aliaksandr Ruzau|13|0|0|0|-17|2.8|13||Washington|was|21312137|0|0|6|0
+665||Alexey Mukanov|1|0|0|0|0|3.8|0||Chicago|chi|25072831|0|0|0|0
+666||Alexey Kovalev|10|0|0|0|-4|3.3|1||Pittsburgh|pit|22672131|0|0|4|0
+667||Alexander Vlasov|8|0|0|0|-5|3.7|1||Washington|was|26144495|0|0|2|0
+668||Albert Martinez|13|0|0|0|-12|3.2|10||Boston|bos|24784668|0|0|4|0
+669||Adrians Meinarts|4|0|0|0|-6|3.0|2||Phoenix|phx|26209420|0|0|4|0
+670||Adolf Hartman|3|0|0|0|0|4.0|0||Carolina|car|23029697|0|0|0|0
+671||Adam Šimáček|12|0|0|0|-12|3.3|9||NY Rangers|nyr|12990117|0|0|4|0
+672||Adam Bradáč|5|0|0|0|-6|2.5|16||NY Rangers|nyr|16822476|0|0|4|0
+

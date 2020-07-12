@@ -1,0 +1,48 @@
+1|Martin Nováček|2|2||10|Colorado|col
+2|Gabriel Green|1|1|1|6|Colorado|col
+3|Marek Májik|1|1|1|6|NJ Devils|njd
+4|Balbin Żurek|1|1||5|NJ Devils|njd
+5|Gonzalo Herriaga|1|1||5|NJ Devils|njd
+6|Martin Demeš|1||2|5|Colorado|col
+7|Potap Borisov|1||1|4|Colorado|col
+8|Andrej Petr|1|||3|Atlanta|atl
+9|Drago Pulitika|1|||3|St. Louis|stl
+10|Fred Slater|1|||3|Washington|was
+11|Haralds Rodiņš|1|||3|St. Louis|stl
+12|Jan Melichar|1|||3|Florida|fla
+13|Mikita Rat'kovich|1|||3|NJ Devils|njd
+14|Nicolas Lacombe|1|||3|Dallas|dal
+15|Peter Holečka|1|||3|Nashville|nas
+16|Prosimir Nitowski|1|||3|Anaheim|ana
+17|Rastislav Jankulár|1|||3|Colorado|col
+18|Rauli Salmio|1|||3|Atlanta|atl
+19|Roland Werning|1|||3|NJ Devils|njd
+20|Sam Short|1|||3|Florida|fla
+21|Jarmo Saarijärvi||1|1|3|NY Islanders|nyi
+22|Jaroslav Novák||1|1|3|Montreal|mtl
+23|Arthur Pitt||1||2|Washington|was
+24|Bartoloměj Coufal||1||2|NY Islanders|nyi
+25|Branislav Pargáč||1||2|San Jose|sjs
+26|Cyrus Sionko||1||2|Carolina|car
+27|Eduard Šútor||1||2|Carolina|car
+28|Eino Kamsula||1||2|Anaheim|ana
+29|Enrico Cantini||1||2|St. Louis|stl
+30|Jaroslav Bernard||1||2|NY Islanders|nyi
+31|Manuel Šramko||1||2|Nashville|nas
+32|Marián Bobko||1||2|Carolina|car
+33|Rolando Portocarrero||1||2|Florida|fla
+34|Tamislau Smalukou||1||2|Phoenix|phx
+35|Vittorio Caselli||1||2|Phoenix|phx
+36|Miķelis Kalnišs|||2|2|Colorado|col
+37|Aaron McCallum|||1|1|Chicago|chi
+38|Béla Zoubek|||1|1|NJ Devils|njd
+39|Branislav Bondra|||1|1|Dallas|dal
+40|Carsten Pauly|||1|1|St. Louis|stl
+41|Dan Ligas|||1|1|St. Louis|stl
+42|David Kočí|||1|1|Ottawa|ott
+43|Ilkka Ahtonen|||1|1|Toronto|tor
+44|Marek Souček|||1|1|St. Louis|stl
+45|Michal Hanáček|||1|1|Detroit|det
+46|Petr Kopecký|||1|1|St. Louis|stl
+47|Viesturs Ekerts|||1|1|Calgary|cgy
+48|Víťazoslav Gažo|||1|1|San Jose|sjs

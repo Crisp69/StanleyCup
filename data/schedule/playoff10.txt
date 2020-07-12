@@ -1,0 +1,30 @@
+Stanley Cup Finals|Colorado Avalanche ®|New Jersey &ETH;evils|9441|12576|28|6|2008|col|njd|5|1|1
+Stanley Cup Finals|New Jersey &ETH;evils|Colorado Avalanche ®|12576|9441|29|6|2008|njd|col|2|3|1
+Conference Finals|Ottawa Senators ®|New Jersey &ETH;evils|2459|12576|21|6|2008|ott|njd|0|3|1
+Conference Finals|Colorado Avalanche ®|VANCOUVER Canucks ©|9441|2372|21|6|2008|col|van|2|4|2
+Conference Finals|New Jersey &ETH;evils|Ottawa Senators ®|12576|2459|22|6|2008|njd|ott|1|3|1
+Conference Finals|VANCOUVER Canucks ©|Colorado Avalanche ®|2372|9441|22|6|2008|van|col|1|3|2
+Conference Semifinals|Ottawa Senators ®|Boston Bruins ®|2459|1220|14|6|2008|ott|bos|5|4|1
+Conference Semifinals|New York Islanders ®|New Jersey &ETH;evils|19992|12576|14|6|2008|nyi|njd|1|3|0
+Conference Semifinals|Anaheim Ducks ™|VANCOUVER Canucks ©|2449|2372|14|6|2008|ana|van|1|2|0
+Conference Semifinals|Colorado Avalanche ®|St.Louis Blues™|9441|5650|14|6|2008|col|stl|4|3|2
+Conference Semifinals|Boston Bruins ®|Ottawa Senators ®|1220|2459|15|6|2008|bos|ott|1|4|1
+Conference Semifinals|New Jersey &ETH;evils|New York Islanders ®|12576|19992|15|6|2008|njd|nyi|2|0|0
+Conference Semifinals|VANCOUVER Canucks ©|Anaheim Ducks ™|2372|2449|15|6|2008|van|ana|3|2|0
+Conference Semifinals|St.Louis Blues™|Colorado Avalanche ®|5650|9441|15|6|2008|stl|col|0|3|2
+Conference Quarterfinals|Ottawa Senators ®|Carolina Hurricanes ™|2459|12981|7|6|2008|ott|car|4|3|1
+Conference Quarterfinals|New York Islanders ®|Washington Capitals ™|19992|2751|7|6|2008|nyi|was|2|4|0
+Conference Quarterfinals|Florida Panthers ™|Boston Bruins ®|2733|1220|7|6|2008|fla|bos|2|1|0
+Conference Quarterfinals|** NY RANGERS **|New Jersey &ETH;evils|5712|12576|7|6|2008|nyr|njd|1|5|0
+Conference Quarterfinals|Anaheim Ducks ™|Minnesota Wild™|2449|20031|7|6|2008|ana|min|11|2|0
+Conference Quarterfinals|Colorado Avalanche ®|Dallas Stars™|9441|12548|7|6|2008|col|dal|6|0|0
+Conference Quarterfinals|St.Louis Blues™|Chicago Blackhawks ®|5650|2295|7|6|2008|stl|chi|4|3|0
+Conference Quarterfinals|VANCOUVER Canucks ©|Nashville Predators®|2372|2769|7|6|2008|van|nas|5|2|2
+Conference Quarterfinals|Carolina Hurricanes ™|Ottawa Senators ®|12981|2459|8|6|2008|car|ott|1|2|1
+Conference Quarterfinals|Washington Capitals ™|New York Islanders ®|2751|19992|8|6|2008|was|nyi|1|6|0
+Conference Quarterfinals|Boston Bruins ®|Florida Panthers ™|1220|2733|8|6|2008|bos|fla|6|1|0
+Conference Quarterfinals|New Jersey &ETH;evils|** NY RANGERS **|12576|5712|8|6|2008|njd|nyr|4|3|0
+Conference Quarterfinals|Minnesota Wild™|Anaheim Ducks ™|20031|2449|8|6|2008|min|ana|0|10|0
+Conference Quarterfinals|Dallas Stars™|Colorado Avalanche ®|12548|9441|8|6|2008|dal|col|0|8|0
+Conference Quarterfinals|Chicago Blackhawks ®|St.Louis Blues™|2295|5650|8|6|2008|chi|stl|0|1|0
+Conference Quarterfinals|Nashville Predators®|VANCOUVER Canucks ©|2769|2372|8|6|2008|nas|van|6|5|2

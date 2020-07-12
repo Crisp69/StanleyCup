@@ -1,0 +1,546 @@
+1-2||Vincenzo Benini|1|29|27|93.1|0|6.2|Detroit|det|18159167|60||car|02.10.2011
+1-2||Marin Bakalov|1|23|20|87|0|5.2|Carolina|car|19339743|60||det|02.10.2011
+1-2||Marin Bakalov|1|29|26|89.7|0|5.8|Carolina|car|19339743|60||det|01.10.2011
+1-2||Vincenzo Benini|1|8|4|50|0|3.4|Detroit|det|18159167|15.1666666667||car|01.10.2011
+2-2||Manuel Mankovecký|1|27|23|85.2|0|5.3|Detroit|det|17155279|44.8333333333||car|01.10.2011
+1-2||Vavrinec Figura|1|32|29|90.6|0|5.9|Florida|fla|15587700|60||car|25.09.2011
+1-2||Stan Lackovič|1|14|12|85.7|0|4.6|San Jose|sjs|23457558|29.5166666667||det|25.09.2011
+2-2||Víctor Ibias|1|12|10|83.3|0|4.3|San Jose|sjs|13366779|30.4833333333||det|25.09.2011
+1-2||Marin Bakalov|1|24|22|91.7|0|5.6|Carolina|car|19339743|60||fla|25.09.2011
+1-2||Vincenzo Benini|1|29|28|96.6|0|6.5|Detroit|det|18159167|60||sjs|25.09.2011
+1-2||Vavrinec Figura|1|40|36|90|0|6.2|Florida|fla|15587700|60||car|24.09.2011
+1-2||Vincenzo Benini|1|31|28|90.3|0|5.9|Detroit|det|18159167|60||sjs|24.09.2011
+1-2||Marin Bakalov|1|22|20|90.9|0|5.5|Carolina|car|19339743|60||fla|24.09.2011
+1-2||Stan Lackovič|1|18|16|88.9|0|5.1|San Jose|sjs|23457558|37.75||det|24.09.2011
+2-2||Víctor Ibias|1|11|11|100|0|5.2|San Jose|sjs|13366779|22.25||det|24.09.2011
+1-2||Marin Bakalov|1|33|30|90.9|0|6.2|Carolina|car|19339743|60||wpg|18.09.2011
+1-2||Jakub Čermák|1|26|23|88.5|0|5.7|Florida|fla|12673994|60||tor|18.09.2011
+1-2||Vincenzo Benini|1|27|22|81.5|0|5.0|Detroit|det|18159167|60||col|18.09.2011
+1-2||Stan Lackovič|1|29|28|96.6|0|6.5|San Jose|sjs|23457558|60||min|18.09.2011
+1-2||Michel Meili|1|21|17|81|0|4.6|Winnipeg|wpg|17152958|60||car|18.09.2011
+1-2||Jonatán Pichlač|1|33|25|75.8|0|4.4|Toronto|tor|16825202|60||car|18.09.2011
+1-2||Oscar Maudlin|1|20|17|85|0|4.9|Colorado|col|13803905|60||det|18.09.2011
+1-2||Hugo Kukučiak|1|11|9|81.8|0|4.2|Minnesota|min|21342258|30.0166666667||sjs|18.09.2011
+2-2||Yuriy Baskakov|1|13|9|69.2|0|4.0|Minnesota|min|16218067|29.9833333333||sjs|18.09.2011
+1-2||Michel Meili|1|42|40|95.2|0|7.2|Winnipeg|wpg|17152958|60||car|17.09.2011
+1-2||Vavrinec Figura|1|24|18|75|0|4.3|Florida|fla|15587700|60||tor|17.09.2011
+1-2||Oscar Maudlin|1|27|20|74.1|0|4.3|Colorado|col|13803905|60||det|17.09.2011
+1-2||Yuriy Baskakov|1|13|12|92.3|0|4.7|Minnesota|min|16218067|32.2666666667||sjs|17.09.2011
+2-2||Hugo Kukučiak|1|15|12|80|0|4.4|Minnesota|min|21342258|27.7333333333||sjs|17.09.2011
+1-2||Marin Bakalov|1|34|33|97.1|0|6.8|Carolina|car|19339743|60||wpg|17.09.2011
+1-2||Jonatán Pichlač|1|34|32|94.1|0|6.7|Toronto|tor|16825202|60||wpg|17.09.2011
+1-2||Vincenzo Benini|1|35|31|88.6|0|6.1|Detroit|det|18159167|60||col|17.09.2011
+1-2||Stan Lackovič|1|5|3|60|0|4.1|San Jose|sjs|23457558|14.4833333333||min|17.09.2011
+2-2||Víctor Ibias|1|23|23|100|0|6.3|San Jose|sjs|13366779|45.5166666667||min|17.09.2011
+1-2||Michel Meili|1|11|11|100|1|5.0|Winnipeg|wpg|17152958|60||pit|11.09.2011
+1-2||Michal Feješ|1|38|35|92.1|0|6.3|Buffalo|buf|17511670|60||tor|11.09.2011
+1-2||Marin Bakalov|1|16|15|93.8|0|5.1|Carolina|car|19339743|60||phi|11.09.2011
+1-2||Vavrinec Figura|1|18|18|100|1|5.8|Florida|fla|15587700|60||nyi|11.09.2011
+1-2||Gabriel Kelemen|1|5|4|80|0|4.4|Colorado|col|26027991|60||ana|11.09.2011
+1-2||Stan Lackovič|1|16|15|93.8|0|5.3|San Jose|sjs|23457558|60||nas|11.09.2011
+1-1||Reinis Baltrausis|1|31|29|93.5|0|6.1|St. Louis|stl|20210989|60||det|11.09.2011
+1-2||Hugo Kukučiak|1|18|17|94.4|0|5.5|Minnesota|min|21342258|30.6666666667||chi|11.09.2011
+2-2||Yuriy Baskakov|1|15|12|80|0|4.7|Minnesota|min|16218067|29.3333333333||chi|11.09.2011
+1-2||Jocelyn Thibault|1|5|2|40|0|3.5|Pittsburgh|pit|22385348|6.6||wpg|11.09.2011
+2-2||Jaroslav Halák|1|43|33|76.7|0|4.7|Pittsburgh|pit|24109404|53.4||wpg|11.09.2011
+1-2||Jonatán Pichlač|1|14|13|92.9|0|5.1|Toronto|tor|16825202|60||wpg|11.09.2011
+1-2||Josef Spáčil|1|41|35|85.4|0|5.9|Philadelphia|phi|18159996|60||car|11.09.2011
+1-2||Elemír Lohyňa|1|39|30|76.9|0|4.8|NY Islanders|nyi|17574474|60||fla|11.09.2011
+1-2||Valér Dlábik|1|41|28|68.3|0|3.8|Anaheim|ana|29689194|40.9666666667||col|11.09.2011
+2-2||Enok Arntsen|1|23|20|87|0|5.1|Anaheim|ana|29725370|19.0333333333||col|11.09.2011
+1-2||Ján Džogan|1|30|26|86.7|0|5.5|Nashville|nas|22670313|39.6666666667||sjs|11.09.2011
+2-2||Patrik Kočiš|1|16|15|93.8|0|5.1|Nashville|nas|15189453|20.3333333333||sjs|11.09.2011
+1-2||Vincenzo Benini|1|31|31|100|1|7.0|Detroit|det|18159167|60||stl|11.09.2011
+1-2||Hans-Erik Nørgaard|1|35|29|82.9|0|5.3|Chicago|chi|21156671|60||min|11.09.2011
+1-2||Michel Meili|1|8|8|100|1|4.8|Winnipeg|wpg|17152958|60||pit|10.09.2011
+1-2||Jonatán Pichlač|1|29|28|96.6|0|6.4|Toronto|tor|16825202|60||pit|10.09.2011
+1-2||Marin Bakalov|1|21|19|90.5|0|5.5|Carolina|car|19339743|60||phi|10.09.2011
+1-2||Jakub Čermák|1|23|22|95.7|0|5.9|Florida|fla|12673994|60||nyi|10.09.2011
+1-2||Gabriel Kelemen|1|3|3|100|1|4.4|Colorado|col|26027991|60||ana|10.09.2011
+1-2||Stan Lackovič|1|10|8|80|0|4.4|San Jose|sjs|23457558|25.7833333333||nas|10.09.2011
+2-2||Víctor Ibias|1|20|17|85|0|5.1|San Jose|sjs|13366779|34.2166666667||nas|10.09.2011
+1-2||Vincenzo Benini|1|27|23|85.2|0|5.2|Detroit|det|18159167|60||stl|10.09.2011
+1-2||Hans-Erik Nørgaard|1|34|34|100|1|7.3|Chicago|chi|21156671|60||min|10.09.2011
+1-2||Jocelyn Thibault|1|18|14|77.8|0|4.2|Pittsburgh|pit|22385348|20.9166666667||wpg|10.09.2011
+2-2||Jaroslav Halák|1|26|25|96.2|0|6.0|Pittsburgh|pit|24109404|39.0833333333||wpg|10.09.2011
+1-2||Michal Feješ|1|27|22|81.5|0|4.8|Buffalo|buf|17511670|60||tor|10.09.2011
+1-2||Josef Spáčil|1|58|55|94.8|0|8.1|Philadelphia|phi|18159996|60||car|10.09.2011
+1-2||Elemír Lohyňa|1|44|37|84.1|0|5.9|NY Islanders|nyi|17574474|60||fla|10.09.2011
+1-2||Valér Dlábik|1|30|21|70|0|4.1|Anaheim|ana|29689194|40.9666666667||col|10.09.2011
+2-2||Enok Arntsen|1|20|18|90|0|5.0|Anaheim|ana|29725370|19.0333333333||col|10.09.2011
+1-2||Ján Džogan|1|38|32|84.2|0|5.6|Nashville|nas|22670313|60||sjs|10.09.2011
+1-1||Reinis Baltrausis|1|22|19|86.4|0|5.2|St. Louis|stl|20210989|60||det|10.09.2011
+1-2||Hugo Kukučiak|1|7|7|100|0|4.5|Minnesota|min|21342258|30.4||chi|10.09.2011
+2-2||Yuriy Baskakov|1|11|10|90.9|0|4.5|Minnesota|min|16218067|29.6||chi|10.09.2011
+1-2||Nestser Pauliak|1|29|26|89.7|0|5.6|Vancouver|van|19227999|60||cgy|04.09.2011
+1-2||Oscar Maudlin|1|9|9|100|1|4.8|Colorado|col|13803905|60||edm|04.09.2011
+1-2||Jakub Čermák|1|40|35|87.5|0|5.9|Florida|fla|12673994|60||wpg|04.09.2011
+1-2||Rafael Zahnd|1|16|16|100|1|5.4|Washington|was|26905564|60||tbl|04.09.2011
+1-2||Marin Bakalov|1|38|34|89.5|0|6.0|Carolina|car|19339743|60||min|04.09.2011
+1-2||Albrecht Pampúch|1|46|34|73.9|0|4.5|NJ Devils|njd|29535297|60||stl|04.09.2011
+1-2||Vincenzo Benini|1|20|17|85|0|4.9|Detroit|det|18159167|40.25||phi|04.09.2011
+2-2||Manuel Mankovecký|1|9|8|88.9|0|4.3|Detroit|det|17155279|19.75||phi|04.09.2011
+1-2||Hans-Erik Nørgaard|1|26|26|100|1|6.5|Chicago|chi|21156671|60||nyi|04.09.2011
+1-2||Jocelyn Thibault|1|36|31|86.1|0|5.8|Pittsburgh|pit|22385348|60||nas|04.09.2011
+1-2||Carl Drake|1|23|20|87|0|5.3|Columbus|cbj|29726637|60||nyr|04.09.2011
+1-2||Valér Dlábik|1|39|28|71.8|0|4.1|Anaheim|ana|29689194|41||tor|04.09.2011
+2-2||Enok Arntsen|1|21|21|100|0|5.9|Anaheim|ana|29725370|19||tor|04.09.2011
+1-2||Stan Lackovič|1|19|18|94.7|0|5.5|San Jose|sjs|23457558|60||mtl|04.09.2011
+1-2||Adam Miček|1|20|17|85|0|5.0|LA Kings|lak|26049920|60||bos|04.09.2011
+1-2||Etienne Dugas|1|33|27|81.8|0|5.2|Dallas|dal|26041188|60||buf|04.09.2011
+1-2||Bohumír Dlouhý|1|18|16|88.9|0|4.9|Ottawa|ott|29241980|30.1333333333||phx|04.09.2011
+2-2||Ruslan Hitrun|1|17|17|100|0|5.4|Ottawa|ott|25765790|29.8666666667||phx|04.09.2011
+1-2||Glenn Clark|1|30|28|93.3|0|6.3|Calgary|cgy|24711743|60||van|04.09.2011
+1-2||Čistomil Romanovič|1|27|15|55.6|0|2.8|Edmonton|edm|20647986|30.2666666667||col|04.09.2011
+2-2||Terry Sellars|1|23|23|100|0|5.9|Edmonton|edm|20616518|29.7333333333||col|04.09.2011
+1-2||Michel Meili|1|24|22|91.7|0|5.7|Winnipeg|wpg|17152958|60||fla|04.09.2011
+1-1||Gatis Pakalns|1|43|38|88.4|0|6.3|Tampa Bay|tbl|27990891|60||was|04.09.2011
+1-2||Hugo Kukučiak|1|7|6|85.7|0|4.5|Minnesota|min|21342258|30.3333333333||car|04.09.2011
+2-2||Yuriy Baskakov|1|8|7|87.5|0|4.6|Minnesota|min|16218067|29.6666666667||car|04.09.2011
+1-1||Reinis Baltrausis|1|5|5|100|1|4.7|St. Louis|stl|20210989|60||njd|04.09.2011
+1-2||Josef Spáčil|1|24|23|95.8|0|6.1|Philadelphia|phi|18159996|60||det|04.09.2011
+1-2||Elemír Lohyňa|1|24|18|75|0|4.4|NY Islanders|nyi|17574474|60||chi|04.09.2011
+1-2||Ján Džogan|1|30|29|96.7|0|6.5|Nashville|nas|22670313|60||pit|04.09.2011
+1-2||Viesturs Zalcmanis|1|29|26|89.7|0|5.8|NY Rangers|nyr|27544641|60||cbj|04.09.2011
+1-2||Jonatán Pichlač|1|4|4|100|1|4.6|Toronto|tor|16825202|60||cbj|04.09.2011
+1-2||Damian Ackerknecht|1|40|33|82.5|0|5.3|Montreal|mtl|20629504|60||sjs|04.09.2011
+1-2||Yuriy Bakhvalov|1|28|24|85.7|0|5.1|Boston|bos|28500438|60||lak|04.09.2011
+1-2||Michal Feješ|1|25|23|92|0|5.8|Buffalo|buf|17511670|60||dal|04.09.2011
+1-2||Valio Wendelin|1|11|11|100|1|5.0|Phoenix|phx|27529605|60||ott|04.09.2011
+1-2||Hans-Erik Nørgaard|1|21|21|100|1|6.0|Chicago|chi|21156671|60||bos|03.09.2011
+1-2||Bohumír Dlouhý|1|27|22|81.5|0|4.8|Ottawa|ott|29241980|31.5||cbj|03.09.2011
+2-2||Ruslan Hitrun|1|24|22|91.7|0|5.4|Ottawa|ott|25765790|28.5||cbj|03.09.2011
+1-2||Vincenzo Benini|1|33|30|90.9|0|6.2|Detroit|det|18159167|60||mtl|03.09.2011
+1-2||Jonatán Pichlač|1|18|18|100|1|5.7|Toronto|tor|16825202|60||mtl|03.09.2011
+1-1||Reinis Baltrausis|1|27|26|96.3|0|6.2|St. Louis|stl|20210989|60||buf|03.09.2011
+1-2||Valér Dlábik|1|35|29|82.9|0|5.3|Anaheim|ana|29689194|35.5333333333||nyi|03.09.2011
+2-2||Enok Arntsen|1|21|18|85.7|0|4.8|Anaheim|ana|29725370|24.4666666667||nyi|03.09.2011
+1-2||Valio Wendelin|1|41|38|92.7|0|6.6|Phoenix|phx|27529605|60||phi|03.09.2011
+1-2||Albrecht Pampúch|1|31|23|74.2|0|4.2|NJ Devils|njd|29535297|30.95||sjs|03.09.2011
+2-2||František Miškanin|1|26|22|84.6|0|5.1|NJ Devils|njd|29565349|29.05||sjs|03.09.2011
+1-2||Jocelyn Thibault|1|28|27|96.4|0|6.2|Pittsburgh|pit|22385348|60||lak|03.09.2011
+1-2||Viesturs Zalcmanis|1|28|28|100|1|6.5|NY Rangers|nyr|27544641|60||dal|03.09.2011
+1-2||Čistomil Romanovič|1|7|6|85.7|0|4.3|Edmonton|edm|20647986|31.8333333333||tbl|03.09.2011
+2-2||Terry Sellars|1|9|8|88.9|0|4.6|Edmonton|edm|20616518|28.1666666667||tbl|03.09.2011
+1-2||Michel Meili|1|13|11|84.6|0|4.6|Winnipeg|wpg|17152958|60||min|03.09.2011
+1-2||Rafael Zahnd|1|17|16|94.1|0|5.3|Washington|was|26905564|43.1166666667||cgy|03.09.2011
+2-2||Jan Hrabovský|1|5|5|100|0|4.6|Washington|was|27992924|16.8833333333||cgy|03.09.2011
+1-2||Oscar Maudlin|1|29|28|96.6|0|6.4|Colorado|col|13803905|60||car|03.09.2011
+1-2||Jakub Čermák|1|11|11|100|1|5.2|Florida|fla|12673994|60||van|03.09.2011
+1-2||Yuriy Bakhvalov|1|37|26|70.3|0|4.1|Boston|bos|28500438|60||chi|03.09.2011
+1-2||Carl Drake|1|13|12|92.3|0|5.0|Columbus|cbj|29726637|60||ott|03.09.2011
+1-2||Damian Ackerknecht|1|29|25|86.2|0|5.4|Montreal|mtl|20629504|60||det|03.09.2011
+1-2||Ján Džogan|1|39|38|97.4|0|7.1|Nashville|nas|22670313|60||tor|03.09.2011
+1-2||Michal Feješ|1|38|32|84.2|0|5.7|Buffalo|buf|17511670|60||stl|03.09.2011
+1-2||Elemír Lohyňa|1|4|4|100|1|4.5|NY Islanders|nyi|17574474|60||ana|03.09.2011
+1-2||Josef Spáčil|1|11|10|90.9|0|4.8|Philadelphia|phi|18159996|60||phx|03.09.2011
+1-2||Stan Lackovič|1|7|7|100|1|4.8|San Jose|sjs|23457558|60||njd|03.09.2011
+1-2||Adam Miček|1|29|24|82.8|0|5.0|LA Kings|lak|26049920|60||pit|03.09.2011
+1-2||Etienne Dugas|1|28|26|92.9|0|5.8|Dallas|dal|26041188|60||nyr|03.09.2011
+1-2||Kevin Wickli|1|25|21|84|0|5.0|Tampa Bay|tbl|8647053|39.35||edm|03.09.2011
+2-2||Gatis Pakalns|1|19|18|94.7|0|5.2|Tampa Bay|tbl|27990891|20.65||edm|03.09.2011
+1-2||Hugo Kukučiak|1|20|18|90|0|5.1|Minnesota|min|21342258|30.3||wpg|03.09.2011
+2-2||Yuriy Baskakov|1|21|20|95.2|0|5.6|Minnesota|min|16218067|29.7||wpg|03.09.2011
+1-2||Glenn Clark|1|35|33|94.3|0|6.4|Calgary|cgy|24711743|60||was|03.09.2011
+1-2||Marin Bakalov|1|31|22|71|0|4.0|Carolina|car|19339743|60||col|03.09.2011
+1-2||Nestser Pauliak|1|50|38|76|0|4.8|Vancouver|van|19227999|60||fla|03.09.2011
+1-2||Vincenzo Benini|1|22|21|95.5|0|5.9|Detroit|det|18159167|60||nas|28.08.2011
+1-2||Reinis Baltrausis|1|24|24|100|1|6.2|St. Louis|stl|20210989|60||cbj|28.08.2011
+1-2||Yuriy Bakhvalov|1|42|34|81|0|5.4|Boston|bos|28500438|60||buf|28.08.2011
+1-2||Jonatán Pichlač|1|6|6|100|1|4.6|Toronto|tor|16825202|60||buf|28.08.2011
+1-2||Hans-Erik Nørgaard|1|24|23|95.8|0|6.1|Chicago|chi|21156671|60||mtl|28.08.2011
+1-2||Stan Lackovič|1|21|20|95.2|0|5.8|San Jose|sjs|23457558|60||lak|28.08.2011
+1-2||Vesa Klankki|1|25|24|96|0|6.0|Phoenix|phx|29022748|60||dal|28.08.2011
+1-2||Elemír Lohyňa|1|10|9|90|0|4.7|NY Islanders|nyi|17574474|60||nyr|28.08.2011
+1-2||Josef Spáčil|1|24|21|87.5|0|5.3|Philadelphia|phi|18159996|60||pit|28.08.2011
+1-2||Valér Dlábik|1|8|7|87.5|0|4.6|Anaheim|ana|29689194|21.0333333333||njd|28.08.2011
+2-2||Enok Arntsen|1|16|16|100|0|5.6|Anaheim|ana|29725370|38.9666666667||njd|28.08.2011
+1-2||Oscar Maudlin|1|8|8|100|1|4.7|Colorado|col|13803905|60||cgy|28.08.2011
+1-2||Yuriy Baskakov|1|8|8|100|0|4.8|Minnesota|min|16218067|30.2166666667||van|28.08.2011
+2-2||Hugo Kukučiak|1|8|7|87.5|0|4.6|Minnesota|min|21342258|29.7833333333||van|28.08.2011
+1-2||Jakub Čermák|1|10|10|100|1|5.1|Florida|fla|12673994|60||tbl|28.08.2011
+1-2||Michel Meili|1|25|22|88|0|5.3|Winnipeg|wpg|17152958|60||car|28.08.2011
+1-2||Čistomil Romanovič|1|16|15|93.8|0|4.9|Edmonton|edm|20647986|31.9333333333||was|28.08.2011
+2-2||Ray Hills|1|15|11|73.3|0|4.2|Edmonton|edm|29543567|28.0666666667||was|28.08.2011
+1-2||Ján Džogan|1|14|10|71.4|0|4.1|Nashville|nas|22670313|20.4333333333||det|28.08.2011
+2-2||Patrik Kočiš|1|29|28|96.6|0|6.2|Nashville|nas|15189453|39.5666666667||det|28.08.2011
+1-2||Carl Drake|1|6|3|50|0|3.6|Columbus|cbj|29726637|6.85||stl|28.08.2011
+2-2||Larry Smith|1|38|33|86.8|0|6.0|Columbus|cbj|21941487|53.15||stl|28.08.2011
+1-2||Michal Feješ|1|19|19|100|1|5.9|Buffalo|buf|17511670|60||bos|28.08.2011
+1-2||Bohumír Dlouhý|1|20|18|90|0|5.2|Ottawa|ott|29241980|30.0166666667||tor|28.08.2011
+2-2||Ruslan Hitrun|1|22|19|86.4|0|5.0|Ottawa|ott|25765790|29.9833333333||tor|28.08.2011
+1-2||Damian Ackerknecht|1|35|30|85.7|0|5.7|Montreal|mtl|20629504|60||chi|28.08.2011
+1-2||Adam Miček|1|43|32|74.4|0|4.5|LA Kings|lak|26049920|60||sjs|28.08.2011
+1-2||Etienne Dugas|1|35|32|91.4|0|6.3|Dallas|dal|26041188|60||phx|28.08.2011
+1-2||Viesturs Zalcmanis|1|36|32|88.9|0|5.9|NY Rangers|nyr|27544641|60||nyi|28.08.2011
+1-2||Jocelyn Thibault|1|8|5|62.5|0|3.6|Pittsburgh|pit|22385348|20||phi|28.08.2011
+2-2||Jaroslav Halák|1|23|19|82.6|0|4.8|Pittsburgh|pit|24109404|40||phi|28.08.2011
+1-2||Albrecht Pampúch|1|12|8|66.7|0|3.9|NJ Devils|njd|29535297|41.05||ana|28.08.2011
+2-2||František Miškanin|1|7|7|100|0|4.6|NJ Devils|njd|29565349|18.95||ana|28.08.2011
+1-2||Glenn Clark|1|6|3|50|0|3.5|Calgary|cgy|24711743|7.93333333333||col|28.08.2011
+2-2||Peter Gondera|1|38|29|76.3|0|4.6|Calgary|cgy|27575752|52.0666666667||col|28.08.2011
+1-2||Nestser Pauliak|1|34|30|88.2|0|5.8|Vancouver|van|19227999|60||min|28.08.2011
+1-2||Kevin Wickli|1|9|5|55.6|0|3.5|Tampa Bay|tbl|8647053|11.2166666667||fla|28.08.2011
+2-2||Gatis Pakalns|1|35|23|65.7|0|3.4|Tampa Bay|tbl|27990891|48.7833333333||fla|28.08.2011
+1-2||Marin Bakalov|1|31|28|90.3|0|5.8|Carolina|car|19339743|60||wpg|28.08.2011
+1-2||Rafael Zahnd|1|16|15|93.8|0|5.3|Washington|was|26905564|39.5333333333||edm|28.08.2011
+2-2||Jan Hrabovský|1|9|9|100|0|4.8|Washington|was|27992924|20.4666666667||edm|28.08.2011
+1-2||Reinis Baltrausis|1|26|24|92.3|0|5.8|St. Louis|stl|20210989|60||chi|27.08.2011
+1-2||Vincenzo Benini|1|32|32|100|1|7.1|Detroit|det|18159167|60||cbj|27.08.2011
+1-2||Damian Ackerknecht|1|8|8|100|1|4.9|Montreal|mtl|20629504|60||ott|27.08.2011
+1-2||Jonatán Pichlač|1|15|12|80|0|4.4|Toronto|tor|16825202|60||ott|27.08.2011
+1-2||Ján Džogan|1|24|24|100|1|6.2|Nashville|nas|22670313|60||bos|27.08.2011
+1-2||Valér Dlábik|1|20|13|65|0|3.6|Anaheim|ana|29689194|30.4||car|27.08.2011
+2-2||Enok Arntsen|1|20|16|80|0|4.5|Anaheim|ana|29725370|29.6||car|27.08.2011
+1-2||Michel Meili|1|19|16|84.2|0|4.9|Winnipeg|wpg|17152958|60||sjs|27.08.2011
+1-2||Jakub Čermák|1|16|15|93.8|0|5.3|Florida|fla|12673994|60||lak|27.08.2011
+1-2||Etienne Dugas|1|9|9|100|0|5.0|Dallas|dal|26041188|40.6333333333||tbl|27.08.2011
+2-2||Benjamin Ferrand|1|3|3|100|0|4.3|Dallas|dal|24300997|19.3666666667||tbl|27.08.2011
+1-2||Valio Wendelin|1|31|29|93.5|0|6.1|Phoenix|phx|27529605|60||was|27.08.2011
+1-2||Oscar Maudlin|1|1|1|100|1|4.2|Colorado|col|13803905|60||njd|27.08.2011
+1-2||Yuriy Baskakov|1|10|10|100|0|5.0|Minnesota|min|16218067|30.2333333333||phi|27.08.2011
+2-2||Hugo Kukučiak|1|13|13|100|0|5.2|Minnesota|min|21342258|29.7666666667||phi|27.08.2011
+1-2||Elemír Lohyňa|1|15|14|93.3|0|5.3|NY Islanders|nyi|17574474|60||edm|27.08.2011
+1-2||Jaroslav Halák|1|14|13|92.9|0|5.1|Pittsburgh|pit|24109404|60||van|27.08.2011
+1-2||Viesturs Zalcmanis|1|31|28|90.3|0|5.9|NY Rangers|nyr|27544641|60||cgy|27.08.2011
+1-2||Hans-Erik Nørgaard|1|36|33|91.7|0|6.3|Chicago|chi|21156671|60||stl|27.08.2011
+1-2||Carl Drake|1|6|3|50|0|3.5|Columbus|cbj|29726637|10.8||det|27.08.2011
+2-2||Larry Smith|1|32|24|75|0|4.3|Columbus|cbj|21941487|49.2||det|27.08.2011
+1-2||Bohumír Dlouhý|1|30|22|73.3|0|4.1|Ottawa|ott|29241980|30.8666666667||mtl|27.08.2011
+2-2||Ruslan Hitrun|1|29|27|93.1|0|5.8|Ottawa|ott|25765790|29.1333333333||mtl|27.08.2011
+1-2||Michal Feješ|1|40|37|92.5|0|6.7|Buffalo|buf|17511670|60||tor|27.08.2011
+1-2||Yuriy Bakhvalov|1|29|22|75.9|0|4.5|Boston|bos|28500438|60||nas|27.08.2011
+1-2||Marin Bakalov|1|2|2|100|1|4.4|Carolina|car|19339743|60||ana|27.08.2011
+1-2||Stan Lackovič|1|14|12|85.7|0|4.6|San Jose|sjs|23457558|17.1333333333||wpg|27.08.2011
+2-2||Víctor Ibias|1|31|29|93.5|0|6.0|San Jose|sjs|13366779|42.8666666667||wpg|27.08.2011
+1-2||Adam Miček|1|36|29|80.6|0|5.1|LA Kings|lak|26049920|60||fla|27.08.2011
+1-2||Kevin Wickli|1|34|30|88.2|0|5.7|Tampa Bay|tbl|8647053|50.6||dal|27.08.2011
+2-2||Gatis Pakalns|1|4|4|100|0|4.2|Tampa Bay|tbl|27990891|9.4||dal|27.08.2011
+1-2||Rafael Zahnd|1|11|10|90.9|0|4.8|Washington|was|26905564|39.8833333333||phx|27.08.2011
+2-2||Jan Hrabovský|1|6|6|100|0|4.5|Washington|was|27992924|20.1166666667||phx|27.08.2011
+1-2||Albrecht Pampúch|1|43|32|74.4|0|4.5|NJ Devils|njd|29535297|41.0666666667||col|27.08.2011
+2-2||František Miškanin|1|20|16|80|0|4.5|NJ Devils|njd|29565349|18.9333333333||col|27.08.2011
+1-2||Josef Spáčil|1|23|22|95.7|0|5.7|Philadelphia|phi|18159996|60||min|27.08.2011
+1-2||Čistomil Romanovič|1|27|27|100|0|6.3|Edmonton|edm|20647986|30.1166666667||nyi|27.08.2011
+2-2||Ray Hills|1|15|13|86.7|0|4.6|Edmonton|edm|29543567|29.8833333333||nyi|27.08.2011
+1-2||Nestser Pauliak|1|45|40|88.9|0|6.4|Vancouver|van|19227999|60||pit|27.08.2011
+1-2||Glenn Clark|1|34|32|94.1|0|6.5|Calgary|cgy|24711743|60||nyr|27.08.2011
+1-2||Reinis Baltrausis|1|24|24|100|1|6.2|St. Louis|stl|20210989|60||det|21.08.2011
+1-2||Hans-Erik Nørgaard|1|20|18|90|0|5.4|Chicago|chi|21156671|60||nas|21.08.2011
+1-2||Bohumír Dlouhý|1|19|14|73.7|0|4.1|Ottawa|ott|29241980|30.9||buf|21.08.2011
+2-2||Ruslan Hitrun|1|19|16|84.2|0|4.7|Ottawa|ott|25765790|29.1||buf|21.08.2011
+1-2||Damian Ackerknecht|1|13|12|92.3|0|5.1|Montreal|mtl|20629504|60||bos|21.08.2011
+1-2||Carl Drake|1|2|0|0|0|3.4|Columbus|cbj|29726637|2.56666666667||tor|21.08.2011
+2-2||Larry Smith|1|42|39|92.9|0|6.9|Columbus|cbj|21941487|57.4333333333||tor|21.08.2011
+1-2||Albrecht Pampúch|1|33|23|69.7|0|4.0|NJ Devils|njd|29535297|41.0333333333||car|21.08.2011
+2-2||František Miškanin|1|18|16|88.9|0|4.8|NJ Devils|njd|29565349|18.9666666667||car|21.08.2011
+1-2||Michel Meili|1|22|21|95.5|0|5.8|Winnipeg|wpg|17152958|60||phi|21.08.2011
+1-2||Jakub Čermák|1|21|21|100|1|6.0|Florida|fla|12673994|60||nyi|21.08.2011
+1-2||Jocelyn Thibault|1|13|10|76.9|0|4.4|Pittsburgh|pit|22385348|60||tbl|21.08.2011
+1-2||Viesturs Zalcmanis|1|30|27|90|0|6.0|NY Rangers|nyr|27544641|60||was|21.08.2011
+1-2||Oscar Maudlin|1|5|5|100|1|4.7|Colorado|col|13803905|60||ana|21.08.2011
+1-2||Hugo Kukučiak|1|10|9|90|0|4.6|Minnesota|min|21342258|30.4333333333||sjs|21.08.2011
+2-2||Yuriy Baskakov|1|12|9|75|0|4.3|Minnesota|min|16218067|29.5666666667||sjs|21.08.2011
+1-2||Adam Miček|1|15|14|93.3|0|5.2|LA Kings|lak|26049920|60||edm|21.08.2011
+1-2||Etienne Dugas|1|14|13|92.9|0|5.1|Dallas|dal|26041188|48.15||van|21.08.2011
+2-2||Benjamin Ferrand|1|6|6|100|0|4.7|Dallas|dal|24300997|11.85||van|21.08.2011
+1-2||Valio Wendelin|1|27|25|92.6|0|6.0|Phoenix|phx|27529605|60||cgy|21.08.2011
+1-2||Vincenzo Benini|1|24|23|95.8|0|5.8|Detroit|det|18159167|60||stl|21.08.2011
+1-2||Ján Džogan|1|28|25|89.3|0|5.6|Nashville|nas|22670313|60||chi|21.08.2011
+1-2||Michal Feješ|1|6|6|100|1|4.6|Buffalo|buf|17511670|60||ott|21.08.2011
+1-2||Yuriy Bakhvalov|1|29|24|82.8|0|5.0|Boston|bos|28500438|60||mtl|21.08.2011
+1-2||Jonatán Pichlač|1|24|24|100|1|6.2|Toronto|tor|16825202|60||mtl|21.08.2011
+1-2||Marin Bakalov|1|3|3|100|1|4.4|Carolina|car|19339743|60||njd|21.08.2011
+1-2||Josef Spáčil|1|41|37|90.2|0|6.3|Philadelphia|phi|18159996|60||wpg|21.08.2011
+1-2||Pēteris Ūsiņš|1|30|27|90|0|5.6|NY Islanders|nyi|16041536|60||fla|21.08.2011
+1-1||Kevin Wickli|1|40|36|90|0|6.2|Tampa Bay|tbl|8647053|60||pit|21.08.2011
+1-2||Rafael Zahnd|1|27|22|81.5|0|5.0|Washington|was|26905564|39.4||nyr|21.08.2011
+2-2||Jan Hrabovský|1|9|9|100|0|4.8|Washington|was|27992924|20.6||nyr|21.08.2011
+1-2||Valér Dlábik|1|11|8|72.7|0|4.0|Anaheim|ana|29689194|20||col|21.08.2011
+2-2||Gilbert Thibault|1|34|25|73.5|0|4.2|Anaheim|ana|29705815|40||col|21.08.2011
+1-2||Stan Lackovič|1|17|14|82.4|0|4.6|San Jose|sjs|23457558|48.1166666667||min|21.08.2011
+2-2||Víctor Ibias|1|2|1|50|0|3.8|San Jose|sjs|13366779|11.8833333333||min|21.08.2011
+1-2||Čistomil Romanovič|1|17|13|76.5|0|4.4|Edmonton|edm|20647986|30.3833333333||lak|21.08.2011
+2-2||Ray Hills|1|22|15|68.2|0|3.9|Edmonton|edm|29543567|29.6166666667||lak|21.08.2011
+1-2||Nestser Pauliak|1|34|30|88.2|0|5.7|Vancouver|van|19227999|60||dal|21.08.2011
+1-2||Glenn Clark|1|33|30|90.9|0|6.0|Calgary|cgy|24711743|60||phx|21.08.2011
+1-2||Larry Smith|1|23|19|82.6|0|4.8|Columbus|cbj|21941487|60||bos|20.08.2011
+1-2||Vincenzo Benini|1|12|12|100|1|5.1|Detroit|det|18159167|60||ott|20.08.2011
+1-2||Damian Ackerknecht|1|19|17|89.5|0|5.3|Montreal|mtl|20629504|60||nas|20.08.2011
+1-2||Jonatán Pichlač|1|23|23|100|1|6.3|Toronto|tor|16825202|60||nas|20.08.2011
+1-2||Michal Feješ|1|39|36|92.3|0|6.5|Buffalo|buf|17511670|60||chi|20.08.2011
+1-2||Valio Wendelin|1|36|30|83.3|0|5.4|Phoenix|phx|27529605|40.9666666667||nyi|20.08.2011
+2-2||Vesa Klankki|1|17|13|76.5|0|4.3|Phoenix|phx|29022748|19.0333333333||nyi|20.08.2011
+1-2||Stan Lackovič|1|7|5|71.4|0|3.8|San Jose|sjs|23457558|14.4333333333||phi|20.08.2011
+2-2||Víctor Ibias|1|29|27|93.1|0|5.9|San Jose|sjs|13366779|45.5666666667||phi|20.08.2011
+1-2||Albrecht Pampúch|1|30|24|80|0|4.7|NJ Devils|njd|29535297|36.0166666667||lak|20.08.2011
+2-2||František Miškanin|1|20|15|75|0|4.3|NJ Devils|njd|29565349|23.9833333333||lak|20.08.2011
+1-2||Jocelyn Thibault|1|22|22|100|1|6.0|Pittsburgh|pit|22385348|60||dal|20.08.2011
+1-2||Valér Dlábik|1|13|10|76.9|0|4.1|Anaheim|ana|29689194|23||nyr|20.08.2011
+2-2||Maunu Viitanen|1|22|16|72.7|0|4.0|Anaheim|ana|29676889|37||nyr|20.08.2011
+1-1||Yuriy Baskakov|1|20|20|100|1|6.0|Minnesota|min|16218067|60||tbl|20.08.2011
+1-2||Michel Meili|1|9|9|100|1|4.9|Winnipeg|wpg|17152958|60||cgy|20.08.2011
+1-2||Oscar Maudlin|1|9|9|100|1|5.0|Colorado|col|13803905|60||was|20.08.2011
+1-2||Marin Bakalov|1|4|4|100|1|4.5|Carolina|car|19339743|60||van|20.08.2011
+1-2||Jakub Čermák|1|9|8|88.9|0|4.5|Florida|fla|12673994|60||edm|20.08.2011
+1-2||Yuriy Bakhvalov|1|37|35|94.6|0|6.7|Boston|bos|28500438|60||cbj|20.08.2011
+1-2||Bohumír Dlouhý|1|21|16|76.2|0|4.2|Ottawa|ott|29241980|30.2||det|20.08.2011
+2-2||Ruslan Hitrun|1|25|19|76|0|4.5|Ottawa|ott|25765790|29.8||det|20.08.2011
+1-2||Ján Džogan|1|26|21|80.8|0|4.9|Nashville|nas|22670313|47.3333333333||mtl|20.08.2011
+2-2||Patrik Kočiš|1|9|9|100|0|4.8|Nashville|nas|15189453|12.6666666667||mtl|20.08.2011
+1-2||Reinis Baltrausis|1|34|31|91.2|0|6.2|St. Louis|stl|20210989|60||tor|20.08.2011
+1-1||Jonne Ilola|1|19|19|100|1|5.9|Chicago|chi|24995076|60||buf|20.08.2011
+1-2||Pēteris Ūsiņš|1|15|14|93.3|0|5.3|NY Islanders|nyi|16041536|60||phx|20.08.2011
+1-2||Josef Spáčil|1|24|23|95.8|0|6.1|Philadelphia|phi|18159996|60||sjs|20.08.2011
+1-2||Adam Miček|1|6|6|100|1|4.5|LA Kings|lak|26049920|60||njd|20.08.2011
+1-2||Etienne Dugas|1|36|33|91.7|0|6.3|Dallas|dal|26041188|60||pit|20.08.2011
+1-2||Viesturs Zalcmanis|1|14|14|100|1|5.4|NY Rangers|nyr|27544641|60||ana|20.08.2011
+1-1||Kevin Wickli|1|29|26|89.7|0|5.6|Tampa Bay|tbl|8647053|60||min|20.08.2011
+1-2||Glenn Clark|1|45|36|80|0|5.3|Calgary|cgy|24711743|60||wpg|20.08.2011
+1-2||Rafael Zahnd|1|37|29|78.4|0|4.8|Washington|was|26905564|41.8833333333||col|20.08.2011
+2-2||Jan Hrabovský|1|19|18|94.7|0|5.2|Washington|was|27992924|18.1166666667||col|20.08.2011
+1-2||Nestser Pauliak|1|46|35|76.1|0|4.7|Vancouver|van|19227999|60||car|20.08.2011
+1-2||Čistomil Romanovič|1|24|18|75|0|4.4|Edmonton|edm|20647986|30.7166666667||fla|20.08.2011
+2-2||Ray Hills|1|23|17|73.9|0|4.3|Edmonton|edm|29543567|29.2833333333||fla|20.08.2011
+1-2||Čistomil Romanovič|1|19|18|94.7|0|5.2|Edmonton|edm|20647986|32.1||van|14.08.2011
+2-2||Ray Hills|1|10|8|80|0|4.3|Edmonton|edm|29543567|27.9||van|14.08.2011
+1-2||Yuriy Baskakov|1|5|5|100|0|4.7|Minnesota|min|16218067|30.7||cgy|14.08.2011
+2-2||Hugo Kukučiak|1|4|4|100|0|4.5|Minnesota|min|21342258|29.3||cgy|14.08.2011
+1-2||Michel Meili|1|8|8|100|1|4.8|Winnipeg|wpg|17152958|60||was|14.08.2011
+1-2||Jakub Čermák|1|30|28|93.3|0|6.1|Florida|fla|12673994|60||car|14.08.2011
+1-2||Oscar Maudlin|1|15|14|93.3|0|5.1|Colorado|col|13803905|60||tbl|14.08.2011
+1-2||Albrecht Pampúch|1|33|27|81.8|0|5.0|NJ Devils|njd|29535297|38.6||tor|14.08.2011
+2-2||František Miškanin|1|13|10|76.9|0|4.2|NJ Devils|njd|29565349|21.4||tor|14.08.2011
+1-2||Damian Ackerknecht|1|40|37|92.5|0|6.6|Montreal|mtl|20629504|60||phi|14.08.2011
+1-2||Pēteris Ūsiņš|1|22|22|100|1|6.1|NY Islanders|nyi|16041536|60||bos|14.08.2011
+1-2||Michal Feješ|1|29|29|100|1|6.7|Buffalo|buf|17511670|60||pit|14.08.2011
+1-2||Bohumír Dlouhý|1|17|12|70.6|0|4.1|Ottawa|ott|29241980|31.1833333333||nyr|14.08.2011
+2-2||Ruslan Hitrun|1|17|16|94.1|0|5.0|Ottawa|ott|25765790|28.8166666667||nyr|14.08.2011
+1-2||Reinis Baltrausis|1|25|23|92|0|5.8|St. Louis|stl|20210989|60||ana|14.08.2011
+1-1||Manuel Mankovecký|1|33|30|90.9|0|6.0|Detroit|det|17155279|60||sjs|14.08.2011
+1-2||Hans-Erik Nørgaard|1|23|21|91.3|0|5.7|Chicago|chi|21156671|60||lak|14.08.2011
+1-2||Ján Džogan|1|19|18|94.7|0|5.5|Nashville|nas|22670313|60||dal|14.08.2011
+1-2||Valio Wendelin|1|29|28|96.6|0|6.4|Phoenix|phx|27529605|60||cbj|14.08.2011
+1-2||Nestser Pauliak|1|30|30|100|1|6.9|Vancouver|van|19227999|60||edm|14.08.2011
+1-2||Glenn Clark|1|26|20|76.9|0|4.6|Calgary|cgy|24711743|37.5333333333||min|14.08.2011
+2-2||Peter Gondera|1|12|10|83.3|0|4.5|Calgary|cgy|27575752|22.4666666667||min|14.08.2011
+1-2||Rafael Zahnd|1|32|25|78.1|0|4.8|Washington|was|26905564|40||wpg|14.08.2011
+2-2||Jan Hrabovský|1|11|9|81.8|0|4.2|Washington|was|27992924|20||wpg|14.08.2011
+1-2||Marin Bakalov|1|24|22|91.7|0|5.5|Carolina|car|19339743|60||fla|14.08.2011
+1-1||Kevin Wickli|1|45|38|84.4|0|6.0|Tampa Bay|tbl|8647053|60||col|14.08.2011
+1-2||Jonatán Pichlač|1|7|7|100|1|4.6|Toronto|tor|16825202|60||col|14.08.2011
+1-2||Josef Spáčil|1|21|20|95.2|0|5.6|Philadelphia|phi|18159996|60||mtl|14.08.2011
+1-1||Boris Ilyenko|1|33|31|93.9|0|6.3|Boston|bos|28337227|60||nyi|14.08.2011
+1-2||Jocelyn Thibault|1|22|21|95.5|0|5.6|Pittsburgh|pit|22385348|60||buf|14.08.2011
+1-2||Viesturs Zalcmanis|1|20|20|100|1|6.0|NY Rangers|nyr|27544641|60||ott|14.08.2011
+1-2||Sepp Sluiter|1|25|16|64|0|3.5|Anaheim|ana|17113025|60||stl|14.08.2011
+1-2||Stan Lackovič|1|7|5|71.4|0|4.0|San Jose|sjs|23457558|33.7666666667||det|14.08.2011
+2-2||Víctor Ibias|1|14|14|100|0|5.5|San Jose|sjs|13366779|26.2333333333||det|14.08.2011
+1-2||Adam Miček|1|37|34|91.9|0|6.2|LA Kings|lak|26049920|60||chi|14.08.2011
+1-2||Etienne Dugas|1|46|41|89.1|0|6.7|Dallas|dal|26041188|60||nas|14.08.2011
+1-2||Larry Smith|1|23|20|87|0|5.2|Columbus|cbj|21941487|60||phx|14.08.2011
+1-2||Stan Lackovič|1|15|14|93.3|0|5.3|San Jose|sjs|23457558|60||dal|13.08.2011
+1-2||Sepp Sluiter|1|15|15|100|1|5.4|Anaheim|ana|17113025|60||lak|13.08.2011
+1-2||Josef Spáčil|1|12|12|100|1|5.3|Philadelphia|phi|18159996|60||nyr|13.08.2011
+1-2||Albrecht Pampúch|1|23|17|73.9|0|4.3|NJ Devils|njd|29535297|21.75||nyi|13.08.2011
+2-2||František Miškanin|1|33|26|78.8|0|4.7|NJ Devils|njd|29565349|38.25||nyi|13.08.2011
+1-2||Valio Wendelin|1|39|29|74.4|0|4.4|Phoenix|phx|27529605|60||pit|13.08.2011
+1-2||Oscar Maudlin|1|24|20|83.3|0|4.9|Colorado|col|13803905|60||tor|13.08.2011
+1-2||Yuriy Baskakov|1|14|14|100|0|5.3|Minnesota|min|16218067|30.2333333333||mtl|13.08.2011
+2-2||Hugo Kukučiak|1|12|12|100|0|5.3|Minnesota|min|21342258|29.7666666667||mtl|13.08.2011
+1-2||Yuriy Bakhvalov|1|19|17|89.5|0|5.1|Boston|bos|28500438|60||edm|13.08.2011
+1-2||Michal Feješ|1|19|18|94.7|0|5.4|Buffalo|buf|17511670|60||van|13.08.2011
+1-2||Bohumír Dlouhý|1|40|33|82.5|0|5.5|Ottawa|ott|29241980|60||cgy|13.08.2011
+1-2||Reinis Baltrausis|1|33|31|93.9|0|6.5|St. Louis|stl|20210989|60||car|13.08.2011
+1-2||Michel Meili|1|24|22|91.7|0|5.6|Winnipeg|wpg|17152958|60||det|13.08.2011
+1-2||Jakub Čermák|1|18|16|88.9|0|5.1|Florida|fla|12673994|60||chi|13.08.2011
+1-2||Ján Džogan|1|18|18|100|1|5.6|Nashville|nas|22670313|60||tbl|13.08.2011
+1-1||Larry Smith|1|29|29|100|1|6.8|Columbus|cbj|21941487|60||was|13.08.2011
+1-2||Etienne Dugas|1|37|31|83.8|0|5.4|Dallas|dal|26041188|60||sjs|13.08.2011
+1-2||Adam Miček|1|34|27|79.4|0|4.8|LA Kings|lak|26049920|60||ana|13.08.2011
+1-2||Viesturs Zalcmanis|1|53|44|83|0|6.0|NY Rangers|nyr|27544641|60||phi|13.08.2011
+1-2||Pēteris Ūsiņš|1|4|4|100|1|4.4|NY Islanders|nyi|16041536|60||njd|13.08.2011
+1-2||Jocelyn Thibault|1|16|14|87.5|0|5.0|Pittsburgh|pit|22385348|60||phx|13.08.2011
+1-2||Jonatán Pichlač|1|36|33|91.7|0|6.6|Toronto|tor|16825202|60||phx|13.08.2011
+1-2||Damian Ackerknecht|1|33|26|78.8|0|4.7|Montreal|mtl|20629504|60||min|13.08.2011
+1-2||Čistomil Romanovič|1|12|9|75|0|4.2|Edmonton|edm|20647986|30.8166666667||bos|13.08.2011
+2-2||Ray Hills|1|12|12|100|0|4.9|Edmonton|edm|29543567|29.1833333333||bos|13.08.2011
+1-2||Nestser Pauliak|1|44|38|86.4|0|6.2|Vancouver|van|19227999|60||buf|13.08.2011
+1-2||Glenn Clark|1|19|19|100|1|5.9|Calgary|cgy|24711743|60||ott|13.08.2011
+1-2||Marin Bakalov|1|26|24|92.3|0|5.8|Carolina|car|19339743|60||stl|13.08.2011
+1-1||Manuel Mankovecký|1|29|24|82.8|0|5.0|Detroit|det|17155279|60||wpg|13.08.2011
+1-2||Hans-Erik Nørgaard|1|29|22|75.9|0|4.6|Chicago|chi|21156671|60||fla|13.08.2011
+1-1||Gatis Pakalns|1|42|34|81|0|5.2|Tampa Bay|tbl|27990891|60||nas|13.08.2011
+1-2||Rafael Zahnd|1|20|18|90|0|5.1|Washington|was|26905564|39.0833333333||cbj|13.08.2011
+2-2||Jan Hrabovský|1|7|7|100|0|4.5|Washington|was|27992924|20.9166666667||cbj|13.08.2011
+1-2||Sepp Sluiter|1|9|8|88.9|0|4.7|Anaheim|ana|17113025|60||dal|07.08.2011
+1-1||Víctor Ibias|1|13|12|92.3|0|4.9|San Jose|sjs|13366779|60||phx|07.08.2011
+1-2||Albrecht Pampúch|1|21|16|76.2|0|4.3|NJ Devils|njd|29535297|31.0833333333||phi|07.08.2011
+2-2||František Miškanin|1|20|17|85|0|4.9|NJ Devils|njd|29565349|28.9166666667||phi|07.08.2011
+1-2||Viesturs Zalcmanis|1|30|23|76.7|0|4.4|NY Rangers|nyr|27544641|60||pit|07.08.2011
+1-2||Pēteris Ūsiņš|1|23|23|100|1|6.2|NY Islanders|nyi|16041536|60||lak|07.08.2011
+1-2||Marin Bakalov|1|28|24|85.7|0|5.2|Carolina|car|19339743|60||tor|07.08.2011
+1-2||Michel Meili|1|17|17|100|1|5.6|Winnipeg|wpg|17152958|60||mtl|07.08.2011
+1-2||Arnošt Novák|1|27|25|92.6|0|6.0|Florida|fla|29223646|60||bos|07.08.2011
+1-2||Michal Feješ|1|10|9|90|0|4.6|Buffalo|buf|17511670|60||tbl|07.08.2011
+1-2||Bohumír Dlouhý|1|25|20|80|0|4.8|Ottawa|ott|29241980|30.6166666667||was|07.08.2011
+2-2||Ruslan Hitrun|1|16|14|87.5|0|4.8|Ottawa|ott|25765790|29.3833333333||was|07.08.2011
+1-1||Miķelis Kalnišs|1|25|21|84|0|5.1|Colorado|col|10753182|60||stl|07.08.2011
+1-2||Hugo Kukučiak|1|16|15|93.8|0|4.9|Minnesota|min|21342258|30.2166666667||det|07.08.2011
+2-2||Yuriy Baskakov|1|10|10|100|0|4.9|Minnesota|min|16218067|29.7833333333||det|07.08.2011
+1-2||Hans-Erik Nørgaard|1|11|11|100|1|5.1|Chicago|chi|21156671|60||edm|07.08.2011
+1-1||Nigel Gauthier|1|45|39|86.7|0|6.2|Vancouver|van|29035140|60||nas|07.08.2011
+1-2||Larry Smith|1|16|16|100|1|5.5|Columbus|cbj|21941487|60||cgy|07.08.2011
+1-2||Etienne Dugas|1|46|36|78.3|0|5.1|Dallas|dal|26041188|60||ana|07.08.2011
+1-2||Valio Wendelin|1|49|37|75.5|0|4.9|Phoenix|phx|27529605|60||sjs|07.08.2011
+1-2||Josef Spáčil|1|6|5|83.3|0|4.3|Philadelphia|phi|18159996|60||njd|07.08.2011
+1-2||Jocelyn Thibault|1|22|20|90.9|0|5.4|Pittsburgh|pit|22385348|60||nyr|07.08.2011
+1-2||Adam Miček|1|34|29|85.3|0|5.4|LA Kings|lak|26049920|60||nyi|07.08.2011
+1-2||Jonatán Pichlač|1|29|27|93.1|0|6.0|Toronto|tor|16825202|60||nyi|07.08.2011
+1-2||Damian Ackerknecht|1|43|38|88.4|0|6.4|Montreal|mtl|20629504|60||wpg|07.08.2011
+1-2||Yuriy Bakhvalov|1|36|31|86.1|0|5.7|Boston|bos|28500438|60||fla|07.08.2011
+1-1||Gatis Pakalns|1|48|41|85.4|0|6.3|Tampa Bay|tbl|27990891|60||buf|07.08.2011
+1-2||Rafael Zahnd|1|15|14|93.3|0|5.3|Washington|was|26905564|39.0333333333||ott|07.08.2011
+2-2||Jan Hrabovský|1|5|5|100|0|4.6|Washington|was|27992924|20.9666666667||ott|07.08.2011
+1-2||Reinis Baltrausis|1|43|36|83.7|0|5.7|St. Louis|stl|20210989|60||col|07.08.2011
+1-1||Manuel Mankovecký|1|29|29|100|1|6.8|Detroit|det|17155279|60||min|07.08.2011
+1-2||Čistomil Romanovič|1|23|20|87|0|5.2|Edmonton|edm|20647986|30.85||chi|07.08.2011
+2-2||Ray Hills|1|19|16|84.2|0|4.8|Edmonton|edm|29543567|29.15||chi|07.08.2011
+1-2||Ján Džogan|1|9|9|100|1|4.8|Nashville|nas|22670313|60||van|07.08.2011
+1-2||Glenn Clark|1|27|25|92.6|0|5.7|Calgary|cgy|24711743|60||cbj|07.08.2011
+1-1||Manuel Mankovecký|1|23|21|91.3|0|5.6|Detroit|det|17155279|60||bos|06.08.2011
+1-2||Ruslan Hitrun|1|50|39|78|0|5.1|Ottawa|ott|25765790|60||nas|06.08.2011
+1-2||Reinis Baltrausis|1|26|23|88.5|0|5.5|St. Louis|stl|20210989|60||mtl|06.08.2011
+1-2||Hans-Erik Nørgaard|1|34|32|94.1|0|6.5|Chicago|chi|21156671|60||tor|06.08.2011
+1-2||Larry Smith|1|17|12|70.6|0|3.9|Columbus|cbj|21941487|60||buf|06.08.2011
+1-2||Stan Lackovič|1|30|28|93.3|0|6.1|San Jose|sjs|23457558|60||nyi|06.08.2011
+1-2||Josef Spáčil|1|22|22|100|1|6.1|Philadelphia|phi|18159996|60||lak|06.08.2011
+1-2||Albrecht Pampúch|1|28|19|67.9|0|3.7|NJ Devils|njd|29535297|60||dal|06.08.2011
+1-2||Sepp Sluiter|1|16|13|81.3|0|4.6|Anaheim|ana|17113025|60||pit|06.08.2011
+1-2||Valio Wendelin|1|28|26|92.9|0|6.0|Phoenix|phx|27529605|60||nyr|06.08.2011
+1-1||Gatis Pakalns|1|28|28|100|1|6.7|Tampa Bay|tbl|27990891|60||cgy|06.08.2011
+1-2||Oscar Maudlin|1|26|22|84.6|0|5.2|Colorado|col|13803905|60||wpg|06.08.2011
+1-1||Nigel Gauthier|1|33|30|90.9|0|6.3|Vancouver|van|29035140|60||was|06.08.2011
+1-2||Marin Bakalov|1|9|9|100|1|4.9|Carolina|car|19339743|60||edm|06.08.2011
+1-2||Jakub Čermák|1|21|18|85.7|0|5.0|Florida|fla|12673994|60||min|06.08.2011
+1-2||Yuriy Bakhvalov|1|40|35|87.5|0|6.1|Boston|bos|28500438|60||det|06.08.2011
+1-2||Ján Džogan|1|8|8|100|1|4.9|Nashville|nas|22670313|60||ott|06.08.2011
+1-2||Damian Ackerknecht|1|31|26|83.9|0|5.1|Montreal|mtl|20629504|60||stl|06.08.2011
+1-2||Jonatán Pichlač|1|21|20|95.2|0|5.7|Toronto|tor|16825202|60||stl|06.08.2011
+1-2||Michal Feješ|1|29|28|96.6|0|6.3|Buffalo|buf|17511670|60||cbj|06.08.2011
+1-2||Pēteris Ūsiņš|1|24|19|79.2|0|4.7|NY Islanders|nyi|16041536|60||sjs|06.08.2011
+1-2||Adam Miček|1|38|35|92.1|0|6.3|LA Kings|lak|26049920|60||phi|06.08.2011
+1-2||Etienne Dugas|1|8|7|87.5|0|4.6|Dallas|dal|26041188|42.7||njd|06.08.2011
+2-2||Benjamin Ferrand|1|5|5|100|0|4.7|Dallas|dal|24300997|17.3||njd|06.08.2011
+1-2||Jocelyn Thibault|1|38|27|71.1|0|4.0|Pittsburgh|pit|22385348|60||ana|06.08.2011
+1-2||Viesturs Zalcmanis|1|19|17|89.5|0|5.2|NY Rangers|nyr|27544641|60||phx|06.08.2011
+1-2||Glenn Clark|1|16|15|93.8|0|4.9|Calgary|cgy|24711743|60||tbl|06.08.2011
+1-2||Michel Meili|1|33|31|93.9|0|6.4|Winnipeg|wpg|17152958|60||col|06.08.2011
+1-1||Jan Hrabovský|1|27|23|85.2|0|5.3|Washington|was|27992924|60||van|06.08.2011
+1-2||Čistomil Romanovič|1|24|16|66.7|0|3.6|Edmonton|edm|20647986|30.9833333333||car|06.08.2011
+2-2||Ray Hills|1|22|17|77.3|0|4.3|Edmonton|edm|29543567|29.0166666667||car|06.08.2011
+1-2||Hugo Kukučiak|1|22|18|81.8|0|4.6|Minnesota|min|21342258|32.4333333333||fla|06.08.2011
+2-2||Yuriy Baskakov|1|12|9|75|0|4.1|Minnesota|min|16218067|27.5666666667||fla|06.08.2011
+1-2||Ján Džogan|1|20|19|95|0|5.6|Nashville|nas|22670313|60||cbj|31.07.2011
+1-1||Manuel Mankovecký|1|25|23|92|0|5.9|Detroit|det|17155279|60||chi|31.07.2011
+1-2||Jonatán Pichlač|1|15|14|93.3|0|5.1|Toronto|tor|16825202|60||chi|31.07.2011
+1-2||Michal Feješ|1|39|37|94.9|0|7.0|Buffalo|buf|17511670|60||mtl|31.07.2011
+1-2||Reinis Baltrausis|1|8|8|100|1|4.7|St. Louis|stl|20210989|60||ott|31.07.2011
+1-2||Valio Wendelin|1|31|28|90.3|0|5.7|Phoenix|phx|27529605|60||lak|31.07.2011
+1-1||Havel Franěk|1|31|29|93.5|0|6.3|San Jose|sjs|14808227|60||ana|31.07.2011
+1-2||Pēteris Ūsiņš|1|17|17|100|1|5.7|NY Islanders|nyi|16041536|60||pit|31.07.2011
+1-2||Erkki Tella|1|11|11|100|1|5.2|NJ Devils|njd|17447808|60||nyr|31.07.2011
+1-2||Benjamin Ferrand|1|41|40|97.6|0|7.6|Dallas|dal|24300997|60||phi|31.07.2011
+1-2||Oscar Maudlin|1|19|17|89.5|0|5.1|Colorado|col|13803905|60||min|31.07.2011
+1-2||Čistomil Romanovič|1|4|3|75|0|4.3|Edmonton|edm|20647986|31.25||cgy|31.07.2011
+2-2||Terry Sellars|1|4|4|100|0|4.6|Edmonton|edm|20616518|28.75||cgy|31.07.2011
+1-2||Marin Bakalov|1|8|8|100|1|4.9|Carolina|car|19339743|60||tbl|31.07.2011
+1-2||Jakub Čermák|1|10|8|80|0|4.4|Florida|fla|12673994|60||was|31.07.2011
+1-2||Michel Meili|1|6|6|100|1|4.5|Winnipeg|wpg|17152958|60||van|31.07.2011
+1-2||Larry Smith|1|29|28|96.6|0|6.3|Columbus|cbj|21941487|60||nas|31.07.2011
+1-2||Hans-Erik Nørgaard|1|32|28|87.5|0|5.7|Chicago|chi|21156671|60||det|31.07.2011
+1-2||Boris Ilyenko|1|52|42|80.8|0|5.6|Boston|bos|28337227|60||tor|31.07.2011
+1-2||Damian Ackerknecht|1|21|19|90.5|0|5.4|Montreal|mtl|20629504|60||buf|31.07.2011
+1-1||Ruslan Hitrun|1|56|44|78.6|0|5.3|Ottawa|ott|25765790|60||stl|31.07.2011
+1-2||Adam Miček|1|21|21|100|1|6.1|LA Kings|lak|26049920|60||phx|31.07.2011
+1-2||Sepp Sluiter|1|30|25|83.3|0|5.0|Anaheim|ana|17113025|60||sjs|31.07.2011
+1-2||Jocelyn Thibault|1|29|28|96.6|0|6.1|Pittsburgh|pit|22385348|60||nyi|31.07.2011
+1-2||Viesturs Zalcmanis|1|43|35|81.4|0|5.4|NY Rangers|nyr|27544641|60||njd|31.07.2011
+1-1||Michael Zysset|1|21|19|90.5|0|5.2|Philadelphia|phi|15184900|60||dal|31.07.2011
+1-2||Hugo Kukučiak|1|17|16|94.1|0|5.0|Minnesota|min|21342258|31.25||col|31.07.2011
+2-2||Yuriy Baskakov|1|20|17|85|0|4.7|Minnesota|min|16218067|28.75||col|31.07.2011
+1-2||Glenn Clark|1|32|30|93.8|0|6.1|Calgary|cgy|24711743|60||edm|31.07.2011
+1-1||Gatis Pakalns|1|54|41|75.9|0|5.0|Tampa Bay|tbl|27990891|60||car|31.07.2011
+1-2||Rafael Zahnd|1|31|18|58.1|0|2.8|Washington|was|26905564|39.75||fla|31.07.2011
+2-2||Jan Hrabovský|1|17|17|100|0|5.5|Washington|was|27992924|20.25||fla|31.07.2011
+1-2||Nestser Pauliak|1|55|42|76.4|0|5.1|Vancouver|van|19227999|60||wpg|31.07.2011
+1-2||Reinis Baltrausis|1|15|14|93.3|0|5.3|St. Louis|stl|20210989|60||bos|30.07.2011
+1-2||Hans-Erik Nørgaard|1|14|14|100|1|5.4|Chicago|chi|21156671|60||ott|30.07.2011
+1-2||Larry Smith|1|28|26|92.9|0|5.7|Columbus|cbj|21941487|60||mtl|30.07.2011
+1-1||Manuel Mankovecký|1|29|25|86.2|0|5.2|Detroit|det|17155279|60||tor|30.07.2011
+1-2||Ján Džogan|1|25|24|96|0|6.1|Nashville|nas|22670313|60||buf|30.07.2011
+1-2||Benjamin Ferrand|1|37|34|91.9|0|6.2|Dallas|dal|24300997|60||nyi|30.07.2011
+1-2||Sepp Sluiter|1|22|20|90.9|0|5.5|Anaheim|ana|17113025|60||phi|30.07.2011
+1-2||Erkki Tella|1|7|7|100|1|4.8|NJ Devils|njd|17447808|60||phx|30.07.2011
+1-2||Stan Lackovič|1|16|16|100|1|5.4|San Jose|sjs|23457558|60||pit|30.07.2011
+1-2||Viesturs Zalcmanis|1|43|37|86|0|6.0|NY Rangers|nyr|27544641|60||lak|30.07.2011
+1-2||Nestser Pauliak|1|26|25|96.2|0|6.1|Vancouver|van|19227999|60||tbl|30.07.2011
+1-2||Michel Meili|1|22|22|100|1|6.0|Winnipeg|wpg|17152958|60||edm|30.07.2011
+1-2||Hugo Kukučiak|1|6|6|100|0|4.6|Minnesota|min|21342258|30.8166666667||was|30.07.2011
+2-2||Yuriy Baskakov|1|9|9|100|0|5.0|Minnesota|min|16218067|29.1833333333||was|30.07.2011
+1-2||Jakub Čermák|1|36|33|91.7|0|6.4|Florida|fla|12673994|60||col|30.07.2011
+1-2||Yuriy Bakhvalov|1|45|39|86.7|0|6.1|Boston|bos|28500438|60||stl|30.07.2011
+1-1||Ruslan Hitrun|1|39|33|84.6|0|5.5|Ottawa|ott|25765790|60||chi|30.07.2011
+1-2||Damian Ackerknecht|1|28|28|100|1|6.7|Montreal|mtl|20629504|60||cbj|30.07.2011
+1-2||Jonatán Pichlač|1|26|25|96.2|0|6.0|Toronto|tor|16825202|60||cbj|30.07.2011
+1-2||Michal Feješ|1|23|20|87|0|5.1|Buffalo|buf|17511670|60||nas|30.07.2011
+1-2||Pēteris Ūsiņš|1|21|20|95.2|0|5.6|NY Islanders|nyi|16041536|60||dal|30.07.2011
+1-1||Michael Zysset|1|29|25|86.2|0|5.3|Philadelphia|phi|15184900|60||ana|30.07.2011
+1-2||Valio Wendelin|1|33|30|90.9|0|6.1|Phoenix|phx|27529605|41||njd|30.07.2011
+2-2||Drago Janežič|1|11|9|81.8|0|4.4|Phoenix|phx|28290205|19||njd|30.07.2011
+1-2||Jocelyn Thibault|1|5|2|40|0|3.6|Pittsburgh|pit|22385348|8.08333333333||sjs|30.07.2011
+2-2||Jaroslav Halák|1|42|33|78.6|0|4.9|Pittsburgh|pit|24109404|51.9166666667||sjs|30.07.2011
+1-2||Adam Miček|1|21|20|95.2|0|5.6|LA Kings|lak|26049920|60||nyr|30.07.2011
+1-1||Gatis Pakalns|1|39|36|92.3|0|6.4|Tampa Bay|tbl|27990891|60||van|30.07.2011
+1-2||Čistomil Romanovič|1|21|16|76.2|0|4.3|Edmonton|edm|20647986|32.6||wpg|30.07.2011
+2-2||Terry Sellars|1|16|13|81.3|0|4.5|Edmonton|edm|20616518|27.4||wpg|30.07.2011
+1-2||Rafael Zahnd|1|29|23|79.3|0|4.8|Washington|was|26905564|39.5||min|30.07.2011
+2-2||Jan Hrabovský|1|12|9|75|0|4.1|Washington|was|27992924|20.5||min|30.07.2011
+1-2||Oscar Maudlin|1|32|31|96.9|0|6.8|Colorado|col|13803905|60||fla|30.07.2011
+1-2||Reinis Baltrausis|1|18|16|88.9|0|5.2|St. Louis|stl|20210989|60||nas|29.07.2011
+1-2||Hans-Erik Nørgaard|1|28|27|96.4|0|6.3|Chicago|chi|21156671|60||cbj|29.07.2011
+1-1||Ruslan Hitrun|1|45|34|75.6|0|4.8|Ottawa|ott|25765790|60||bos|29.07.2011
+1-2||Damian Ackerknecht|1|30|24|80|0|4.7|Montreal|mtl|20629504|60||tor|29.07.2011
+1-1||Manuel Mankovecký|1|15|13|86.7|0|4.8|Detroit|det|17155279|60||buf|29.07.2011
+1-2||Benjamin Ferrand|1|38|34|89.5|0|6.1|Dallas|dal|24300997|60||lak|29.07.2011
+1-2||Sepp Sluiter|1|11|11|100|1|5.2|Anaheim|ana|17113025|60||phx|29.07.2011
+1-1||Michael Zysset|1|25|23|92|0|5.7|Philadelphia|phi|15184900|60||nyi|29.07.2011
+1-2||Erkki Tella|1|16|16|100|1|5.5|NJ Devils|njd|17447808|60||pit|29.07.2011
+1-2||Stan Lackovič|1|11|11|100|1|5.1|San Jose|sjs|23457558|60||nyr|29.07.2011
+1-2||Oscar Maudlin|1|11|11|100|1|5.2|Colorado|col|13803905|60||van|29.07.2011
+1-2||Hugo Kukučiak|1|10|9|90|0|4.8|Minnesota|min|21342258|32.5||edm|29.07.2011
+2-2||Yuriy Baskakov|1|15|15|100|0|5.4|Minnesota|min|16218067|27.5||edm|29.07.2011
+1-2||Michel Meili|1|7|7|100|1|4.8|Winnipeg|wpg|17152958|60||tbl|29.07.2011
+1-2||Marin Bakalov|1|9|8|88.9|0|4.7|Carolina|car|19339743|60||was|29.07.2011
+1-2||Jakub Čermák|1|4|4|100|1|4.4|Florida|fla|12673994|60||cgy|29.07.2011
+1-2||Ján Džogan|1|38|32|84.2|0|5.5|Nashville|nas|22670313|49.2833333333||stl|29.07.2011
+2-2||Patrik Kočiš|1|7|5|71.4|0|3.8|Nashville|nas|15189453|10.7166666667||stl|29.07.2011
+1-2||Larry Smith|1|34|28|82.4|0|5.1|Columbus|cbj|21941487|60||chi|29.07.2011
+1-2||Yuriy Bakhvalov|1|20|19|95|0|5.5|Boston|bos|28500438|60||ott|29.07.2011
+1-2||Jonatán Pichlač|1|19|19|100|1|5.7|Toronto|tor|16825202|60||ott|29.07.2011
+1-2||Michal Feješ|1|45|36|80|0|5.2|Buffalo|buf|17511670|60||det|29.07.2011
+1-2||Adam Miček|1|28|26|92.9|0|6.0|LA Kings|lak|26049920|60||dal|29.07.2011
+1-2||Valio Wendelin|1|26|24|92.3|0|5.6|Phoenix|phx|27529605|40.9666666667||ana|29.07.2011
+2-2||Drago Janežič|1|15|10|66.7|0|3.8|Phoenix|phx|28290205|19.0333333333||ana|29.07.2011
+1-2||Pēteris Ūsiņš|1|37|34|91.9|0|6.3|NY Islanders|nyi|16041536|60||phi|29.07.2011
+1-2||Jocelyn Thibault|1|25|21|84|0|5.0|Pittsburgh|pit|22385348|39.9666666667||njd|29.07.2011
+2-2||Jaroslav Halák|1|10|7|70|0|4.0|Pittsburgh|pit|24109404|20.0333333333||njd|29.07.2011
+1-2||Viesturs Zalcmanis|1|50|40|80|0|5.6|NY Rangers|nyr|27544641|60||sjs|29.07.2011
+1-2||Nestser Pauliak|1|54|46|85.2|0|6.5|Vancouver|van|19227999|60||col|29.07.2011
+1-2||Čistomil Romanovič|1|15|9|60|0|3.4|Edmonton|edm|20647986|30.1833333333||min|29.07.2011
+2-2||Terry Sellars|1|16|13|81.3|0|4.6|Edmonton|edm|20616518|29.8166666667||min|29.07.2011
+1-1||Gatis Pakalns|1|53|40|75.5|0|4.8|Tampa Bay|tbl|27990891|60||wpg|29.07.2011
+1-2||Rafael Zahnd|1|35|23|65.7|0|3.5|Washington|was|26905564|39.5833333333||car|29.07.2011
+2-2||Jan Hrabovský|1|19|19|100|0|5.6|Washington|was|27992924|20.4166666667||car|29.07.2011
+1-2||Peter Gondera|1|11|8|72.7|0|3.9|Calgary|cgy|27575752|10.75||fla|29.07.2011
+2-2||Vic Holland|1|41|31|75.6|0|4.7|Calgary|cgy|27670116|49.25||fla|29.07.2011

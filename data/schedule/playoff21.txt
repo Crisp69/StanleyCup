@@ -1,0 +1,31 @@
+Stanley Cup Finals|Colorado Avalanche|Florida Panthers ®|9441|14852|07|08|2010|col|fla|1|2|1|873634480|1030|
+
+Stanley Cup Finals|Florida Panthers ®|Colorado Avalanche|14852|9441|08|08|2010|fla|col|0|2|1|873634481|1029|
+Conference Finals|Carolina Hurricanes ®|Florida Panthers ®|29501|14852|31|07|2010|car|fla|0|6|1|873571134|1028|
+Conference Finals|Colorado Avalanche|Detroit Red Wings™|9441|19051|31|07|2010|col|det|5|1|2|873570359|1027|
+Conference Finals|Florida Panthers ®|Carolina Hurricanes ®|14852|29501|01|08|2010|fla|car|6|1|1|873571136|1026|
+Conference Finals|Detroit Red Wings™|Colorado Avalanche|19051|9441|01|08|2010|det|col|2|3|2|873571079|1025|
+Conference Semifinals|Ottawa Senators|Florida Panthers ®|5|14852|24|07|2010|ott|fla|3|4|1|873547978|1024|
+Conference Semifinals|Carolina Hurricanes ®|New Jersey Devils®|29501|12576|24|07|2010|car|njd|2|3|0|873546939|1023|
+Conference Semifinals|Colorado Avalanche|Vancouver Canucks ®|9441|29135|24|07|2010|col|van|8|2|0|873546636|1022|
+Conference Semifinals|Anaheim Ducks ®|Detroit Red Wings™|3597|19051|24|07|2010|ana|det|1|3|2|873547799|1021|
+Conference Semifinals|Florida Panthers ®|Ottawa Senators|14852|5|25|07|2010|fla|ott|4|1|1|873547979|1020|
+Conference Semifinals|New Jersey Devils®|Carolina Hurricanes ®|12576|29501|25|07|2010|njd|car|1|3|0|873546940|1019|
+Conference Semifinals|Vancouver Canucks ®|Colorado Avalanche|29135|9441|25|07|2010|van|col|0|10|0|873546637|1018|
+Conference Semifinals|Detroit Red Wings™|Anaheim Ducks ®|19051|3597|25|07|2010|det|ana|1|2|2|873547800|1017|
+Conference Quarterfinals|Ottawa Senators|Atlanta Thrashers ™|5|18857|17|07|2010|ott|atl|4|5|1|873530156|1001|
+Conference Quarterfinals|Carolina Hurricanes ®|Montreal Canadiens ™|29501|39418|17|07|2010|car|mtl|4|0|0|873530287|1002|
+Conference Quarterfinals|New Jersey Devils®|Toronto Maple Leafs ®|12576|29473|17|07|2010|njd|tor|3|0|0|873530009|1003|
+Conference Quarterfinals|Florida Panthers ®|ŦAMPA BAY Lightning|14852|2314|17|07|2010|fla|tbl|5|2|0|873528302|1004|
+Conference Quarterfinals|Colorado Avalanche|Edmonton Oilers™|9441|25621|17|07|2010|col|edm|1|0|0|873528747|1005|
+Conference Quarterfinals|Anaheim Ducks ®|Phoenix Coyotes ®|3597|2787|17|07|2010|ana|phx|5|1|0|873532749|1006|
+Conference Quarterfinals|Detroit Red Wings™|St. Louis Blues®|19051|16565|17|07|2010|det|stl|4|0|0|873530087|1007|
+Conference Quarterfinals|Vancouver Canucks ®|**Calgary Flames**|29135|23488|17|07|2010|van|cgy|6|2|2|873529294|1008|
+Conference Quarterfinals|Atlanta Thrashers ™|Ottawa Senators|18857|5|18|07|2010|atl|ott|1|7|1|873530157|1009|
+Conference Quarterfinals|Montreal Canadiens ™|Carolina Hurricanes ®|39418|29501|18|07|2010|mtl|car|2|3|0|873530288|1010|
+Conference Quarterfinals|Toronto Maple Leafs ®|New Jersey Devils®|29473|12576|18|07|2010|tor|njd|1|3|0|873530010|1011|
+Conference Quarterfinals|ŦAMPA BAY Lightning|Florida Panthers ®|2314|14852|18|07|2010|tbl|fla|1|3|0|873528304|1012|
+Conference Quarterfinals|Edmonton Oilers™|Colorado Avalanche|25621|9441|18|07|2010|edm|col|3|6|0|873528748|1013|
+Conference Quarterfinals|Phoenix Coyotes ®|Anaheim Ducks ®|2787|3597|18|07|2010|phx|ana|2|1|0|873532750|1014|
+Conference Quarterfinals|St. Louis Blues®|Detroit Red Wings™|16565|19051|18|07|2010|stl|det|4|3|0|873530086|1015|
+Conference Quarterfinals|**Calgary Flames**|Vancouver Canucks ®|23488|29135|18|07|2010|cgy|van|1|2|2|873529296|1016|

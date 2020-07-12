@@ -1,0 +1,30 @@
+Stanley Cup Finals|St. Louis Blues™|New Jersey Devils®|2769|12576|13|6|2009|stl|njd|0|10|1
+Stanley Cup Finals|New Jersey Devils®|St. Louis Blues™|12576|2769|14|6|2009|njd|stl|4|3|1
+Conference Finals|Ottawa Senators ®|New Jersey Devils®|2787|12576|6|6|2009|ott|njd|0|2|1
+Conference Finals|St. Louis Blues™|Dallas Stars™|2769|12548|6|6|2009|stl|dal|3|4|2
+Conference Finals|New Jersey Devils®|Ottawa Senators ®|12576|2787|7|6|2009|njd|ott|6|7|1
+Conference Finals|Dallas Stars™|St. Louis Blues™|12548|2769|7|6|2009|dal|stl|3|4|2
+Conference Semifinals|Philadelphia Flyers|New Jersey Devils®|17911|12576|30|5|2009|phi|njd|0|1|1
+Conference Semifinals|Florida Panthers|Ottawa Senators ®|2372|2787|30|5|2009|fla|ott|3|4|0
+Conference Semifinals|St. Louis Blues™|Minnesota Wild™|2769|23488|30|5|2009|stl|min|4|2|0
+Conference Semifinals|Dallas Stars™|Chicago Blackhawks™|12548|5650|30|5|2009|dal|chi|5|2|2
+Conference Semifinals|New Jersey Devils®|Philadelphia Flyers|12576|17911|31|5|2009|njd|phi|7|6|1
+Conference Semifinals|Ottawa Senators ®|Florida Panthers|2787|2372|31|5|2009|ott|fla|9|3|0
+Conference Semifinals|Minnesota Wild™|St. Louis Blues™|23488|2769|31|5|2009|min|stl|0|8|0
+Conference Semifinals|Chicago Blackhawks™|Dallas Stars™|5650|12548|31|5|2009|chi|dal|1|5|2
+Conference Quarterfinals|Philadelphia Flyers|- Washington Capitals -|17911|3597|23|5|2009|phi|was|6|3|1
+Conference Quarterfinals|Florida Panthers|** NY RANGERS **|2372|5712|23|5|2009|fla|nyr|4|0|0
+Conference Quarterfinals|Ottawa Senators ®|Montreal Canadiens|2787|2747|23|5|2009|ott|mtl|4|6|0
+Conference Quarterfinals|New Jersey Devils®|New York Islanders ®|12576|19992|23|5|2009|njd|nyi|1|2|0
+Conference Quarterfinals|St. Louis Blues™|Phoenix Coyotes®|2769|2499|23|5|2009|stl|phx|6|1|0
+Conference Quarterfinals|Edmonton Oilers™|Minnesota Wild™|25621|23488|23|5|2009|edm|min|1|2|0
+Conference Quarterfinals|Dallas Stars™|Columbus Blue Jacket™|12548|5678|23|5|2009|dal|cbj|3|0|0
+Conference Quarterfinals|Detroit Red Wings ™|Chicago Blackhawks™|23149|5650|23|5|2009|det|chi|1|2|2
+Conference Quarterfinals|- Washington Capitals -|Philadelphia Flyers|3597|17911|24|5|2009|was|phi|3|6|1
+Conference Quarterfinals|** NY RANGERS **|Florida Panthers|5712|2372|24|5|2009|nyr|fla|5|11|0
+Conference Quarterfinals|Montreal Canadiens|Ottawa Senators ®|2747|2787|24|5|2009|mtl|ott|1|5|0
+Conference Quarterfinals|New York Islanders ®|New Jersey Devils®|19992|12576|24|5|2009|nyi|njd|1|5|0
+Conference Quarterfinals|Phoenix Coyotes®|St. Louis Blues™|2499|2769|24|5|2009|phx|stl|1|8|0
+Conference Quarterfinals|Minnesota Wild™|Edmonton Oilers™|23488|25621|24|5|2009|min|edm|3|1|0
+Conference Quarterfinals|Columbus Blue Jacket™|Dallas Stars™|5678|12548|24|5|2009|cbj|dal|1|2|0
+Conference Quarterfinals|Chicago Blackhawks™|Detroit Red Wings ™|5650|23149|24|5|2009|chi|det|3|4|2

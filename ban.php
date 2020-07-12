@@ -1,0 +1,9 @@
+<?php
+
+$IP = $_SERVER['REMOTE_ADDR'];
+
+echo "<center><p><b>IF YOU SEE THIS PAGE, THAT MEANS THAT ACCESS TO STANLEYCUP TOURNAMENT WEB PAGE WAS DISABLED FOR YOUR IP ADDRESS $IP<p>BYE!</b></center>";
+echo "<META HTTP-EQUIV=\"Refresh\" CONTENT=\"2; URL=http://google.com\">";
+
+?>
+

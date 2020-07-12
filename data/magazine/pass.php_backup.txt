@@ -1,0 +1,11 @@
+<?php
+$password_main[admin] = "svatos";$team[admin] = "Colorado Avalanche";$team_short[admin] = "col";
+
+$password_main[speedysportwhiz] = "75AhAU";$team_short[speedysportwhiz] = "was"; $team[speedysportwhiz] = "Washington Capitals";
+$password_main[sollu] = "8490";$team[sollu] = "Colorado Avalanche";$team_short[sollu] = "col";
+$password_main[trsto] = "farcry";$team[Trsto] = "New Jersey Devils";$team_short[Trsto] = "njd"; 
+$password_main[lordik13] = "slovan";$team[lordik13] = "Calgary Flames";$team_short[lordik13] = "cgy";
+$password_main[petrik] = "avsfan";$team[petrik] = "Chicago Blackhawks";$team_short[petrik] = "chi";
+$password_main[sllaby] = "password";$team[sllaby] = "Ottawa Senators";$team_short[sllaby] = "ott";
+$password_main[misko] = "haulik";$team[misko] = "Carolina Hurricanes";$team_short[misko] = "car";
+?>

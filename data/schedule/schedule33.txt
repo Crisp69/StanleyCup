@@ -1,0 +1,210 @@
+A|Chicago Blackhawks ™|Detroit Red Wings ©|18857|6924|21|09|2012|chi|det|1|8|1|883495803|1|
+A|St. Louis Blues ™|Nashville Predators ™|23488|19992|21|09|2012|stl|nas|2|3|0|883500052|2|
+B|Boston Bruins ®|Buffalo Sabres|1220|28475|21|09|2012|bos|buf|4|3|0|883496104|3|
+B|Ottawa Senators©|Toronto Maple Leafs ®|29402|29473|21|09|2012|ott|tor|2|3|0|883495702|4|
+A|Columbus Blue Jackets|Montreal Canadiens ™|16632|39418|21|09|2012|cbj|mtl|2|1|0|883493959|5|
+C|Dallas Stars ®|Phoenix coyotes#|27996|32419|21|09|2012|dal|phx|5|0|0|883501991|6|
+C|Anaheim Ducks ®|San Jose Sharks™|3597|35895|21|09|2012|ana|sjs|10|0|0|883465210|7|
+A|Pittsburgh Penguins|Philadelphia Flyers ®|876|23983|21|09|2012|pit|phi|2|0|0|883500740|8|
+A|New York Islanders™|New Jersey Devils®|35972|12576|21|09|2012|nyi|njd|10|0|0|883495592|9|
+C|Los Angeles Kings ®|New York Rangers ™|23979|2787|21|09|2012|lak|nyr|4|2|0|883474859|10|
+B|Calgary Flames ®|Minnesota Wild®|36702|5709|21|09|2012|cgy|min|8|0|0|883467172|11|
+B|Edmonton Oilers ® |Colorado Avalanche|38448|18850|21|09|2012|edm|col|4|2|0|883520629|12|
+C|Florida Panthers®|Winnipeg Jets HC|14852|799|21|09|2012|fla|wpg|0|11|0|883466670|13|
+C|Tampa Bay Lightning ®|The Washington Capitals|16293|1659|21|09|2012|tbl|was|3|0|0|883517980|14|
+C|Carolina Hurricanes ™|Vancouver Canucks™|39037|12519|21|09|2012|car|van|0|1|2|883499519|15|
+A|Detroit Red Wings ©|Boston Bruins ®|6924|1220|22|09|2012|det|bos|3|2|1|883496105|16|
+B|Ottawa Senators©|Chicago Blackhawks ™|29402|18857|22|09|2012|ott|chi|2|1|0|883495804|17|
+A|St. Louis Blues ™|Montreal Canadiens ™|23488|39418|22|09|2012|stl|mtl|3|4|0|883514134|18|
+B|Toronto Maple Leafs ®|Columbus Blue Jackets|29473|16632|22|09|2012|tor|cbj|2|1|0|883495704|19|
+A|Nashville Predators ™|Buffalo Sabres|19992|28475|22|09|2012|nas|buf|4|6|0|883499963|20|
+C|Phoenix coyotes#|Pittsburgh Penguins|32419|876|22|09|2012|phx|pit|1|2|0|883501992|21|
+C|Dallas Stars ®|New York Islanders™|27996|35972|22|09|2012|dal|nyi|1|0|0|883495593|22|
+A|New York Rangers ™|Anaheim Ducks ®|2787|3597|22|09|2012|nyr|ana|4|0|0|883502543|23|
+A|New Jersey Devils®|Los Angeles Kings ®|12576|23979|22|09|2012|njd|lak|0|14|0|883474413|24|
+C|San Jose Sharks™|Philadelphia Flyers ®|35895|23983|22|09|2012|sjs|phi|3|3|0|883466654|25|
+B|Minnesota Wild®|Florida Panthers®|5709|14852|22|09|2012|min|fla|4|0|0|883502052|26|
+C|Tampa Bay Lightning ®|Calgary Flames ®|16293|36702|22|09|2012|tbl|cgy|0|2|0|883467313|27|
+C|Carolina Hurricanes ™|Edmonton Oilers ® |39037|38448|22|9|2012|car|edm|0|5|0||28|
+C|The Washington Capitals|Vancouver Canucks™|1659|12519|22|09|2012|was|van|6|1|0|883506359|29|
+C|Winnipeg Jets HC|Colorado Avalanche|799|18850|22|09|2012|wpg|col|9|0|2|883467101|30|
+B|Edmonton Oilers ® |Minnesota Wild®|38448|5709|23|09|2012|edm|min|10|3|1|883496695|31|
+B|Calgary Flames ®|Vancouver Canucks™|36702|12519|23|09|2012|cgy|van|9|1|0|883467998|32|
+C|Tampa Bay Lightning ®|Winnipeg Jets HC|16293|799|23|09|2012|tbl|wpg|1|7|0|883467314|33|
+C|Florida Panthers®|Carolina Hurricanes ™|14852|39037|23|09|2012|fla|car|0|3|0|883511673|34|
+C|The Washington Capitals|Colorado Avalanche|1659|18850|23|09|2012|was|col|6|3|0|883517266|35|
+A|New York Rangers ™|St. Louis Blues ™|2787|23488|23|09|2012|nyr|stl|11|1|0|883504032|36|
+A|New York Islanders™|Detroit Red Wings ©|35972|6924|23|09|2012|nyi|det|3|10|0|883495594|37|
+A|Pittsburgh Penguins|Columbus Blue Jackets|876|16632|23|09|2012|pit|cbj|1|3|0|883500741|38|
+A|New Jersey Devils®|Chicago Blackhawks ™|12576|18857|23|09|2012|njd|chi|0|12|0|883495805|39|
+A|Philadelphia Flyers ®|Nashville Predators ™|23983|19992|23|09|2012|phi|nas|1|11|0|883499964|40|
+C|Los Angeles Kings ®|Toronto Maple Leafs ®|23979|29473|23|09|2012|lak|tor|2|3|0|883495705|41|
+C|Phoenix coyotes#|Montreal Canadiens ™|32419|39418|23|09|2012|phx|mtl|0|4|0|883502667|42|
+C|Dallas Stars ®|Boston Bruins ®|27996|1220|23|09|2012|dal|bos|0|7|0|883496106|43|
+C|Anaheim Ducks ®|Buffalo Sabres|3597|28475|23|09|2012|ana|buf|4|3|0|883464993|44|
+C|San Jose Sharks™|Ottawa Senators©|35895|29402|23|09|2012|sjs|ott|0|12|2|883471894|45|
+C|Anaheim Ducks ®|Los Angeles Kings ®|3597|23979|29|09|2012|ana|lak|0|9|1|883474429|46|
+C|San Jose Sharks™|Phoenix coyotes#|35895|32419|29|09|2012|sjs|phx|7|2|0|883501993|47|
+A|New York Rangers ™|New York Islanders™|2787|35972|29|09|2012|nyr|nyi|4|0|0|883502628|48|
+A|Philadelphia Flyers ®|New Jersey Devils®|23983|12576|29|09|2012|phi|njd|1|3|0|883468461|49|
+C|Dallas Stars ®|Pittsburgh Penguins|27996|876|29|09|2012|dal|pit|1|0|0|883483114|50|
+C|The Washington Capitals|Toronto Maple Leafs ®|1659|29473|29|09|2012|was|tor|7|0|0|883517418|51|
+C|Tampa Bay Lightning ®|Montreal Canadiens ™|16293|39418|29|09|2012|tbl|mtl|1|2|0|883522393|52|
+C|Winnipeg Jets HC|Boston Bruins ®|799|1220|29|09|2012|wpg|bos|2|5|0|883496107|53|
+C|Florida Panthers®|Buffalo Sabres|14852|28475|29|09|2012|fla|buf|0|10|0|883502053|54|
+C|Carolina Hurricanes ™|Ottawa Senators©|39037|29402|29|09|2012|car|ott|0|5|0|883499520|55|
+B|Calgary Flames ®|St. Louis Blues ™|36702|23488|29|09|2012|cgy|stl|7|2|0|883465907|56|
+B|Colorado Avalanche|Detroit Red Wings ©|18850|6924|29|09|2012|col|det|0|7|0|883467102|57|
+B|Vancouver Canucks™|Columbus Blue Jackets|12519|16632|29|09|2012|van|cbj|6|3|0|883475049|58|
+B|Edmonton Oilers ® |Chicago Blackhawks ™|38448|18857|29|09|2012|edm|chi|2|9|0|883521261|59|
+B|Minnesota Wild®|Nashville Predators ™|5709|19992|29|09|2012|min|nas|0|6|2|883500689|60|
+A|Chicago Blackhawks ™|St. Louis Blues ™|18857|23488|30|09|2012|chi|stl|3|6|1|883513446|61|
+A|Columbus Blue Jackets|Nashville Predators ™|16632|19992|30|09|2012|cbj|nas|2|3|0|883500704|62|
+B|Boston Bruins ®|Ottawa Senators©|1220|29402|30|09|2012|bos|ott|5|1|0|883496108|63|
+B|Montreal Canadiens ™|Toronto Maple Leafs ®|39418|29473|30|9|2012|mtl|tor|5|0|0||64|
+B|Buffalo Sabres|Detroit Red Wings ©|28475|6924|30|09|2012|buf|det|1|4|0|883467933|65|
+C|Anaheim Ducks ®|Dallas Stars ®|3597|27996|30|09|2012|ana|dal|3|6|0|883467431|66|
+C|Los Angeles Kings ®|San Jose Sharks™|23979|35895|30|09|2012|lak|sjs|8|0|0|883474431|67|
+A|New York Islanders™|Pittsburgh Penguins|35972|876|30|09|2012|nyi|pit|4|3|0|884070072|68|
+A|New Jersey Devils®|New York Rangers ™|12576|2787|30|09|2012|njd|nyr|0|12|0|883474860|69|
+C|Phoenix coyotes#|Philadelphia Flyers ®|32419|23983|30|09|2012|phx|phi|0|4|0|883501994|70|
+B|Calgary Flames ®|Edmonton Oilers ® |36702|38448|30|09|2012|cgy|edm|12|2|0|883523346|71|
+B|Vancouver Canucks™|Colorado Avalanche|12519|18850|30|09|2012|van|col|0|4|0|883504801|72|
+C|Florida Panthers®|Tampa Bay Lightning ®|14852|16293|30|09|2012|fla|tbl|1|10|0|883517982|73|
+C|Carolina Hurricanes ™|The Washington Capitals|39037|1659|30|09|2012|car|was|0|12|0|883511674|74|
+B|Minnesota Wild®|Winnipeg Jets HC|5709|799|30|09|2012|min|wpg|0|13|2|883467174|75|
+B|Boston Bruins ®|St. Louis Blues ™|1220|23488|06|10|2012|bos|stl|6|3|1|883515646|76|
+A|Columbus Blue Jackets|Ottawa Senators©|16632|29402|06|10|2012|cbj|ott|1|3|0|883493800|77|
+A|Nashville Predators ™|Montreal Canadiens ™|19992|39418|06|10|2012|nas|mtl|4|4|0|883500461|78|
+B|Toronto Maple Leafs ®|Detroit Red Wings ©|29473|6924|06|10|2012|tor|det|6|3|0|883495706|79|
+B|Buffalo Sabres|Chicago Blackhawks ™|28475|18857|06|10|2012|buf|chi|3|5|0|883495806|80|
+A|Pittsburgh Penguins|Anaheim Ducks ®|876|3597|06|10|2012|pit|ana|4|1|0|883468575|81|
+C|Los Angeles Kings ®|New York Islanders™|23979|35972|06|10|2012|lak|nyi|7|5|0|883495595|82|
+C|San Jose Sharks™|New York Rangers ™|35895|2787|06|10|2012|sjs|nyr|2|8|0|883465523|83|
+C|Phoenix coyotes#|New Jersey Devils®|32419|12576|06|10|2012|phx|njd|0|3|0|883501995|84|
+A|Philadelphia Flyers ®|Dallas Stars ®|23983|27996|06|10|2012|phi|dal|1|3|0|883472465|85|
+B|Edmonton Oilers ® |Florida Panthers®|38448|14852|06|10|2012|edm|fla|8|0|0|883520630|86|
+B|Vancouver Canucks™|Tampa Bay Lightning ®|12519|16293|06|10|2012|van|tbl|2|0|0|883517983|87|
+B|Colorado Avalanche|Carolina Hurricanes ™|18850|39037|06|10|2012|col|car|9|1|0|883517267|88|
+C|The Washington Capitals|Minnesota Wild®|1659|5709|06|10|2012|was|min|13|0|0|883506369|89|
+C|Winnipeg Jets HC|Calgary Flames ®|799|36702|06|10|2012|wpg|cgy|1|10|2|883465288|90|
+A|Chicago Blackhawks ™|Nashville Predators ™|18857|19992|07|10|2012|chi|nas|2|2|1|883501108|91|
+A|Columbus Blue Jackets|Detroit Red Wings ©|16632|6924|07|10|2012|cbj|det|0|6|0|883493782|92|
+B|Boston Bruins ®|Toronto Maple Leafs ®|1220|29473|07|10|2012|bos|tor|7|3|0|884101254|93|
+B|Montreal Canadiens ™|Buffalo Sabres|39418|28475|07|10|2012|mtl|buf|5|1|0|883495949|94|
+B|Ottawa Senators©|St. Louis Blues ™|29402|23488|07|10|2012|ott|stl|3|1|0|883495003|95|
+C|Dallas Stars ®|San Jose Sharks™|27996|35895|07|10|2012|dal|sjs|4|0|0|883467432|96|
+C|Los Angeles Kings ®|Phoenix coyotes#|23979|32419|07|10|2012|lak|phx|7|0|0|883501996|97|
+A|Pittsburgh Penguins|New Jersey Devils®|876|12576|07|10|2012|pit|njd|2|1|0|883468578|98|
+A|New York Rangers ™|Philadelphia Flyers ®|2787|23983|07|10|2012|nyr|phi|6|0|0|883498695|99|
+C|Anaheim Ducks ®|New York Islanders™|3597|35972|07|10|2012|ana|nyi|1|9|0|883495596|100|
+B|Calgary Flames ®|Colorado Avalanche|36702|18850|07|10|2012|cgy|col|6|0|0|883467100|101|
+B|Vancouver Canucks™|Minnesota Wild®|12519|5709|07|10|2012|van|min|7|1|0|883500326|102|
+C|Florida Panthers®|The Washington Capitals|14852|1659|07|10|2012|fla|was|0|12|0|883506374|103|
+C|Carolina Hurricanes ™|Winnipeg Jets HC|39037|799|7|10|2012|car|wpg|5|0|0||104|
+C|Tampa Bay Lightning ®|Edmonton Oilers ® |16293|38448|07|10|2012|tbl|edm|2|0|2|883520631|105|
+C|Anaheim Ducks ®|Phoenix coyotes#|3597|32419|13|10|2012|ana|phx|6|2|1|883501997|106|
+C|Los Angeles Kings ®|Dallas Stars ®|23979|27996|13|10|2012|lak|dal|3|1|0|883474437|107|
+A|New York Islanders™|Philadelphia Flyers ®|35972|23983|13|10|2012|nyi|phi|6|1|0|883497932|108|
+A|New York Rangers ™|Pittsburgh Penguins|2787|876|13|10|2012|nyr|pit|0|3|0|883505552|109|
+C|San Jose Sharks™|New Jersey Devils®|35895|12576|13|10|2012|sjs|njd|3|0|0|883465193|110|
+B|Toronto Maple Leafs ®|Calgary Flames ®|29473|36702|13|10|2012|tor|cgy|3|2|0|883495707|111|
+B|Montreal Canadiens ™|Colorado Avalanche|39418|18850|13|10|2012|mtl|col|5|2|0|883518003|112|
+B|Boston Bruins ®|Vancouver Canucks™|1220|12519|13|10|2012|bos|van|11|3|0|883496109|113|
+B|Buffalo Sabres|Edmonton Oilers ® |28475|38448|13|10|2012|buf|edm|3|2|0|883496696|114|
+B|Ottawa Senators©|Minnesota Wild®|29402|5709|13|10|2012|ott|min|12|1|0|883493801|115|
+A|St. Louis Blues ™|The Washington Capitals|23488|1659|13|10|2012|stl|was|3|3|0|883507004|116|
+A|Detroit Red Wings ©|Tampa Bay Lightning ®|6924|16293|13|10|2012|det|tbl|1|3|0|883467315|117|
+A|Columbus Blue Jackets|Winnipeg Jets HC|16632|799|13|10|2012|cbj|wpg|4|5|0|883475052|118|
+A|Chicago Blackhawks ™|Florida Panthers®|18857|14852|13|10|2012|chi|fla|10|0|0|883506378|119|
+A|Nashville Predators ™|Carolina Hurricanes ™|19992|39037|13|10|2012|nas|car|2|1|2|883511675|120|
+B|Edmonton Oilers ® |Vancouver Canucks™|38448|12519|14|10|2012|edm|van|4|5|1|883496697|121|
+B|Colorado Avalanche|Minnesota Wild®|18850|5709|14|10|2012|col|min|9|1|0|883504802|122|
+C|Tampa Bay Lightning ®|Carolina Hurricanes ™|16293|39037|14|10|2012|tbl|car|6|2|0|883517984|123|
+C|Winnipeg Jets HC|The Washington Capitals|799|1659|14|10|2012|wpg|was|0|5|0||124|
+C|Florida Panthers®|Calgary Flames ®|14852|36702|14|10|2012|fla|cgy|0|13|0|883466671|125|
+B|Toronto Maple Leafs ®|New York Rangers ™|29473|2787|14|10|2012|tor|nyr|2|8|0|883517420|126|
+B|Montreal Canadiens ™|New York Islanders™|39418|35972|14|10|2012|mtl|nyi|2|1|0|884089984|127|
+B|Boston Bruins ®|Pittsburgh Penguins|1220|876|14|10|2012|bos|pit|10|0|0|884073429|128|
+B|Buffalo Sabres|New Jersey Devils®|28475|12576|14|10|2012|buf|njd|8|0|0|883467934|129|
+B|Ottawa Senators©|Philadelphia Flyers ®|29402|23983|14|10|2012|ott|phi|7|0|0|883493832|130|
+A|St. Louis Blues ™|Los Angeles Kings ®|23488|23979|14|10|2012|stl|lak|3|3|0|883495005|131|
+A|Detroit Red Wings ©|Phoenix coyotes#|6924|32419|14|10|2012|det|phx|13|0|0|883501998|132|
+A|Columbus Blue Jackets|Dallas Stars ®|16632|27996|14|10|2012|cbj|dal|6|3|0|883475055|133|
+A|Chicago Blackhawks ™|Anaheim Ducks ®|18857|3597|14|10|2012|chi|ana|5|0|0|883495807|134|
+A|Nashville Predators ™|San Jose Sharks™|19992|35895|14|10|2012|nas|sjs|4|0|2|883499967|135|
+A|Nashville Predators ™|Boston Bruins ®|19992|1220|20|10|2012|nas|bos|1|9|1|883501157|136|
+A|Detroit Red Wings ©|Ottawa Senators©|6924|29402|20|10|2012|det|ott|4|3|0|883471895|137|
+B|Montreal Canadiens ™|Chicago Blackhawks ™|39418|18857|20|10|2012|mtl|chi|6|6|0|884089970|138|
+B|Toronto Maple Leafs ®|St. Louis Blues ™|29473|23488|20|10|2012|tor|stl|2|2|0|883517421|139|
+B|Buffalo Sabres|Columbus Blue Jackets|28475|16632|20|10|2012|buf|cbj|7|4|0|883494978|140|
+C|San Jose Sharks™|Pittsburgh Penguins|35895|876|20|10|2012|sjs|pit|1|10|0|883468581|141|
+C|Phoenix coyotes#|New York Islanders™|32419|35972|20|10|2012|phx|nyi|0|9|0|883502609|142|
+C|Dallas Stars ®|New York Rangers ™|27996|2787|20|10|2012|dal|nyr|7|0|0|883474861|143|
+A|New Jersey Devils®|Anaheim Ducks ®|12576|3597|20|10|2012|njd|ana|3|5|0|883464898|144|
+A|Philadelphia Flyers ®|Los Angeles Kings ®|23983|23979|20|10|2012|phi|lak|0|11|0|883477150|145|
+B|Colorado Avalanche|Florida Panthers®|18850|14852|20|10|2012|col|fla|12|0|0|883504803|146|
+B|Minnesota Wild®|Tampa Bay Lightning ®|5709|16293|20|10|2012|min|tbl|1|10|0|883517985|147|
+C|Carolina Hurricanes ™|Calgary Flames ®|39037|36702|20|10|2012|car|cgy|1|10|0|883499522|148|
+C|The Washington Capitals|Edmonton Oilers ® |1659|38448|20|10|2012|was|edm|2|9|0|883520632|149|
+C|Winnipeg Jets HC|Vancouver Canucks™|799|12519|20|10|2012|wpg|van|0|7|2|883467999|150|
+A|St. Louis Blues ™|Columbus Blue Jackets|23488|16632|21|10|2012|stl|cbj|11|4|1|883495007|151|
+A|Detroit Red Wings ©|Nashville Predators ™|6924|19992|21|10|2012|det|nas|8|1|0|883499968|152|
+B|Ottawa Senators©|Montreal Canadiens ™|29402|39418|21|10|2012|ott|mtl|4|3|0|883493960|153|
+B|Buffalo Sabres|Toronto Maple Leafs ®|28475|29473|21|10|2012|buf|tor|0|7|0|883495708|154|
+A|Chicago Blackhawks ™|Boston Bruins ®|18857|1220|21|10|2012|chi|bos|2|12|0|884128065|155|
+C|Los Angeles Kings ®|The Washington Capitals|23979|1659|21|10|2012|lak|was|11|0|0|883506379|156|
+C|Phoenix coyotes#|Tampa Bay Lightning ®|32419|16293|21|10|2012|phx|tbl|0|10|0|883517986|157|
+C|Dallas Stars ®|Winnipeg Jets HC|27996|799|21|10|2012|dal|wpg|0|4|0|883467433|158|
+C|Anaheim Ducks ®|Florida Panthers®|3597|14852|21|10|2012|ana|fla|3|2|0|883466672|159|
+C|San Jose Sharks™|Carolina Hurricanes ™|35895|39037|21|10|2012|sjs|car|1|12|0|883499524|160|
+A|New York Rangers ™|Calgary Flames ®|2787|36702|21|10|2012|nyr|cgy|7|0|0|883465524|161|
+A|New York Islanders™|Colorado Avalanche|35972|18850|21|10|2012|nyi|col|3|6|0|883522017|162|
+A|Pittsburgh Penguins|Vancouver Canucks™|876|12519|21|10|2012|pit|van|6|1|0|883468584|163|
+A|New Jersey Devils®|Edmonton Oilers ® |12576|38448|21|10|2012|njd|edm|1|4|0|883496698|164|
+A|Philadelphia Flyers ®|Minnesota Wild®|23983|5709|21|10|2012|phi|min|4|3|2|883493802|165|
+B|Boston Bruins ®|Columbus Blue Jackets|1220|16632|27|10|2012|bos|cbj|5|0|1|883496110|166|
+A|Nashville Predators ™|Ottawa Senators©|19992|29402|27|10|2012|nas|ott|0|3|0|883499969|167|
+A|Detroit Red Wings ©|Montreal Canadiens ™|6924|39418|27|10|2012|det|mtl|2|2|0|883493961|168|
+B|Toronto Maple Leafs ®|Chicago Blackhawks ™|29473|18857|27|10|2012|tor|chi|0|6|0|884139645|169|
+B|Buffalo Sabres|St. Louis Blues ™|28475|23488|27|10|2012|buf|stl|4|2|0|883497442|170|
+A|Pittsburgh Penguins|Los Angeles Kings ®|876|23979|27|10|2012|pit|lak|3|6|0|883483117|171|
+A|New York Islanders™|San Jose Sharks™|35972|35895|27|10|2012|nyi|sjs|6|0|0|883495597|172|
+C|Phoenix coyotes#|New York Rangers ™|32419|2787|27|10|2012|phx|nyr|0|11|0|883502544|173|
+A|New Jersey Devils®|Dallas Stars ®|12576|27996|27|10|2012|njd|dal|2|9|0|883468292|174|
+A|Philadelphia Flyers ®|Anaheim Ducks ®|23983|3597|27|10|2012|phi|ana|5|3|0|883466655|175|
+B|Vancouver Canucks™|Florida Panthers®|12519|14852|27|10|2012|van|fla|8|0|0|883513974|176|
+B|Colorado Avalanche|Tampa Bay Lightning ®|18850|16293|27|10|2012|col|tbl|5|4|0|883517987|177|
+B|Minnesota Wild®|Carolina Hurricanes ™|5709|39037|27|10|2012|min|car|2|4|0|883499525|178|
+C|The Washington Capitals|Calgary Flames ®|1659|36702|27|10|2012|was|cgy|1|8|0|883506415|179|
+C|Winnipeg Jets HC|Edmonton Oilers ® |799|38448|27|10|2012|wpg|edm|6|1|2|883465788|180|
+
+A|St. Louis Blues ™|Detroit Red Wings ©|23488|6924|28|10|2012|stl|det|9|3|1|883465908|181|
+
+A|Columbus Blue Jackets|Chicago Blackhawks ™|16632|18857|28|10|2012|cbj|chi|1|3|0|883495808|182|
+
+B|Ottawa Senators©|Buffalo Sabres|29402|28475|28|10|2012|ott|buf|4|1|0|883494977|183|
+
+B|Montreal Canadiens ™|Boston Bruins ®|39418|1220|28|10|2012|mtl|bos|1|5|0|884120300|184|
+
+B|Toronto Maple Leafs ®|Nashville Predators ™|29473|19992|28|10|2012|tor|nas|4|1|0|883517422|185|
+
+A|New York Rangers ™|The Washington Capitals|2787|1659|28|10|2012|nyr|was|1|1|0|883506417|186|
+
+A|New York Islanders™|Tampa Bay Lightning ®|35972|16293|28|10|2012|nyi|tbl|3|2|0|883522018|187|
+
+A|Pittsburgh Penguins|Winnipeg Jets HC|876|799|28|10|2012|pit|wpg|0|3|0|883468587|188|
+
+A|New Jersey Devils®|Florida Panthers®|12576|14852|28|10|2012|njd|fla|2|3|0|883502054|189|
+
+A|Philadelphia Flyers ®|Carolina Hurricanes ™|23983|39037|28|10|2012|phi|car|6|5|0|883499523|190|
+
+B|Calgary Flames ®|Los Angeles Kings ®|36702|23979|28|10|2012|cgy|lak|1|2|0|883474446|191|
+
+B|Colorado Avalanche|Phoenix coyotes#|18850|32419|28|10|2012|col|phx|11|1|0|883504804|192|
+
+B|Vancouver Canucks™|Dallas Stars ®|12519|27996|28|10|2012|van|dal|4|5|0|883468293|193|
+
+B|Edmonton Oilers ® |Anaheim Ducks ®|38448|3597|28|10|2012|edm|ana|5|4|0|883465789|194|
+
+B|Minnesota Wild®|San Jose Sharks™|5709|35895|28|10|2012|min|sjs|3|2|2|883467173|195|

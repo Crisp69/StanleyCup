@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /block/
+
+User-agent: *
+Crawl-delay: 300
+
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: / 
+
+User-agent: baiduspider
+Disallow: / 
+
+User-agent: *
+Crawl-delay: 300

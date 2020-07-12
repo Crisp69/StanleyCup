@@ -1,0 +1,16 @@
+stanleycup|Stanley Cup Champions|Ottawa Senators|sllaby|ott|Awarded to the league champion.
+pres|Presidents' Trophy|Ottawa Senators|sllaby|ott|An annual award to the club finishing the regular season with the best overall record.
+jack|Jack Adams Award|Calgary Flames|lordik13|cgy|The Jack Adams Award is an annual award presented by the National Hockey League Broadcasters' Association to the NHL coach adjudged to have contributed the most to his team's success.
+wall|Prince of Wales Trophy|Ottawa Senators|sllaby|ott|The club which advances to the Stanley Cup Finals as the winner of the Eastern Conference Championship is presented with the Prince of Wales Trophy.
+cla|Clarence S. Campbell Bowl|St.Louis Blues|hogy|stl|The club which advances to the Stanley Cup Finals as the winner of the Western Conference Championship is presented with the Clarence S. Campbell Bowl.
+conn|Conn Smythe Trophy|Ottawa Senators|Dobroslav Komárek|ott|The Conn Smythe Trophy is an award given to the most valuable player for his team in the playoffs.
+hart|Hart Memorial Trophy|San Jose Sharks|Erling Kjeldsen|sjs|The Hart Memorial Trophy is an award given to the player judged to be the most valuable to his team.
+art|Art Ross Trophy|Ottawa Senators|Petr Vaculík|ott|The Art Ross Trophy is an award given to the player who leads the tournament in scoring points at the end of the regular season, before the beginning of the play-off.
+moris|Maurice 'Rocket' Richard Trophy|Chicago Blackhawks|Oskar Záhorec|chi|The Maurice Richard Trophy is an award given to the tournament's top goal scorer.
+james|James Norris Memorial Trophy|San Jose Sharks|Kari Perttunen|sjs|The James Norris Memorial Trophy is an award given to the defense player who demonstrates throughout the season the greatest all-round ability in the position.
+vezina|Vezina Trophy|St.Louis Blues|Lukáš Němec|stl|The Vezina Trophy is an award given to the goalkeeper adjudged to be the best at this position.
+will|William M. Jennings Trophy|Calgary Flames|Olafs Bulders|cgy|The William M. Jennings Trophy is an annual award given to the goalkeeper(s) having played a minimum of 5 games for the team with the fewest goals scored against it.
+calder|Calder Memorial Trophy|Florida Panthers|Miroslav Šulc|fla|The Calder Memorial Trophy is an annual award given to the player selected as the most proficient in his first year of competition in the National Hockey League.
+lester|Lester B. Pearson Trophy|Washington Capitals|Juha Tynjälä|was|Award given to a player based on most 3 Stars selection during the season.
+frank|Frank J. Selke Trophy|Ottawa Senators|Petr Vaculík|ott|The Frank J. Selke Trophy is an annual award given to the forward who best excels in the defensive aspects of the game.
+bill|Bill Masterton Memorial Trophy|Colorado Avalanche|Jozef Solčanský|col|The Bill Masterton Memorial Trophy is an annual award given to the National Hockey League player who best exemplifies the qualities of perseverance, sportsmanship, and dedication to hockey.

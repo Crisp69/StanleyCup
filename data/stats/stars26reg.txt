@@ -1,0 +1,46 @@
+1|Joe Demers|2|1||8|St. Louis|stl
+2|Andrej Petr|1|2||7|Atlanta|atl
+3|Hilary Kupczyk|1|2||7|Carolina|car
+4|Gabriel Green|2|||6|Colorado|col
+5|Gonzalo Herriaga|2|||6|NJ Devils|njd
+6|Michal Hanáček|2|||6|Detroit|det
+7|Oscar Maudlin|1|1|1|6|Colorado|col
+8|Ivan Bříza|1|1||5|Chicago|chi
+9|Michel Meili|1||1|4|Atlanta|atl
+10|Ante Jurov|1|||3|Anaheim|ana
+11|Balbin Żurek|1|||3|NJ Devils|njd
+12|Hugolín Bečica|1|||3|Montreal|mtl
+13|Ičo Malec|1|||3|Carolina|car
+14|Olívius Husárik|1|||3|Minnesota|min
+15|Potap Borisov|1|||3|Colorado|col
+16|Rafael Zuberbühler|1|||3|Carolina|car
+17|Zlatomír Kukurugy|1|||3|Ottawa|ott
+18|Evžen Kavan||1|1|3|Florida|fla
+19|Martin Chvátal||1|1|3|NJ Devils|njd
+20|Piotr Bordzań||1|1|3|San Jose|sjs
+21|Roland Werning||1|1|3|Carolina|car
+22|Jakub Chytil||1||2|Colorado|col
+23|Joonas Vuorisalmi||1||2|Colorado|col
+24|Kaspars Lejiņš||1||2|Detroit|det
+25|Leonards Plaude||1||2|Carolina|car
+26|Martin Nováček||1||2|Colorado|col
+27|Nicolas Lacombe||1||2|Dallas|dal
+28|Prosimir Nitowski||1||2|Anaheim|ana
+29|Robert Schwarz||1||2|Colorado|col
+30|Tomáš Kopecký||1||2|Pittsburgh|pit
+31|Zenon Dołgan||1||2|Carolina|car
+32|Aleksandrs Bergsons|||1|1|Detroit|det
+33|Amnon Navon|||1|1|Atlanta|atl
+34|Andreas Senfter|||1|1|St. Louis|stl
+35|David Sýkora|||1|1|Colorado|col
+36|Erkki Tella|||1|1|NJ Devils|njd
+37|Ján Džogan|||1|1|Nashville|nas
+38|Kustaa Raiskio|||1|1|Philadelphia|phi
+39|Marek Májik|||1|1|NJ Devils|njd
+40|Matthieu Bünzli|||1|1|Carolina|car
+41|Miroslav Matejička|||1|1|NY Islanders|nyi
+42|Miska Sorri|||1|1|Anaheim|ana
+43|Oleg Pisarčík|||1|1|Vancouver|van
+44|Peter Bondra|||1|1|Pittsburgh|pit
+45|Sepp Sluiter|||1|1|Anaheim|ana
+46|Vytenis Cukuras|||1|1|Chicago|chi

@@ -1,0 +1,57 @@
+1||Lukáš Němec|12|228|213|93.4%|6|5.4|St. Louis|stl|
+2||Laimis Bergsons|10|253|236|93.3%|3|5.9|NY Islanders|nyi|
+3||Olafs Bulders|13|250|232|92.8%|5|5.4|Calgary|cgy|
+4||Bruno Salussoglia|13|261|241|92.3%|3|5.4|Dallas|dal|
+5||Kevin Wickli|13|340|307|90.3%|2|5.6|Tampa Bay|tbl|
+6||Alojz Gallo|7|162|146|90.1%|1|5.3|Washington|was|
+7||Denis Chekmarev|11|270|242|89.6%|2|5.6|NY Rangers|nyr|
+8||Armands Latvānis|10|181|162|89.5%|2|5.2|Ottawa|ott|
+9||Alexander Kharin|13|309|275|89.0%|3|5.5|Edmonton|edm|
+10||David Kozák|12|253|225|88.9%|3|5.3|Florida|fla|
+11||Stipo Pulja|11|303|269|88.8%|1|5.6|Chicago|chi|
+12||Zbyšek Šmíd|12|476|422|88.7%|0|6.3|Colorado|col|
+13||Gothard Stjern|7|127|112|88.2%|1|5.1|Nashville|nas|
+14||Prokop Kuľha|13|233|204|87.6%|1|4.9|San Jose|sjs|
+15||Sepp Sluiter|12|144|126|87.5%|2|4.7|Washington|was|
+16||Tonči Jerković|13|485|424|87.4%|0|6.0|Phoenix|phx|
+17||Burkhard Kohler|8|194|169|87.1%|1|5.2|Philadelphia|phi|
+18||Miervaldis Aukliņš|12|267|232|86.9%|1|5.2|Montreal|mtl|
+19||Dominik Hašek|9|214|186|86.9%|3|5.1|Pittsburgh|pit|
+20||Marcel Tulipán|11|339|294|86.7%|2|5.5|Carolina|car|
+21||Vitālijs Namdaris|13|288|248|86.1%|2|5.1|Boston|bos|
+22||Daniel Muro|8|272|234|86.0%|1|5.7|Columbus|cbj|
+23||Daniel Galajd|11|382|325|85.1%|1|5.5|Atlanta|atl|
+24||Anžej Koren|11|248|211|85.1%|4|5.0|Detroit|det|
+25||Klemens Słowakiewicz|13|388|325|83.8%|0|5.2|Vancouver|van|
+26||Jonatán Pichlač|13|491|411|83.7%|1|5.6|Toronto|tor|
+27||Kieron Price|11|273|228|83.5%|1|5.1|LA Kings|lak|
+28||Ilya Bryzgalov|11|208|173|83.2%|1|4.7|Pittsburgh|pit|
+29||Tomáš Bossi|7|207|172|83.1%|0|5.1|NJ Devils|njd|
+30||Michal Feješ|8|225|184|81.8%|0|5.0|Buffalo|buf|
+31||Kamil Leščák|7|309|239|77.3%|0|4.9|Anaheim|ana|17570367
+32||Manuel Mankovecký|9|131|101|77.1%|1|4.2|Carolina|car|
+-||Jozef Lazík|6|121|118|97.5%|4|5.7|Philadelphia|phi|
+-||Patrik Kočiš|4|81|74|91.4%|1|5.3|NY Islanders|nyi|
+-||Józef Bancerz|3|54|49|90.7%|0|5.2|Ottawa|ott|
+-||Gregor Taliga|3|64|58|90.6%|0|5.4|St. Louis|stl|
+-||Igor Pimenov|5|134|121|90.3%|1|5.7|Buffalo|buf|7900441
+-||Ľuboslav Tomaškovič|5|150|135|90.0%|1|5.8|Anaheim|ana|
+-||Jozef Marcinek|6|137|123|89.8%|2|5.5|Nashville|nas|
+-||Alfréd Čvirik|3|59|53|89.8%|1|5.2|Chicago|chi|2683142
+-||Valdemar Buša|1|18|16|88.9%|0|5.0|Montreal|mtl|
+-||Matej Hriadel|4|157|137|87.3%|0|5.9|Columbus|cbj|
+-||Anton Eggerl|3|54|47|87.0%|0|4.9|Minnesota|min|
+-||Robert Jacobsen|3|38|33|86.8%|0|4.7|NJ Devils|njd|
+-||Tomáš Psota|6|160|138|86.3%|1|5.3|LA Kings|lak|
+-||Ijsbrand Walraven|2|49|42|85.7%|0|5.2|NY Rangers|nyr|15148932
+-||Dāvis Rubenis|5|100|85|85.0%|2|4.9|Toronto|tor|
+-||Kaspars Ulberts|1|32|27|84.4%|0|5.3|Atlanta|atl|
+-||Peter Lukáčik|6|206|171|83.0%|1|5.4|Minnesota|min|
+-||Bine Valant|2|51|42|82.4%|0|5.0|Detroit|det|16092879
+-||Marian Figliar|4|132|108|81.8%|0|5.1|Minnesota|min|
+-||Pavel Žďárský|1|67|53|79.1%|0|5.7|Anaheim|ana|
+-||Lukáš Kliment|1|33|26|78.8%|0|4.7|Florida|fla|
+-||Augustýn Svatoň|1|28|22|78.6%|0|4.7|Montreal|mtl|19324627
+-||Einari Kuula|1|8|6|75.0%|0|4.0|Washington|was|13251453
+-||Matthew Noel-Williams|1|43|32|74.4%|0|4.4|Colorado|col|16426712
+-||Atvars Ievzieds|6|179|131|73.2%|0|4.2|NJ Devils|njd|19367814

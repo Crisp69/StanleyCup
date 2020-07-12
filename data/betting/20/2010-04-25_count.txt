@@ -1,0 +1,6 @@
+snipper|8|14
+iron|7|11
+misko|13|14
+zoidberg|10|14
+sollu|11|14
+lordik13|9|14

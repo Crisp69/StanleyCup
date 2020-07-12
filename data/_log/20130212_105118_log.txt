@@ -1,0 +1,201 @@
+10:50:01 12.02.2013|66.249.78.211|player_stats.php|&pos=points&name=Patrik Jan--k&id_player=13602157&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:49:49 12.02.2013|66.249.78.217|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:46:23 12.02.2013|66.249.78.172|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:46:11 12.02.2013|66.249.75.208|player_stats.php|&pos=points&name=Slavom--r Eli----&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:46:09 12.02.2013|66.249.78.173|player_stats.php|&pos=points&name=Seppo Iivarinen&id_player=26071277&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:45:34 12.02.2013|65.55.52.119|teams.php|&team=pit&detail=||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+10:45:05 12.02.2013|66.249.78.179|player_stats.php|&pos=points&name=Roman Klevtsov&id_player=23811634&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:42:27 12.02.2013|66.249.75.55|player_stats.php|&pos=points&name=Dion--z Ra----i&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:41:39 12.02.2013|66.249.78.213|player_stats.php|&pos=points&name=Jean-Fran--ois Lester&id_player=15831297&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:41:38 12.02.2013|66.249.78.199|player_stats.php|&pos=points&name=Kimmo Gr--nvall&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:40:35 12.02.2013|178.154.206.250|ballot.php|||Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)| - all
+10:38:23 12.02.2013|66.249.78.206|player_stats.php|&pos=points&name=Hendrik Makke&id_player=8906628&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:38:11 12.02.2013|66.249.75.200|player_stats.php|&pos=points&name=Julien Jestin&id_player=25840735&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:38:01 12.02.2013|66.249.78.186|player_stats.php|&pos=points&name=Rolf Weindler&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:37:50 12.02.2013|66.249.78.167|player_stats.php|&pos=points&name=Julien Jestin&id_player=25840735&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:36:39 12.02.2013|66.249.75.181|stats.php|&s=23&pos=all&type=reg&team=fla&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:35:55 12.02.2013|66.249.78.178|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:35:43 12.02.2013|66.249.75.217|stats.php|&s=19&pos=all&type=reg&team=edm&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:35:27 12.02.2013|66.249.75.197|player_stats.php|&pos=points&name=Marek Malinovsk--&id_player=18121934&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:35:00 12.02.2013|66.249.78.204|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:32:11 12.02.2013|66.249.78.172|player_stats.php|&pos=points&name=Arne Behler&id_player=24272970&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:28:51 12.02.2013|66.249.78.173|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:28:08 12.02.2013|66.249.78.182|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:28:08 12.02.2013|66.249.75.178|teams.php|&team=njd&detail=||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)|stl - 
+10:28:05 12.02.2013|66.249.75.179|player_stats.php|&pos=points&name=Bryan Winterburn&id_player=15667620&s=25||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:28:04 12.02.2013|66.249.75.187|stats.php|&s=26&pos=all&type=po&team=all&sort=svs_perc&page=1&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:28:02 12.02.2013|66.249.78.19|player_stats.php|&pos=points&name=Ladislav Gajdo--&id_player=27546784&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:24:44 12.02.2013|66.249.75.177|stats.php|&s=01&pos=points&type=reg&team=tbl&sort=perf&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:24:13 12.02.2013|66.249.75.169|stats.php|&s=20&pos=all&type=po&team=wpg&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:21:16 12.02.2013|66.249.78.200|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:21:01 12.02.2013|66.249.78.169|player_stats.php|&pos=points&name=Jaros--aw Osada&id_player=29621177&s=35||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:07:50 12.02.2013|66.249.78.200|player_stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:07:47 12.02.2013|66.249.75.220|player_stats.php|&pos=points&name=Vladim--r Andrle&id_player=31789123&s=32||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:07:31 12.02.2013|66.249.78.202|player_stats.php|&pos=points&name=Jan Hrdina&id_player=19502145&s=32||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:07:16 12.02.2013|66.249.78.196|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:04:36 12.02.2013|65.55.52.119|stats.php|&s=34&pos=all&type=po&team=chi&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+10:04:06 12.02.2013|66.249.78.178|player_stats.php|&pos=points&name=Martins Maurins&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:03:55 12.02.2013|65.55.52.119|stats.php|&s=34&pos=defs&type=reg&team=cbj&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+10:01:15 12.02.2013|66.249.75.26|player_stats.php|&pos=points&name=Tom---- Vlk&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:00:55 12.02.2013|66.249.78.202|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:00:52 12.02.2013|66.249.78.183|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:00:49 12.02.2013|66.249.78.188|player_stats.php|&pos=points&name=Jaros--aw Osada&id_player=29621177&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:00:43 12.02.2013|66.249.78.197|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:00:42 12.02.2013|66.249.75.215|player_stats.php|&pos=points&name=Abrah--m Moj--i--&id_player=28430908&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:00:37 12.02.2013|66.249.75.186|manager_stats.php|&manager=wregget||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+10:00:36 12.02.2013|66.249.78.175|teams_compare.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:57:22 12.02.2013|66.249.75.180|player_stats.php|&pos=points&name=Tom---- Mou--ka&id_player=18277186&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:55:05 12.02.2013|157.55.32.58|stats.php|&s=10&pos=points&type=po&team=cbj&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:54:41 12.02.2013|157.55.32.58|stats.php|&s=34&pos=all&type=po&team=car&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:54:33 12.02.2013|66.249.75.185|player_stats.php|&pos=points&name=Bolemys-- Marciniak&id_player=27666321&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:54:13 12.02.2013|157.55.32.58|stats.php|&s=33&pos=all&type=po&team=car&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:53:55 12.02.2013|66.249.78.178|player_stats.php|&pos=points&name=Viroslav Hejda&id_player=14653191&s=32||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:53:52 12.02.2013|66.249.75.204|player_stats.php|&pos=points&name=Tomi Tasku&id_player=28282374&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:53:51 12.02.2013|66.249.75.203|player_stats.php|&pos=points&name=Marcel Wotton&id_player=28305689&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:53:06 12.02.2013|157.55.32.58|stats.php|&s=34&pos=goalies&type=reg&team=buf&sort=&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:52:37 12.02.2013|157.55.32.58|stats.php|&s=34&pos=defs&type=reg&team=buf&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:52:15 12.02.2013|157.55.32.58|stats.php|&s=34&pos=points&type=reg&team=bos&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:51:22 12.02.2013|157.55.32.58|stats.php|&s=34&pos=all&type=reg&team=bos&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:50:39 12.02.2013|66.249.75.199|player_stats.php|&pos=goalies&name=Evsey Klimontovich&id_player=30047382&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:50:38 12.02.2013|66.249.78.195|player_stats.php|&pos=points&name=Miroslav Zakov&id_player=14878907&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:50:38 12.02.2013|66.249.75.182|stats.php|&s=26&pos=all&type=po&team=wpg&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:50:29 12.02.2013|66.249.78.15|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:50:28 12.02.2013|66.249.78.182|player_stats.php|&pos=points&name=Miroslav Sk--la&id_player=28987374&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:50:12 12.02.2013|157.55.32.58|stats.php|&s=33&pos=all&type=po&team=bos&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:47:22 12.02.2013|66.249.78.178|player_stats.php|&pos=goalies&name=Frydolin Fidosz&id_player=27759421&s=25||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:47:18 12.02.2013|66.249.78.181|player_stats.php|&pos=points&name=Ivo Macha--&id_player=17245057&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:45:30 12.02.2013|157.55.32.189|stats.php|&s=34&pos=points&type=reg&team=car&sort=goals&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:44:11 12.02.2013|66.249.78.199|player_stats.php|&pos=points&name=Elizej Skr--can--&id_player=27570829&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:44:06 12.02.2013|66.249.78.21|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:44:00 12.02.2013|66.249.78.181|player_stats.php|&pos=goalies&name=--istomil Romanovi--&id_player=20647986&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:43:38 12.02.2013|157.56.229.186|stats.php|&s=34&pos=all&type=reg&team=chi&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:43:12 12.02.2013|157.55.32.189|stats.php|&s=34&pos=goalies&type=reg&team=car&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:42:05 12.02.2013|157.55.32.61|stats.php|&s=34&pos=points&type=reg&team=cgy&sort=goals&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:41:37 12.02.2013|157.56.229.186|stats.php|&s=34&pos=points&type=reg&team=cbj&sort=goals&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:41:16 12.02.2013|157.55.32.189|stats.php|&s=34&pos=all&type=reg&team=car&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:41:10 12.02.2013|66.249.75.211|player_stats.php|&pos=points&name=Jerome Charrier&id_player=27046860&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:41:10 12.02.2013|66.249.78.185|player_stats.php|&pos=points&name=Charles Rhodes&id_player=26968551&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:40:57 12.02.2013|66.249.78.219|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:40:55 12.02.2013|66.249.78.173|player_stats.php|&pos=points&name=Stjepan Kos&id_player=27552953&s=25||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:40:52 12.02.2013|66.249.78.200|player_stats.php|&pos=points&name=Robin Severa&id_player=27043890&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:40:51 12.02.2013|66.249.78.195|player_stats.php|&pos=points&name=Roland Bendel&id_player=27540298&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:40:50 12.02.2013|66.249.75.219|player_stats.php|&pos=points&name=Jozef Obo--a&id_player=14641042&s=35||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:40:37 12.02.2013|157.56.229.186|stats.php|&s=34&pos=points&type=reg&team=car&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:40:06 12.02.2013|157.56.229.186|stats.php|&s=34&pos=points&type=reg&team=buf&sort=goals&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:39:57 12.02.2013|157.55.32.189|stats.php|&s=34&pos=points&type=reg&team=buf&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:39:11 12.02.2013|157.55.32.189|stats.php|&s=34&pos=points&type=reg&team=buf&sort=&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:38:45 12.02.2013|157.56.229.186|stats.php|&s=34&pos=all&type=po&team=buf&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:38:08 12.02.2013|65.55.52.119|stats.php|&s=34&pos=defs&type=reg&team=bos&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:37:49 12.02.2013|66.249.75.7|stats.php|&s=allstats&pos=points&type=reg&team=tor&sort=goals&page=3&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:37:45 12.02.2013|157.55.32.189|stats.php|&s=34&pos=points&type=reg&team=bos&sort=goals&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:37:32 12.02.2013|66.249.75.198|player_stats.php|&pos=points&name=Felix Herbst&id_player=19212548&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:37:27 12.02.2013|66.249.75.180|player_stats.php|&pos=points&name=Kristi--n Ludv--k&id_player=20271492&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:37:12 12.02.2013|157.56.229.186|stats.php|&s=33&pos=all&type=po&team=buf&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:36:55 12.02.2013|157.55.32.61|stats.php|&s=34&pos=all&type=reg&team=cbj&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:36:25 12.02.2013|157.55.32.185|stats.php|&s=34&pos=points&type=reg&team=cgy&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:35:41 12.02.2013|157.55.32.185|stats.php|&s=34&pos=defs&type=reg&team=cgy&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:35:05 12.02.2013|65.55.52.119|stats.php|&s=34&pos=all&type=reg&team=bos&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:35:03 12.02.2013|157.55.32.61|stats.php|&s=34&pos=all&type=reg&team=car&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:34:43 12.02.2013|66.249.78.178|player_stats.php|&pos=points&name=Leont--ns Zvi----is&id_player=19623446&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:34:42 12.02.2013|66.249.78.34|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:34:33 12.02.2013|157.55.32.189|stats.php|&s=34&pos=goalies&type=reg&team=bos&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:34:31 12.02.2013|66.249.75.45|stats.php|&s=34&pos=points&type=reg&team=van&sort=plus&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:34:30 12.02.2013|66.249.78.194|player_stats.php|&pos=points&name=Alan --ern--k&id_player=27681547&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:33:48 12.02.2013|66.249.78.205|player_stats.php|&pos=points&name=Igor Vranay&id_player=31026959&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:33:48 12.02.2013|66.249.78.214|player_stats.php|&pos=points&name=Ladislav --ate--&id_player=16042094&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:33:40 12.02.2013|157.55.32.185|stats.php|&s=34&pos=defs&type=reg&team=car&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:32:57 12.02.2013|65.55.52.119|stats.php|&s=10&pos=points&type=po&team=bos&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:32:29 12.02.2013|157.55.32.189|stats.php|&s=34&pos=all&type=po&team=bos&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:31:43 12.02.2013|157.55.32.185|stats.php|&s=10&pos=points&type=po&team=bos&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:31:20 12.02.2013|66.249.75.177|player_stats.php|&pos=points&name=Richard Meduna&id_player=27667602&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:31:19 12.02.2013|66.249.78.173|player_stats.php|&pos=points&name=Jan Voj----ek&id_player=28689397&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:30:26 12.02.2013|66.249.78.180|player_stats.php|&pos=points&name=Viktor Men----k&id_player=16127487&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:29:39 12.02.2013|157.56.93.201|stats.php|&s=34&pos=all&type=reg&team=cgy&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:29:05 12.02.2013|157.56.93.201|stats.php|&s=34&pos=points&type=reg&team=cbj&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:28:12 12.02.2013|66.249.78.173|player_stats.php|&pos=points&name=Evaristo Rossi&id_player=27996113&s=25||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:28:04 12.02.2013|157.55.33.47|stats.php|&s=34&pos=goalies&type=reg&team=cgy&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:28:04 12.02.2013|66.249.75.181|player_stats.php|&pos=points&name=--irts Zandmans&id_player=20422005&s=25||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:27:37 12.02.2013|157.55.33.47|stats.php|&s=34&pos=all&type=reg&team=cgy&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:27:26 12.02.2013|66.249.78.173|player_stats.php|&pos=points&name=Vojt--ch Chaloupka&id_player=28417931&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:26:08 12.02.2013|157.55.32.113|stats.php|&s=34&pos=all&type=po&team=cgy&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:25:42 12.02.2013|157.55.32.185|stats.php|&s=34&pos=points&type=reg&team=ana&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:25:06 12.02.2013|157.56.93.201|stats.php|&s=34&pos=all&type=po&team=cbj&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:24:06 12.02.2013|157.55.32.113|stats.php|&s=33&pos=all&type=po&team=cgy&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:23:55 12.02.2013|66.249.78.188|player_stats.php|&pos=points&name=Tom---- Ko------l&id_player=12660787&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:23:37 12.02.2013|157.55.32.190|stats.php|&s=33&pos=all&type=po&team=chi&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:23:25 12.02.2013|178.154.206.250||||Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots)| - 
+09:23:16 12.02.2013|178.154.206.250||||Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots)| - 
+09:23:06 12.02.2013|157.55.32.190|stats.php|&s=10&pos=points&type=po&team=chi&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:22:34 12.02.2013|157.55.32.190|stats.php|&s=10&pos=points&type=po&team=cgy&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:22:04 12.02.2013|157.55.32.190|stats.php|&s=34&pos=all&type=reg&team=cbj&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:21:35 12.02.2013|157.55.32.190|stats.php|&s=34&pos=goalies&type=reg&team=buf&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:20:42 12.02.2013|157.55.32.113|stats.php|&s=34&pos=goalies&type=reg&team=cbj&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:20:32 12.02.2013|66.249.75.172|stats.php|&s=19&pos=all&type=po&team=fla&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:20:16 12.02.2013|66.249.78.214|bo_tickets.php|&manager=trsto&date=all&game=||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:20:06 12.02.2013|157.55.32.190|stats.php|&s=34&pos=all&type=reg&team=buf&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:19:35 12.02.2013|157.56.93.201|stats.php|&s=10&pos=points&type=po&team=car&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:18:40 12.02.2013|157.55.32.190|stats.php|&s=34&pos=points&type=reg&team=ana&sort=goals&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:18:04 12.02.2013|157.55.32.113|stats.php|&s=33&pos=all&type=po&team=cbj&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:17:37 12.02.2013|157.55.32.113|stats.php|&s=34&pos=all&type=reg&team=buf&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:17:05 12.02.2013|157.55.32.113|stats.php|&s=10&pos=points&type=po&team=buf&sort=points&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:16:49 12.02.2013|66.249.75.205|player_stats.php|&pos=points&name=Jan Hejda&id_player=22664851&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:16:40 12.02.2013|157.55.32.113|stats.php|&s=34&pos=goalies&type=reg&team=ana&sort=svs_perc&page=&active=all||Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)| - 
+09:13:35 12.02.2013|66.249.78.168|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:10:14 12.02.2013|66.249.75.189|player_stats.php|&pos=points&name=Dominik Girovsk--&id_player=25852680&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:10:09 12.02.2013|66.249.75.167|player_stats.php|&pos=points&name=Marat Zyuzin&id_player=24760540&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:47 12.02.2013|66.249.78.194|player_stats.php|&pos=points&name=Robert Budek&id_player=19202076&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:46 12.02.2013|66.249.78.215|player_stats.php|&pos=points&name=Levoslav Dutko&id_player=28308362&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:44 12.02.2013|66.249.78.201|player_stats.php|&pos=points&name=Andrej Borza&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:30 12.02.2013|66.249.78.194|player_stats.php|&pos=points&name=Jergu-- --veda&id_player=29517761&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:26 12.02.2013|66.249.78.218|player_stats.php|&pos=points&name=Jozef Hajs--k&id_player=27526552&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:23 12.02.2013|66.249.78.201|player_stats.php|&pos=points&name=--igmund Hrachovick--&id_player=30089675&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:22 12.02.2013|66.249.78.194|player_stats.php|&pos=points&name=Marijan Urtelj&id_player=27535481&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:20 12.02.2013|66.249.75.207|player_stats.php|&pos=points&name=Michal Urban&id_player=15998972&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:03:18 12.02.2013|66.249.78.183|player_stats.php|&pos=points&name=Felix Vr--na&id_player=29566195&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+09:00:22 12.02.2013|66.249.75.199|player_stats.php|&pos=points&name=Ladislav Gajdo--&id_player=27546784&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:57:00 12.02.2013|66.249.78.200|player_stats.php|&pos=points&name=Jakub Pol--k&id_player=15158175&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:56:54 12.02.2013|66.249.78.208|player_stats.php|&pos=points&name=Martin Deme--&id_player=17129434&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:56:52 12.02.2013|66.249.78.215|player_stats.php|&pos=points&name=Jakub Bern--th&id_player=16813441&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:56:52 12.02.2013|66.249.78.203|player_stats.php|&pos=points&name=Leont--ns Zvi----is&id_player=19623446&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:56:49 12.02.2013|66.249.78.194|player_stats.php|&pos=points&name=Manuel Delgado&id_player=17438594&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:56:41 12.02.2013|66.249.78.194|player_stats.php|&pos=points&name=I--ja --pa----r&id_player=27549128&s=25||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:56:38 12.02.2013|66.249.78.207|player_stats.php|&pos=points&name=Kon--tant--n He--ko&id_player=25577407&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:53:24 12.02.2013|66.249.78.220|player_stats.php|&pos=points&name=Ladislav Behi--&id_player=22277227&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:50:21 12.02.2013|66.249.75.218|player_stats.php|&pos=points&name=Simon Lipiansky&id_player=28559287&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:50:18 12.02.2013|66.249.78.202|player_stats.php|&pos=points&name=Jakub V----ek&id_player=17101891&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:50:14 12.02.2013|66.249.75.210|player_stats.php|&pos=points&name=--ubom--r Vi----ovsk--&id_player=25837615&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:50:11 12.02.2013|66.249.75.203|player_stats.php|&pos=points&name=Luk---- Laczk&id_player=19637329&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:50:07 12.02.2013|66.249.78.219|player_stats.php|&pos=points&name=Andrej Strapko&id_player=30216212&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:47:12 12.02.2013|66.249.78.53|stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:47:09 12.02.2013|66.249.75.187|player_stats.php|&pos=points&name=Jake Richardson&id_player=28987831&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:47:06 12.02.2013|66.249.78.168|player_stats.php|&pos=points&name=--ubor Andrejko&id_player=19484782&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:47:02 12.02.2013|66.249.75.196|player_stats.php|&pos=points&name=--ubom--r Hod--a&id_player=27666355&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:43:32 12.02.2013|66.249.78.178|player_stats.php|&pos=goalies&name=Henk Kraan&id_player=19299198&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:43:31 12.02.2013|66.249.78.220|player_stats.php|&pos=points&name=Norman Ben----&id_player=30922846&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:57 12.02.2013|66.249.78.182|player_stats.php|&pos=points&name=Andrey Ulanov&id_player=24764803&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:54 12.02.2013|66.249.75.171|player_stats.php|&pos=points&name=Noah Kauth&id_player=23441972&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:48 12.02.2013|66.249.78.184|player_stats.php|&pos=points&name=Winston Cutler&id_player=24570553&s=26||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:48 12.02.2013|66.249.75.210|stats.php|&s=31&pos=defs&type=reg&team=mtl&sort=perf&page=&active=all||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:46 12.02.2013|66.249.75.202|player_stats.php|&pos=points&name=Pavel Zhukov&id_player=15143720&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:42 12.02.2013|66.249.78.196|player_stats.php|&pos=points&name=Alex Fridrich&id_player=30920767&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:39 12.02.2013|66.249.78.200|manager_stats.phpchuj|chuj||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:38 12.02.2013|66.249.75.171|player_stats.php|&pos=points&name=Peter Ryba&id_player=29527771&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:40:35 12.02.2013|66.249.78.196|player_stats.php|&pos=points&name=Du--an Vlas--k&id_player=30605626&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:37:36 12.02.2013|66.249.78.196|player_stats.php|&pos=points&name=Milan Proksa&id_player=31638469&s=31||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:34:28 12.02.2013|66.249.78.208|player_stats.php|&pos=points&name=J--n Zelinka&id_player=&s=alltime||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:31:12 12.02.2013|66.249.78.209|player_stats.php|&pos=points&name=Kliment Candr--k&id_player=28308087&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:31:10 12.02.2013|66.249.75.217|player_stats.php|&pos=goalies&name=Yuriy Bakhvalov&id_player=28500438&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:27:52 12.02.2013|66.249.75.187|player_stats.php|&pos=points&name=Kajat--n Grzn--r&id_player=30763836&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:27:47 12.02.2013|66.249.78.208|player_stats.php|&pos=points&name=Gabriel Green&id_player=14037449&s=29||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:27:35 12.02.2013|66.249.78.209|player_stats.php|&pos=points&name=Zmitser Liuty&id_player=21532188&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:24:07 12.02.2013|66.249.75.177|player_stats.php|&pos=goalies&name=David Hron&id_player=27678847&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:24:04 12.02.2013|66.249.78.199|player_stats.php|&pos=goalies&name=Daniel Duda&id_player=16262366&s=28||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:23:48 12.02.2013|66.249.78.193|player_stats.php|&pos=points&name=Petr P----a&id_player=19914720&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:23:43 12.02.2013|66.249.75.176|player_stats.php|&pos=points&name=Julien-Leonard Strotk--tter&id_player=31181635&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:20:37 12.02.2013|66.249.78.195|player_stats.php|&pos=points&name=Spencer Girard&id_player=30148528&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:20:36 12.02.2013|66.249.75.170|player_stats.php|&pos=points&name=Andra-- Levc&id_player=31257395&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:19:18 12.02.2013|66.249.75.201|player_stats.php|&pos=points&name=Evgeni Topalov&id_player=31158563&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:19:11 12.02.2013|66.249.78.219|player_stats.php|&pos=points&name=Prokop Piktor&id_player=20621997&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:19:05 12.02.2013|66.249.75.220|player_stats.php|&pos=goalies&name=Slavomil Buzg&id_player=28284537&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:16:00 12.02.2013|66.249.75.175|player_stats.php|&pos=points&name=Zdenko Roje&id_player=30602396&s=30||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 
+08:12:44 12.02.2013|66.249.78.167|player_stats.php|&pos=points&name=Ladislav Gajdo--&id_player=27546784&s=27||Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)| - 

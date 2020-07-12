@@ -1,0 +1,31 @@
+Stanley Cup Finals|Florida Panthers ®|**Calgary Flames**|14852|23488|09|01|2010|fla|cgy|3|1|1|20901464|
+
+Stanley Cup Finals|**Calgary Flames**|Florida Panthers ®|23488|14852|10|01|2010|cgy|fla|1|4|1|20901465
+Conference Finals|Florida Panthers ®|New York Islanders ®|14852|19992|02|01|2010|fla|nyi|7|1|1|20833719|
+Conference Finals|**Calgary Flames**|Nashville Predators©|23488|21888|02|01|2010|cgy|nas|4|2|2|20835437|
+Conference Finals|New York Islanders ®|Florida Panthers ®|19992|14852|03|01|2010|nyi|fla|1|7|1|20833718|
+Conference Finals|Nashville Predators©|**Calgary Flames**|21888|23488|03|01|2010|nas|cgy|0|2|2|20835440|
+Conference Semifinals|Florida Panthers ®|The Washington Capitals|14852|1659|26|12|2009|fla|was|5|1|1|20812564|
+Conference Semifinals|Philadelphia Flyers|New York Islanders ®|17911|19992|26|12|2009|phi|nyi|2|4|0|20804997|
+Conference Semifinals|St. Louis Blues®|Nashville Predators©|16565|21888|26|12|2009|stl|nas|0|1|0|20805687|
+Conference Semifinals|**Calgary Flames**|Anaheim Ducks ®|23488|3597|26|12|2009|cgy|ana|2|1|2|20804025|
+Conference Semifinals|The Washington Capitals|Florida Panthers ®|1659|14852|27|12|2009|was|fla|0|4|1|20813048|
+Conference Semifinals|New York Islanders ®|Philadelphia Flyers|19992|17911|27|12|2009|nyi|phi|0|1|0|20804998|
+Conference Semifinals|Nashville Predators©|St. Louis Blues®|21888|16565|27|12|2009|nas|stl|2|1|0|20805688|
+Conference Semifinals|Anaheim Ducks ®|**Calgary Flames**|3597|23488|27|12|2009|ana|cgy|3|2|2|20804026|
+Conference Quarterfinals|Florida Panthers ®|Buffalo Sabres|14852|28475|19|12|2009|fla|buf|10|0|1|20782281|
+Conference Quarterfinals|Boston Bruins ®|The Washington Capitals|1220|1659|19|12|2009|bos|was|0|1|0|20784593|
+Conference Quarterfinals|Philadelphia Flyers|Atlanta Thrashers ®|17911|18857|19|12|2009|phi|atl|4|3|0|20788518|
+Conference Quarterfinals|New York Islanders ®|Ottawa Senators ®|19992|2787|19|12|2009|nyi|ott|5|0|0|20784857|
+Conference Quarterfinals|St. Louis Blues®|Detroit Red Wings ™|16565|23149|19|12|2009|stl|det|3|0|0|20786026|
+Conference Quarterfinals|**Calgary Flames**|Los Angeles Kings ®|23488|23979|19|12|2009|cgy|lak|3|2|0|20782522|
+Conference Quarterfinals|Anaheim Ducks ®|Dallas Stars™|3597|12548|19|12|2009|ana|dal|5|1|0|20784904|
+Conference Quarterfinals|Nashville Predators©|Edmonton Oilers™|21888|25621|19|12|2009|nas|edm|6|1|2|20785654|
+Conference Quarterfinals|Buffalo Sabres|Florida Panthers ®|28475|14852|20|12|2009|buf|fla|1|5|1|20790967|
+Conference Quarterfinals|The Washington Capitals|Boston Bruins ®|1659|1220|20|12|2009|was|bos|5|1|0|20784594|
+Conference Quarterfinals|Atlanta Thrashers ®|Philadelphia Flyers|18857|17911|20|12|2009|atl|phi|3|4|0|20788520|
+Conference Quarterfinals|Ottawa Senators ®|New York Islanders ®|2787|19992|20|12|2009|ott|nyi|0|3|0|20784858|
+Conference Quarterfinals|Detroit Red Wings ™|St. Louis Blues®|23149|16565|20|12|2009|det|stl|1|7|0|20786028|
+Conference Quarterfinals|Los Angeles Kings ®|**Calgary Flames**|23979|23488|20|12|2009|lak|cgy|1|5|0|20782523|
+Conference Quarterfinals|Dallas Stars™|Anaheim Ducks ®|12548|3597|20|12|2009|dal|ana|2|1|0|20784905|
+Conference Quarterfinals|Edmonton Oilers™|Nashville Predators©|25621|21888|20|12|2009|edm|nas|2|1|2|20785655|

@@ -1,0 +1,24 @@
+1||Roman Travin|1|31|30|96.8%|0|6.7|Detroit|det|16134007|60|1.00|
+2||Hans-Erik Nørgaard|4|173|166|96.0%|0|7.4|Chicago|chi|21156671|240|1.75|
+3||Jonatán Pichlač|8|267|252|94.4%|0|6.5|Toronto|tor|16825202|480|1.88|
+4||Hugo Kukučiak|2|52|49|94.2%|0|5.9|Minnesota|min|21342258|120|1.50|
+5||Loic Lefevre|8|205|190|92.7%|0|5.9|Colorado|col|18517170|480|1.88|
+6||Reinis Baltrausis|5|159|147|92.5%|1|6.2|St. Louis|stl|20210989|300|2.40|
+7||Marin Bakalov|4|73|67|91.8%|1|5.3|Carolina|car|19339743|240|1.50|
+8||Vincenzo Benini|1|22|20|90.9%|0|5.2|Detroit|det|18159167|60|2.00|
+9||Vavrinec Figura|2|75|68|90.7%|0|6.3|Florida|fla|15587700|120|3.50|
+10||Michel Meili|4|99|89|89.9%|0|5.5|Winnipeg|wpg|17152958|212.466666667|2.82|
+11||Lukáš Mašek|2|64|56|87.5%|0|5.7|Montreal|mtl|20418978|120|4.00|
+12||Blahoslav Adamec|2|64|56|87.5%|0|5.7|NY Islanders|nyi|16873338|120|4.00|
+13||Valio Wendelin|2|71|62|87.3%|0|5.8|Phoenix|phx|27529605|120|4.50|
+14||David Hron|2|39|34|87.2%|0|5.0|Carolina|car|27678847|120|2.50|
+15||Patrick Zentriegen|3|83|71|85.5%|0|5.3|San Jose|sjs|14045151|140.7|5.12|
+16||Jocelyn Thibault|2|48|40|83.3%|0|4.8|Pittsburgh|pit|22385348|65.25|7.36|
+17||Adam Miček|2|57|47|82.5%|0|5.2|LA Kings|lak|26049920|120|5.00|
+18||Stan Lackovič|4|40|33|82.5%|0|4.4|San Jose|sjs|23457558|99.3|4.23|
+19||Otto Tommila|4|64|51|79.7%|0|4.5|Washington|was|18265448|178.616666666|4.37|
+20||Rafael Zahnd|2|30|21|70.0%|0|3.9|Washington|was|26905564|61.3833333334|8.80|
+21||Rudolf Karáč|1|29|18|62.1%|0|3.4|St. Louis|stl|28497984|60|11.00|
+-||Rasmus Melin|1|16|15|93.8%|0|5.0|Winnipeg|wpg|17147712|27.5333333333|2.18|
+-||Jaroslav Halák|2|44|37|84.1%|0|5.0|Pittsburgh|pit|24109404|54.75|7.67|
+

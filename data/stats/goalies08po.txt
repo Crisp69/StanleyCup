@@ -1,0 +1,26 @@
+1||Víťazoslav Lazarák|3|28|28|100,00%|3|4,90|Anaheim|ana
+2||Eugen Chytrý|6|126|122|96,83%|3|5,77|Montreal|mtl
+3||Vojtech Pichňa|1|34|32|94,12%|0|6,30|NY Islanders|nyi
+4||Ladislav Andrle|2|51|48|94,12%|1|5,75|NJ Devils|njd
+5||Miroslav Klementík|6|110|103|93,64%|3|5,40|Colorado|col
+6||Mareks Pçrkons|4|123|115|93,50%|0|6,13|Chicago|chi
+7||Zoltán Smerčiak|4|61|57|93,44%|1|5,2|Colorado|col
+8||Jozef Lazík|6|182|170|93,41%|0|6,12|Philadelphia|phi
+9||Iľja Országh|2|66|61|92,42%|0|6,35|San Jose|sjs
+10||Marcello Mercanti|2|58|53|91,38%|0|5,85|Carolina|car
+11||Eftemie Capraru|3|69|63|91,30%|1|5,47|Toronto|tor
+12||Hvedar Pivavarau|2|74|67|90,54%|0|6,15|Carolina|car
+13||Metod Páleník|2|48|43|89,58%|0|5,45|Montreal|mtl
+14||Patrik Petřík|3|48|43|89,58%|0|4,9|Toronto|tor
+15||Richard Štěpánek|2|66|59|89,39%|0|5,85|Tampa Bay|tbl
+16||Miroslav Janota|1|28|25|89,29%|0|5,80|NY Islanders|nyi
+17||Václav Pelikán|2|77|68|88,31%|0|6,0|Florida|fla
+18||Marcus Chettle|4|113|99|87,61%|1|5,60|Vancouver|van
+19||Hayden Duffield|1|8|7|87,50%|0|4,60|Vancouver|van
+20||Mateusz Kulig|2|59|51|86,44%|0|5,40|Nashville|nas
+21||Jindřich Roubal|6|107|87|81,31%|1|4,60|Anaheim|ana
+22||Leonid Radulov|2|73|59|80,82%|0|5,20|Minnesota|min
+23||Vladimír Lenický|1|26|20|76,92%|0|4,60|Nashville|nas
+24||Tomił Czermierski|2|83|63|75,90%|0|4,80|Columbus|cbj
+25||Eižens Orlovs|2|13|9|69,23%|0|3,90|Philadelphia|phi
+26||Robert Jacobsen|2|19|13|68,42%|0|3,9|NJ Devils|njd

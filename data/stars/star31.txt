@@ -1,0 +1,22 @@
+08.07.2012|Roland Werning|car|4 goals + 3 asists|18135904|Hilary Kupczyk|car|2 goals + 2 asists|20209771|Marek Slíž|car|3 goals + 0 asists|18115266
+07.07.2012|Bořek Minařík|car|2 goals + 1 asists|20437616|Hilary Kupczyk|car|1 goals + 2 asists|20209771|Roland Werning|car|2 goals + 0 asists|18135904
+01.07.2012|Hugo Kukučiak|min|100% svs, 1 shotout|21342258|Leonards Plaude|car|2 goals + 1 asists|19176468|Bořek Minařík|car|1 goals + 1 asists|20437616
+30.06.2012|Ičo Malec|car|2 goals + 4 asists|19238003|Hilary Kupczyk|car|3 goals + 1 asists|20209771|Bořek Minařík|car|1 goals + 2 asists|20437616
+24.06.2012|Roland Werning|car|3 goals + 2 asists|18135904|Bořek Minařík|car|2 goals + 2 asists|20437616|Hilary Kupczyk|car|1 goals + 2 asists|20209771
+23.06.2012|Albert Martinez|bos|3 goals + 0 asists|24784668|Longin Jaworski|phx|3 goals + 0 asists|16865023|Emidio Sabadini|wpg|94% svs, 0 shotout|19302689
+17.06.2012|Nicu Ţuică|bos|2 goals + 1 asists|26972437|Felix Herbst|tor|2 goals + 1 asists|19212548|Glenn Gabriel|van|94.9% svs, 0 shotout|20860100
+16.06.2012|Nicu Ţuică|bos|3 goals + 1 asists|26972437|Pauls Veidis|min|3 goals + 0 asists|16452411|Daniel Mrkvička|car|0 goals + 3 asists|16218159
+10.06.2012|Jakub Kopeček|wpg|3 goals + 0 asists|18143804|Richard Meduna|bos|3 goals + 0 asists|27667602|Ján Džogan|nas|97.4% svs, 0 shotout|22670313
+09.06.2012|Zalán Pápay|tbl|3 goals + 1 asists|21977362|Bořek Minařík|car|1 goals + 4 asists|20437616|Tomáš Moučka|fla|0 goals + 5 asists|18277186
+03.06.2012|Egbert Chmiel|fla|4 goals + 3 asists|16472511|Bruno Salaun|fla|0 goals + 6 asists|20656228|Bruno Salaun|fla|0 goals + 6 asists|20656228
+02.06.2012|Ičo Malec|car|1 goals + 5 asists|19238003|Giacomo Marinola|wpg|3 goals + 2 asists|16103897|Reihnard Hüttner|col|4 goals + 0 asists|27543989
+27.05.2012|Longin Jaworski|phx|4 goals + 0 asists|16865023|Voldemārs Aizkrauklietis|det|3 goals + 1 asists|18271942|Etienne Dugas|dal|97.7% svs, 0 shotout|26041188
+26.05.2012|Václav Kubánek|nyr|4 goals + 1 asists|28289626|Birk Helleren|bos|3 goals + 2 asists|25559297|Albert Martinez|bos|1 goals + 3 asists|24784668
+20.05.2012|Richard Kretschmer|nyi|1 goals + 4 asists|24539508|Bořek Minařík|car|0 goals + 5 asists|20437616|Reino Poutinen|nyi|3 goals + 1 asists|20278527
+20.05.2012|Richard Kretschmer|nyi|1 goals + 4 asists|24539508|Richard Kretschmer|nyi|1 goals + 4 asists|24539508|Bořek Minařík|car|0 goals + 5 asists|20437616
+19.05.2012|Felix Herbst|tor|6 goals + 1 asists|19212548|Elizej Skrúcaný|tor|0 goals + 6 asists|27570829|Marijan Urtelj|lak|3 goals + 2 asists|27535481
+13.05.2012|Albertín Cimbala|lak|0 goals + 7 asists|25743846|Zdenko Zeleňák|lak|4 goals + 0 asists|28290060|Joe MacDonal|phx|2 goals + 3 asists|26386435
+12.05.2012|Nicu Ţuică|bos|4 goals + 1 asists|26972437|Egbert Chmiel|fla|4 goals + 0 asists|16472511|Linton Coles|cbj|2 goals + 3 asists|25832235
+06.05.2012|Tomáš Malý|fla|3 goals + 1 asists|20213327|Egbert Chmiel|fla|3 goals + 1 asists|16472511|Mário Galgo|fla|2 goals + 2 asists|17259198
+05.05.2012|Remus Kalatovič|wpg|4 goals + 1 asists|18142888|Jozef Hajsák|nyr|2 goals + 3 asists|27526552|Giacomo Marinola|wpg|1 goals + 4 asists|16103897
+04.05.2012|Vjačeslavs Aukliņš|phx|3 goals + 2 asists|26167881|Joe MacDonal|phx|3 goals + 2 asists|26386435|Mathieu Jacob|phx|2 goals + 3 asists|26493530

@@ -1,0 +1,1 @@
+<? $l_session["powerteam"] = "powerteam|6K93khNfpdWf7dVP3bSTPkiIdLSo3zK8ruf5OJ|0|";?>

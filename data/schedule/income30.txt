@@ -1,0 +1,246 @@
+880902139|3611|3318509|919|buf|mtl| Buffalo Sabres| Montreal Canadiens ™|24|02|2012|buf|
+880870280|4195|2726750|650|tor|ott|Toronto Maple Leafs| Ottawa Senators©|24|02|2012|tor|
+880837665|3641|2865467|787|phx|ana| - Anaheim Ducks -| Phoenix Coyotes ®|24|02|2012|ana|
+880870158|4273|1922850|450|dal|sjs| San Jose Sharks™| Dallas Stars ®|24|02|2012|sjs|
+880841399|4330|4200100|970|bos|lak| Boston Bruins ®| Los Angeles Kings ®|24|02|2012|bos|
+880868751|7151|8581200|1200|fla|wpg| Florida Panthers ®| Winnipeg Jets ★™|24|02|2012|fla|
+880861222|4320|5322240|1232|was|tbl| The Washington Capitals| Tampa Bay Lightning ®|24|02|2012|was|
+880861934|3208|2726800|850|nyr|phi| ** NY RANGERS **| Philadelphia Flyers ®|24|02|2012|nyr|
+880840595|3616|4476608|1238|pit|njd| New Jersey Devils®| Pittsburgh Penguins|24|02|2012|njd|
+880869523|7070|7777000|1100|car|nyi| Carolina Hurricanes ™| New York Islanders®|24|02|2012|car|
+880867440|4940|3952000|800|stl|cbj| St. Louis Blues ™| Columbus Blue Jackets|24|02|2012|stl|
+880840209|6927|4613382|666|nas|chi| Nashville Predators ™| Chicago Blackhawks ™|24|02|2012|nas|
+880869373|4964|6949600|1400|min|col| Colorado Avalanche| Minnesota Wild®|24|02|2012|col|
+880876009|5465|5465000|1000|edm|det| Detroit Red Wings™| Edmonton Oilers ®|24|02|2012|det|
+
+880928483|4010|1824550|455|mtl|phx| Montreal Canadiens ™| Phoenix Coyotes ®|25|02|2012|mtl|
+880839168|3952|1580800|400|dal|buf| Dallas Stars ®| Buffalo Sabres|25|02|2012|dal|
+880870281|3810|2476500|650|tor|lak|Toronto Maple Leafs| Los Angeles Kings ®|25|02|2012|tor|
+880870157|5006|6657980|1330|sjs|bos| San Jose Sharks™| Boston Bruins ®|25|02|2012|sjs|
+880836963|3709|2918983|787|ott|ana| - Anaheim Ducks -| Ottawa Senators©|25|02|2012|ana|
+880868806|5767|7785450|1350|wpg|nyr| Winnipeg Jets ★™| ** NY RANGERS **|25|02|2012|wpg|
+880865099|5397|7809459|1447|fla|pit| Florida Panthers ®| Pittsburgh Penguins|25|02|2012|fla|
+880861781|4689|5251680|1120|nyi|was| The Washington Capitals| New York Islanders®|25|02|2012|was|
+880869977|7853|8638300|1100|njd|car| Carolina Hurricanes ™| New Jersey Devils®|25|02|2012|car|
+880884206|4758|3092700|650|tbl|phi| Philadelphia Flyers ®| Tampa Bay Lightning ®|25|02|2012|phi|
+880867441|6701|5695850|850|cbj|cgy| Columbus Blue Jackets| Calgary Flames ®|25|02|2012|cbj|
+880869273|7649|8413900|1100|min|stl| Minnesota Wild®| St. Louis Blues ™|25|02|2012|min|
+880876259|4108|4108000|1000|edm|nas| Nashville Predators ™| Edmonton Oilers ®|25|02|2012|nas|
+880867133|5213|7298200|1400|col|det| Colorado Avalanche| Detroit Red Wings™|25|02|2012|col|
+880860390|6389|5686210|890|van|chi| Chicago Blackhawks ™| Vancouver Canucks™|25|02|2012|chi|
+
+880874623|4611|4371228|948|nas|cbj| Nashville Predators ™| Columbus Blue Jackets|26|02|2012|nas|
+880865046|6309|6309000|1000|stl|det| Detroit Red Wings™| St. Louis Blues ™|26|02|2012|det|
+880862304|5001|5501100|1100|min|van| Minnesota Wild®| Vancouver Canucks™|26|02|2012|min|
+880877940|5243|4430335|845|cgy|edm| Calgary Flames ®| Edmonton Oilers ®|26|02|2012|cgy|
+880877349|5546|7764400|1400|col|chi| Colorado Avalanche| Chicago Blackhawks ™|26|02|2012|col|
+880870282|3716|2415400|650|nyi|tor|Toronto Maple Leafs| New York Islanders®|26|02|2012|tor|
+880860912|5955|5359500|900|pit|mtl| Pittsburgh Penguins| Montreal Canadiens ™|26|02|2012|pit|
+880841086|4760|3808000|800|nyr|bos| ** NY RANGERS **| Boston Bruins ®|26|02|2012|nyr|
+880898651|4250|4165000|980|njd|buf| New Jersey Devils®| Buffalo Sabres|26|02|2012|njd|
+880861935|3416|2391200|700|phi|ott| Ottawa Senators©| Philadelphia Flyers ®|26|02|2012|ott|
+880870160|6013|6614300|1100|car|sjs| Carolina Hurricanes ™| San Jose Sharks™|26|02|2012|car|
+880868752|6219|8084700|1300|wpg|lak| Winnipeg Jets ★™| Los Angeles Kings ®|26|02|2012|wpg|
+880868287|4842|7369524|1522|fla|phx| Florida Panthers ®| Phoenix Coyotes ®|26|02|2012|fla|
+880837235|5002|6727690|1345|was|ana| The Washington Capitals| - Anaheim Ducks -|26|02|2012|was|
+880861223|3021|1208400|400|tbl|dal| Dallas Stars ®| Tampa Bay Lightning ®|26|02|2012|dal|
+
+880921859|5109|4209816|824|cgy|van| Calgary Flames ®| Vancouver Canucks™|29|02|2012|cgy|
+
+880869521|7063|7769300|1100|was|car| Carolina Hurricanes ™| The Washington Capitals|03|03|2012|car|
+880884209|4697|6340950|1350|tbl|wpg| Winnipeg Jets ★™| Tampa Bay Lightning ®|03|03|2012|wpg|
+880861782|4520|3164000|700|nyi|pit| Pittsburgh Penguins| New York Islanders®|03|03|2012|pit|
+880862368|3577|3376688|944|phi|njd| New Jersey Devils®| Philadelphia Flyers ®|03|03|2012|njd|
+880865096|5277|8411538|1594|fla|nyr| Florida Panthers ®| ** NY RANGERS **|03|03|2012|fla|
+880870336|5473|7662200|1400|col|sjs| Colorado Avalanche| San Jose Sharks™|03|03|2012|col|
+880862306|6579|7236900|1100|min|lak| Minnesota Wild®| Los Angeles Kings ®|03|03|2012|min|
+880841439|3951|3555900|900|van|phx| Phoenix Coyotes ®| Vancouver Canucks™|03|03|2012|phx|
+880836753|4329|3523806|814|cgy|ana| Calgary Flames ®| - Anaheim Ducks -|03|03|2012|cgy|
+880875140|3311|1324400|400|edm|dal| Dallas Stars ®| Edmonton Oilers ®|03|03|2012|dal|
+880870283|6778|6100200|900|stl|tor| St. Louis Blues ™|Toronto Maple Leafs|03|03|2012|stl|
+881467222|7103|6492142|914|chi|mtl| Chicago Blackhawks ™| Montreal Canadiens ™|03|03|2012|chi|
+880861672|6085|6085000|1000|det|bos| Detroit Red Wings™| Boston Bruins ®|03|03|2012|det|
+880839169|4230|4145400|980|nas|buf| Nashville Predators ™| Buffalo Sabres|03|03|2012|nas|
+880878366|4462|3792700|850|cbj|ott| Columbus Blue Jackets| Ottawa Senators©|03|03|2012|cbj|
+
+881467300|5705|3993500|700|buf|tor| Buffalo Sabres|Toronto Maple Leafs|04|03|2012|buf|
+880841093|5081|4064800|800|bos|ott| Boston Bruins ®| Ottawa Senators©|04|03|2012|bos|
+880838635|4313|3881700|900|phx|dal| Phoenix Coyotes ®| Dallas Stars ®|04|03|2012|phx|
+880870163|4138|5793200|1400|lak|sjs| San Jose Sharks™| Los Angeles Kings ®|04|03|2012|sjs|
+880838773|4863|3827181|787|ana|mtl| - Anaheim Ducks -| Montreal Canadiens ™|04|03|2012|ana|
+880865097|5641|8269706|1466|was|fla| Florida Panthers ®| The Washington Capitals|04|03|2012|fla|
+880884210|5238|7998426|1527|car|tbl| Carolina Hurricanes ™| Tampa Bay Lightning ®|04|03|2012|car|
+880839613|4146|3316800|800|pit|nyr| ** NY RANGERS **| Pittsburgh Penguins|04|03|2012|nyr|
+880862369|3831|4087677|1067|njd|nyi| New Jersey Devils®| New York Islanders®|04|03|2012|njd|
+880868753|7320|8052000|1100|wpg|phi| Winnipeg Jets ★™| Philadelphia Flyers ®|04|03|2012|wpg|
+880839027|6787|6108300|900|stl|nas| St. Louis Blues ™| Nashville Predators ™|04|03|2012|stl|
+880863279|6744|6744000|1000|det|chi| Detroit Red Wings™| Chicago Blackhawks ™|04|03|2012|det|
+880869268|6306|6936600|1100|cgy|min| Minnesota Wild®| Calgary Flames ®|04|03|2012|min|
+880876199|4094|5731600|1400|edm|col| Colorado Avalanche| Edmonton Oilers ®|04|03|2012|col|
+881478825|4000|3400000|850|cbj|van| Columbus Blue Jackets| Vancouver Canucks™|04|03|2012|cbj|
+
+881467301|4727|3072550|650|phx|tor|Toronto Maple Leafs| Phoenix Coyotes ®|10|03|2012|tor|
+880841092|3880|1552000|400|bos|dal| Dallas Stars ®| Boston Bruins ®|10|03|2012|dal|
+880841413|5650|3672500|650|ott|lak| Los Angeles Kings ®| Ottawa Senators©|10|03|2012|lak|
+880875554|4896|6364800|1300|sjs|mtl| San Jose Sharks™| Montreal Canadiens ™|10|03|2012|sjs|
+880839170|4302|3949236|918|ana|buf| Buffalo Sabres| - Anaheim Ducks -|10|03|2012|buf|
+880839085|4005|5659065|1413|nyr|was| The Washington Capitals| ** NY RANGERS **|10|03|2012|was|
+880869519|4583|6416200|1400|car|pit| Carolina Hurricanes ™| Pittsburgh Penguins|10|03|2012|car|
+880865583|4575|3888750|850|tbl|nyi| New York Islanders®| Tampa Bay Lightning ®|10|03|2012|nyi|
+880869029|4432|5983200|1350|wpg|njd| Winnipeg Jets ★™| New Jersey Devils®|10|03|2012|wpg|
+880865098|4721|7596089|1609|phi|fla| Florida Panthers ®| Philadelphia Flyers ®|10|03|2012|fla|
+880838493|4424|4424000|1000|nas|cgy| Nashville Predators ™| Calgary Flames ®|10|03|2012|nas|
+880862307|7220|7942000|1100|det|min| Minnesota Wild®| Detroit Red Wings™|10|03|2012|min|
+880877350|3860|2895000|750|chi|edm| Chicago Blackhawks ™| Edmonton Oilers ®|10|03|2012|chi|
+880874624|4874|6823600|1400|col|cbj| Colorado Avalanche| Columbus Blue Jackets|10|03|2012|col|
+880841331|6315|5683500|900|van|stl| St. Louis Blues ™| Vancouver Canucks™|10|03|2012|stl|
+
+880839166|3456|3217536|931|buf|ott| Buffalo Sabres| Ottawa Senators©|11|03|2012|buf|
+880860917|4751|3800800|800|bos|mtl| Boston Bruins ®| Montreal Canadiens ™|11|03|2012|bos|
+880878228|4040|1818000|450|phx|sjs| San Jose Sharks™| Phoenix Coyotes ®|11|03|2012|sjs|
+880841415|4466|3514742|787|lak|ana| - Anaheim Ducks -| Los Angeles Kings ®|11|03|2012|ana|
+880870285|3371|1348400|400|dal|tor| Dallas Stars ®|Toronto Maple Leafs|11|03|2012|dal|
+880865584|4851|7368669|1519|fla|tbl| Florida Panthers ®| Tampa Bay Lightning ®|11|03|2012|fla|
+880869520|7624|8386400|1100|car|wpg| Carolina Hurricanes ™| Winnipeg Jets ★™|11|03|2012|car|
+880839325|1655|2399750|1450|nyr|njd| New Jersey Devils®| ** NY RANGERS **|11|03|2012|njd|
+880861936|3603|3062550|850|nyi|phi| New York Islanders®| Philadelphia Flyers ®|11|03|2012|nyi|
+880839612|3644|5083380|1395|was|pit| The Washington Capitals| Pittsburgh Penguins|11|03|2012|was|
+880869888|8390|7551000|900|stl|chi| St. Louis Blues ™| Chicago Blackhawks ™|11|03|2012|stl|
+880863044|7027|7027000|1000|det|cbj| Detroit Red Wings™| Columbus Blue Jackets|11|03|2012|det|
+880867134|4995|6993000|1400|cgy|col| Colorado Avalanche| Calgary Flames ®|11|03|2012|col|
+880841566|3962|2694160|680|edm|van| Edmonton Oilers ®| Vancouver Canucks™|11|03|2012|edm|
+880862309|5738|6311800|1100|min|nas| Minnesota Wild®| Nashville Predators ™|11|03|2012|min|
+
+880868754|6970|9061000|1300|was|wpg| Winnipeg Jets ★™| The Washington Capitals|17|03|2012|wpg|
+881503206|5623|8839356|1572|car|fla| Florida Panthers ®| Carolina Hurricanes ™|17|03|2012|fla|
+880861938|3091|1545500|500|pit|phi| Pittsburgh Penguins| Philadelphia Flyers ®|17|03|2012|pit|
+880861783|3390|2627250|775|nyi|nyr| ** NY RANGERS **| New York Islanders®|17|03|2012|nyr|
+880902348|3349|3024147|903|tbl|njd| Tampa Bay Lightning ®| New Jersey Devils®|17|03|2012|tbl|
+880870165|4696|2113200|450|sjs|stl| San Jose Sharks™| St. Louis Blues ™|17|03|2012|sjs|
+880860391|3904|2885056|739|lak|chi| Chicago Blackhawks ™| Los Angeles Kings ®|17|03|2012|chi|
+880864695|6083|6083000|1000|phx|det| Detroit Red Wings™| Phoenix Coyotes ®|17|03|2012|det|
+880839330|4124|3245588|787|ana|nas| - Anaheim Ducks -| Nashville Predators ™|17|03|2012|ana|
+880863570|3543|3167442|894|dal|cbj| Columbus Blue Jackets| Dallas Stars ®|17|03|2012|cbj|
+880874916|4897|6855800|1400|tor|col| Colorado Avalanche|Toronto Maple Leafs|17|03|2012|col|
+880875555|6715|7386500|1100|mtl|min| Minnesota Wild®| Montreal Canadiens ™|17|03|2012|min|
+880841202|4554|3643200|800|bos|van| Boston Bruins ®| Vancouver Canucks™|17|03|2012|bos|
+880868949|4212|3761316|893|buf|cgy| Calgary Flames ®| Buffalo Sabres|17|03|2012|cgy|
+880836843|3334|2833900|850|ott|edm| Edmonton Oilers ®| Ottawa Senators©|17|03|2012|edm|
+
+880861673|4861|6460269|1329|nas|det| Detroit Red Wings™| Nashville Predators ™|18|03|2012|det|
+880903542|4642|3829650|825|chi|cbj| Chicago Blackhawks ™| Columbus Blue Jackets|18|03|2012|chi|
+880874622|5428|5970800|1100|min|edm| Minnesota Wild®| Edmonton Oilers ®|18|03|2012|min|
+880841203|4196|5874400|1400|van|col| Colorado Avalanche| Vancouver Canucks™|18|03|2012|col|
+880865908|8026|7223400|900|cgy|stl| St. Louis Blues ™| Calgary Flames ®|18|03|2012|stl|
+880870166|4261|5539300|1300|sjs|nyi| San Jose Sharks™| New York Islanders®|18|03|2012|sjs|
+880841424|3626|2356900|650|lak|pit| Los Angeles Kings ®| Pittsburgh Penguins|18|03|2012|lak|
+880839297|3991|4306289|1079|phx|nyr| Phoenix Coyotes ®| ** NY RANGERS **|18|03|2012|phx|
+880836962|3191|3340977|1047|ana|njd| New Jersey Devils®| - Anaheim Ducks -|18|03|2012|njd|
+880861939|3213|1285200|400|dal|phi| Dallas Stars ®| Philadelphia Flyers ®|18|03|2012|dal|
+880870287|6879|7566900|1100|tor|car| Carolina Hurricanes ™|Toronto Maple Leafs|18|03|2012|car|
+880875556|5086|6611800|1300|mtl|wpg| Winnipeg Jets ★™| Montreal Canadiens ™|18|03|2012|wpg|
+880865095|5250|8148000|1552|bos|fla| Florida Panthers ®| Boston Bruins ®|18|03|2012|fla|
+880839171|4098|5044638|1231|buf|was| The Washington Capitals| Buffalo Sabres|18|03|2012|was|
+880861224|3472|3326176|958|ott|tbl| Tampa Bay Lightning ®| Ottawa Senators©|18|03|2012|tbl|
+
+880837666|3636|3883248|1068|ott|phx| Phoenix Coyotes ®| Ottawa Senators©|24|03|2012|phx|
+880838775|3021|1208400|400|mtl|dal| Dallas Stars ®| Montreal Canadiens ™|24|03|2012|dal|
+880861486|3984|3744960|940|lak|buf| Buffalo Sabres| Los Angeles Kings ®|24|03|2012|buf|
+880870289|5360|6968000|1300|sjs|tor| San Jose Sharks™|Toronto Maple Leafs|24|03|2012|sjs|
+880841512|4132|3251884|787|ana|bos| - Anaheim Ducks -| Boston Bruins ®|24|03|2012|ana|
+880861225|3324|2659200|800|tbl|nyr| ** NY RANGERS **| Tampa Bay Lightning ®|24|03|2012|nyr|
+880870498|5602|7282600|1300|wpg|pit| Winnipeg Jets ★™| Pittsburgh Penguins|24|03|2012|wpg|
+880865094|6376|7651200|1200|fla|nyi| Florida Panthers ®| New York Islanders®|24|03|2012|fla|
+880838306|4289|5978866|1394|njd|was| The Washington Capitals| New Jersey Devils®|24|03|2012|was|
+880869527|6350|6985000|1100|phi|car| Carolina Hurricanes ™| Philadelphia Flyers ®|24|03|2012|car|
+880869889|3764|2962268|787|chi|cgy| Chicago Blackhawks ™| Calgary Flames ®|24|03|2012|chi|
+880874625|5863|6449300|1100|cbj|min| Minnesota Wild®| Columbus Blue Jackets|24|03|2012|min|
+880866666|7415|6673500|900|edm|stl| St. Louis Blues ™| Edmonton Oilers ®|24|03|2012|stl|
+880867135|5561|7785400|1400|col|nas| Colorado Avalanche| Nashville Predators ™|24|03|2012|col|
+880861674|3855|5034630|1306|van|det| Detroit Red Wings™| Vancouver Canucks™|24|03|2012|det|
+
+880870290|4944|3213600|650|tor|bos|Toronto Maple Leafs| Boston Bruins ®|25|03|2012|tor|
+880838776|3798|1728090|455|mtl|ott| Montreal Canadiens ™| Ottawa Senators©|25|03|2012|mtl|
+880841425|3671|1468400|400|dal|lak| Dallas Stars ®| Los Angeles Kings ®|25|03|2012|dal|
+880870171|4762|6190600|1300|ana|sjs| San Jose Sharks™| - Anaheim Ducks -|25|03|2012|sjs|
+880903312|4139|4010691|969|buf|phx| Buffalo Sabres| Phoenix Coyotes ®|25|03|2012|buf|
+880870337|6882|7570200|1100|car|col| Carolina Hurricanes ™| Colorado  Avalanche|25|03|2012|car|
+880869266|6175|8645000|1400|wpg|min| Winnipeg Jets ★™| Minnesota Wild®|25|03|2012|wpg|
+880865093|4679|7406857|1583|fla|van| Florida Panthers ®| Vancouver Canucks™|25|03|2012|fla|
+880838494|4966|4966000|1000|was|cgy| The Washington Capitals| Calgary Flames ®|25|03|2012|was|
+880884213|3172|3099044|977|tbl|edm| Tampa Bay Lightning ®| Edmonton Oilers ®|25|03|2012|tbl|
+880863110|6646|5981400|900|nyi|stl| St. Louis Blues ™| New York Islanders®|25|03|2012|stl|
+880840210|3642|2731500|750|pit|chi| Chicago Blackhawks ™| Pittsburgh Penguins|25|03|2012|chi|
+880861675|6401|6401000|1000|nyr|det| Detroit Red Wings™| ** NY RANGERS **|25|03|2012|det|
+880839326|3118|3507750|1125|njd|nas| New Jersey Devils®| Nashville Predators ™|25|03|2012|njd|
+880863045|4531|3851350|850|phi|cbj| Columbus Blue Jackets| Philadelphia Flyers ®|25|03|2012|cbj|
+
+880841440|3816|4247208|1113|phx|bos| Phoenix Coyotes ®| Boston Bruins ®|31|03|2012|phx|
+880837154|2962|1184800|400|ott|dal| Dallas Stars ®| Ottawa Senators©|31|03|2012|dal|
+880860914|6183|4080780|660|mtl|lak| Los Angeles Kings ®| Montreal Canadiens ™|31|03|2012|lak|
+880870195|4099|5328700|1300|sjs|buf| San Jose Sharks™| Buffalo Sabres|31|03|2012|sjs|
+880870293|4660|3620820|777|ana|tor| - Anaheim Ducks -|Toronto Maple Leafs|31|03|2012|ana|
+880869518|6800|7480000|1100|nyr|car| Carolina Hurricanes ™| ** NY RANGERS **|31|03|2012|car|
+880861226|3649|1824500|500|pit|tbl| Pittsburgh Penguins| Tampa Bay Lightning ®|31|03|2012|pit|
+880868756|5967|7757100|1300|wpg|nyi| Winnipeg Jets ★™| New York Islanders®|31|03|2012|wpg|
+880866487|4725|7503300|1588|njd|fla| Florida Panthers| New Jersey Devils®|31|03|2012|fla|
+880861940|3755|5275775|1405|phi|was| The Washington Capitals| Philadelphia Flyers ®|31|03|2012|was|
+880861726|5646|7373676|1306|det|cgy| Detroit Red Wings™| Calgary Flames ®|31|03|2012|det|
+880869892|5504|6054400|1100|chi|min| Minnesota Wild®| Chicago Blackhawks ™|31|03|2012|min|
+880874626|3479|3440731|989|cbj|edm| Columbus Blue Jackets| Edmonton Oilers ®|31|03|2012|cbj|
+880867136|5016|7022400|1400|col|stl| Colorado Avalanche| St. Louis Blues ™|31|03|2012|col|
+880841204|3870|3870000|1000|van|nas| Nashville Predators ™| Vancouver Canucks™|31|03|2012|nas|
+
+881467303|4103|2666950|650|tor|mtl|Toronto Maple Leafs| Montreal Canadiens ™|01|04|2012|tor|
+880861487|4360|3488000|800|bos|buf| Boston Bruins ®| Buffalo Sabres|01|04|2012|bos|
+880837155|4183|3250191|777|dal|ana| - Anaheim Ducks -| Dallas Stars ®|01|04|2012|ana|
+880841441|2943|3366792|1144|lak|phx| Phoenix Coyotes ®| Los Angeles Kings ®|01|04|2012|phx|
+880870174|4575|5947500|1300|sjs|ott| San Jose Sharks™| Ottawa Senators©|01|04|2012|sjs|
+880867137|4540|6356000|1400|nyi|col| Colorado Avalanche| New York Islanders®|01|04|2012|col|
+880862310|6626|7288600|1100|pit|min| Minnesota Wild®| Pittsburgh Penguins|01|04|2012|min|
+880841205|3530|2824000|800|nyr|van| ** NY RANGERS **| Vancouver Canucks™|01|04|2012|nyr|
+880869028|3028|3439808|1136|njd|cgy| New Jersey Devils®| Calgary Flames ®|01|04|2012|njd|
+880862750|3825|2486250|650|phi|edm| Philadelphia Flyers ®| Edmonton Oilers ®|01|04|2012|phi|
+880869537|7282|6553800|900|stl|car| St. Louis Blues ™| Carolina Hurricanes ™|01|04|2012|stl|
+880869891|5064|6583200|1300|chi|wpg| Winnipeg Jets ★™| Chicago Blackhawks ™|01|04|2012|wpg|
+880865144|4723|7618199|1613|det|fla| Florida Panthers| Detroit Red Wings™|01|04|2012|fla|
+880859986|4267|5901261|1383|nas|was| The Washington Capitals| Nashville Predators ™|01|04|2012|was|
+880903036|4045|3438250|850|cbj|tbl| Columbus Blue Jackets| Tampa Bay Lightning ®|01|04|2012|cbj|
+
+881588624|7530|8283000|1100|car|tbl| Carolina Hurricanes ™| Tampa Bay Lightning ®|07|04|2012|car|
+881579667|4894|3915200|800|bos|mtl| Boston Bruins ®| Montreal Canadiens ™|07|04|2012|bos|
+881580136|5722|8005078|1399|nyi|fla| Florida Panthers| New York Islanders®|07|04|2012|fla|
+881579121|6293|7406861|1177|det|chi| Detroit Red Wings™| Chicago Blackhawks ™|07|04|2012|det|
+881579923|4215|5901000|1400|col|stl| Colorado Avalanche| St. Louis Blues ™|07|04|2012|col|
+881581155|3497|3976089|1137|phx|lak| Phoenix Coyotes ®| Los Angeles Kings ®|07|04|2012|phx|
+881579994|5345|3741500|700|cgy|min| Calgary Flames ®| Minnesota Wild®|07|04|2012|cgy|
+
+881588625|6729|7401900|1100|tbl|car| Carolina Hurricanes ™| Tampa Bay Lightning ®|08|04|2012|car|
+881579668|3701|1683955|455|mtl|bos| Montreal Canadiens ™| Boston Bruins ®|08|04|2012|mtl|
+881580137|4850|7750300|1598|fla|nyi| Florida Panthers| New York Islanders®|08|04|2012|fla|
+881587568|6287|8173100|1300|wpg|was| Winnipeg Jets ★™| The Washington Capitals|08|04|2012|wpg|
+881579118|5588|6934708|1241|chi|det| Detroit Red Wings™| Chicago Blackhawks ™|08|04|2012|det|
+881579924|4781|6693400|1400|stl|col| Colorado Avalanche| St. Louis Blues ™|08|04|2012|col|
+881581156|3923|2549950|650|lak|phx| Los Angeles Kings ®| Phoenix Coyotes ®|08|04|2012|lak|
+881579993|5702|6272200|1100|min|cgy| Minnesota Wild®| Calgary Flames ®|08|04|2012|min|
+
+881597220|7110|7821000|1100|car|fla| Carolina Hurricanes ™| Florida Panthers|14|04|2012|car|
+881596807|6789|8140011|1199|bos|wpg| Winnipeg Jets ★™| Boston Bruins ®|14|04|2012|wpg|
+881596059|5779|7385562|1278|det|min| Detroit Red Wings™| Minnesota Wild®|14|04|2012|det|
+881597257|5317|7443800|1400|col|phx| Colorado Avalanche| Phoenix Coyotes ®|14|04|2012|col|
+
+881597221|4300|6415600|1492|fla|car| Florida Panthers| Carolina Hurricanes ™|15|04|2012|fla|
+881596808|6964|8043420|1155|wpg|bos| Winnipeg Jets ★™| Boston Bruins ®|15|04|2012|wpg|
+881596057|7298|8027800|1100|min|det| Minnesota Wild®| Detroit Red Wings™|15|04|2012|min|
+881597258|5563|7788200|1400|phx|col| Colorado Avalanche| Phoenix Coyotes ®|15|04|2012|col|
+
+881614091|5900|7375000|1250|car|wpg| Winnipeg Jets ★™| Carolina Hurricanes ™|21|04|2012|wpg|
+881614954|4884|6837600|1400|col|min| Colorado Avalanche| Minnesota Wild®|21|04|2012|col|
+
+881614090|6839|7522900|1100|wpg|car| Carolina Hurricanes ™| Winnipeg Jets ★™|22|04|2012|car|
+881614956|6962|7658200|1100|min|col| Minnesota Wild®| solluove ex-colorado®|22|04|2012|min|
+
+881723068|5669|6870828|1212|wpg|min| Winnipeg Jets ★™| Minnesota Wild®|28|04|2012|wpg|
+
+881723073|7490|8239000|1100|min|wpg| Minnesota Wild®| Winnipeg Jets ★™|29|04|2012|min|
+

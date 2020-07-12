@@ -1,0 +1,20 @@
+1||Štefan Pokrošov|8|11|4|15|13||||New Jersey|njd
+2||Tomáš Pavel|8|0|12|12|13||||Anaheim|ana
+3||Arild Lyssand|7|8|3|11|3||||NY Islanders|nyi
+4||Miloš Plesník|8|8|3|11|10||||Washington|was
+5||Nikola Sertić|8|4|7|11|6||||Anaheim|ana
+6||Florián Bakoš|9|6|5|11|10||||Colorado|col
+7||Adrián Baňár|9|6|5|11|12||||Colorado|col
+8||Mourits Aberg|9|5|5|10|13||||Toronto|tor
+9||Timo Ahlapuro|8|7|2|9|8||||Phoenix|phx
+10||Oleg Oboňa|8|6|3|9|10||||Anaheim|ana
+11||Norbert Kuśnierz|8|5|4|9|12||||Anaheim|ana
+12||Belo Fajko|9|2|7|9|7||||Toronto|tor
+13||Petko Paleksić|6|4|4|8|10||||Anaheim|ana
+14||Martin Straka|7|1|7|8|-4||||Edmonton|edm
+15||Michael Eyholzer|8|6|2|8|10||||Anaheim|ana
+16||Augustín Filc|8|4|4|8|10||||New Jersey|njd
+17||Mordechay Rabinovich|8|3|5|8|3||||Phoenix|phx
+18||Aleš Žitný|8|1|7|8|2||||NY Islanders|nyi
+19||Josef Vašíček|9|7|1|8|2||||Edmonton|edm
+20||Radomír Lang|9|6|2|8|13||||Toronto|tor

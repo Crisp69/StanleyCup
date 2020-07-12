@@ -1,0 +1,16 @@
+stanleycup|Stanley Cup Champions|St.Louis Blues|hogy|stl|Awarded to the league champion.
+pres|Presidents' Trophy|Toronto Maple Leafs|MBD|tor|An annual award to the club finishing the regular season with the best overall record.
+wall|Prince of Wales Trophy|New Jersey Devils|Trsto|njd|The club which advances to the Stanley Cup Finals as the winner of the Eastern Conference Championship is presented with the Prince of Wales Trophy.
+cla|Clarence S. Campbell Bowl|St.Louis Blues|hogy|stl|The club which advances to the Stanley Cup Finals as the winner of the Western Conference Championship is presented with the Clarence S. Campbell Bowl.
+jack|Jack Adams Award|Toronto Maple Leafs|MBD|tor|The Jack Adams Award is an annual award presented by the National Hockey League Broadcasters' Association to the NHL coach adjudged to have contributed the most to his team's success.
+conn|Conn Smythe Trophy|St.Louis Blues|Vladimír Paleček|stl|The Conn Smythe Trophy is an award given to the most valuable player for his team in the playoffs.
+hart|Hart Memorial Trophy|Florida Panthers|Oskar Harvaniak|fla|The Hart Memorial Trophy is an award given to the player judged to be the most valuable to his team.
+art|Art Ross Trophy|Toronto Maple Leafs|Štefan Blaška|tor|The Art Ross Trophy is an award given to the player who leads the tournament in scoring points at the end of the regular season, before the beginning of the play-off.
+moris|Maurice 'Rocket' Richard Trophy|St.Louis Blues|Vladimír Paleček|stl|The Maurice Richard Trophy is an award given to the tournament's top goal scorer.
+james|James Norris Memorial Trophy|Toronto Maple Leafs|Edmund Jonáš|tor|The James Norris Memorial Trophy is an award given to the defense player who demonstrates throughout the season the greatest all-round ability in the position.
+vezina|Vezina Trophy|Atlanta Thrashers|Leo Jaakonaho|atl|The Vezina Trophy is an award given to the goalkeeper adjudged to be the best at this position.
+will|William M. Jennings Trophy|Atlanta Thrashers|Leo Jaakonaho|atl|The William M. Jennings Trophy is an annual award given to the goalkeeper(s) having played a minimum of 5 games for the team with the fewest goals scored against it.
+calder|Calder Memorial Trophy|New Jersey Devils|Witalis Ośko|njd|The Calder Memorial Trophy is an annual award given to the player selected as the most proficient in his first year of competition in the National Hockey League.
+lester|Lester B. Pearson Trophy|St.Louis Blues|Vladimír Paleček|stl|Award given to a player based on most 3 Stars selection during the season.
+frank|Frank J. Selke Trophy|New York Rangers|Pavel Dubský|nyr|The Frank J. Selke Trophy is an annual award given to the forward who best excels in the defensive aspects of the game.
+bill|Bill Masterton Memorial Trophy|Tampa Bay Lightning|Richard Štepánek|tbl|The Bill Masterton Memorial Trophy is an annual award given to the National Hockey League player who best exemplifies the qualities of perseverance, sportsmanship, and dedication to hockey.

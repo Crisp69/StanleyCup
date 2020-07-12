@@ -1,0 +1,1 @@
+<? $l_session["admin"] = "admin|YOoaXhd2vI37P1f8iM9jz7V3T9hHJmDi1s8NObE|0|";?>

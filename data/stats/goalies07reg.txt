@@ -1,0 +1,64 @@
+1||Miroslav Klementík|9|180|175|97,22%|6|5,7|Colorado|col
+2||Miljenko Sokač|8|143|139|97,20%|4|5,6|NY Rangers|nyr
+3||Eugen Chytrý|6|77|74|96,10%|4|5,08|Montreal|mtl
+4||Vojtech Pichňa|11|279|267|95,70%|5|6,05|NY Islanders|nyi
+5||Gordie Flatts|11|187|177|94,65%|5|5,30|Nashville|nas
+6||Víťazoslav Lazarák|8|74|70|94,59%|4|4,79|Anaheim|ana
+7||Václav Pelikán|10|289|271|93,77%|2|6,1|Florida|fla
+8||Krešo Pofuk|7|186|174|93,55%|2|5,86|Washington|was
+9||Robert Jacobsen|11|261|244|93,49%|4|5,69|NJ Devils|njd
+10||Alfréd Čvirik|9|201|187|93,03%|3|5,57|St. Louis|stl
+11||Marcus Chettle|10|269|249|92,57%|1|5,83|Vancouver|van
+12||Stian Kroken|8|198|183|92,42%|1|5,65|Edmonton|edm
+13||Richard Štěpánek|7|185|170|91,89%|1|5,74|Tampa Bay|tbl
+14||Zinoviy Kuznetsov|9|187|171|91,44%|3|5,2|LA Kings|lak
+15||Haralds Cimze|7|230|208|90,43%|0|5,99|Buffalo|buf
+16||Alexander Martynyuk|9|226|204|90,27%|1|5,53|Chicago|chi
+17||Heiner Schukart|11|279|251|89,96%|1|5,59|Calgary|cgy
+18||Arnold Kardoš|6|179|161|89,94%|1|5,80|Washington|was
+19||Dominik Hašek|9|219|196|89,50%|1|5,46|Pittsburgh|pit
+20||Hvedar Pivavarau|11|237|212|89,45%|1|5,35|Carolina|car
+21||István Szūcs|7|264|236|89,39%|1|6,21|Boston|bos
+22||Engelbert Mlivic|10|175|156|89,14%|3|5,0|Philadelphia|phi
+23||Matej Hriadel|11|333|296|88,89%|3|5,75|Columbus|cbj
+24||Albrecht Strand|10|247|218|88,26%|1|5,33|Phoenix|phx
+25||Metod Páleník|6|95|83|87,37%|1|4,95|Montreal|mtl
+26||Patrik Petřík|9|132|115|87,12%|0|4,8|Toronto|tor
+27||Milan Kaduc|10|310|270|87,10%|0|5,6|Atlanta|atl
+28||Martin Pastov|9|354|307|86,72%|0|5,96|San Jose|sjs
+29||Chris Kocjan|7|183|157|85,79%|1|5,17|Detroit|det
+30||Manu Malmikoski|11|195|167|85,64%|0|4,81|Minnesota|min
+31||Anton Koch|8|136|116|85,29%|0|4,68|LA Kings|lak
+32||Zdenko Relovský|7|214|180|84,11%|0|5,3|Ottawa|ott
+33||Dávid Rybovič|10|332|278|83,73%|0|5,35|Dallas|dal
+34||Tomáš Kudrna|8|111|92|82,88%|0|4,48|Ottawa|ott
+35||Zoltán Smerčiak|9|62|50|80,65%|1|4,27|Colorado|col
+36||Povl Hensgard|10|208|166|79,81%|2|4,6|Minnesota|min
+ - ||Jonas Ravnsborg|3|52|46|88,46%|0|4,83|NY Rangers|nyr
+ - ||Miljenko Sokač|2|57|49|85,96%|0|5,4|NY Rangers|nyr
+ - ||Eugen Chytrý|2|23|21|91,30%|0|4,7|Montreal|mtl
+ - ||Gordie Flatts|2|40|36|90,00%|0|5,15|Nashville|nas
+ - ||Václav Pelikán|2|31|25|80,65%|0|4,45|Florida|fla
+ - ||Alfréd Čvirik|3|53|51|96,23%|1|5,43|St. Louis|stl
+ - ||Adrián Otras|3|58|58|100,00%|3|5,83|Atlanta|atl
+ - ||Zinoviy Kuznetsov|2|105|79|75,24%|0|4,80|LA Kings|lak
+ - ||Robert Nučič|2|55|46|83,64%|0|5,10|Calgary|cgy
+ - ||Alexander Martynyuk|1|32|31|96,88%|0|6,50|Chicago|chi
+ - ||Štefan Hrnčiar|5|80|66|82,50%|1|4,50|Atlanta|atl
+ - ||Dominik Hašek|4|68|63|92,65%|1|5,28|Pittsburgh|pit
+ - ||Metod Páleník|1|44|38|86,36%|0|6,10|Montreal|mtl
+ - ||Tomáš Vokoun|2|34|28|82,35%|0|4,70|Pittsburgh|pit
+ - ||Patrik Petřík|2|55|47|85,45%|0|5,15|Toronto|tor
+ - ||Milan Kaduc|3|109|94|86,24%|0|5,70|Atlanta|atl
+ - ||Rastislav Šimko|1|26|22|84,62%|0|5,0|Toronto|tor
+ - ||Manu Malmikoski|4|95|83|87,37%|0|5,13|Minnesota|min
+ - ||Anton Koch|1|21|20|95,24%|0|5,60|LA Kings|lak
+ - ||Jozef Jóčik|4|139|122|87,77%|1|5,90|Anaheim|ana
+ - ||Zdenko Relovský|4|83|63|75,90%|0|4,38|Ottawa|ott
+ - ||Tomáš Kudrna|3|34|28|82,35%|1|4,37|Ottawa|ott
+ - ||Eižens Orlovs|4|84|77|91,67%|1|5,43|Philadelphia|phi
+ - ||Ulf Buhofer|4|129|105|81,40%|0|5,08|Chicago|chi
+ - ||Dzidris Liepnieks|1|40|37|92,50%|0|6,6|Buffalo|buf
+ - ||Adam Zelienka|1|3|3|100,00%|1|4,50|LA Kings|lak
+ - ||Zoltán Smerčiak|2|13|9|69,23%|0|4,00|Colorado|col
+ - ||Filip Nagy|2|78|71|91,03%|1|6,5|St. Louis|stl

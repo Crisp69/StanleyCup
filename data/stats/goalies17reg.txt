@@ -1,0 +1,62 @@
+1||Armands Latvānis|12|184|178|96.7%|8|5.4|Ottawa|ott|13245688
+2||David Kozák|13|261|248|95.0%|5|5.7|Florida|fla|11959398
+3||Milan Pešek|8|15|14|93.3%|7|4.2|NY Islanders|nyi|19183649
+4||Patrik Sládečka|13|303|281|92.7%|4|5.7|Boston|bos|12214577
+5||Olafs Bulders|12|284|263|92.6%|4|5.7|Calgary|cgy|7086696
+6||Alexander Kharin|13|232|214|92.2%|4|5.2|Edmonton|edm|5083073
+7||Bohumír Minarovjech|10|200|184|92.0%|1|5.4|Detroit|det|7795798
+8||Denis Chekmarev|12|384|353|91.9%|3|6.1|NY Rangers|nyr|10751634
+9||Eric Jenlain|13|366|335|91.5%|1|5.8|Vancouver|van|14951394
+10||Patrik Kočiš|13|284|257|90.5%|3|5.5|NY Islanders|nyi|15189453
+11||Kieron Price|11|293|264|90.1%|0|5.7|LA Kings|lak|13808984
+12||Nick Seddon|12|270|243|90.0%|3|5.4|St. Louis|stl|8098951
+13||Stipo Pulja|13|411|369|89.8%|1|5.9|Chicago|chi|13069079
+14||Miervaldis Aukliņš|10|325|292|89.8%|1|6.0|Tampa Bay|tbl|13241316
+15||Prokop Kuľha|13|245|220|89.8%|3|5.3|San Jose|sjs|6686142
+16||Tonči Jerković|13|438|392|89.5%|2|5.8|Phoenix|phx|10111281
+17||Zbyšek Šmíd|11|294|263|89.5%|0|5.6|Colorado|col|5086694
+18||Velimir Krušlin|11|248|222|89.5%|2|5.3|Washington|was|6880623
+19||Darwin Stoner|12|237|212|89.5%|1|5.0|Pittsburgh|pit|15799233
+20||Daniel Galajd|12|361|321|88.9%|2|5.7|Montreal|mtl|15148312
+21||Jonatán Pichlač|13|417|366|87.8%|2|5.7|Toronto|tor|16825202
+22||Josef Slabý|13|416|364|87.5%|2|5.6|Columbus|cbj|13376808
+23||Juraj Banka|11|322|281|87.3%|0|5.4|Atlanta|atl|8529199
+24||Marian Figliar|11|283|246|86.9%|1|5.2|Minnesota|min|12652532
+25||Manuel Mankovecký|13|415|360|86.7%|0|5.5|Carolina|car|17155279
+26||Sepp Sluiter|13|177|153|86.4%|2|4.8|Anaheim|ana|17113025
+27||Burkhard Kohler|11|305|262|85.9%|1|5.3|Philadelphia|phi|17107981
+28||Zbyněk Masopust|8|149|128|85.9%|0|4.8|Pittsburgh|pit|13806342
+29||Tomáš Bossi|9|282|239|84.8%|1|5.3|NJ Devils|njd|13608690
+30||Michal Feješ|13|308|252|81.8%|0|4.9|Buffalo|buf|17511670
+31||Atvars Ievzieds|13|249|199|79.9%|0|4.5|NJ Devils|njd|19367814
+32||Milivoje Cvijanović|13|524|418|79.8%|0|5.2|Dallas|dal|16186287
+-||Lauris Dzintariņš|2|6|6|100.0%|2|4.5|Toronto|tor|18297705
+-||Józef Bancerz|1|4|4|100.0%|1|4.6|Ottawa|ott|5082918
+-||Walter Szekielda|2|47|45|95.7%|0|5.8|Philadelphia|phi|7140718
+-||Pablo Elze|5|108|102|94.4%|1|5.6|Nashville|nas|11952350
+-||Einari Kuula|6|101|95|94.1%|2|5.2|Anaheim|ana|13251453
+-||Kaspars Ulberts|1|28|26|92.9%|0|5.9|Montreal|mtl|4749010
+-||Kārlis Rībenis|2|60|55|91.7%|0|6.0|Colorado|col|18548312
+-||Bine Valant|3|44|40|90.9%|1|5.1|Detroit|det|16092879
+-||Gothard Stjern|2|30|27|90.0%|0|5.0|Nashville|nas|7446307
+-||Dušan Vrábel|3|39|35|89.7%|0|4.8|Tampa Bay|tbl|9902855
+-||Juris Isakovs|1|29|26|89.7%|0|5.6|Washington|was|17114792
+-||Fides Antczak|5|104|91|87.5%|1|5.0|Washington|was|14148102
+-||Natalino Antonioli|3|39|34|87.2%|1|4.7|Tampa Bay|tbl|11242311
+-||Tomáš Psota|2|31|27|87.1%|1|4.8|LA Kings|lak|15620217
+-||Dominik Dogáň|4|85|73|85.9%|0|5.0|Atlanta|atl|17413772
+-||Peter Lukáčik|1|35|30|85.7%|0|5.6|St. Louis|stl|14778729
+-||Veli Rasimus|1|33|28|84.8%|0|5.4|Vancouver|van|14297850
+-||Pankrác Kružliak|4|78|66|84.6%|0|4.8|Boston|bos|16439600
+-||Klement Kupka|2|39|33|84.6%|0|4.8|Minnesota|min|19289385
+-||Peter Jesenský|1|26|22|84.6%|0|5.0|Buffalo|buf|15442832
+-||Jozef Marcinek|6|82|69|84.1%|1|4.6|Nashville|nas|9158677
+-||Jaroslav Čerman|2|63|53|84.1%|0|5.3|Columbus|cbj|4317275
+-||Massimo Cristanelli|2|47|39|83.0%|0|4.8|Carolina|car|18237376
+-||Jordán Perina|2|55|46|83.6%|0|5.1|NJ Devils|njd|19618094
+-||Ijsbrand Walraven|1|23|19|82.6%|0|4.9|NY Rangers|nyr|15148932
+-||Christoph Lungrin|5|104|83|79.8%|0|4.5|Pittsburgh|pit|9510385
+-||Sokol Morozov|1|23|18|78.3%|0|4.7|Calgary|cgy|17332338
+-||Alex Záskalický|3|94|69|73.4%|0|4.2|LA Kings|lak|20434531
+-||Peter Kropuch|1|30|21|70.0%|0|4.0|Carolina|car|20413006
+

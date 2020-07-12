@@ -1,0 +1,21 @@
+1||Yuriy Bakhvalov|6|152|143|94.1%|1|5.9|Boston|bos|28500438|360|1.50|
+2||Glenn Clark|6|91|85|93.4%|1|5.0|Calgary|cgy|24711743|289.8|1.24|
+3||Bohumír Dlouhý|1|58|54|93.1%|0|8.0|Ottawa|ott|29241980|60|4.00|
+4||Yaroslav Belyakov|4|145|134|92.4%|1|6.5|Colorado|col|26900028|240|2.75|
+5||Michal Skuban|4|127|117|92.1%|0|6.2|Chicago|chi|29630308|240|2.50|
+6||Jaroslav Korček|2|61|55|90.2%|0|5.8|Toronto|tor|23010996|120|3.00|
+7||Viktar Dzerazhnia|2|58|52|89.7%|0|5.8|Montreal|mtl|22293755|120|3.00|
+8||Adam Miček|8|202|181|89.6%|1|5.6|LA Kings|lak|26049920|480|2.63|
+9||Valio Wendelin|6|113|99|87.6%|0|5.1|NY Rangers|nyr|27529605|360|2.33|
+10||Leopold Hamar|2|30|26|86.7%|0|4.7|Detroit|det|21172534|91.6166666667|2.62|
+11||Miron Surautsau|2|22|19|86.4%|0|4.7|Calgary|cgy|22262697|70.2|2.56|
+12||Gatis Pakalns|2|68|58|85.3%|0|5.6|Tampa Bay|tbl|27990891|84.9166666667|7.07|
+13||Etienne Dugas|2|68|58|85.3%|0|5.5|Dallas|dal|26041188|120|5.00|
+14||Srečko Alagič|3|81|69|85.2%|0|5.2|Ottawa|ott|29035329|180|4.00|
+15||Noel Newsome|2|47|39|83.0%|0|4.9|Edmonton|edm|30118196|61.9|7.75|
+16||Zoltán Gyulai|2|47|38|80.9%|0|4.8|Vancouver|van|26967492|82.75|6.53|
+-||Glenn Gabriel|1|26|24|92.3%|0|5.7|Vancouver|van|20860100|37.25|3.22|
+-||Viktor Harman|1|23|21|91.3%|0|5.5|Tampa Bay|tbl|29519710|35.0833333333|3.42|
+-||Ēriks Rozītis|2|46|35|76.1%|0|4.3|Edmonton|edm|30638404|58.1|11.36|
+-||Leevi Ahola|1|7|2|28.6%|0|3.0|Detroit|det|32699532|28.3833333333|10.57|
+

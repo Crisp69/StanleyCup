@@ -1,0 +1,26 @@
+1|Ctibor Mikuš||3||6|Philadelphia|phi
+2|Mika Karjalainen|1|1||5|NJ Devils|njd
+3|František Ulrich||2||4|Minnesota|min
+4|Bohuš Hriadel|1|||3|Ottawa|ott
+5|Daniels Meistars|1|||3|St. Louis|stl
+6|Dobroslav Komárek|1|||3|Ottawa|ott
+7|Joakim Langli|1|||3|Montreal|mtl
+8|Marek Michlík|1|||3|Minnesota|min
+9|Oskar Harvaniak|1|||3|Florida|fla
+10|Pavol Behinský|1|||3|Edmonton|edm
+11|Timo Dil|1|||3|Philadelphia|phi
+12|Tuomas Mölkänen|1|||3|Detroit|det
+13|Filip Ruman||1||2|Florida|fla
+14|Izsák Pápay||1||2|Ottawa|ott
+15|Leo Jaakonaho||1||2|Atlanta|atl
+16|Lukáš Martínek||1||2|NJ Devils|njd
+17|Anžej Koren|||1|1|Detroit|det
+18|Francisco Giacomini|||1|1|NJ Devils|njd
+19|Gordon Beeney|||1|1|San Jose|sjs
+20|Kevin Wickli|||1|1|Tampa Bay|tbl
+21|Milan Mentel|||1|1|St. Louis|stl
+22|Rareº Vadim|||1|1|Chicago|chi
+23|Roman Kotrla|||1|1|St. Louis|stl
+24|Steffen Diemel|||1|1|Dallas|dal
+25|Yrjo Pöysä|||1|1|Dallas|dal
+26|Zdenko Kompuš|||1|1|Florida|fla

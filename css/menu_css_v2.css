@@ -1,0 +1,100 @@
+table#nav {
+	color: white;
+	       
+	
+}
+table#nav td {
+	border-left: 0px solid black;
+	border-right: 0px solid black;
+    color: white;
+	padding-top: 1px;
+	padding-bottom: 2px;
+	
+}
+table#nav td.first {
+	border: 2px solid #979797;
+	padding: 2px 12px;
+}
+
+#nav td a, #nav td a:link {
+	color: white;
+	display: block;
+	text-decoration: none;
+    padding: 0;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	letter-spacing: 0.1ex;	
+}
+#nav a.active:link, #nav a.active, #nav a.active:hover  {
+	display: block;
+} 
+
+#nav td a:hover, #nav td:hover {
+	color: #C6AD96;
+		
+}
+#nav td.over {
+	color: white;
+}
+
+/* Fix IE. Hide from IE Mac \*/
+* html table#nav td { float: left; height: 1%; }
+* html table#nav td a { height: 1%; }
+* html #nav td ul li { float: left; }
+/* End */
+
+#nav td ul.c0 {
+	display: none;
+	position: absolute;
+	/* Hide from IE Mac \*/
+	/* End */
+	list-style-type: none;
+	margin: 0;
+	padding: 1px 0;
+	width: 150px;
+	list-style-image: none;
+    
+}
+#nav td ul.c0 li.c0 {
+	margin: 0;
+	padding: 0;
+	width: 150px;
+	clear: both;	
+}
+		
+#nav td ul.c0 li.c0 a { 
+	padding: 3px 10px 5px;
+	background: #330000;
+	border: 1px solid #444444;
+	color: white;
+	text-align: left;
+	margin: 0;
+	font-family: "Verdana";
+	font-size: 10px;
+	font-weight: bold;
+	letter-spacing: 0.1ex;	
+} 
+
+
+/* Sub Menu Styles */
+#nav td ul.c0 li.c0 a:hover {
+	color: #C6AD96;
+	font-family: "Verdana";
+	font-size: 10px;
+	font-weight: bold;
+  	text-decoration: underline;
+	border-bottom: 1px solid #C6AD96;
+}
+
+#nav td ul.c0 li.c0 a:active {
+	font-family: "Verdana";
+	font-size: 10px;
+	font-weight: bold;
+	letter-spacing: 0.1ex;		
+}	
+	
+#nav td:hover ul.c0, #nav td.over ul.c0 { display: block; } /* The magic */
+
+
+

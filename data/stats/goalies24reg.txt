@@ -1,0 +1,61 @@
+1||David Kozák|13|223|213|95.5%|5|5.4|Florida|fla|11959398|780|0.77|
+2||Michel Meili|12|235|222|94.5%|5|5.5|Atlanta|atl|17152958|720|1.08|
+3||Tomáš Hlaváč|11|239|221|92.5%|1|5.5|Ottawa|ott|14047582|660|1.64|
+4||Reinis Baltrausis|11|174|161|92.5%|4|5.1|NY Islanders|nyi|20210989|622.316666667|1.25|
+5||Miķelis Kalnišs|13|248|229|92.3%|3|5.4|Colorado|col|10753182|780|1.46|
+6||Bálint Mádl|11|200|183|91.5%|4|5.2|Carolina|car|16669639|660|1.55|
+7||Roger Williams|10|255|233|91.4%|5|5.6|Vancouver|van|21583271|600|2.20|
+8||Mathew Hooper|11|361|328|90.9%|0|6.0|Boston|bos|14890253|631.716666667|3.13|
+9||Eric Jenlain|13|312|283|90.7%|3|5.5|Chicago|chi|14951394|778.85|2.23|
+10||Daniel Galajd|13|287|260|90.6%|5|5.3|Montreal|mtl|15148312|780|2.08|
+11||Manuel Mankovecký|13|266|241|90.6%|4|5.3|Detroit|det|17155279|728.033333334|2.06|
+12||Dominik Dogáň|10|235|211|89.8%|2|5.4|Philadelphia|phi|17413772|546.15|2.64|
+13||Marian Figliar|7|216|194|89.8%|1|5.8|Minnesota|min|12652532|420|3.14|
+14||Jonatán Pichlač|13|350|314|89.7%|2|5.7|Toronto|tor|16825202|766.216666667|2.82|
+15||Patrik Kočiš|12|213|190|89.2%|0|5.0|Nashville|nas|15189453|403.516666666|3.42|
+16||Jauhen Ustinov|13|247|220|89.1%|2|5.1|NJ Devils|njd|10614062|780|2.08|
+17||Sepp Sluiter|13|217|193|88.9%|2|5.0|Anaheim|ana|17113025|780|1.85|
+18||Lukáš Macura|11|209|185|88.5%|4|5.1|St. Louis|stl|13593079|599.933333333|2.40|
+19||Kevin Wickli|13|426|369|86.6%|1|5.7|Tampa Bay|tbl|8647053|631|5.42|
+20||Jocelyn Thibault|13|383|331|86.4%|3|5.5|Pittsburgh|pit|22385348|780|4.00|
+21||Michal Feješ|13|474|409|86.3%|1|5.7|Buffalo|buf|17511670|780|5.00|
+22||Jiří Bartoš|13|444|377|84.9%|0|5.4|Dallas|dal|19503638|753.45|5.34|
+23||Marek Kress|9|444|365|82.2%|0|5.8|Columbus|cbj|22251057|540|8.78|
+24||Lachezar Samardzhiev|13|353|287|81.3%|0|4.8|Washington|was|25879740|636.283333333|6.22|
+25||Adam Miček|13|419|335|80.0%|0|5.0|LA Kings|lak|26049920|718.766666667|7.01|
+26||Čistomil Romanovič|13|280|223|79.6%|0|4.6|Edmonton|edm|20647986|402.150000001|8.50|
+27||Viesturs Zalcmanis|10|321|248|77.3%|0|4.7|NY Rangers|nyr|27544641|453.733333333|9.65|
+-||Yaroslav Belyakov|1|4|4|100.0%|1|4.6|Phoenix|phx|26900028|60|0.00|
+-||Etienne Dugas|2|4|4|100.0%|0|4.3|Dallas|dal|26041188|26.55|0.00|
+-||Lauris Dzintariņš|2|3|3|100.0%|0|4.3|Toronto|tor|18297705|13.7833333333|0.00|
+-||Armands Latvānis|5|86|84|97.7%|2|5.6|Phoenix|phx|13245688|261.7|0.46|
+-||Havel Franěk|6|131|120|91.6%|0|5.4|San Jose|sjs|14808227|275.066666667|2.40|
+-||Ján Džogan|12|198|180|90.9%|0|5.1|Nashville|nas|22670313|376.483333334|2.87|
+-||Valio Wendelin|5|67|60|89.6%|1|4.9|Phoenix|phx|27529605|276.766666667|1.52|
+-||Ģirts Ēriksons|2|55|49|89.1%|0|5.7|Philadelphia|phi|22688014|120|3.00|
+-||Stan Lackovič|11|127|113|89.0%|2|4.8|San Jose|sjs|23457558|384.933333334|2.18|
+-||Gunther Droste|3|81|72|88.9%|1|5.5|Phoenix|phx|10631569|180|3.00|
+-||Leonard Ciprian|7|177|156|88.1%|0|5.4|Calgary|cgy|6605565|311.883333333|4.04|
+-||Aleksandrs Raps|4|106|93|87.7%|0|5.3|St. Louis|stl|12207236|180.066666667|4.33|
+-||Peter Vysocký|3|95|83|87.4%|0|5.6|NY Islanders|nyi|16240308|157.333333333|4.58|
+-||Oleg Pisarčík|2|71|62|87.3%|1|5.8|Vancouver|van|13198093|120|4.50|
+-||Igor Renko|1|15|13|86.7%|0|5.0|Atlanta|atl|17452281|60|2.00|
+-||Fernando Altorfer|8|203|175|86.2%|0|5.3|NY Rangers|nyr|24142568|326.266666667|5.15|
+-||Alex Záskalický|2|47|40|85.1%|0|4.9|LA Kings|lak|20434531|61.2333333333|6.86|
+-||Radomir Pushkov|5|129|109|84.5%|0|5.1|Tampa Bay|tbl|23019418|149|8.05|
+-||Henk Kraan|9|207|174|84.1%|0|5.0|Calgary|cgy|19299198|304.816666666|6.50|
+-||Terry Sellars|12|214|177|82.7%|0|4.7|Edmonton|edm|20616518|348.816666666|6.36|
+-||Gabrijel Pačak|4|56|46|82.1%|1|4.6|Boston|bos|27049909|148.283333333|4.05|
+-||Aivar Meledin|1|22|18|81.8%|0|4.6|Edmonton|edm|10651981|29.0333333333|8.27|
+-||Aladár Joó|2|59|48|81.4%|0|4.9|Washington|was|23754166|70|9.43|
+-||Tadeáš Korunka|5|115|92|80.0%|0|4.6|Calgary|cgy|23795589|163.300000001|8.45|
+-||Jonne Ilola|3|20|16|80.0%|0|4.3|Philadelphia|phi|24995076|105.516666667|2.27|
+-||Remi Bozon|1|5|4|80.0%|0|4.2|Ottawa|ott|25784383|60|1.00|
+-||Branislav Osuský|1|39|31|79.5%|0|5.2|San Jose|sjs|16634839|60|8.00|
+-||Tomass Niekšāns|1|29|23|79.3%|0|4.7|Vancouver|van|24315780|60|6.00|
+-||Vincent Barta|6|176|139|79.0%|0|4.9|Minnesota|min|26682451|360|6.17|
+-||Gosha Vinetzki|2|59|46|78.0%|0|4.6|Washington|was|26887541|73.7166666667|10.58|
+-||Richard Jiránek|2|68|52|76.5%|0|4.7|Carolina|car|25289752|120|8.00|
+-||Onni Hautala|4|183|138|75.4%|0|4.8|Columbus|cbj|27236504|240|11.25|
+-||Harold Behún|2|32|24|75.0%|0|4.2|Detroit|det|27374641|51.9666666666|9.24|
+

@@ -1,0 +1,28 @@
+1||Miljenko SokaË|2|8|8|100,00%|2|4,5|NY Rangers|nyr
+2||Alexander Martynyuk|1|6|6|100,00%|1|4,3|Chicago|chi
+3||Luk·ö »onka|4|114|110|96,49%|2|6,3|Vancouver|van
+4||Jozef LazÌk|1|27|26|96,30%|0|6,3|Philadelphia|phi
+5||Vojtech PichÚa|6|134|129|96,27%|2|5,9|Florida|fla
+6||Oliver Mikula|4|89|83|93,26%|1|5,7|Ottawa|ott
+7||Iæja Orsz·gh|2|70|65|92,86%|0|6,5|San Jose|sjs
+8||VÌùazoslav Lazar·k|6|173|159|91,91%|0|6,0|Anaheim|ana
+9||AlfrÈd »virik|4|110|101|91,82%|0|5,8|St. Louis|stl
+10||Borut HanûiË|1|35|32|91,43%|0|6,3|Detroit|det
+11||Eugen Chytr˝|1|21|19|90,48%|0|5,3|Montreal|mtl
+12||Mareks PÁrkons|4|114|103|90,35%|0|5,8|Chicago|chi
+13||Robert Jacobsen|3|102|92|90,20%|0|6,0|NJ Devils|njd
+14||Miroslav KlementÌk|2|50|45|90,00%|0|5,4|Colorado|col
+15||Hugo Zito|2|64|57|89,06%|0|5,8|Minnesota|min
+16||Jim Fylling|2|63|56|88,89%|0|5,9|Vancouver|van
+17||Anûej Koren|1|35|31|88,57%|0|5,9|Detroit|det
+18||Delfino Tummolo|1|24|21|87,50%|0|5,3|Philadelphia|phi
+19||Eftemie Capraru|2|46|40|86,96%|0|5,2|Toronto|tor
+20||Armands Tuncis|4|37|32|86,49%|0|4,5|Vancouver|van
+21||Hvedar Pivavarau|2|65|56|86,15%|0|5,6|Carolina|car
+22||Denis Chekmarev|4|89|76|85,39%|1|5,1|NY Rangers|nyr
+23||VladimÌr TomaökoviË|2|40|34|85,00%|0|4,9|Ottawa|ott
+24||Miroslav Janota|2|56|46|82,14%|0|5,1|Florida|fla
+25||Jind¯ich Roubal|4|39|32|82,05%|0|4,5|Anaheim|ana
+26||Patrik Pet¯Ìk|2|23|17|73,91%|0|4,0|Toronto|tor
+27||Gregory Tessier|2|28|20|71,43%|0|4,1|Ottawa|ott
+28||Ei˛ens Orlovs|1|13|9|69,23%|0|3,8|Philadelphia|phi

@@ -1,0 +1,60 @@
+1||Robbie Martin|9|220|209|95.0%|0|5.8|Calgary|cgy|13136128|517|1.28|
+2||Sepp Sluiter|13|146|138|94.5%|5|5.0|Anaheim|ana|17113025|629.983333333|0.76|
+3||Bálint Mádl|11|181|170|93.9%|3|5.3|Carolina|car|16669639|649.133333333|1.02|
+4||Andrey Vysotskiy|13|219|205|93.6%|5|5.3|Colorado|col|8048787|780|1.08|
+5||Armands Latvānis|12|375|350|93.3%|1|6.3|Phoenix|phx|13245688|720|2.08|
+6||Daniel Galajd|13|386|357|92.5%|4|5.9|Montreal|mtl|15148312|780|2.23|
+7||Tomáš Hlaváč|12|317|293|92.4%|3|5.8|Tampa Bay|tbl|14047582|720|2.00|
+8||András Gerő|12|310|286|92.3%|3|5.8|Atlanta|atl|13605050|720|2.00|
+9||Constantin Stoicescu|8|126|116|92.1%|4|5.1|Ottawa|ott|12997009|480|1.25|
+10||Manuel Mankovecký|12|308|283|91.9%|4|5.6|Detroit|det|17155279|717|2.09|
+11||David Kozák|13|225|206|91.6%|7|5.1|Florida|fla|11959398|780|1.46|
+12||Jonatán Pichlač|13|344|313|91.0%|1|5.6|Toronto|tor|16825202|753|2.47|
+13||Mathew Hooper|12|379|344|90.8%|0|6.0|Boston|bos|14890253|669.233333333|3.14|
+14||Asztrik Schuszter|13|196|176|89.8%|2|5.0|Edmonton|edm|18220766|527|2.28|
+15||Patrik Kočiš|13|351|313|89.2%|0|5.6|Nashville|nas|15189453|730.066666667|3.12|
+16||Alex Záskalický|13|315|281|89.2%|2|5.4|LA Kings|lak|20434531|780|2.62|
+17||Eric Jenlain|13|256|228|89.1%|1|5.1|Vancouver|van|14951394|780|2.15|
+18||Fides Antczak|13|286|254|88.8%|3|5.4|Washington|was|14148102|690.733333333|2.78|
+19||Michal Feješ|11|332|294|88.6%|1|5.6|Buffalo|buf|17511670|660|3.45|
+20||Marian Figliar|9|314|273|86.9%|1|5.7|Minnesota|min|12652532|540|4.56|
+21||Deny Walter|12|286|248|86.7%|2|5.1|Columbus|cbj|21318002|614|3.71|
+22||Tahir Fulanović|7|180|156|86.7%|1|5.3|NJ Devils|njd|18222856|420|3.43|
+23||Ilya Bryzgalov|13|478|414|86.6%|1|5.8|Pittsburgh|pit|14342010|757|5.07|
+24||Josef Slabý|13|566|488|86.2%|0|6.2|Chicago|chi|13376808|780|6.00|
+25||Zbyněk Masopust|13|270|232|85.9%|0|4.9|NY Islanders|nyi|13806342|456.533333333|4.99|
+26||Jiří Bartoš|13|497|418|84.1%|0|5.6|Dallas|dal|19503638|739|6.41|
+27||Kenny Plesch|11|521|429|82.3%|0|5.7|Philadelphia|phi|19808983|660|8.36|
+28||Fernando Altorfer|11|256|198|77.3%|2|4.4|NY Rangers|nyr|24142568|660|5.27|
+-||Amedeusz Senk|1|23|23|100.0%|1|6.3|Phoenix|phx|21187239|60|0.00|
+-||Kieron Price|1|1|1|100.0%|0|4.0|LA Kings|lak|13808984|1|0.00|
+-||Jauhen Ustinov|6|152|145|95.4%|2|6.0|NJ Devils|njd|10614062|360|1.17|
+-||Aleksandrs Raps|5|74|69|93.2%|2|5.0|St. Louis|stl|12207236|242|1.24|
+-||Algaudas Peckus|2|56|52|92.9%|0|6.1|San Jose|sjs|7140745|120|2.00|
+-||Gordie Grainger|5|149|138|92.6%|0|6.1|San Jose|sjs|7162218|300|2.20|
+-||Dominik Dogáň|1|25|23|92.0%|0|5.7|Atlanta|atl|17413772|60|2.00|
+-||Henning Rekdal|6|154|141|91.6%|1|5.8|St. Louis|stl|13791500|360|2.17|
+-||Dávid Madleniak|9|103|93|90.3%|0|4.7|Edmonton|edm|9807964|262|2.29|
+-||Reinis Baltrausis|6|107|96|89.7%|1|5.1|Calgary|cgy|20210989|264|2.50|
+-||Ivo Šparelić|5|97|87|89.7%|0|5.1|Columbus|cbj|7312529|170|3.53|
+-||Einari Kuula|5|63|56|88.9%|0|4.7|Anaheim|ana|13251453|154.016666667|2.73|
+-||Ján Džogan|13|26|23|88.5%|0|4.2|Nashville|nas|22670313|61.9333333333|2.91|
+-||Peter Jesenský|2|51|45|88.2%|0|5.4|Buffalo|buf|15442832|120|3.00|
+-||Ferdynand Bugliński|3|81|71|87.7%|0|5.4|St. Louis|stl|7912209|179|3.35|
+-||Martin Opatovský|4|30|26|86.7%|0|4.4|Carolina|car|25285283|127|1.89|
+-||Igor Kačenkovič|5|74|64|86.5%|0|4.8|Ottawa|ott|24286036|300|2.00|
+-||Zvonimir Vučković|6|157|135|86.0%|0|5.2|San Jose|sjs|14459604|360|3.67|
+-||Lauris Dzintariņš|3|14|12|85.7%|0|4.3|Toronto|tor|18297705|30|4.00|
+-||Juraj Kuľhavý|2|57|48|84.2%|0|5.0|NY Rangers|nyr|20413122|120|4.50|
+-||Cyriak Bielasik|2|50|42|84.0%|0|5.0|Washington|was|20105731|90.2666666667|5.32|
+-||Ivan Timkár|2|18|15|83.3%|0|4.3|Detroit|det|24113365|64|2.81|
+-||Dmitriy Lebedev|2|18|15|83.3%|0|4.3|Dallas|dal|21531538|29|6.21|
+-||Sidón Martončík|2|75|62|82.7%|0|5.4|Minnesota|min|21540252|120|6.50|
+-||Milan Topalović|1|27|22|81.5%|0|4.8|Tampa Bay|tbl|21310888|60|5.00|
+-||Fridrich Lackovec|3|81|63|77.8%|0|4.6|Boston|bos|24565354|111.766666667|9.66|
+-||Čistomil Romanovič|13|210|159|75.7%|0|4.2|NY Islanders|nyi|20647986|335.466666667|9.12|
+-||Michal Štvarták|2|100|74|74.0%|0|4.6|Minnesota|min|25328996|120|13.00|
+-||Gustav Dolejší|2|94|66|70.2%|0|3.9|Philadelphia|phi|23008688|120|14.00|
+-||Dominik Hašek|2|18|12|66.7%|0|3.7|Pittsburgh|pit|14879160|25|14.40|
+-||Mathieu Duval|1|12|6|50.0%|0|3.1|Dallas|dal|25310905|15|24.00|
+

@@ -1,0 +1,30 @@
+Stanley Cup Finals|Montreal Canadiens|Colorado Avalanche ®|2747|9441|9|2|2008|mtl|col|4|1|1
+Stanley Cup Finals|Colorado Avalanche ®|Montreal Canadiens|9441|2747|10|2|2008|col|mtl|2|0|1
+Conference Finals|Montreal Canadiens|Philadelphia Flyers ®|2747|17911|2|2|2008|mtl|phi|3|1|1
+Conference Finals|Anaheim Ducks ™|Colorado Avalanche ®|2449|9441|2|2|2008|ana|col|2|6|2
+Conference Finals|Philadelphia Flyers ®|Montreal Canadiens|17911|2747|3|2|2008|phi|mtl|4|5|1
+Conference Finals|Colorado Avalanche ®|Anaheim Ducks ™|9441|2449|3|2|2008|col|ana|8|0|2
+Conference Semifinals|Montreal Canadiens|Toronto Maple Leafs ®|2747|9503|26|1|2008|mtl|tor|5|0|1
+Conference Semifinals|Philadelphia Flyers ®|Carolina Hurricanes ™|17911|12981|26|1|2008|phi|car|4|2|0
+Conference Semifinals|Anaheim Ducks ™|Vancouver Canucks®|2449|5619|26|1|2008|ana|van|3|2|0
+Conference Semifinals|Chicago Blackhawks ®|Colorado Avalanche ®|2295|9441|26|1|2008|chi|col|0|1|2
+Conference Semifinals|Toronto Maple Leafs ®|Montreal Canadiens|9503|2747|27|1|2008|tor|mtl|0|3|1
+Conference Semifinals|Carolina Hurricanes ™|Philadelphia Flyers ®|5619|17911|27|1|2008|van|phi|1|3|0
+Conference Semifinals|Vancouver Canucks®|Anaheim Ducks ™|5619|2449|27|1|2008|van|ana|2|6|0
+Conference Semifinals|Colorado Avalanche ®|Chicago Blackhawks ®|9441|2295|27|1|2008|col|chi|3|1|2
+Conference Quarterfinals|Montreal Canadiens|Florida Panthers ®|2747|16237|19|1|2008|mtl|fla|5|0|1
+Conference Quarterfinals|Philadelphia Flyers ®|New York Islanders|17911|2733|19|1|2008|phi|nyi|3|4|0
+Conference Quarterfinals|Carolina Hurricanes ™|Tampa Bay Lightning®|12981|16293|19|1|2008|car|tbl|3|2|0
+Conference Quarterfinals|Toronto Maple Leafs ®|New Jersey &ETH;evils|9503|12576|19|1|2008|tor|njd|3|2|0
+Conference Quarterfinals|Anaheim Ducks ™|Columbus Blue Jacket ™|2449|5678|19|1|2008|ana|cbj|11|0|0
+Conference Quarterfinals|Minnesota Wild™|Vancouver Canucks®|20031|5619|19|1|2008|min|van|3|5|0
+Conference Quarterfinals|Chicago Blackhawks ®|San Jose Sharks ®|2295|25619|19|1|2008|chi|sjs|1|3|0
+Conference Quarterfinals|Nashville Predators™|Colorado Avalanche ®|30351|9441|19|1|2008|nas|col|3|4|2
+Conference Quarterfinals|Florida Panthers ®|Montreal Canadiens|16237|2747|20|1|2008|fla|mtl|1|4|1
+Conference Quarterfinals|New York Islanders|Philadelphia Flyers ®|2733|17911|20|1|2008|nyi|phi|1|2|0
+Conference Quarterfinals|Tampa Bay Lightning®|Carolina Hurricanes ™|16293|12981|20|1|2008|tbl|car|3|4|0
+Conference Quarterfinals|New Jersey &ETH;evils|Toronto Maple Leafs ®|12576|9503|20|1|2008|njd|tor|1|6|0
+Conference Quarterfinals|Columbus Blue Jacket ™|Anaheim Ducks ™|5678|2449|20|1|2008|cbj|ana|2|9|0
+Conference Quarterfinals|Vancouver Canucks®|Minnesota Wild™|5619|20031|20|1|2008|van|min|9|0|0
+Conference Quarterfinals|San Jose Sharks ®|Chicago Blackhawks ®|25619|2295|20|1|2008|sjs|chi|1|4|0
+Conference Quarterfinals|Colorado Avalanche ®|Nashville Predators™|9441|30351|20|1|2008|col|nas|10|1|2

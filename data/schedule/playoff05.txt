@@ -1,0 +1,30 @@
+Stanley Cup Finals|Colorado Avalanche ®|New York Islanders|9441|2733|14|7|2007|col|nyi|9|4|1
+Stanley Cup Finals|New York Islanders|Colorado Avalanche ®|2733|9441|15|7|2007|nyi|col|4|8|1
+Conference Finals|New York Islanders|Tampa Bay Lightning®|2733|16293|7|7|2007|nyi|tbl|9|0|1
+Conference Finals|Anaheim Ducks ™|Colorado Avalanche ®|2449|9441|7|7|2007|ana|col|5|4|2
+Conference Finals|Tampa Bay Lightning®|New York Islanders|16293|2733|8|7|2007|tbl|nyi|1|8|1
+Conference Finals|Colorado Avalanche ®|Anaheim Ducks ™|9441|2449|8|7|2007|col|ana|6|4|2
+Conference Semifinals|New York Islanders|New Jersey Devils|2733|5|4|7|2007|nyi|njd|8|0|1
+Conference Semifinals|Toronto Maple Leafs ®|Tampa Bay Lightning®|9503|16293|4|7|2007|tor|tbl|4|5|0
+Conference Semifinals|Anaheim Ducks ™|Vancouver Canucks®|2449|5619|4|7|2007|ana|van|8|4|0
+Conference Semifinals|Colorado Avalanche ®|Los Angeles Kings|9441|23979|4|7|2007|col|lak|3|2|2
+Conference Semifinals|New Jersey Devils|New York Islanders|5|2733|5|7|2007|njd|nyi|0|11|1
+Conference Semifinals|Tampa Bay Lightning®|Toronto Maple Leafs ®|16293|9503|5|7|2007|tbl|tor|5|3|0
+Conference Semifinals|Vancouver Canucks®|Anaheim Ducks ™|5619|2449|5|7|2007|van|ana|5|8|0
+Conference Semifinals|Los Angeles Kings|Colorado Avalanche ®|23979|9441|5|7|2007|lak|col|2|4|2
+Conference Quarterfinals|New York Islanders|Pittsburgh Penguins ®|2733|876|23|4|2007|nyi|pit|9|2|1
+Conference Quarterfinals|Toronto Maple Leafs ®|Florida Panthers ®|9503|16237|23|4|2007|tor|fla|10|0|0
+Conference Quarterfinals|Carolina Hurricanes ™|New Jersey Devils|12981|5|24|4|2007|njd|car|0|0|0
+Conference Quarterfinals|Tampa Bay Lightning®|Buffalo Sabres ™|16293|2654|23|4|2007|tbl|buf|8|5|0
+Conference Quarterfinals|Anaheim Ducks ™|Edmonton Oilers @|2449|18843|23|4|2007|ana|edm|12|0|0
+Conference Quarterfinals|Colorado Avalanche ®|San Jose Sharks ®|9441|25619|23|4|2007|col|sjs|5|1|0
+Conference Quarterfinals|Chicago Blackhawks ®|Vancouver Canucks®|2295|5619|23|4|2007|chi|van|1|8|0
+Conference Quarterfinals|Los Angeles Kings|St.Louis Blues™|23979|5650|23|4|2007|lak|stl|2|4|2
+Conference Quarterfinals|Pittsburgh Penguins ®|New York Islanders|876|2733|24|4|2007|pit|nyi|3|11|1
+Conference Quarterfinals|Florida Panthers ®|Toronto Maple Leafs ®|16237|9503|24|4|2007|fla|tor|2|5|0
+Conference Quarterfinals|New Jersey Devils|Carolina Hurricanes ™|5|12981|24|4|2007|njd|car|6|3|0
+Conference Quarterfinals|Buffalo Sabres ™|Tampa Bay Lightning®|2654|16293|24|4|2007|buf|tbl|4|3|0
+Conference Quarterfinals|Edmonton Oilers @|Anaheim Ducks ™|18843|2449|24|4|2007|edm|ana|0|14|0
+Conference Quarterfinals|San Jose Sharks ®|Colorado Avalanche ®|25619|9441|24|4|2007|sjs|col|4|5|0
+Conference Quarterfinals|Vancouver Canucks®|Chicago Blackhawks ®|5619|2295|24|4|2007|van|chi|0|5|0
+Conference Quarterfinals|St.Louis Blues™|Los Angeles Kings|5650|23979|24|4|2007|stl|lak|0|3|2

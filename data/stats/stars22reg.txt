@@ -1,0 +1,45 @@
+1|Richard Groves|1|2|2|9|Colorado|col
+2|Bartoloměj Coufal|2|||6|NY Islanders|nyi
+3|Jan Dobiáš||3||6|Colorado|col
+4|Oskar Záhorec|1|1||5|Florida|fla
+5|Tapani Vallin|1|1||5|NY Islanders|nyi
+6|Roman Haluška||2|1|5|Colorado|col
+7|David Kočí|1||1|4|Ottawa|ott
+8|Iľja Pavlikovský|1||1|4|Carolina|car
+9|Emil Jurak||2||4|Florida|fla
+10|Adolf Lopuchovský|1|||3|Toronto|tor
+11|Balbin Żurek|1|||3|NJ Devils|njd
+12|Bonifác Doležel|1|||3|Toronto|tor
+13|Elo Chovanec|1|||3|Vancouver|van
+14|Gabriel Green|1|||3|Colorado|col
+15|Gonzalo Herriaga|1|||3|NJ Devils|njd
+16|Christoph Ballack|1|||3|Tampa Bay|tbl
+17|Jiří Hašek|1|||3|Vancouver|van
+18|Marek Michlík|1|||3|Phoenix|phx
+19|Martin Chvátal|1|||3|NJ Devils|njd
+20|Roland Werning|1|||3|NJ Devils|njd
+21|Sebastien Zumdick|1|||3|San Jose|sjs
+22|Servác Gregorík|1|||3|Carolina|car
+23|Vasil Schablik|1|||3|Montreal|mtl
+24|Adam Nový||1|1|3|Buffalo|buf
+25|Jan Melichar||1|1|3|Florida|fla
+26|Tomáš Hlaváč|||3|3|Ottawa|ott
+27|Henning Rekdal||1||2|St. Louis|stl
+28|Jan Cibulka||1||2|Tampa Bay|tbl
+29|Keijo Näs||1||2|Anaheim|ana
+30|Kevin Wickli||1||2|Tampa Bay|tbl
+31|Ladislav Císař||1||2|Boston|bos
+32|Martin Urda||1||2|Minnesota|min
+33|Miodrag Vukotić||1||2|Carolina|car
+34|Oldrich Blaškovič||1||2|San Jose|sjs
+35|Boris Koudela|||1|1|Buffalo|buf
+36|Daniel Galajd|||1|1|Montreal|mtl
+37|Gašper Sodja|||1|1|Ottawa|ott
+38|Ilya Bryzgalov|||1|1|Pittsburgh|pit
+39|Kieron Price|||1|1|LA Kings|lak
+40|Marcel Konečný|||1|1|Tampa Bay|tbl
+41|Martin Nováček|||1|1|Colorado|col
+42|Mathew Hooper|||1|1|Boston|bos
+43|Mikita Rat'kovich|||1|1|NJ Devils|njd
+44|Nasko Agov|||1|1|NY Islanders|nyi
+45|Patrik Kočiš|||1|1|Nashville|nas

@@ -1,0 +1,49 @@
+1|Adrián Révay|2|1||8|Carolina|car
+2|Cesare Osti|2|||6|Chicago|chi
+3|Rolando Portocarrero|2|||6|Florida|fla
+4|Joe Demers|1|1||5|NY Islanders|nyi
+5|Mirco Zöllig|1||2|5|Columbus|cbj
+6|Franco Vernetti|1||1|4|Buffalo|buf
+7|Servác Gregorík|1||1|4|Carolina|car
+8|Matti Hynönen||2||4|Anaheim|ana
+9|Andrej Petr|1|||3|Atlanta|atl
+10|David Kozák|1|||3|Florida|fla
+11|Evsey Rodionov|1|||3|NY Islanders|nyi
+12|Ģirts Zandmans|1|||3|Buffalo|buf
+13|Hakon Iversen|1|||3|San Jose|sjs
+14|Lukáš Mikeš|1|||3|Anaheim|ana
+15|Mário Galgo|1|||3|Florida|fla
+16|Martin Chvátal|1|||3|NJ Devils|njd
+17|Michel Meili|1|||3|Atlanta|atl
+18|Mike Greaves|1|||3|Anaheim|ana
+19|Siarzhuk Platonau|1|||3|Nashville|nas
+20|Peter Solčanský||1|1|3|Atlanta|atl
+21|Robert Schwarz||1|1|3|Colorado|col
+22|William Howe||1|1|3|San Jose|sjs
+23|Adam Nový||1||2|Buffalo|buf
+24|David Pokorný||1||2|Florida|fla
+25|Dragan Simić||1||2|Carolina|car
+26|Gabriel Green||1||2|Colorado|col
+27|Giacomo Marinola||1||2|Atlanta|atl
+28|Gonzalo Herriaga||1||2|NJ Devils|njd
+29|Hans-Erik Nørgaard||1||2|Chicago|chi
+30|Helmut Hein||1||2|Atlanta|atl
+31|Igor Klobučník||1||2|NJ Devils|njd
+32|Marek Májik||1||2|NJ Devils|njd
+33|Marek Řehák||1||2|Anaheim|ana
+34|Matej Pecho||1||2|Colorado|col
+35|Oscar Maudlin||1||2|Colorado|col
+36|Petr Píša||1||2|Edmonton|edm
+37|Jaroslav Bernard|||2|2|NY Islanders|nyi
+38|Daniel Galajd|||1|1|Montreal|mtl
+39|Fernando Altorfer|||1|1|NY Rangers|nyr
+40|Jakub Čermák|||1|1|Florida|fla
+41|Marcel Blažek|||1|1|Florida|fla
+42|Mikita Rat'kovich|||1|1|NJ Devils|njd
+43|Petr Klouda|||1|1|Buffalo|buf
+44|Potap Borisov|||1|1|Colorado|col
+45|Rauli Salmio|||1|1|Atlanta|atl
+46|Richard Groves|||1|1|Colorado|col
+47|Samuli Rautio|||1|1|Montreal|mtl
+48|Víťazoslav Gažo|||1|1|San Jose|sjs
+49|Vladimir Konstantinov|||1|1|Pittsburgh|pit

@@ -1,0 +1,10 @@
+1||Valentin Stančić|10|11|3|14|10||||Washington|was
+2||Oleg Oboňa|10|9|7|16|15||||Anaheim|ana
+3||Jaakko Asikainen|7|8|0|8|10||||Colorado|col
+4||Damian Zapata|10|8|0|8|14||||Anaheim|ana
+5||Alojz Štrbák|5|7|3|10|4||||St. Louis|stl
+6||Hugo Šablatúra|10|7|1|8|15||||Anaheim|ana
+7||Radúz Bondra|4|6|1|7|-1||||NY Islanders|nyi
+8||Vladimír Bakula|4|6|0|6|4||||Phoenix|phx
+9||Albert Zikmund|10|6|2|8|3||||Anaheim|ana
+10||Oto Kinček|6|5|0|5|-1||||Phoenix|phx

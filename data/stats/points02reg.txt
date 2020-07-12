@@ -1,0 +1,20 @@
+1||Klaus Eltschinger|9|10|9|19|16||||Anaheim|ana
+2||Dominiek Prins|9|6|13|19|18||||NY Rangers|nyr
+3||Miloš Malina|9|9|8|17|18||||NY Rangers|nyr
+4||Ľudomil Čonko|9|8|7|15|19||||NY Islanders|nyi
+5||Isidor Willimann|9|6|9|15|18||||NY Islanders|nyi
+6||Matej Domian|9|11|3|14|16||||Anaheim|ana
+7||Dušan Martínek|9|6|8|14|18||||NY Rangers|nyr
+8||Olavi Louramo|8|6|7|13|15||||Anaheim|ana
+9||Arild Lyssand|9|11|2|13|16||||NY Islanders|nyi
+10||Damian Zapata|9|9|4|13|17||||Anaheim|ana
+11||Hugo Šablatúra|9|9|4|13|14||||Anaheim|ana
+12||Valto Silvonen|9|4|9|13|16||||NY Rangers|nyr
+13||Oleg Oboňa|9|6|6|12|13||||Anaheim|ana
+14||Radúz Bondra|7|7|4|11|11||||NY Islanders|nyi
+15||Danny Střve|7|7|4|11|10||||Columbus|cbj
+16||Vincent De Wolf|8|5|6|11|8||||Colorado|col
+17||Keijo Sirola|9|7|4|11|17||||NY Islanders|nyi
+18||Albrecht Iven|9|2|9|11|18||||NY Islanders|nyi
+19||Patrick Bergmann|9|1|10|11|17||||NY Islanders|nyi
+20||Ľuboš Malík|6|6|4|10|10||||Tampa Bay|tbl

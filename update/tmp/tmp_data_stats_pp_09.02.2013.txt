@@ -1,0 +1,267 @@
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Valentino Golob4 proti 5
+Ottawa Senators©=GOAL|Anaheim Ducks ®=G_ALLOWED|Protiútoky gól po obstojnej nahrávke - --Jordán Kukurugy - 0:1 !!--(Eliel Reijola)
+Anaheim Ducks ®=PIM|Ottawa Senators©=POWERPLAY|Tréner zredukoval hru na 3 formácie
+Ottawa Senators©=GOAL|Anaheim Ducks ®=G_ALLOWED|Protiútoky --Jordán Kukurugy - 0:2 !!--(Valentino Golob)
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Ladislav Borkovics4 proti 5
+Anaheim Ducks ®=GOAL|Ottawa Senators©=G_ALLOWED|--Aaro Rask - 1:2 !!--PP!!--(Jari Pakkanen, Ľuboš Kilian)
+Ottawa Senators©=GOAL|Anaheim Ducks ®=G_ALLOWED|--Jordán Kukurugy - 1:3 !!--(Valentino Golob)
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Radek Bednařík4 proti 5
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Eliel Reijola3 proti 5
+Ottawa Senators©=GOAL|Anaheim Ducks ®=G_ALLOWED|Protiútoky Dorážka, --Jordán Kukurugy - 1:4 !!--(bez asistencie)
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Ladislav Borkovics4 proti 5
+Anaheim Ducks ®=GOAL|Ottawa Senators©=G_ALLOWED|--Kaarlo Rokkanen - 2:4 !!--PP!! --(Ondřej Jiřík, Jari Pakkanen)
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Jordán Kukurugy4 proti 5
+Anaheim Ducks ®=GOAL|Ottawa Senators©=G_ALLOWED|--Ľuboš Kilian - 3:4 !!--PP!!--(bez asistencie)
+Anaheim Ducks ®=GOAL|Ottawa Senators©=G_ALLOWED|Nahrávky spoza brány gól po geniálnej nahrávke - --Aaro Rask - 4:4 !!--(Ondřej Jiřík)
+Anaheim Ducks ®=GOAL|Ottawa Senators©=G_ALLOWED|Nahrávky spoza brány --Žigmund Hrachovický - 5:4 !!--(bez asistencie)
+Ottawa Senators©=GOAL|Anaheim Ducks ®=G_ALLOWED|Protiútoky --Jakub Štěpán - 5:5 !!--(Radek Bednařík)
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Radek Bednařík4 proti 5
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Valentino Golob4 proti 5
+Ottawa Senators©=GOAL|Anaheim Ducks ®=G_ALLOWED|Protiútoky --Valentino Golob - 5:6 !!--(Eliel Reijola, Jordán Kukurugy)
+Anaheim Ducks ®=PIM|Ottawa Senators©=POWERPLAY|vylúčenie hráča - Aaro Rask4 proti 5
+Ottawa Senators©=PIM|Anaheim Ducks ®=POWERPLAY|vylúčenie hráča - Valentino Golob4 proti 5
+Anaheim Ducks ®=PIM|Ottawa Senators©=POWERPLAY|vylúčenie hráča - Ľuboš Kilian4 proti 4
+Phoenix Coyotes ®=PIM|Toronto Maple Leafs=POWERPLAY|vylúčenie hráča - Bjorn Kroken4 proti 5
+Toronto Maple Leafs=GOAL|Phoenix Coyotes ®=G_ALLOWED|--Boleslav Kroupa - 0:1 !!--(Alexander Hriseňko)
+Toronto Maple Leafs=GOAL|Phoenix Coyotes ®=G_ALLOWED|--Grigoriy Krasnozobov - 0:2 !!--(Boleslav Kroupa)
+Phoenix Coyotes ®=GOAL|Toronto Maple Leafs=G_ALLOWED|Streľba od modrej čiary --Holger Pawlowski - 1:2 !!--(Gogu Păunescu, Martin Marhuľa)
+Toronto Maple Leafs=GOAL|Phoenix Coyotes ®=G_ALLOWED|--Uffe Knudsen - 1:3 !!--(Viktors Pakalniņš)
+Toronto Maple Leafs=PIM|Phoenix Coyotes ®=POWERPLAY|vylúčenie hráča - Grigoriy Krasnozobov4 proti 5
+Phoenix Coyotes ®=GOAL|Toronto Maple Leafs=G_ALLOWED|--Tamás Vámbéry - 2:3 !!--PP!!--(Eerikki Kohtala)
+Phoenix Coyotes ®=PIM|Toronto Maple Leafs=POWERPLAY|vylúčenie hráča - Martin Líbal4 proti 5
+Toronto Maple Leafs=PIM|Phoenix Coyotes ®=POWERPLAY|vylúčenie hráča - René Punt4 proti 5
+Phoenix Coyotes ®=PIM|Toronto Maple Leafs=POWERPLAY|vylúčenie hráča - Bjorn Kroken4 proti 5
+Toronto Maple Leafs=PIM|Phoenix Coyotes ®=POWERPLAY|vylúčenie hráča - Boleslav Kroupa4 proti 5
+Phoenix Coyotes ®=GOAL|Toronto Maple Leafs=G_ALLOWED|Streľba od modrej čiary --Tamás Vámbéry - 3:3 !!--(Gogu Păunescu, Holger Pawlowski)
+Toronto Maple Leafs=GOAL|Phoenix Coyotes ®=G_ALLOWED|--Alexander Hriseňko - 3:4 !!--(Boleslav Kroupa, Bohumír Pavlišák)
+Toronto Maple Leafs=GOAL|Phoenix Coyotes ®=G_ALLOWED|--Boleslav Kroupa - 3:5 !!--(bez asistencie)
+Toronto Maple Leafs=PIM|Phoenix Coyotes ®=POWERPLAY|vylúčenie hráča - Leontiy Dyachkov4 proti 5
+Phoenix Coyotes ®=GOAL|Toronto Maple Leafs=G_ALLOWED|gól po geniálnej nahrávke - --Christophe Schaeren - 4:5 !!--(Eerikki Kohtala, Dobrotín Hrabko)
+Boston Bruins ®=GOAL|Dallas Stars®=G_ALLOWED|gól po geniálnej nahrávke - --Nicu Ţuică - 1:0 !!--(Birk Helleren)
+Boston Bruins ®=PIM|Dallas Stars®=POWERPLAY|vylúčenie hráča - Petr Horníček4 proti 5
+Dallas Stars®=PIM|Boston Bruins ®=POWERPLAY|vylúčenie hráča - Arpád Šmajda4 proti 4
+Boston Bruins ®=PIM|Dallas Stars®=POWERPLAY|vylúčenie hráča - Birk Helleren4 proti 4
+Boston Bruins ®=PIM|Dallas Stars®=POWERPLAY|vylúčenie hráča - Petr Horníček4 proti 5
+Boston Bruins ®=PIM|Dallas Stars®=POWERPLAY|vylúčenie hráča - Shane Hessenthaler4 proti 5
+Dallas Stars®=GOAL|Boston Bruins ®=G_ALLOWED|Nahrávky spoza brány gól po geniálnej nahrávke - --Liavon  Galushka - 1:1 !!--(Dmitriy Palashov, Ján Vrbovič)
+Boston Bruins ®=GOAL|Dallas Stars®=G_ALLOWED|Dorážka, gól po perfektnej nahrávke - --Birk Helleren - 2:1 !!--(Petr Horníček)
+Boston Bruins ®=PIM|Dallas Stars®=POWERPLAY|vylúčenie hráča - Fedot Avdonov4 proti 5
+Dallas Stars®=GOAL|Boston Bruins ®=G_ALLOWED|--Arpád Šmajda - 2:2 !!--PP!!--(Oliver Forsgren)
+Boston Bruins ®=GOAL|Dallas Stars®=G_ALLOWED|Protiútoky --Fedot Avdonov - 3:2 !!--(Edijs Levitāns, Mārtiņš Heinsons)
+Boston Bruins ®=GOAL|Dallas Stars®=G_ALLOWED|gól po geniálnej nahrávke - --Gareth Tiler - 4:2 !!--(Birk Helleren)
+Boston Bruins ®=GOAL|Dallas Stars®=G_ALLOWED|Protiútoky gól po perfektnej nahrávke - --Shane Hessenthaler - 5:2 !!--(Fedot Avdonov)
+Boston Bruins ®=GOAL|Dallas Stars®=G_ALLOWED|--Vladimír Smrček - 6:2 !!--(Mārtiņš Heinsons)
+Montreal Canadiens ™=PIM|Los Angeles Kings ®=POWERPLAY|vylúčenie hráča - Antip Yudin4 proti 5
+Montreal Canadiens ™=PIM|Los Angeles Kings ®=POWERPLAY|vylúčenie hráča - Róbert Halabrín3 proti 5
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|--Radoslav Godor - 1:0 !!--PP!!--(Štefan Horváth)
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|--Albertín Cimbala - 2:0 !!--PP!!--(Radoslav Godor)
+Los Angeles Kings ®=PIM|Montreal Canadiens ™=POWERPLAY|vylúčenie hráča - Imanuel Ďuračka4 proti 5
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|--Zdenko Zeleňák - 3:0 !!--SH!! --(bez asistencie)
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|Protiútoky --Radoslav Godor - 4:0 !!--(bez asistencie)
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|--Radoslav Godor - 5:0 !!--(Zdenko Zeleňák, Albertín Cimbala)
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|Protiútoky --Zdenko Zeleňák - 6:0 !!--(bez asistencie)
+Montreal Canadiens ™=PIM|Los Angeles Kings ®=POWERPLAY|vylúčenie hráča - Víťazoslav Dobranský4 proti 5
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|--Radoslav Godor - 7:0 !!--(bez asistencie)
+Montreal Canadiens ™=PIM|Los Angeles Kings ®=POWERPLAY|vylúčenie hráča - Vasil Schablik4 proti 5
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|--Radoslav Godor - 8:0 !!--PP!!--(Zdenko Zeleňák)
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|Protiútoky Dorážka, gól po geniálnej nahrávke - --Radoslav Godor - 9:0 !!--(Albertín Cimbala, Zdenko Zeleňák)
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|Nahrávky spoza brány Dorážka, --Samuel Orbach - 10:0 !!--(Ulrich Rybár, Štefan Horváth)
+Los Angeles Kings ®=GOAL|Montreal Canadiens ™=G_ALLOWED|Protiútoky --Albertín Cimbala - 11:0 !!--(Radoslav Godor, Zdenko Zeleňák)
+Montreal Canadiens ™=PIM|Los Angeles Kings ®=POWERPLAY|vylúčenie hráča - David Skaggs4 proti 5
+Montreal Canadiens ™=PIM|Los Angeles Kings ®=POWERPLAY|vylúčenie hráča - Matīss Žagars4 proti 5
+Los Angeles Kings ®=PIM|Montreal Canadiens ™=POWERPLAY|vylúčenie hráča - Albertín Cimbala4 proti 4
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|Protiútoky gól po geniálnej nahrávke - --Josef Prchal - 1:0 !!--(Tomáš Varga)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|Checking gól po šikovnej nahrávke - --Matěj Ondráček - 2:0 !!--(Matěj Koukal, David Odehnal)
+Buffalo Sabres=PIM|San Jose Sharks™=POWERPLAY|vylúčenie hráča - Martin Březina4 proti 5
+San Jose Sharks™=GOAL|Buffalo Sabres=G_ALLOWED|--Kvído Sýkora - 2:1 !!--PP!!--(bez asistencie)
+San Jose Sharks™=PIM|Buffalo Sabres=POWERPLAY|vylúčenie hráča - Jesper Viiru4 proti 5
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|--Jan Martínek - 3:1 !!--PP!!--(Martin Březina, Jan Vojáček)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|Protiútoky gól po perfektnej nahrávke - --Alexej Odehnal - 4:1 !!--(Jarosław Osada)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|Checking gól po geniálnej nahrávke - --Matěj Koukal - 5:1 !!--(Klement Coufal, Adam Čihák)
+San Jose Sharks™=PIM|Buffalo Sabres=POWERPLAY|vylúčenie hráča - Vladimír Beneš4 proti 5
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|--Tomáš Varga - 6:1 !!--PP!!--(Jarosław Osada, Alexej Odehnal)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|Checking --Jan Vojáček - 7:1 !!--(bez asistencie)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|--Jan Martínek - 8:1 !!--(Jakub Cimrman)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|--Matěj Ondráček - 9:1 !!--(Adam Čihák, David Odehnal)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|gól po geniálnej nahrávke - --Jan Martínek - 10:1 !!--(Radim Žoldák, Jan Vojáček)
+San Jose Sharks™=GOAL|Buffalo Sabres=G_ALLOWED|Nahrávky spoza brány Dorážka, --Kvído Sýkora - 10:2 !!--(Víctor Escuza, Julien-Leonard Strotkötter)
+San Jose Sharks™=PIM|Buffalo Sabres=POWERPLAY|vylúčenie hráča - Gai Shapiro4 proti 5
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|--Tomáš Varga - 11:2 !!--(Alexej Odehnal)
+Buffalo Sabres=GOAL|San Jose Sharks™=G_ALLOWED|Checking --Radim Žoldák - 12:2 !!--(Jan Martínek)
+San Jose Sharks™=PIM|Buffalo Sabres=POWERPLAY|vylúčenie hráča - Volodyslav Merzlikin4 proti 5
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Erik Karlsson4 proti 5
+Washington Capitals®=GOAL|Pittsburgh Penguins=G_ALLOWED|--Norman Kaščák - 1:0 !!--PP!!--(Mikael Mäyrä)
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Filip Kuba4 proti 5
+Washington Capitals®=PIM|Pittsburgh Penguins=POWERPLAY|vylúčenie hráča - Francisco Jurado4 proti 5
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Pascal Dupuis4 proti 4
+Washington Capitals®=GOAL|Pittsburgh Penguins=G_ALLOWED|Nahrávky spoza brány gól po geniálnej nahrávke - --Lukáš Pech - 2:0 !!--(Bahit Alimbekov)
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Pascal Dupuis4 proti 5
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Igor Larionov3 proti 5
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|Tréner zredukoval hru na 3 formácie
+Washington Capitals®=PIM|Pittsburgh Penguins=POWERPLAY|vylúčenie hráča - Saamuel Tammist4 proti 5
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Filip Kuba4 proti 5
+Washington Capitals®=PIM|Pittsburgh Penguins=POWERPLAY|vylúčenie hráča - Bahit Alimbekov4 proti 4
+Washington Capitals®=GOAL|Pittsburgh Penguins=G_ALLOWED|--Mikael Mäyrä - 3:0 !!--SH!! --(Lukáš Pech, Osmo Sund)
+Washington Capitals®=PIM|Pittsburgh Penguins=POWERPLAY|vylúčenie hráča - Ľuboš Fial3 proti 5
+Pittsburgh Penguins=GOAL|Washington Capitals®=G_ALLOWED|--Jiří Hrdina - 3:1 !!--PP!! --(Pascal Dupuis, Filip Kuba)
+Washington Capitals®=PIM|Pittsburgh Penguins=POWERPLAY|vylúčenie hráča - Osmo Sund4 proti 5
+Washington Capitals®=GOAL|Pittsburgh Penguins=G_ALLOWED|gól po výbornej nahrávke - --Hugo Ovseník - 4:1 !!--(Francisco Jurado, Mathieu Laporte)
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Igor Larionov4 proti 5
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Vladimir Konstantinov4 proti 5
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Petr Svoboda3 proti 5
+Washington Capitals®=GOAL|Pittsburgh Penguins=G_ALLOWED|--Norman Kaščák - 5:1 !!--PP!! --(Pāvels Puškaitis)
+Pittsburgh Penguins=PIM|Washington Capitals®=POWERPLAY|vylúčenie hráča - Igor Larionov4 proti 5
+New York Islanders™=GOAL|Tampa Bay Lightning ®=G_ALLOWED|--Maurícius Kachman - 0:1 !!--(Ivo Župarić, Andreas Syrstad)
+New York Islanders™=GOAL|Tampa Bay Lightning ®=G_ALLOWED|Krátke prihrávky gól po perfektnej nahrávke - --Ivo Župarić - 0:2 !!--(Dobromír Lipiansky)
+Tampa Bay Lightning ®=PIM|New York Islanders™=POWERPLAY|vylúčenie hráča - Vladimír Andrle4 proti 5
+Tampa Bay Lightning ®=GOAL|New York Islanders™=G_ALLOWED|Dorážka, gól po geniálnej nahrávke - --Vadim Goncharov - 1:2 !!--(Bystrík Bačinský)
+Tampa Bay Lightning ®=PIM|New York Islanders™=POWERPLAY|vylúčenie hráča - Lukáš Uhlíř4 proti 5
+New York Islanders™=GOAL|Tampa Bay Lightning ®=G_ALLOWED|--Dobromír Lipiansky - 1:3 !!--PP!!--(Ivo Župarić, Demian Baláži)
+New York Islanders™=PIM|Tampa Bay Lightning ®=POWERPLAY|vylúčenie hráča - Johann Ciesla4 proti 5
+New York Islanders™=GOAL|Tampa Bay Lightning ®=G_ALLOWED|gól po výbornej nahrávke - --Maurícius Kachman - 1:4 !!--(Andreas Syrstad)
+Tampa Bay Lightning ®=PIM|New York Islanders™=POWERPLAY|vylúčenie hráča - Marcello Städler4 proti 5
+New York Islanders™=PIM|Tampa Bay Lightning ®=POWERPLAY|vylúčenie hráča - Márius Michaeli4 proti 5
+Tampa Bay Lightning ®=GOAL|New York Islanders™=G_ALLOWED|--Bystrík Bačinský - 2:4 !!--PP!!--(bez asistencie)
+New York Islanders™=PIM|Tampa Bay Lightning ®=POWERPLAY|vylúčenie hráča - Jan Prchal4 proti 5
+New York Islanders™=PIM|Tampa Bay Lightning ®=POWERPLAY|vylúčenie hráča - Johann Ciesla3 proti 5
+New York Islanders™=PIM|Tampa Bay Lightning ®=POWERPLAY|vylúčenie hráča - Maurícius Kachman4 proti 5
+Tampa Bay Lightning ®=GOAL|New York Islanders™=G_ALLOWED|--Dominik Drobek - 3:4 !!--(Zalán Pápay)
+New York Islanders™=PIM|Tampa Bay Lightning ®=POWERPLAY|vylúčenie hráča - Dobromír Lipiansky4 proti 5
+New York Islanders™=PIM|Tampa Bay Lightning ®=POWERPLAY|vylúčenie hráča - Ivo Župarić3 proti 5
+Carolina Hurricanes=PIM|New York Rangers ™=POWERPLAY|vylúčenie hráča - Odell Dukes4 proti 5
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|Nahrávky spoza brány --Odell Dukes - 0:1 !!--(bez asistencie)
+Carolina Hurricanes=PIM|New York Rangers ™=POWERPLAY|vylúčenie hráča - Jere Junell4 proti 5
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|--Olívius Bobko - 0:2 !!--SH!!--(bez asistencie)
+New York Rangers ™=PIM|Carolina Hurricanes=POWERPLAY|vylúčenie hráča - Jáchym Kallok4 proti 5
+New York Rangers ™=PIM|Carolina Hurricanes=POWERPLAY|vylúčenie hráča - Šimon Kříž3 proti 5
+New York Rangers ™=PIM|Carolina Hurricanes=POWERPLAY|vylúčenie hráča - Tomáš Zavad4 proti 5
+New York Rangers ™=PIM|Carolina Hurricanes=POWERPLAY|vylúčenie hráča - Šimon Kříž4 proti 5
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|--Vladimir Urtelj - 0:3 !!--PP!! --(Sofroniusz Skotnicki, Joonas Lohiniva)
+New York Rangers ™=PIM|Carolina Hurricanes=POWERPLAY|vylúčenie hráča - Vladimir Kozhemyakin4 proti 5
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|Protiútoky gól po obstojnej nahrávke - --Vladimir Urtelj - 0:4 !!--(Erik Richard, Joonas Lohiniva)
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|Protiútoky gól po obstojnej nahrávke - --Vladimir Urtelj - 0:5 !!--(Miloslav Kyselica)
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|Dorážka, gól po výbornej nahrávke - --Jere Junell - 0:6 !!--(Stanislav Sičák, Ondřej Tůma)
+New York Rangers ™=PIM|Carolina Hurricanes=POWERPLAY|vylúčenie hráča - Valér Magdalík4 proti 5
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|gól po geniálnej nahrávke - --Olívius Bobko - 0:7 !!--(Laurent Labbe)
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|gól po geniálnej nahrávke - --Jere Junell - 0:8 !!--(Laurent Labbe, Stanislav Sičák)
+Carolina Hurricanes=GOAL|New York Rangers ™=G_ALLOWED|Nahrávky spoza brány Dorážka, gól po perfektnej nahrávke - --Laurent Labbe - 0:9 !!--(Stanislav Sičák)
+Carolina Hurricanes=PIM|New York Rangers ™=POWERPLAY|vylúčenie hráča - Olívius Bobko4 proti 5
+Carolina Hurricanes=PIM|New York Rangers ™=POWERPLAY|vylúčenie hráča - Ondřej Tůma3 proti 5
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|Tréner zredukoval hru na 3 formácie
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Flavián Petrák4 proti 5
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Oļegs Gliks3 proti 5
+Winnipeg Jets™=GOAL|Philadelphia Flyers ®=G_ALLOWED|--Vojko Gominšek - 0:1 !!--(Dale Mcgee)
+Philadelphia Flyers ®=PIM|Winnipeg Jets™=POWERPLAY|vylúčenie hráča - Silvio Ottenburg4 proti 5
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Vojko Gominšek4 proti 5
+Philadelphia Flyers ®=PIM|Winnipeg Jets™=POWERPLAY|vylúčenie hráča - Artur Giatsintov4 proti 5
+Winnipeg Jets™=GOAL|Philadelphia Flyers ®=G_ALLOWED|--Ján Budzák - 0:2 !!--PP!!--(Carl Fortin, Dale Mcgee)
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Darko Jasnič4 proti 5
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Oļegs Gliks3 proti 5
+Winnipeg Jets™=GOAL|Philadelphia Flyers ®=G_ALLOWED|Krátke prihrávky --Dale Mcgee - 0:3 !!--(Carl Fortin, Bruno Hrubý)
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Darko Jasnič4 proti 5
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Vojko Gominšek4 proti 5
+Philadelphia Flyers ®=PIM|Winnipeg Jets™=POWERPLAY|vylúčenie hráča - Artur Giatsintov4 proti 4
+Philadelphia Flyers ®=PIM|Winnipeg Jets™=POWERPLAY|vylúčenie hráča - Silvio Ottenburg4 proti 5
+Winnipeg Jets™=GOAL|Philadelphia Flyers ®=G_ALLOWED|gól po šikovnej nahrávke - --Dale Mcgee - 0:4 !!--(Vojko Gominšek)
+Philadelphia Flyers ®=PIM|Winnipeg Jets™=POWERPLAY|vylúčenie hráča - Kristián Huna4 proti 5
+Winnipeg Jets™=PIM|Philadelphia Flyers ®=POWERPLAY|vylúčenie hráča - Basile Rolland4 proti 5
+Winnipeg Jets™=GOAL|Philadelphia Flyers ®=G_ALLOWED|gól po výbornej nahrávke - --Seppo Suoanttila - 0:5 !!--(Petri Pölkkynen)
+Philadelphia Flyers ®=PIM|Winnipeg Jets™=POWERPLAY|vylúčenie hráča - Silvio Ottenburg4 proti 5
+Florida Panthers®=PIM|New Jersey Devils®=POWERPLAY|vylúčenie hráča - Milan Hanzlík4 proti 5
+New Jersey Devils®=GOAL|Florida Panthers®=G_ALLOWED|--Ivo Pavārds - 0:1 !!--PP!!--(bez asistencie)
+Florida Panthers®=PIM|New Jersey Devils®=POWERPLAY|vylúčenie hráča - Daniel Černík4 proti 5
+New Jersey Devils®=PIM|Florida Panthers®=POWERPLAY|vylúčenie hráča - Alan Lančarič4 proti 5
+Florida Panthers®=PIM|New Jersey Devils®=POWERPLAY|vylúčenie hráča - Matěj Černoch4 proti 5
+New Jersey Devils®=PIM|Florida Panthers®=POWERPLAY|vylúčenie hráča - Richard Bača4 proti 4
+New Jersey Devils®=GOAL|Florida Panthers®=G_ALLOWED|--Ivo Pavārds - 0:2 !!--(bez asistencie)
+Florida Panthers®=PIM|New Jersey Devils®=POWERPLAY|vylúčenie hráča - Jaromír Keblovský4 proti 5
+New Jersey Devils®=GOAL|Florida Panthers®=G_ALLOWED|--Ivo Pavārds - 0:3 !!--PP!! --(Patrik Motyčka)
+Florida Panthers®=PIM|New Jersey Devils®=POWERPLAY|vylúčenie hráča - Matěj Černoch4 proti 5
+New Jersey Devils®=PIM|Florida Panthers®=POWERPLAY|vylúčenie hráča - Gintars Vietlavs4 proti 5
+New Jersey Devils®=PIM|Florida Panthers®=POWERPLAY|vylúčenie hráča - Alan Lančarič4 proti 5
+Florida Panthers®=PIM|New Jersey Devils®=POWERPLAY|vylúčenie hráča - Matěj Kotrba4 proti 5
+New Jersey Devils®=GOAL|Florida Panthers®=G_ALLOWED|Dorážka, gól po geniálnej nahrávke - --Alan Lančarič - 0:4 !!--(Cätälin Ionescu, Petr Stekhin)
+Florida Panthers®=PIM|New Jersey Devils®=POWERPLAY|vylúčenie hráča - Jaromír Keblovský4 proti 5
+Columbus Blue Jackets=GOAL|Vancouver Canucks™=G_ALLOWED|--Valdis Mīlberts - 1:0 !!--(Anselmi Oivamäki, Lukáš Panulin)
+Vancouver Canucks™=PIM|Columbus Blue Jackets=POWERPLAY|vylúčenie hráča - Klement Vlach4 proti 5
+Vancouver Canucks™=GOAL|Columbus Blue Jackets=G_ALLOWED|Dorážka, --Hynek Hanzal - 1:1 !!--SH!!--(Rodrigo Kirilovs, Matej Ajster)
+Vancouver Canucks™=GOAL|Columbus Blue Jackets=G_ALLOWED|Nahrávky spoza brány gól po geniálnej nahrávke - --Gert Markert - 1:2 !!--(Cris Borba, Nicolas Maret)
+Columbus Blue Jackets=PIM|Vancouver Canucks™=POWERPLAY|vylúčenie hráča - Henri Skogström4 proti 5
+Vancouver Canucks™=GOAL|Columbus Blue Jackets=G_ALLOWED|--Matias Savilaakso - 1:3 !!--PP!!--(Nicolas Maret)
+Columbus Blue Jackets=GOAL|Vancouver Canucks™=G_ALLOWED|Nahrávky spoza brány --Lasse Kaseva - 2:3 !!--(Jouko Vaarala, Seppo Niemitalo)
+Columbus Blue Jackets=GOAL|Vancouver Canucks™=G_ALLOWED|--Lasse Kaseva - 3:3 !!--(bez asistencie)
+Columbus Blue Jackets=PIM|Vancouver Canucks™=POWERPLAY|vylúčenie hráča - Aku Turkia4 proti 5
+Columbus Blue Jackets=PIM|Vancouver Canucks™=POWERPLAY|vylúčenie hráča - René Němec4 proti 5
+Vancouver Canucks™=GOAL|Columbus Blue Jackets=G_ALLOWED|--Matej Pavlíčka - 3:4 !!--PP!!--(Dalibor Brna)
+Columbus Blue Jackets=PIM|Vancouver Canucks™=POWERPLAY|vylúčenie hráča - Aarno Nokkila4 proti 5
+Vancouver Canucks™=GOAL|Columbus Blue Jackets=G_ALLOWED|--Nicolas Maret - 3:5 !!--PP!!--(Cris Borba)
+Vancouver Canucks™=GOAL|Columbus Blue Jackets=G_ALLOWED|gól po šikovnej nahrávke - --Andrej Bojsa - 3:6 !!--(Rodrigo Kirilovs, Aleš Mička)
+Columbus Blue Jackets=PIM|Vancouver Canucks™=POWERPLAY|vylúčenie hráča - Lasse Tynkkinen4 proti 5
+Columbus Blue Jackets=PIM|Vancouver Canucks™=POWERPLAY|vylúčenie hráča - René Němec4 proti 5
+Columbus Blue Jackets=PIM|Vancouver Canucks™=POWERPLAY|vylúčenie hráča - Lukáš Panulin3 proti 5
+Columbus Blue Jackets=GOAL|Vancouver Canucks™=G_ALLOWED|Nahrávky spoza brány --Lasse Kaseva - 4:6 !!--(Seppo Niemitalo)
+Colorado  Avalanche=GOAL|Detroid Red Wings™=G_ALLOWED|--Karsten Heinze - 0:1 !!--(Džiugas Valasevičius, Albrecht Willburger)
+Colorado  Avalanche=PIM|Detroid Red Wings™=POWERPLAY|vylúčenie hráča - Ivan Presnyakov4 proti 5
+Colorado  Avalanche=PIM|Detroid Red Wings™=POWERPLAY|vylúčenie hráča - Marek Bednar4 proti 5
+Colorado  Avalanche=GOAL|Detroid Red Wings™=G_ALLOWED|Nahrávky spoza brány --Marek Bednar - 0:2 !!--(Džiugas Valasevičius)
+Colorado  Avalanche=PIM|Detroid Red Wings™=POWERPLAY|vylúčenie hráča - Alex Fečka4 proti 5
+Detroid Red Wings™=GOAL|Colorado  Avalanche=G_ALLOWED|--Lorenzo Droll - 1:2 !!--PP!!--(Marko Närvä)
+Colorado  Avalanche=PIM|Detroid Red Wings™=POWERPLAY|vylúčenie hráča - Jaakko Titoff4 proti 5
+Colorado  Avalanche=GOAL|Detroid Red Wings™=G_ALLOWED|--Miroslav Hudeček - 1:3 !!--(bez asistencie)
+Colorado  Avalanche=PIM|Detroid Red Wings™=POWERPLAY|vylúčenie hráča - Reihnard Hüttner4 proti 5
+Detroid Red Wings™=GOAL|Colorado  Avalanche=G_ALLOWED|--Marko Närvä - 2:3 !!--PP!!--(bez asistencie)
+Colorado  Avalanche=GOAL|Detroid Red Wings™=G_ALLOWED|Streľba od modrej čiary --Reihnard Hüttner - 2:4 !!--(bez asistencie)
+Colorado  Avalanche=GOAL|Detroid Red Wings™=G_ALLOWED|--Lukáš Rada - 2:5 !!--(Alex Fečka)
+Colorado  Avalanche=GOAL|Detroid Red Wings™=G_ALLOWED|Nahrávky spoza brány --Marek Bednar - 2:6 !!--(Vincent Kocian)
+Colorado  Avalanche=PIM|Detroid Red Wings™=POWERPLAY|vylúčenie hráča - Karsten Heinze4 proti 5
+Minnesota Wild®=PIM|St. Louis Blues ™=POWERPLAY|vylúčenie hráča - Kaspars Jods4 proti 5
+St. Louis Blues ™=PIM|Minnesota Wild®=POWERPLAY|vylúčenie hráča - Hermanis Delveris4 proti 4
+Minnesota Wild®=PIM|St. Louis Blues ™=POWERPLAY|vylúčenie hráča - Dean Chapple4 proti 5
+St. Louis Blues ™=GOAL|Minnesota Wild®=G_ALLOWED|Dorážka, gól po perfektnej nahrávke - --Mikael Lähde - 1:0 !!--(Sami Heloma, Tomáš Vávra)
+Minnesota Wild®=PIM|St. Louis Blues ™=POWERPLAY|vylúčenie hráča - Tomáš Vták4 proti 5
+St. Louis Blues ™=PIM|Minnesota Wild®=POWERPLAY|vylúčenie hráča - Gorazd Hutník4 proti 5
+Minnesota Wild®=GOAL|St. Louis Blues ™=G_ALLOWED|--Jazon Kmieć - 1:1 !!--PP!!--(bez asistencie)
+St. Louis Blues ™=PIM|Minnesota Wild®=POWERPLAY|vylúčenie hráča - Mikael Lähde4 proti 5
+St. Louis Blues ™=PIM|Minnesota Wild®=POWERPLAY|vylúčenie hráča - Mikael Lähde4 proti 5
+Minnesota Wild®=GOAL|St. Louis Blues ™=G_ALLOWED|Dorážka, --Ramon Makarewicz - 1:2 !!--PP!!--(Rastislav Lukčo)
+St. Louis Blues ™=GOAL|Minnesota Wild®=G_ALLOWED|--Tomáš Vávra - 2:2 !!--(Mikael Lähde, Eemeli Airikka)
+St. Louis Blues ™=GOAL|Minnesota Wild®=G_ALLOWED|gól po výbornej nahrávke - --Sami Heloma - 3:2 !!--(Mikael Lähde, Mindaugas Tulaba)
+Minnesota Wild®=GOAL|St. Louis Blues ™=G_ALLOWED|gól po geniálnej nahrávke - --Nicola Tafi - 3:3 !!--(Rastislav Lukčo, Adam Bezděk)
+Minnesota Wild®=PIM|St. Louis Blues ™=POWERPLAY|vylúčenie hráča - Nicola Tafi4 proti 5
+St. Louis Blues ™=GOAL|Minnesota Wild®=G_ALLOWED|gól po šikovnej nahrávke - --Tomáš Vávra - 4:3 !!--(Sami Heloma, Eemeli Airikka)
+St. Louis Blues ™=GOAL|Minnesota Wild®=G_ALLOWED|Dorážka, gól po geniálnej nahrávke - --Aurel Monko - 5:3 !!--(Hermanis Delveris)
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|Nahrávky spoza brány Dorážka, --Toms Banovs - 1:0 !!--(bez asistencie)
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|Nahrávky spoza brány gól po šikovnej nahrávke - --Miloš Kuniš - 2:0 !!--(Bolemysł Marciniak, Samuel Dzierżak)
+Calgary Flames ®=PIM|Nashville Predators ™=POWERPLAY|vylúčenie hráča - Marian Vişinescu4 proti 5
+Nashville Predators ™=PIM|Calgary Flames ®=POWERPLAY|Tréner zredukoval hru na 3 formácie
+Nashville Predators ™=PIM|Calgary Flames ®=POWERPLAY|vylúčenie hráča - Ján Kučera4 proti 5
+Nashville Predators ™=GOAL|Calgary Flames ®=G_ALLOWED|Protiútoky gól po geniálnej nahrávke - --Anton Svitek - 2:1 !!--(Marián Papp)
+Calgary Flames ®=PIM|Nashville Predators ™=POWERPLAY|vylúčenie hráča - Miloš Kuniš4 proti 5
+Calgary Flames ®=PIM|Nashville Predators ™=POWERPLAY|vylúčenie hráča - Leo Ocker3 proti 5
+Nashville Predators ™=GOAL|Calgary Flames ®=G_ALLOWED|Protiútoky --Martin Blaho - 2:2 !!--(Vojtech Dranáč)
+Nashville Predators ™=PIM|Calgary Flames ®=POWERPLAY|vylúčenie hráča - Félix Holúbek4 proti 5
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|--Miloš Kuniš - 3:2 !!--PP!!--(Toms Banovs, Bolemysł Marciniak)
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|gól po geniálnej nahrávke - --Michal Hubač - 4:2 !!--(Kajatán Labis)
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|Nahrávky spoza brány gól po geniálnej nahrávke - --Toms Banovs - 5:2 !!--(Miloš Kuniš)
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|Nahrávky spoza brány Dorážka, --Leo Ocker - 6:2 !!--(bez asistencie)
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|Nahrávky spoza brány --Toms Banovs - 7:2 !!--(Miloš Kuniš, Bolemysł Marciniak)
+Nashville Predators ™=PIM|Calgary Flames ®=POWERPLAY|vylúčenie hráča - Vojtech Dranáč4 proti 5
+Calgary Flames ®=GOAL|Nashville Predators ™=G_ALLOWED|--Miloš Kuniš - 8:2 !!--PP!!--(Toms Banovs)
+Nashville Predators ™=PIM|Calgary Flames ®=POWERPLAY|vylúčenie hráča - Martin Blaho4 proti 5
+Nashville Predators ™=GOAL|Calgary Flames ®=G_ALLOWED|Protiútoky --Marián Papp - 8:3 !!--(Abrahám Mojžiš, Matej Bozáň)
+Nashville Predators ™=PIM|Calgary Flames ®=POWERPLAY|vylúčenie hráča - Vojtech Dranáč4 proti 5
+Chicago Blackhawks ™=PIM|Edmonton Oilers ®=POWERPLAY|Tréner zredukoval hru na 3 formácie
+Chicago Blackhawks ™=GOAL|Edmonton Oilers ®=G_ALLOWED|Nahrávky spoza brány gól po šikovnej nahrávke - --Roman Karpeles - 1:0 !!--(Zigmārs Eglītis, Wiesław Sprycha)
+Chicago Blackhawks ™=PIM|Edmonton Oilers ®=POWERPLAY|vylúčenie hráča - Fábius Bartošík4 proti 5
+Edmonton Oilers ®=GOAL|Chicago Blackhawks ™=G_ALLOWED|--Guy Pallister - 1:1 !!--PP!!--(Paul Damage, Loïc Schalch)
+Edmonton Oilers ®=PIM|Chicago Blackhawks ™=POWERPLAY|vylúčenie hráča - Kyle Kaye4 proti 5
+Chicago Blackhawks ™=PIM|Edmonton Oilers ®=POWERPLAY|vylúčenie hráča - Matěj Kuneš4 proti 5
+Edmonton Oilers ®=GOAL|Chicago Blackhawks ™=G_ALLOWED|--Frank Agnew - 1:2 !!--PP!!--(bez asistencie)
+Chicago Blackhawks ™=PIM|Edmonton Oilers ®=POWERPLAY|vylúčenie hráča - Vitolds Puķe4 proti 5
+Edmonton Oilers ®=GOAL|Chicago Blackhawks ™=G_ALLOWED|--Mario Bourque  - 1:3 !!--PP!!--(Jody Sturridge, William Light)
+Chicago Blackhawks ™=GOAL|Edmonton Oilers ®=G_ALLOWED|--Zigmārs Eglītis - 2:3 !!--(bez asistencie)
+Chicago Blackhawks ™=GOAL|Edmonton Oilers ®=G_ALLOWED|Nahrávky spoza brány gól po šikovnej nahrávke - --Zigmārs Eglītis - 3:3 !!--(Roman Karpeles, Wiesław Sprycha)
+Chicago Blackhawks ™=PIM|Edmonton Oilers ®=POWERPLAY|vylúčenie hráča - Uwe Rohrmann4 proti 5
+Chicago Blackhawks ™=GOAL|Edmonton Oilers ®=G_ALLOWED|Nahrávky spoza brány gól po šikovnej nahrávke - --Radoslav Škovira - 4:3 !!--(Wiesław Sprycha, Dionizy Trochonowicz)
+Chicago Blackhawks ™=PIM|Edmonton Oilers ®=POWERPLAY|vylúčenie hráča - Zigmārs Eglītis4 proti 5
+

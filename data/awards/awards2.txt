@@ -1,0 +1,10 @@
+stanleycup|Stanley Cup Champions|Anaheim Ducks|ktulu|ana|Awarded to the league champion.
+pres|Presidents' Trophy|Anaheim Ducks|ktulu|ana|An annual award to the club finishing the regular season with the best overall record.
+wall|Prince of Wales Trophy|New York Islanders|matho|nyi|The club which advances to the Stanley Cup Finals as the winner of the Eastern Conference Championship is presented with the Prince of Wales Trophy.
+cla|Clarence S. Campbell Bowl|Anaheim Ducks|ktulu|ana|The club which advances to the Stanley Cup Finals as the winner of the Western Conference Championship is presented with the Clarence S. Campbell Bowl.
+conn|Conn Smythe Trophy|New York Islanders|Arild Lyssand|nyi|The Conn Smythe Trophy is an award given to the most valuable player for his team in the playoffs.
+hart|Hart Memorial Trophy|Anaheim Ducks|Klaus Eltschinger|ana|The Hart Memorial Trophy is an award given to the player judged to be the most valuable to his team.
+art|Art Ross Trophy|Anaheim Ducks|Klaus Eltschinger|ana|The Art Ross Trophy is an award given to the player who leads the tournament in scoring points at the end of the regular season, before the beginning of the play-off.
+moris|Maurice 'Rocket' Richard Trophy|Anaheim Ducks|Matej Domian|ana|The Maurice Richard Trophy is an award given to the tournament's top goal scorer.
+james|James Norris Memorial Trophy|Anaheim Ducks|Olavi Louramo|ana|The James Norris Memorial Trophy is an award given to the defense player who demonstrates throughout the season the greatest all-round ability in the position.
+vezina|Vezina Trophy|Toronto Maple Leafs ™|Lukáš Červeňák|tor|The Vezina Trophy is an award given to the goalkeeper adjudged to be the best at this position.

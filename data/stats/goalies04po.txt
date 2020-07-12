@@ -1,0 +1,31 @@
+1||Pierre Paris|1|10|10|100,00%|1|4,7|Boston|bos
+2||Lucas Roggenbach|1|5|5|100,00%|1|4,5|Tampa Bay|tbl
+3||Marcus Chettle|5|68|65|95,59%|2|5,2|Vancouver|van
+4||Miroslav Klementík|2|51|48|94,12%|0|6,0|Colorado|col
+5||Alfonz Kopačka|4|137|125|91,24%|0|6,3|NY Rangers|nyr
+6||Vojtech Pichňa|6|161|146|90,68%|0|5,7|NY Islanders|nyi
+7||Bernhard Müller|4|107|97|90,65%|1|5,7|Boston|bos
+8||Jürg Hallauer|2|64|58|90,63%|0|5,9|San Jose|sjs
+9||Heikki Stadius|1|34|30|88,24%|0|5,8|Philadelphia|phi
+10||Vendelín Držík|6|127|112|88,19%|2|5,2|Vancouver|van
+11||Auseklis Upurnieks|1|23|20|86,96%|0|5,0|Philadelphia|phi
+12||Michael Veani|2|61|53|86,89%|0|5,6|Atlanta|atl
+13||Ignác Bossi|3|61|53|86,89%|0|5,0|Detroit|det
+14||Jozef Jóčik|5|98|85|86,73%|0|5,0|Anaheim|ana
+15||Rauno Väätäjä|1|37|32|86,49%|0|5,9|Calgary|cgy
+16||Lukáš Červeňák|2|41|35|85,37%|0|4,9|Toronto|tor
+17||Miroslav Janota|3|34|29|85,29%|1|3,2|NY Islanders|nyi
+18||Jan Matti Koenig|2|58|48|82,76%|0|5,0|Colorado|col
+19||Richard Štěpánek|2|57|47|82,46%|0|5,0|Tampa Bay|tbl
+20||Heikki Somerjoki|2|54|44|81,48%|0|4,8|Chicago|chi
+21||Witomił Łabuć|1|26|21|80,77%|0|4,8|Calgary|cgy
+22||Jonas Sonnleitner|1|34|27|79,41%|0|4,9|Detroit|det
+23||Michal Hamerlík|5|43|34|79,07%|0|4,2|Atlanta|atl
+24||Tin Petrović|2|38|30|78,95%|0|4,6|NY Rangers|nyr
+25||Paul Saubot|5|58|45|77,59%|1|4,3|Atlanta|atl
+26||Anton Stahl|2|62|48|77,42%|0|4,5|Dallas|dal
+27||Dominik Hašek|2|45|34|75,56%|0|4,5|Pittsburgh|pit
+28||Alexander Martynyuk|2|23|17|73,91%|0|4,0|Chicago|chi
+29||Robert Nučič|1|11|8|72,73%|0|4,0|Calgary|cgy
+30||Tomáš Vokoun|1|28|20|71,43%|0|4,1|Pittsburgh|pit
+31||Ronald Aabenraa|2|25|16|64,00%|0|3,7|Anaheim|ana

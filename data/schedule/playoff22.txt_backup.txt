@@ -1,0 +1,35 @@
+Conference Semifinals|Florida Panthers ®|New Jersey Devils®|14852|12576|2|10|2010|fla|njd|?|?|1||1017
+Conference Semifinals|New York Islanders®|Tampa Bay Lightning ®|23488|16293|2|10|2010|nyi|tbl|?|?|0||1018
+Conference Semifinals|St. Louis Blues®|Detroit Red Wings™|16565|19051|2|10|2010|stl|det|?|?|0||1019
+Conference Semifinals|Colorado Avalanche|Columbus Blue Jackets|9441|32234|2|10|2010|col|cbj|?|?|2||1020
+Conference Semifinals|New Jersey Devils®|Florida Panthers ®|12576|14852|3|10|2010|njd|fla|?|?|1||1021
+Conference Semifinals|Tampa Bay Lightning ®|New York Islanders®|16293|23488|3|10|2010|tbl|nyi|?|?|0||1022
+Conference Semifinals|Detroit Red Wings™|St. Louis Blues®|19051|16565|3|10|2010|det|stl|?|?|0||1023
+Conference Semifinals|Columbus Blue Jackets|Colorado Avalanche|32234|9441|3|10|2010|cbj|col|?|?|2||1024
+
+
+
+Conference Quarterfinals|Florida Panthers ®|Montreal Canadiens ™|14852|39418|25|09|2010|fla|mtl|6|0|1|874458620|1001|
+Conference Quarterfinals|New York Islanders®|Carolina Hurricanes ®|23488|29501|25|09|2010|nyi|car|11|0|0|874459839|1002|
+Conference Quarterfinals|***OTTAWA SENATORS***|Tampa Bay Lightning ®|2314|16293|25|09|2010|ott|tbl|2|1|0|874460040|1003|
+Conference Quarterfinals|Buffalo Sabres|New Jersey Devils®|28475|12576|25|09|2010|buf|njd|2|4|0|874457766|1004|
+Conference Quarterfinals|St. Louis Blues®|Nashville Predators ™|16565|19992|25|09|2010|stl|nas|5|1|0|874461021|1005|
+Conference Quarterfinals|Colorado Avalanche|Edmonton Oilers™|9441|25621|25|09|2010|col|edm|2|0|0|874458241|1006|
+Conference Quarterfinals|Anaheim Ducks ®|Detroit Red Wings™|3597|19051|25|09|2010|ana|det|2|0|0|874461043|1007|
+Conference Quarterfinals|Columbus Blue Jackets|Vancouver Canucks ®|32234|29135|25|09|2010|cbj|van|4|1|2|874457569|1008|
+
+Conference Quarterfinals|Montreal Canadiens ™|Florida Panthers ®|39418|14852|26|09|2010|mtl|fla|0|2|1|874458621|1009|
+
+Conference Quarterfinals|Carolina Hurricanes ®|New York Islanders®|29501|23488|26|09|2010|car|nyi|0|1|0|874459840|1010|
+
+Conference Quarterfinals|Tampa Bay Lightning ®|***OTTAWA SENATORS***|16293|2314|26|09|2010|tbl|ott|11|3|0|874460041|1011|
+
+Conference Quarterfinals|New Jersey Devils®|Buffalo Sabres|12576|28475|26|09|2010|njd|buf|4|3|0|874457767|1012|
+
+Conference Quarterfinals|Nashville Predators ™|St. Louis Blues®|19992|16565|26|09|2010|nas|stl|0|3|0|874461022|1013|
+
+Conference Quarterfinals|Edmonton Oilers™|Colorado Avalanche|25621|9441|26|09|2010|edm|col|3|4|0|874456262|1014|
+
+Conference Quarterfinals|Detroit Red Wings™|Anaheim Ducks ®|19051|3597|26|09|2010|det|ana|5|2|0|874461044|1015|
+
+Conference Quarterfinals|Vancouver Canucks ®|Columbus Blue Jackets|29135|32234|26|09|2010|van|cbj|3|2|2|874457570|1016|

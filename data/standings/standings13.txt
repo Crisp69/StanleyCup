@@ -1,0 +1,32 @@
+fla|Florida Panthers|2372|southeast|East|1|1|10|0|1|76 : 15|20|1
+ott|Ottawa Senators ®|2459|northeast|East|2|1|10|0|1|62 : 14|20|1
+nyr|** NY RANGERS **|5712|atlantic|East|3|1|9|0|2|63 : 18|18|1
+njd|New Jersey Devils(Nr)|12576|atlantic|East|4|2|9|0|2|56 : 32|18|1
+mtl|Montreal Canadiens|2747|northeast|East|5|2|8|2|1|65 : 25|18|1
+phi|Philadelphia Flyers|17911|atlantic|East|6|3|6|1|4|38 : 28|13|1
+was|- Washington Capitals -|3597|southeast|East|7|2|6|1|4|38 : 43|13|1
+tor|Toronto Maple Leafs ®|9503|northeast|East|8|3|6|0|5|52 : 26|12|1
+nyi|New York Islanders ®|19992|atlantic|East|9|4|6|0|5|36 : 23|12|0
+tbl|Tampa Bay Lightning ®|16293|southeast|East|10|3|4|2|5|41 : 24|10|0
+car|Carolina Hurricanes ™|12981|southeast|East|11|4|4|2|5|41 : 40|10|0
+buf|Buffalo Sabres|28475|northeast|East|12|4|3|2|6|24 : 46|8|0
+bos|Boston Bruins ®|1220|northeast|East|13|5|2|0|9|21 : 57|4|0
+atl|Atlanta Thrashers ® |30489|southeast|East|14|5|1|1|9|18 : 75|3|0
+pit|Pittsburgh Penguins ®|876|atlantic|East|15|5|0|1|10|10 : 70|1|0
+||||||||||||
+||||||||||||
+col|Colorado Avalanche ®|9441|northwest|West|1|1|10|1|0|49 : 11|21|1
+chi|Chicago Blackhawks™|5650|central|West|2|1|7|3|1|55 : 37|17|1
+sjs|San Jose Shark|6576|pacific|West|3|1|8|0|3|64 : 20|16|1
+stl|St. Louis Blues™|2769|central|West|4|2|7|2|2|69 : 29|16|1
+ana|Anaheim Ducks ™|2449|pacific|West|5|2|6|1|4|38 : 33|13|1
+edm|Edmonton Oilers @|18843|northwest|West|6|2|5|3|3|42 : 24|13|1
+cbj|Columbus Blue Jacket™|5678|central|West|7|3|5|1|5|33 : 33|11|1
+phx|Phoenix Coyotes®|2499|pacific|West|8|3|4|2|5|31 : 41|10|1
+cgy|Calgary Flames®|18866|northwest|West|9|3|4|1|6|33 : 36|9|0
+det|Detroit Red Wings ™|23149|central|West|10|4|3|2|6|38 : 50|8|0
+dal|Dallas Stars™|12548|pacific|West|11|4|2|2|7|18 : 40|6|0
+min|Minnesota Wild™|20031|northwest|West|12|4|2|0|9|18 : 84|4|0
+lak|Los Angeles Kings ®|23979|pacific|West|13|5|1|2|8|35 : 60|4|0
+van|Vancouver Canucks®|26095|northwest|West|14|5|1|0|10|21 : 75|2|0
+nas|Nashville Predators ™|30351|central|West|15|5|0|0|11|13 : 89|0|0

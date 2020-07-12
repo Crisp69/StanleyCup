@@ -1,0 +1,30 @@
+Stanley Cup Finals|Anaheim Ducks ™|Florida Panthers ™|2449|2733|19|4|2008|ana|fla|1|4|1
+Stanley Cup Finals|Florida Panthers ™|Anaheim Ducks ™|2733|2449|20|4|2008|fla|ana|3|2|1
+Conference Finals|Ottawa Senators ®|Florida Panthers ™|2459|2733|12|4|2008|ott|fla|1|8|1
+Conference Finals|Anaheim Ducks ™|VANCOUVER Canucks ©|2449|2372|12|4|2008|ana|van|3|2|2
+Conference Finals|Florida Panthers ™|Ottawa Senators ®|2733|2459|13|4|2008|fla|ott|6|0|1
+Conference Finals|VANCOUVER Canucks ©|Anaheim Ducks ™|2372|2449|13|4|2008|van|ana|3|2|2
+Conference Semifinals|Ottawa Senators ®|New Jersey &ETH;evils|2459|12576|5|4|2008|ott|njd|4|2|1
+Conference Semifinals|** NY RANGERS **|Florida Panthers ™|5712|2733|5|4|2008|nyr|fla|6|3|0
+Conference Semifinals|Anaheim Ducks ™|St.Louis Blues™|2449|5650|5|4|2008|ana|stl|4|3|0
+Conference Semifinals|Chicago Blackhawks ®|VANCOUVER Canucks ©|2295|2372|5|4|2008|chi|van|2|6|2
+Conference Semifinals|New Jersey &ETH;evils|Ottawa Senators ®|12576|2459|6|4|2008|njd|ott|0|3|1
+Conference Semifinals|Florida Panthers ™|** NY RANGERS **|2733|5712|6|4|2008|fla|nyr|5|1|0
+Conference Semifinals|St.Louis Blues™|Anaheim Ducks ™|5650|2449|6|4|2008|stl|ana|2|3|0
+Conference Semifinals|VANCOUVER Canucks ©|Chicago Blackhawks ®|2372|2295|6|4|2008|van|chi|2|6|2
+Conference Quarterfinals|Ottawa Senators ®|Philadelphia Flyers ®|2459|17911|29|3|2008|ott|phi|7|2|1
+Conference Quarterfinals|** NY RANGERS **|Toronto Maple Leafs ®|5712|9503|29|3|2008|nyr|tor|6|5|0
+Conference Quarterfinals|Florida Panthers ™|Carolina Hurricanes ™|2733|12981|29|3|2008|fla|car|1|4|0
+Conference Quarterfinals|New Jersey &ETH;evils|Montreal Canadiens|12576|2747|29|3|2008|njd|mtl|3|0|0
+Conference Quarterfinals|Anaheim Ducks ™|Minnesota Wild™|2449|20031|29|3|2008|ana|min|3|1|0
+Conference Quarterfinals|Colorado Avalanche ®|St.Louis Blues™|9441|5650|29|3|2008|col|stl|1|3|0
+Conference Quarterfinals|Chicago Blackhawks ®|Detroit Red Wings ™|2295|23149|29|3|2008|chi|det|4|2|0
+Conference Quarterfinals|VANCOUVER Canucks ©|San Jose Sharks ®|2372|25619|29|3|2008|van|sjs|4|1|2
+Conference Quarterfinals|Philadelphia Flyers ®|Ottawa Senators ®|17911|2459|30|3|2008|phi|ott|2|1|1
+Conference Quarterfinals|Toronto Maple Leafs ®|** NY RANGERS **|9503|5712|30|3|2008|tor|nyr|0|6|0
+Conference Quarterfinals|Carolina Hurricanes ™|Florida Panthers ™|12981|2733|30|3|2008|car|fla|0|8|0
+Conference Quarterfinals|Montreal Canadiens|New Jersey &ETH;evils|2747|12576|30|3|2008|mtl|njd|3|2|0
+Conference Quarterfinals|Minnesota Wild™|Anaheim Ducks ™|20031|2449|30|3|2008|min|ana|3|4|0
+Conference Quarterfinals|St.Louis Blues™|Colorado Avalanche ®|5650|9441|30|3|2008|stl|col|2|1|0
+Conference Quarterfinals|Detroit Red Wings ™|Chicago Blackhawks ®|23149|2295|30|3|2008|det|chi|1|3|0
+Conference Quarterfinals|San Jose Sharks ®|VANCOUVER Canucks ©|25619|2372|30|3|2008|sjs|van|2|1|2

@@ -1,0 +1,159 @@
+/*BODY*/
+body 		{margin: 0px; padding: 0px; font-family: "Verdana", serif; font-size: 8pt; background-color: #1C1C1C; color: #CDCDCD; overflow: auto; text-align: center; behavior:url('csshover.htc'); background-image: url(../aimg/bcgd_high_main.jpg); Background-position: top right; background-repeat: repeat-x;}
+
+
+/*OBJECTS*/
+#page 		{top: 10px; width: 980px; position: relative; background-color: black; margin-left: auto; margin-right: auto; border: 1px solid #434343; -moz-border-radius-topleft:15px; -webkit-border-radius-topleft:15px; -opera-border-radius-topleft:15px; -khtml-border-radius-topleft:15px; border-radius-topleft:15px; -moz-border-radius-topright:15px; -webkit-border-radius-topright:15px; -opera-border-radius-topright:15px; -khtml-border-radius-topright:15px; border-radius-topright:15px;}
+#bottom 	{width: 980px; bottom: 0px; position: relative; padding: 1px 0px 5px; font-size: 7.5pt; text-align: center; color: gray; border-top: solid #434343 1px; border-bottom: solid #1C1C1C 15px; background-color: #1C1C1C; overflow: hidden;}
+#season		{position: absolute; top: 125px; left: 620px; color: #787878;}
+#hot		{position: absolute; top: 165px; left: 5px; width: 970px; text-align: center;}
+#winner		{position: absolute; top: 135px; left: 835px; color: #787878;}
+#button 	{position: absolute; top: 25px; left: 20px; text-align: left; overflow: hidden;}
+#teamlogo 	{position: absolute; top: 5px; left: 10px; right: 10px;}
+#ha			{position: relative; width: 6px; height: 185px;}
+#main 		{position: relative; top: 20px; padding: 25px 0px 30px; color: #CDCDCD;}
+#menu 		{position: absolute; top: 185px; left: 10px; width: 960px;}
+hr {color: grey; border-bottom: 1px solid #CDCDCD; margin-bottom: 10px; margin-top: 25px; visibility: visible;}
+hr.hrstar {color: grey; border-bottom: 1px solid #787878; margin-bottom: 3px; margin-top: 3px; visibility: visible;}
+.tdmain 	{background-color: #343434; border: #454545 2px solid; padding: 20px; color: #CDCDCD; text-align: left; margin-bottom: 6px; -moz-border-radius:12px; -webkit-border-radius:12px; -opera-border-radius:12px; -khtml-border-radius:12px; border-radius:12px;}
+
+#columnleft 	{background-color: white; background-image: url(../img/sc_rightcolumn.jpg); background-position: bottom right; background-repeat: no-repeat; border: solid 2px silver; padding-bottom: 3px; margin: 0px 6px 6px 0px; -moz-border-radius:10px; -webkit-border-radius:10px; -opera-border-radius:10px; -khtml-border-radius:10px; border-radius:10px; }
+
+#columnright 	{background-color: white; background-image: url(../img/sc_rightcolumn.jpg); background-position: bottom right; background-repeat: no-repeat; border: solid 2px silver; padding-bottom: 3px; margin: 0px 0px 6px 6px; -moz-border-radius:10px; -webkit-border-radius:10px; -opera-border-radius:10px; -khtml-border-radius:10px; border-radius:10px; }
+
+/*BASIC STYLES*/
+div.menuitem 	
+	{font-size: 8pt; height: 20px; font-weight: bold; padding: 5px 0px 4px 0px; color: white; vertical-align: middle; vertical-align: middle; background-image: url(../img/bcgd_menu_1.jpg); Background-position: top right; background-repeat: repeat-x; letter-spacing: 0.1ex; border: 2px solid black; text-shadow:0 2px 3px #111111, 0 3px 4px #FFFF33; -moz-border-radius:11px; -webkit-border-radius:11px; -opera-border-radius:11px; -khtml-border-radius:11px; border-radius:11px;}
+a.menuitem, a.menuitem:visited 	
+	{color: white; text-decoration: none;}
+	
+.text, a.text, a.text:visited, a 
+	{font-size: 8pt; color: #CDCDCD; }
+.textstriked, a.textstriked, a.textstriked:visited 
+	{font-size: 8pt; color: #CDCDCD; text-decoration: line-through;}
+	
+.polltext, a.polltext, a.polltext:visited
+	{font-size: 8pt; color: #232323;} 
+.text1, a.text1, a.text1:visited 
+	{font-size: 8pt; color: #CDCDCD; text-decoration: none;}
+.headline, a.headline, a.headline:visited 
+	{font-size: 11pt; color: white; font-weight: bold; padding-top: 14px; text-decoration: none;}
+.date 
+	{font-size: 7pt; color: black;}
+.maindate 
+	{font-size: 7pt; color: #989898;}
+.whitedate 
+	{font-size: 7pt; color: white;}
+.note, a.note, a.note:visited 
+	{font-size: 7.5pt; color: #989898;}
+.notered, a.notered, a.notered:visited 
+	{font-size: 7.5pt; color: red;}
+.note1, a.note1, a.note1:visited 
+	{font-size: 7.5pt; color: #989898; text-decoration: none;}
+.note2, a.note2, a.note2:visited 
+	{font-size: 7pt; text-decoration: none;}
+.darknote, a.darknote, a.darknote:visited 
+	{font-size: 7.5pt; color: #656565;}
+.tblhd, a.tblhd, a.tblhd:visited 
+	{color: black; font-weight: bold; padding: 3px; font-size: 9pt; text-decoration: none;}
+a.tblhd:hover
+	{text-decoration: underline;}
+.mag, a.mag
+	{color: #343434; font-size: 12pt; font-weight: bold; text-decoration: none;	letter-spacing: 1px; padding-top: 6px; }
+.mag_title, a.mag_title
+	{color: #343434; font-size: 10pt; font-weight: bold; text-decoration: none; padding: 6px 2px 0px;}
+.mag_title_new, a.mag_title_new
+	{color: #DD0000; font-size: 11pt; font-weight: bold; text-decoration: none; padding: 6px 2px 0px;}
+a.mag_title:hover, a.mag_title_new:hover
+	{color: #704830; text-decoration: underline;}
+.hilite, a.hilite 
+	{font-size: 8.5pt; font-weight: bold; padding-top: 3px; padding-bottom: 4px; letter-spacing: 0.1ex; color: #EFEFEF; text-align: center; background-image: url(../img/bcgd1.jpg); Background-position: top right; text-decoration: none;  -moz-border-radius:10px; -webkit-border-radius:10px; -opera-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;}
+.button 
+	{font-size: 8px; font-weight: bold; padding-top: 3px; padding-bottom: 2px; letter-spacing: 0.2ex; color: #EFEFEF; text-align: center; background-image: url(../img/bcgd2.jpg); background-position: center right; text-decoration: none; border: 1px double #C6AD96;  -moz-border-radius:10px; -webkit-border-radius:10px; -opera-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;}
+.list 
+	{background-color: #232323; text-align: left; font-size: 8pt; color: #CDCDCD; padding-left:3px; border: 1px solid #E8CFB8;}
+.listmain 
+	{background-color: #DDDDDD; text-align: left; font-size: 8pt; color: #232323; padding-left:3px; border: 1px solid #565656;}
+.readonly
+	{background-color: #121212; text-align: left; font-size: 8pt; color: #676767; border: 1px solid #676767;}
+.tree 
+	{background-color: #CDCDCD; height:32px; border: 1px solid #232323; padding: 1px 3px; text-align: center; color: #000000; font-weight: bold; font-size: 8pt; background-image: url(../img/bcgd_gold.jpg)}
+.hot, a.hot, a.hot:visited 
+	{color: #DD0000; font-weight: bold; font-size: 12pt; letter-spacing: 0.1ex;}
+a.text1:hover, a.text:hover, a.headline:hover, a.note1:hover, a.note2:hover, .note2:hover, .hilite:hover, a.hilite:hover
+	{text-decoration: underline; color: #C6AD96;}
+.textred {color: red;}
+.textgreen {color:  #00FF00;}
+
+
+/*TABLES*/
+table.poll	 		
+{font-size: 8pt; padding: 3px 3px 0px;}
+
+table.star 			
+{font-size: 8pt; padding: 0px 5px;text-align: left;}
+
+table.awards 		
+{background-color: #121212; font-size: 8pt; border: 2px solid #A48B74; margin-bottom: 5px; -moz-border-radius:15px; -webkit-border-radius:15px; -opera-border-radius:15px; -khtml-border-radius:15px; border-radius:15px;}
+
+table.awards_small 		
+{background-color: #121212; font-size: 8pt; border: 1px solid #A48B74; margin: 0px 2px 5px 2px; -moz-border-radius:5px; -webkit-border-radius:5px; -opera-border-radius:5px; -khtml-border-radius:5px; border-radius:5px;}
+
+th, .trhead, table.sortable th 
+{color: black; background-color: #C6AD96; font-weight: bold; padding: 3px 5px; background-image: url(../img/bcgd_gold.jpg); Background-position: top left; background-repeat: repeat-x; border-bottom: #343434 3px solid;}
+
+a.trhead 
+{text-decoration: none;}
+
+table{color: #CDCDCD;}
+
+table.overview, table.sort-table, table.sortable 
+{border-collapse: collapse; width: 95%; font-size: 8pt;}
+
+table.sort-table td, table.sortable td 
+{padding-right: 5px;}
+
+table.schedule
+{border-collapse: collapse; width: 98%; font-size: 8pt;}
+
+table.overview2  	
+{border-collapse: collapse; border: 0px; width: 98%; font-size: 7pt;}
+
+table.overview tr.odd, table.overview2 tr
+{background-color:#343434;}
+
+table.schedule tr.even, table.overview tr.even, table.overview2 tr.even, table.sort-table tr.even, table.sortable tr.even  
+{background-color:#454545;}
+
+table.schedule tr:hover td, table.overview tr:hover td, table.overview2 tr:hover td, table.overview tr:hover a.text1, table.schedule tr:hover a.text1, table.overview tr:hover a.text, table.sort-table tr:hover, table.sort-table tr.even:hover, table.sortable tr.even:hover, table.sort-table tr:hover a.text1, table.sortable tr:hover td , table.sortable tr:hover a.text1, table.overview2 tr:hover a.note2
+{background-color: #330000; color: #C6AD96;}
+
+tr.sum, tr.sum a.text1, table.overview2 tr.sum 
+{background-color: #330000; font-weight: bold; color: #C6AD96; font-size: 8pt;}
+tr.hilight, tr.hilight a.text1
+{background-color: #000033; color: #C6AD96; font-weight: bold; }
+tr.up td 
+{border-bottom: 1px dashed #999999; padding: 3px 0px;}
+td.sort 
+{font-weight: bold;}
+table.hilitestars {width: 99%;}
+table.hilitestars:hover {background-color: #DDDDFF;}
+
+/*IMG*/
+img.logo 
+	{text-align: center; border: 0px;}
+img.awards
+	{text-align: center; padding: 10px 20px; background-color: white; border: 0px;}
+img.awards_small
+	{text-align: center; padding: 10px; background-color: white; border: 0px;}
+img.imgnews
+	{padding: 17px 10px 1px 0px;}
+img.magazine 
+	{padding: 5px 10px 1px 0px;}
+a img 
+	{border: 0;}
+
+
+/*HIDDEN*/
+.hidden
+	{display: none;}

@@ -1,0 +1,20 @@
+1||Glenn Gabriel|2|72|67|93.1%|0|6.5|Vancouver|van|20860100|120|2.50|
+2||Jaroslav Korček|2|68|63|92.6%|0|6.3|Toronto|tor|23010996|120|2.50|
+3||Viesturs Zalcmanis|1|36|33|91.7%|0|6.3|NY Rangers|nyr|27544641|60|3.00|
+4||Ján Džogan|2|67|61|91.0%|0|6.0|Nashville|nas|22670313|120|3.00|
+5||Adam Miček|4|106|96|90.6%|0|5.7|LA Kings|lak|26049920|240|2.50|
+6||Bazylis Bobel|4|126|114|90.5%|0|5.9|Calgary|cgy|19525403|240|3.00|
+7||Marin Bakalov|6|121|109|90.1%|1|5.3|Carolina|car|19339743|360|2.00|
+8||Valio Wendelin|6|129|115|89.1%|1|5.2|Phoenix|phx|27529605|360|2.33|
+9||Hugo Kukučiak|8|260|230|88.5%|1|5.9|Minnesota|min|21342258|480|3.75|
+10||Milan Biloveský|2|50|44|88.0%|1|5.3|Montreal|mtl|20220217|120|3.00|
+11||Emidio Sabadini|4|149|131|87.9%|0|6.0|Winnipeg|wpg|19302689|240|4.50|
+12||Wilhelm Olofsson|4|122|106|86.9%|0|5.6|Florida|fla|16477287|240|4.00|
+13||Yuriy Bakhvalov|6|166|143|86.1%|1|5.4|Boston|bos|28500438|360|3.83|
+14||Yaroslav Belyakov|2|64|54|84.4%|0|5.3|Colorado|col|26900028|120|5.00|
+15||Dominik Vícha|2|30|25|83.3%|0|4.7|Carolina|car|31365941|120|2.50|
+16||Vincenzo Benini|1|24|20|83.3%|0|4.8|Detroit|det|18159167|60|4.00|
+17||Slavi Rangelov|1|27|22|81.5%|0|4.9|Detroit|det|31655272|60|5.00|
+18||Fernando Altorfer|1|42|34|81.0%|0|5.3|NY Rangers|nyr|24142568|60|8.00|
+19||Alexey Arkhireev|2|70|53|75.7%|0|4.5|NY Islanders|nyi|30275894|120|8.50|
+

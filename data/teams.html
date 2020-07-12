@@ -1,0 +1,192 @@
+<?php
+function parsecomp ($conf) {
+	//$upload_dir = "data/default/";
+	//$n = ".txt";
+	//$f2 = $upload_dir.$conf.$n;
+	echo "<img class=\"logo\" alt=\"conference\" title=\"".$conf."ern conference\" width=\"125px\"src=\"img/".$conf."ern.png\">";
+	/*echo "<div class=\"text\"><br /><a class=\"note\" target=\"_blank\" href=\"http://orico.wz.cz/ha-tools/en?";
+	$teams = File ($f2);
+	if (file_exists($f2)) {
+		for ($i=0;$i<15;$i++) {
+			$tmp = explode("|",$teams[$i]);
+			if (trim($tmp[0]) != "") 
+				{$k = $i+1;
+				echo "t$k=$tmp[1]&";
+				}
+			}
+		}
+	echo "t16=&c=team-comp-2\">".$conf."ern conference teams comparison</a></div>";*/
+}
+?>
+
+
+
+<?php
+
+
+
+
+echo "<center>";
+parsecomp ($conf = "east");
+echo "</center>
+<p>
+
+
+<table align=\"center\" width=\"95%\"><tr><td width=\"33%\">
+<table align=\"left\" width='99%'>
+<tbody><tr><th colspan=\"2\" align='center'>Atlantic Division</th></tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/njd.png' alt='New Jersey Devils' title='New Jersey Devils'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=njd\">New Jersey Devils</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/nyi.png' alt='New York Islanders' title='New York Islanders'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=nyi\">New York Islanders</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/nyr.png' alt='New York Rangers' title='New York Rangers'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=nyr\">New York Rangers</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/phi.png' alt='Philadelphia Flyers' title='Philadelphia Flyers'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=phi\">Philadelphia Flyers</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/pit.png' alt='Pittsburgh Penguins' title='Pittsburgh Penguins'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=pit\">Pittsburgh Penguins</a></td>
+</tr>
+
+</table></td><td width=\"33%\">
+<table align=\"left\" class='overview1' width='99%'>
+<tbody><tr><th colspan=\"2\" align='center'>Northeast Division</th></tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/bos.png' alt='Boston Bruins' title='Boston Bruins'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=bos\">Boston Bruins</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/buf.png' alt='Buffalo Sabres' title='Buffalo Sabres'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=buf\">Buffalo Sabres</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/mtl.png' alt='Montreal Canadiens' title='Montreal Canadiens'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=mtl\">Montreal Canadiens</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/ott.png' alt='Ottawa Senators' title='Ottawa Senators'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=ott\">Ottawa Senators</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/tor.png' alt='Toronto Maple Leafs' title='Toronto Maple Leafs'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=tor\">Toronto Maple Leafs</a></td>
+</tr>
+
+</table></td><td width=\"33%\">
+<table align=\"left\" class='overview1' width='99%'>
+<tbody><tr><th colspan=\"2\" align='center'>Southeast Division</th></tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/car.png' alt='Carolina Hurricanes' title='Carolina Hurricanes'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=car\">Carolina Hurricanes</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/fla.png' alt='Florida Panthers' title='Florida Panthers'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=fla\">Florida Panthers</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/tbl.png' alt='Tampa Bay Lightning' title='Tampa Bay Lightning'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=tbl\">Tampa Bay Lightning</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/was.png' alt='Washington Capitals' title='Washington Capitals'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=was\">Washington Capitals</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/wpg.png' alt='Winnipeg Jets' title='Winnipeg Jets'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=wpg\">Winnipeg Jets</a></td>
+</tr>
+</table></td>
+</tr></table>
+<br /><br />
+<center>";
+parsecomp ($conf = "west");
+echo "</center>
+<p>
+
+
+
+<table align=\"center\" width=\"95%\"><tr><td width=\"33%\">
+<table align=\"left\" width='99%'>
+<tbody><tr><th colspan=\"2\" align='center'>Central Division</th></tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/chi.png' alt='Chicago Blackhawks' title='Chicago Blackhawks'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=chi\">Chicago Blackhawks</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/cbj.png' alt='Columbus Blue Jackets' title='Columbus Blue Jackets'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=cbj\">Columbus Blue Jackets</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/det.png' alt='Detroit Red Wings' title='Detroit Red Wings'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=det\">Detroit Red Wings</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/nas.png' alt='PNashville Predators' title='Nashville Predators'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=nas\">Nashville Predators</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/stl.png' alt='St Louis Blues' title='St Louis Blues'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=stl\">St Louis Blues</a></td>
+</tr>
+
+</table></td><td width=\"33%\">
+<table align=\"left\" class='overview1' width='99%'>
+<tbody><tr><th colspan=\"2\" align='center'>Northwest Division</th></tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/cgy.png' alt='Calgary Flames' title='Calgary Flames'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=cgy\">Calgary Flames</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/col.png' alt='Colorado Avalanche' title='Colorado Avalanche'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=col\">Colorado Avalanche</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/edm.png' alt='Edmonton Oilers' title='Edmonton Oilers'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=edm\">Edmonton Oilers</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/min.png' alt='Minnesota Wild' title='Minnesota Wild'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=min\">Minnesota Wild</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/van.png' alt='Vancouver Canucks' title='Vancouver Canucks'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=van\">Vancouver Canucks</a></td>
+</tr>
+
+</table></td><td width=\"33%\">
+<table align=\"left\" class='overview1' width='99%'>
+<tbody><tr><th colspan=\"2\" align='center'>Pacific Division</th></tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/ana.png' alt='Anaheim Ducks' title='Anaheim Ducks'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=ana\">Anaheim Ducks</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/dal.png' alt='Dallas Stars' title='Dallas Stars'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=dal\">Dallas Stars</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/lak.png' alt='Los Angeles Kings' title='Los Angeles Kings'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=lak\">Los Angeles Kings</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/phx.png' alt='Phoenix Coyotes' title='Phoenix Coyotes'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=phx\">Phoenix Coyotes</a></td>
+</tr>
+<tr>
+<td align=\"center\" width='25%'><img width='33px' src='img/team_logo/small/sjs.png' alt='San Jose Sharks' title='San Jose Sharks'></td>
+<td><a class=\"text\" href=\"sc.php?id=teams.php&team=sjs\">San Jose Sharks</a></td>
+</tr>
+
+</table></td>
+</tr></table><br />
+";
+
+?>

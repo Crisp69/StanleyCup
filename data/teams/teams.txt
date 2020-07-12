@@ -1,0 +1,31 @@
+ana|Anaheim Ducks ®|pacific|3597|lalime|FIN|2x: SC1, SC2|7x: SC2, SC3, SC5, SC6, SC8, SC9, SC25|6x: SC1, SC2, SC3, SC9, SC19, SC20|19x: SC1, SC2, SC3, SC4, SC5, SC6, SC7, SC8, SC9, SC10, SC11, SC12, SC17, SC18, SC21, SC22, SC24, SC25, SC26|1|0|
+bos|Boston Bruins ®|northeast|1220|snipper|SVK|1x:  SC33|1x: SC33|1x: SC33|6x: SC4, SC18, SC19, SC30, SC31, SC33|0|1|
+buf|Buffalo Sabres|northeast|28475|jAc|CZE|-|-|-|1x: SC25|0|1|
+cgy|Calgary Flames ®|northwest|36702|GloboX|SVK|-|-|3x: SC17, SC18, SC32|5x: SC14, SC16, SC18, SC32, SC33|0|0|
+car|Carolina Hurricanes|southeast|1659|speedysportwhiz|USA|1x: SC27|1x: SC28|4x: SC27, SC28, SC29, SC30|9x: SC5, SC6, SC7, SC8, SC21, SC26, SC28, SC29, SC30|0|1|
+chi|Chicago Blackhawks ™|central|18857|furmint|SVK|1x: SC23|-|1x: SC23|8x: SC3, SC5, SC8, SC9, SC12, SC13, SC23|0|0|
+col|Colorado  Avalanche|northwest|18850|stipey|SVK|11x: SC5, SC6, SC10, SC11, SC12, SC21, SC22, SC24, SC26, SC28, SC29|5x: SC11, SC12, SC13, SC21, SC26|14x: SC5, SC6, SC8, SC10, SC11, SC12, SC13, SC21, SC22, SC24, SC25, SC26, SC28, SC29|21x: SC1, SC2, SC3, SC5, SC6, SC7, SC9, SC10, SC11, SC12, SC13, SC21, SC22, SC23, SC24, SC25, SC26, SC27, SC28, SC29, SC30|1|0|
+cbj|Columbus Blue Jackets|central|16632|rau-ben Zee|FIN|-|2x SC19, SC29|-|2x SC19, SC25|0|0|
+dal|Dallas Stars®|pacific|20005|Lada39|SVK|-|-|-|4x: SC15, SC16, SC19, SC20|0|0|
+det|Detroid Red Wings™|central|39762|Hulkster|FIN|-|1x: SC30|2x: SC27, SC30|8x: SC4, SC17, SC21, SC24, SC28, SC30, SC31, SC33|0|0|
+edm|Edmonton Oilers ®|northwest|38448|fkv|CAN|-|1x: SC20|-|3x: SC15, SC17, SC20|0|0|
+fla|Florida Panthers®|southeast|14852|Zoidberg|CZE|4x: SC9, SC13, SC18, SC19|1x: SC23|5x: SC9, SC13, SC18, SC19, SC21|12x: SC2, SC9, SC10, SC11, SC13, SC14, SC15, SC18, SC19, SC22, SC23, SC24|1|1|
+lak|Los Angeles Kings ®|pacific|23979|cPalo|SVK|-|-|1x: SC33|2x: SC32, SC33|0|0|
+min|Minnesota Wild®|northwest|5709|Flaherty|SVK|-|1x: SC31|1x: SC31|2x: SC8, SC31|0|0|
+mtl|Montreal Canadiens ™|northeast|39418|Symbian|SVK|1x: SC8|1x: SC7|2x: SC6, SC8|4x: SC6, SC7, SC8, SC11|1|1|
+nas|Nashville Predators ™|central|19992|Lepke|SVK|-|-|-|2x: SC2, SC7|0|0|
+njd|New Jersey Devils®|atlantic|12576|Trsto|SVK|1x: SC15|-|7x: SC10, SC12, SC14, SC15, SC22, SC23, SC24|6x SC1, SC14, SC20, SC21, SC25, SC26|1|1|
+nyi|New York Islanders™|atlantic|35972|JaRomE121|SVK|2x: SC3, SC4|1x: SC4|4x: SC2, SC3, SC4, SC5|10x: SC2, SC3, SC4, SC5, SC6, SC10, SC22, SC23, SC29, SC30|1|1|
+nyr|New York Rangers ™|atlantic|2787|sllaby|SVK|1x: SC32|1x: SC32|2x: SC7 , SC32|10x: SC7, SC9, SC11, SC12, SC13, SC19, SC28 , SC31,  SC32, SC33|1|1|
+ott|Ottawa Senators©|northeast|29402|delarocha|SVK|3x: SC16, SC17, SC20|3x: SC10, SC16, SC17|4x: SC11, SC16, SC17, SC20|12x: SC9, SC10, SC12, SC13, SC15, SC16, SC17, SC20, SC21, SC22, SC23, SC24|1|1|
+phi|Philadelphia Flyers ®|atlantic|23983|noel|SVK|-|1x: SC15|-|7x: SC8, SC15, SC16, SC17, SC18, SC24, SC27|0|1|
+phx|Phoenix Coyotes ®|pacific|25617|martin polo|SVK|-|-|-|2x: SC30, SC31|0|0|
+pit|Pittsburgh Penguins|atlantic|876|tomson|GBR|-|-|-|-|0|1|
+sjs|San Jose Sharks™|pacific|35895|EARLT|SVK|-|-|-|6x: SC13, SC14, SC23, SC27, SC28, SC29|0|0|
+stl|St. Louis Blues ™|central|23488|lordik13|SVK|1x SC14|2x: SC18, SC22|3x: SC14. SC15, SC16|14x: SC1, SC6, SC10, SC11, SC14, SC15, SC16, SC18, SC20, SC22, SC26, SC27, SC29, SC32|0|0|
+tbl|Tampa Bay Lightning ®|southeast|16293|Poliku|SVK|-|-|-|4x: SC3, SC12, SC16, SC20|0|1|
+tor|Toronto Maple Leafs ™|northeast|19002|bitkari a drtic|SVK|-|2x: SC1, SC14|-|10x: SC1, SC2, SC3, SC5, SC14, SC26, SC27, SC28, SC29, SC32|1|1|
+van|Vancouver Canucks™|northwest|12519|petrik 2.0|SVK|1x SC7|-|2x: SC4, SC7|2x SC4, SC19|1|0|
+was|Washington Capitals®|southeast|29437|petee|SVK|-|-|1x: SC1|2x: SC1, SC32|1|1|
+wpg|Winnipeg Jets™|southeast|30206|KiwipOrn|USA|2x: SC25, SC30|1x: SC27|3x: SC25, SC26, SC31|5x: SC4, SC25, SC27, SC31, SC33|0|1|
+atl|Atlanta Thrashers ™|--|--|--|--|1x: SC25|-|1x: SC25|2x: SC4, SC25|0|1|

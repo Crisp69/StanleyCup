@@ -1,0 +1,29 @@
+Conference Finals|Carolina Hurricanes ®|New Jersey Devils®|29501|12576|18|12|2010|car|njd|3|2|1|875394954|1024|
+
+Conference Finals|San Jose Sharks™|Chicago Blackhawks ®|34835|29135|18|12|2010|sjs|chi|1|2|2|875423305|1025|
+Conference Finals|New Jersey Devils®|Carolina Hurricanes ®|12576|29501|19|12|2010|njd|car|?|?|1||1026|
+Conference Finals|Chicago Blackhawks ®|San Jose Sharks™|29135|34835|19|12|2010|chi|sjs|?|?|2||1027|
+Conference Semifinals|Florida Panthers ®|New Jersey Devils®|14852|12576|11|12|2010|fla|njd|3|4|1|875370711|1017|
+Conference Semifinals|Ottawa Senators ©|Carolina Hurricanes ®|2314|29501|11|12|2010|ott|car|0|5|0|875370342|1018|
+Conference Semifinals|San Jose Sharks™|St. Louis Blues®|34835|16565|11|12|2010|sjs|stl|4|2|0|875375171|1019|
+Conference Semifinals|Colorado Avalanche|Chicago Blackhawks ®|9441|29135|11|12|2010|col|chi|1|2|2|875370508|1020|
+Conference Semifinals|New Jersey Devils®|Florida Panthers ®|12576|14852|12|12|2010|njd|fla|5|4|1|875370712|1021|
+Conference Semifinals|Carolina Hurricanes ®|Ottawa Senators ©|29501|2314|12|12|2010|car|ott|2|3|0|875370343|1022|
+Conference Semifinals|St. Louis Blues®|San Jose Sharks™|16565|34835|12|12|2010|stl|sjs|3|1|0|875375172|1023|
+Conference Semifinals|Chicago Blackhawks ®|Colorado Avalanche|29135|9441|12|12|2010|chi|col|2|3|2|875370509|1024|
+Conference Quarterfinals|Florida Panthers ®|Montreal Canadiens ™|14852|39418|04|12|2010|fla|mtl|7|0|1|875354136|1001|
+Conference Quarterfinals|New York Islanders®|New Jersey Devils®|23488|12576|04|12|2010|nyi|njd|3|5|0|875351955|1002|
+Conference Quarterfinals|Ottawa Senators ©|Tampa Bay Lightning ®|2314|16293|04|12|2010|ott|tbl|11|0|0|875355115|1003|
+Conference Quarterfinals|Carolina Hurricanes ®|Buffalo Sabres|29501|28475|04|12|2010|car|buf|2|0|0|875352747|1004|
+Conference Quarterfinals|San Jose Sharks™|Nashville Predators ™|34835|19992|04|12|2010|sjs|nas|3|4|0|875353348|1005|
+Conference Quarterfinals|Colorado Avalanche|Detroit Red Wings™|9441|19051|04|12|2010|col|det|0|3|0|875351568|1006|
+Conference Quarterfinals|Chicago Blackhawks ®|Edmonton Oilers™|29135|25621|04|12|2010|chi|edm|3|1|0|875354387|1007|
+Conference Quarterfinals|Anaheim Ducks ®|St. Louis Blues®|3597|16565|04|12|2010|ana|stl|3|4|2|875355731|1008|
+Conference Quarterfinals|Montreal Canadiens ™|Florida Panthers ®|39418|14852|05|12|2010|mtl|fla|0|12|1|875354137|1009|
+Conference Quarterfinals|New Jersey Devils®|New York Islanders®|12576|23488|05|12|2010|njd|nyi|4|5|0|875352011|1010|
+Conference Quarterfinals|Tampa Bay Lightning ®|Ottawa Senators ©|16293|2314|05|12|2010|tbl|ott|0|13|0|875355116|1011|
+Conference Quarterfinals|Buffalo Sabres|Carolina Hurricanes ®|28475|29501|05|12|2010|buf|car|0|2|0|875352748|1012|
+Conference Quarterfinals|Nashville Predators ™|San Jose Sharks™|19992|34835|05|12|2010|nas|sjs|1|3|0|875353349|1013|
+Conference Quarterfinals|Detroit Red Wings™|Colorado Avalanche|19051|9441|05|12|2010|det|col|1|5|0|875351569|1014|
+Conference Quarterfinals|Edmonton Oilers™|Chicago Blackhawks ®|25621|29135|05|12|2010|edm|chi|1|2|0|875354388|1015|
+Conference Quarterfinals|St. Louis Blues®|Anaheim Ducks ®|16565|3597|05|12|2010|stl|ana|4|3|2|875357792|1016|

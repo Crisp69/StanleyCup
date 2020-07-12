@@ -1,0 +1,10 @@
+1||Peter Christov|1|6|6|100,00%|||Ottawa|ott
+2||Linton Potter|1|1|1|100,00%|||Buffalo|buf
+3||Lukáš Červeňák|9|192|181|94,27%|||Toronto|tor
+4||Štefan Bystrický|8|156|144|92,31%|||Washington|was
+5||Rikhard Niemi|4|56|51|91,07%|||Florida|fla
+6||Kauko Turunen|7|122|111|90,98%|||Carolina|car
+7||Branislav Majer|3|82|74|90,24%|||Florida|fla
+8||Gillis Christiansen|7|132|119|90,15%|||New Jersey|njd
+9||Jozef Jóčik|8|111|100|90,09%|||Anaheim|ana
+10||Riku Salmi|7|160|144|90,00%|||Boston|bos

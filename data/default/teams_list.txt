@@ -1,0 +1,31 @@
+Anaheim|ana|Anaheim Ducks|west|
+|atl|Atlanta Thrashers|east|
+Boston|bos|Boston Bruins|east|
+Buffalo|buf|Buffalo Sabres|east|
+Calgary|cgy|Calgary Flames|west|
+Carolina|car|Carolina Huricanes|east|
+Chicago|chi|Chicago Blackhawks|west|
+Colorado|col|Colorado Avalanche|west|
+Columbus|cbj|Columbus Blue Jackets|west|
+Dallas|dal|Dallas Stars|west|
+Detroit|det|Detroit Red Wings|west|
+Edmonton|edm|Edmonton Oilers|west|
+Florida|fla|Florida Panthers|east|
+LA Kings|lak|Los Angeles Kings|west|
+Minnesota|min|Minnesota Wild|west|
+Montreal|mtl|Montreal Canadiens|east|
+Nashville|nas|Nashville Predators|west|
+New Jersey|njd|New Jersey Devils|east|
+NY Islanders|nyi|New York Islanders|east|
+NY Rangers|nyr|New York Rangers|east|
+Ottawa|ott|Ottawa Senators|east|
+Philadelphia|phi|Philadelphia Flyers|east|
+Phoenix|phx|Phoenix Coyotes|west|
+Pittsburgh|pit|Pittsburgh Penguins|east|
+San Jose|sjs|San Jose Sharks|west|
+St. Louis|stl|St. Louis Blues|west|
+Tampa Bay|tbl|Tampa Bay Lightning|east|
+Toronto|tor|Toronto Maple Leafs|east|
+Vancouver|van|Vancouver Canucks|west|
+Washington|was|Washington Capitals|east|
+Winnipeg|wpg|Winnipeg Jets|east|

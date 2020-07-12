@@ -1,0 +1,5 @@
+trsto|10|14
+jac|11|14
+misko|12|14
+pescalune|9|14
+sollu|8|14

@@ -1,0 +1,72 @@
+1||Željko Špoljarec|8|133|128|96,2%|3|5,4|Ottawa|ott
+2||Jan Burda|9|204|196|96,1%|3|5,9|Colorado|col
+3||Alfréd Čvirik|6|128|122|95,3%|3|5,7|Chicago|chi
+4||Stian Kroken|7|129|119|92,2%|1|5,3|Edmonton|edm
+5||Patrick Faivre|7|113|104|92,0%|3|5,1|San Jose|sjs
+6||Eugen Chytrý|7|122|112|91,8%|0|5,2|Montreal|mtl
+7||Laimis Bergsons|8|230|211|91,7%|3|5,9|NY Islanders|nyi
+8||Richard Štěpánek|8|189|173|91,5%|1|5,5|Tampa Bay|tbl
+9||Daniel Muro|9|291|266|91,4%|1|6,1|Columbus|cbj
+10||Bruno Salussoglia|9|407|371|91,2%|1|6,8|Dallas|dal
+11||Vasil Olejka|7|151|137|90,7%|1|5,3|Edmonton|edm
+12||Jozef Lazík|8|212|192|90,6%|1|5,7|Philadelphia|phi
+13||Denis Chekmarev|7|158|143|90,5%|0|5,4|NY Rangers|nyr
+14||Armands Tuncis|11|127|114|89,8%|1|4,8|Florida|fla
+15||Stipo Pulja|8|143|128|89,5%|1|5,1|Chicago|chi
+16||Igor Pimenov|11|309|276|89,3%|0|5,6|Buffalo|buf
+17||Lukáš Němec|11|230|205|89,1%|1|5,2|St. Louis|stl
+18||Hvedar Pivavarau|10|339|302|89,1%|0|6,0|Carolina|car
+19||Patrik Petřík|8|159|141|88,7%|0|5,2|Toronto|tor
+20||Žigmund Tužinský|11|70|62|88,6%|3|4,3|Toronto|tor
+21||Juraj Krajmer|10|227|201|88,5%|1|5,2|LA Kings|lak
+22||Lukas-Pierre Meseck|8|65|57|87,7%|0|4,5|Philadelphia|phi
+23||Anžej Koren|6|178|156|87,6%|0|5,6|Detroit|det
+24||Jindřich Roubal|9|194|170|87,6%|1|5,2|Anaheim|ana
+25||Jacky Petit|9|249|217|87,1%|0|5,4|Phoenix|phx
+26||Heiner Schukart|11|248|216|87,1%|1|5,1|Calgary|cgy
+27||Miervaldis Aukliņš|11|114|99|86,8%|0|4,6|Montreal|mtl
+28||Einari Kuula|11|161|139|86,3%|1|4,8|Washington|was
+29||Dominik Hašek|11|327|273|83,5%|0|5,2|Pittsburgh|pit
+30||Tomáš Vokoun|6|95|79|83,2%|1|4,6|Pittsburgh|pit
+31||Patrik Sládečka|11|177|146|82,5%|1|4,6|Boston|bos
+32||Franco Ecknauer|9|379|311|82,1%|0|5,5|Atlanta|atl
+33||Silvius Dolník|6|39|32|82,1%|1|4,4|Ottawa|ott
+34||Tomáš Bossi|10|133|109|82,0%|2|4,6|NJ Devils|njd
+35||Virgilio Landi|11|393|319|81,2%|1|5,2|Minnesota|min
+36||Martin Gurčík|11|220|177|80,5%|0|4,5|Nashville|nas
+37||Tomáš Narcinčin|10|224|179|79,9%|0|4,6|Vancouver|van
+38||Kieron Price|10|134|105|78,4%|0|4,3|LA Kings|lak
+39||Siarhey Kohan|6|136|99|72,8%|0|4,2|Nashville|nas
+ - ||Andrej Polomský|1|50|42|84,0%|0|6,0|Phoenix|phx
+ - ||Ano Silvasti|3|35|31|88,6%|0|4,6|Washington|was
+ - ||Arvi Pehkola|2|41|39|95,1%|1|5,7|San Jose|sjs
+ - ||Bine Valant|5|147|119|81,0%|0|5,0|Detroit|det
+ - ||Branislav Galbavý|2|42|34|81,0%|0|4,7|Boston|bos
+ - ||Edvin Pelander|2|51|44|86,3%|0|5,3|Chicago|chi
+ - ||Eliáš Vajda|1|10|10|100,0%|1|5,0|Ottawa|ott
+ - ||Enoch Banaszczuk|1|22|18|81,8%|0|4,7|Dallas|dal
+ - ||Gregor Taliga|4|45|41|91,1%|2|4,7|St. Louis|stl
+ - ||Heinrich Wohl|1|21|19|90,5%|0|5,1|Florida|fla
+ - ||Ignacio Sanchez|2|53|41|77,4%|0|4,6|Washington|was
+ - ||Ijsbrand Walraven|4|42|39|92,9%|3|4,9|NY Rangers|nyr
+ - ||Jan Beneš|3|59|50|84,7%|1|4,8|Nashville|nas
+ - ||Jerko Radja|2|18|16|88,9%|0|4,7|Ottawa|ott
+ - ||Kevin Wickli|5|117|109|93,2%|1|5,6|Tampa Bay|tbl
+ - ||Lukáš Florek|1|21|17|81,0%|0|4,6|Calgary|cgy
+ - ||Martin Koniar|3|67|63|94,0%|0|5,8|NY Islanders|nyi
+ - ||Matej Hriadel|1|23|18|78,3%|0|4,5|Columbus|cbj
+ - ||Modris Brakovskis|3|70|56|80,0%|0|4,6|Vancouver|van
+ - ||Nélio Nogueira|1|46|42|91,3%|0|7,0|Atlanta|atl
+ - ||Ovídius Gul|1|9|7|77,8%|0|4,2|NJ Devils|njd
+ - ||Pankrác Kružliak|5|88|70|79,5%|0|4,4|Boston|bos
+ - ||Peter Jesenský|4|56|43|76,8%|1|4,2|Buffalo|buf
+ - ||Petr Pluhař|1|22|19|86,4%|0|5,2|Carolina|car
+ - ||Petteri Tulonen|5|60|55|91,7%|2|4,8|Washington|was
+ - ||Robert Jacobsen|4|51|45|88,2%|1|4,8|NJ Devils|njd
+ - ||Stanko Redev|1|36|33|91,7%|0|6,5|Atlanta|atl
+ - ||Tony Pyhältö|2|54|45|83,3%|0|5,1|San Jose|sjs
+ - ||Urban Fiľk|1|29|26|89,7%|0|5,6|Columbus|cbj
+ - ||Valdis Frīdmans|1|18|9|50,0%|0|2,8|Chicago|chi
+ - ||Víťazoslav Lazarák|4|51|45|88,2%|1|4,8|Anaheim|ana
+ - ||Wayne Phelps|4|117|101|86,3%|0|5,3|Vancouver|van
+ - ||Zbyšek Šmíd|2|37|34|91,9%|1|5,3|Colorado|col

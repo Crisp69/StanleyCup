@@ -1,0 +1,20 @@
+1||Arild Lyssand|8|11|4|15|12||||NY Islanders|nyi
+2||Adelrich Ricaud|8|5|7|12|15||||Anaheim|ana
+3||Matej Domian|8|8|3|11|10||||Anaheim|ana
+4||Klaus Eltschinger|8|5|6|11|5||||Anaheim|ana
+5||Norbert Kuśnierz|8|7|3|10|15||||Anaheim|ana
+6||Viachaslau Loktseu|8|2|8|10|20||||Anaheim|ana
+7||Hugo Šablatúra|6|8|1|9|9||||Anaheim|ana
+8||Adrián Baňár|6|3|6|9|8||||Colorado|col
+9||Dominiek Prins|4|4|4|8|3||||NY Rangers|nyr
+10||Timon Prétôt|6|4|4|8|4||||Toronto|tor
+11||Boris Bezdeda|7|2|6|8|10||||NY Islanders|nyi
+12||Patrick Bergmann|7|1|7|8|8||||NY Islanders|nyi
+13||Tomáš Pavel|7|0|8|8|10||||Anaheim|ana
+14||Olavi Louramo|8|4|4|8|15||||Anaheim|ana
+15||Oleg Oboňa|8|2|6|8|10||||Anaheim|ana
+16||Valto Silvonen|4|1|6|7|3||||NY Rangers|nyr
+17||Albert Zikmund|5|7|0|7|6||||Anaheim|ana
+18||Eugeniusz Rynkiewicz|6|5|2|7|8||||NY Islanders|nyi
+19||Isidor Willimann|6|3|4|7|11||||NY Islanders|nyi
+20||Boris Krpala|6|2|5|7|5||||NY Islanders|nyi

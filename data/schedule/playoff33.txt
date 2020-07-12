@@ -1,0 +1,31 @@
+Stanley Cup Finals|Boston Bruins ®|Los Angeles Kings ®|1220|23979|24|11|2012|bos|lak|6|1|1|884287825|1029|
+
+Stanley Cup Finals|Los Angeles Kings ®|Boston Bruins ®|23979|1220|25|11|2012|lak|bos|3|6|1|884287826|1030|
+Conference Finals|Boston Bruins ®|New York Rangers ™|1220|2787|17|11|2012|bos|nyr|4|1|1|884188785|1025|
+Conference Finals|Los Angeles Kings ®|Calgary Flames ®|23979|36702|17|11|2012|lak|cgy|2|1|2|884186623|1026|
+Conference Finals|New York Rangers ™|Boston Bruins ®|2787|1220|18|11|2012|nyr|bos|3|2|1|884188786|1027|
+Conference Finals|Calgary Flames ®|Los Angeles Kings ®|36702|23979|18|11|2012|cgy|lak|3|4|2|884186624|1028|
+Conference Semifinals|Boston Bruins ®|The Washington Capitals|1220|1659|10|11|2012|bos|was|5|0|1||1017|
+Conference Semifinals|New York Rangers ™|Ottawa Senators©|2787|29402|10|11|2012|nyr|ott|4|3|0|884171617|1018|
+Conference Semifinals|Los Angeles Kings ®|Colorado Avalanche|23979|18850|10|11|2012|lak|col|5|2|0|884176971|1019|
+Conference Semifinals|Calgary Flames ®|Chicago Blackhawks ™|36702|18857|10|11|2012|cgy|chi|3|2|2|884171793|1020|
+Conference Semifinals|The Washington Capitals|Boston Bruins ®|1659|1220|11|11|2012|was|bos|0|5|1||1021|
+Conference Semifinals|Ottawa Senators©|New York Rangers ™|29402|2787|11|11|2012|ott|nyr|2|8|0|884171619|1022|
+Conference Semifinals|Colorado Avalanche|Los Angeles Kings ®|18850|23979|11|11|2012|col|lak|2|3|0|884176972|1023|
+Conference Semifinals|Chicago Blackhawks ™|Calgary Flames ®|18857|36702|11|11|2012|chi|cgy|0|4|2|884171794|1024|
+Conference Quarterfinals|Boston Bruins ®|Tampa Bay Lightning ®|1220|16293|03|11|2012|bos|tbl|7|0|1|884158520|1001|
+Conference Quarterfinals|New York Rangers ™|Toronto Maple Leafs ®|2787|29473|03|11|2012|nyr|tor|3|1|0|884155974|1002|
+Conference Quarterfinals|Winnipeg Jets HC|The Washington Capitals|799|1659|03|11|2012|wpg|was|0|5|0||1003|
+Conference Quarterfinals|Ottawa Senators©|Montreal Canadiens ™|29402|39418|03|11|2012|ott|mtl|4|1|0|884156494|1004|
+Conference Quarterfinals|Los Angeles Kings ®|Vancouver Canucks™|23979|12519|03|11|2012|lak|van|5|1|0|884157291|1005|
+Conference Quarterfinals|Calgary Flames ®|Edmonton Oilers ®|36702|38448|07|11|2012|cgy|edm|11|1|0|884165271|1006|
+Conference Quarterfinals|Detroit Red Wings™|Colorado Avalanche|6924|18850|03|11|2012|det|col|0|2|0|884163685|1007|
+Conference Quarterfinals|Dallas Stars ®|Chicago Blackhawks ™|27996|18857|03|11|2012|dal|chi|2|6|2|884155946|1008|
+Conference Quarterfinals|Tampa Bay Lightning ®|Boston Bruins ®|16293|1220|04|11|2012|tbl|bos|1|5|1|884158521|1009|
+Conference Quarterfinals|Toronto Maple Leafs ®|New York Rangers ™|29473|2787|04|11|2012|tor|nyr|2|3|0|884155975|1010|
+Conference Quarterfinals|The Washington Capitals|Winnipeg Jets HC|1659|799|04|11|2012|was|wpg|5|0|0||1011|
+Conference Quarterfinals|Montreal Canadiens ™|Ottawa Senators©|39418|29402|04|11|2012|mtl|ott|3|2|0|884156495|1012|
+Conference Quarterfinals|Vancouver Canucks™|Los Angeles Kings ®|12519|23979|04|11|2012|van|lak|0|6|0|884157292|1013|
+Conference Quarterfinals|Edmonton Oilers ®|Calgary Flames ®|38448|36702|04|11|2012|edm|cgy|0|8|0|884159758|1014|
+Conference Quarterfinals|Colorado Avalanche|Detroit Red Wings™|18850|6924|04|11|2012|col|det|7|3|0|884163686|1015|
+Conference Quarterfinals|Chicago Blackhawks ™|Dallas Stars ®|18857|27996|04|11|2012|chi|dal|4|1|2|884155947|1016|

@@ -1,0 +1,770 @@
+1||Štefan Blaška|13|18|10|28|+26|7,2|44|40,91%|Toronto|tor
+2||Vladimír Paleček|12|19|8|27|+21|7,2|42|45,24%|St. Louis|stl
+3||Oskar Harvaniak|13|17|10|27|+16|6,8|47|36,17%|Florida|fla
+4||Daniels Meistars|10|18|8|26|+12|7,3|45|40,00%|St. Louis|stl
+5||Mihael Sabo|13|4|20|24|+22|6,8|44|9,09%|Florida|fla
+6||Benny Zenoni|13|19|4|23|+27|6,8|44|43,18%|NY Rangers|nyr
+7||Pavel Dubský|13|15|8|23|+28|6,9|52|28,85%|NY Rangers|nyr
+8||Jozef Kroták|11|14|9|23|+20|7,1|40|35,00%|Florida|fla
+9||Lars Puhakka|12|12|11|23|+15|6,6|35|34,29%|St. Louis|stl
+10||Filip Ruman|13|8|14|22|+16|6,4|42|19,05%|Florida|fla
+11||Miguel Liebana|13|12|9|21|+24|6,7|54|22,22%|Toronto|tor
+12||Lauris Žagars|13|12|9|21|+18|6,4|42|28,57%|NY Rangers|nyr
+13||Erling Kjeldsen|13|10|11|21|+19|6,4|45|22,22%|San Jose|sjs
+14||Renārs Zālmanis|13|8|13|21|+24|6,7|36|22,22%|Toronto|tor
+15||Tom Collins|10|7|14|21|+14|6,9|26|26,92%|St. Louis|stl
+16||Gordon Beeney|12|9|11|20|+19|6,5|44|20,45%|San Jose|sjs
+17||Zdenko Kompuš|13|8|12|20|+15|6,2|52|15,38%|Florida|fla
+18||Vendelín Šíp|13|14|5|19|+6|5,7|47|29,79%|LA Kings|lak
+19||Kaapo Luolavuo|13|12|7|19|+10|5,9|46|26,09%|Atlanta|atl
+20||Róbert Benčík|12|10|9|19|+12|6,2|27|37,04%|NJ Devils|njd
+21||Alojz Vrana|13|15|3|18|+5|5,6|38|39,47%|Tampa Bay|tbl
+22||Mika Karjalainen|12|10|8|18|+12|6,1|45|22,22%|NJ Devils|njd
+23||Alexander Johansson|13|10|8|18|+12|5,9|45|22,22%|Montreal|mtl
+24||Radovan Tomaník|13|9|9|18|+6|5,6|42|21,43%|LA Kings|lak
+25||Jiří Chaloupka|12|13|4|17|+16|6,2|53|24,53%|Florida|fla
+26||Reinhardt Gehlen|10|11|6|17|+20|6,7|48|22,92%|San Jose|sjs
+27||Edgars Asaris|12|11|6|17|+1|5,5|37|29,73%|LA Kings|lak
+28||José Alarcón|7|10|7|17|+8|7,1|34|29,41%|St. Louis|stl
+29||Mathias Blixt|13|8|9|17|+9|5,7|35|22,86%|Florida|fla
+30||Henri Martin|11|5|12|17|+7|5,9|42|11,90%|Tampa Bay|tbl
+31||Timo Dil|12|1|16|17|+9|5,8|32|3,13%|Philadelphia|phi
+32||Uldis Avotiņš|13|1|16|17|+6|5,6|32|3,13%|LA Kings|lak
+33||Steffen Diemel|12|11|5|16|+12|5,9|36|30,56%|Dallas|dal
+34||Frančišek Peče|8|8|8|16|+6|6,4|28|28,57%|Atlanta|atl
+35||Joakim Langli|13|7|9|16|+13|5,8|32|21,88%|Montreal|mtl
+36||Edmund Jonáš|13|0|16|16|+24|6,3|20|0,00%|Toronto|tor
+37||Maurice Bullock|13|12|3|15|+10|5,6|28|42,86%|Philadelphia|phi
+38||Francisco Giacomini|12|11|4|15|+12|5,8|47|23,40%|NJ Devils|njd
+39||Ondřej Stránský|13|11|4|15|0|5,1|34|32,35%|Edmonton|edm
+40||Dobroslav Komárek|13|9|6|15|+13|5,7|43|20,93%|Ottawa|ott
+41||Mikael Ottosson|7|8|7|15|+17|7,4|32|25,00%|NY Rangers|nyr
+42||Karol Vajda|13|8|7|15|+20|6,0|29|27,59%|Toronto|tor
+43||Sandis Cērmanis|11|6|9|15|+12|6,0|25|24,00%|Montreal|mtl
+44||Izsák Pápay|8|5|10|15|+10|6,5|14|35,71%|Ottawa|ott
+45||Vojtech Bečica|8|4|11|15|+20|7,2|27|14,81%|NY Rangers|nyr
+46||Gabriel Semeník|13|11|3|14|-5|4,9|27|40,74%|Phoenix|phx
+47||Evžen Novák|13|10|4|14|+16|5,8|29|34,48%|NY Rangers|nyr
+48||Ulvis Upurnieks|13|8|6|14|+17|5,8|25|32,00%|Toronto|tor
+49||Milan Pavlíček|13|7|7|14|+20|6,0|34|20,59%|Toronto|tor
+50||Ignacio Cifuentes|12|7|7|14|+9|5,5|36|19,44%|Philadelphia|phi
+51||Roman Krcho|11|3|11|14|0|5,3|39|7,69%|LA Kings|lak
+52||Marcin Tkaczyk|11|12|1|13|+17|6,0|34|35,29%|Dallas|dal
+53||Valentīns Lejiņš|13|11|2|13|+10|5,4|42|26,19%|Montreal|mtl
+54||Jan Wiese|13|8|5|13|+12|5,6|38|21,05%|Toronto|tor
+55||Jorgen Horntvedt|12|8|5|13|+8|5,4|32|25,00%|Chicago|chi
+56||Jindřich Koubek|13|7|6|13|+15|5,6|35|20,00%|Florida|fla
+57||Arho Jurvainen|13|6|7|13|-5|4,8|18|33,33%|Phoenix|phx
+58||Pavol Borkovics|13|4|9|13|+21|5,9|27|14,81%|NY Rangers|nyr
+59||Tomáš Jež|13|3|10|13|+9|5,4|44|6,82%|Atlanta|atl
+60||Stanislav Spišák|12|11|1|12|+3|5,1|26|42,31%|NY Islanders|nyi
+61||Bohuš Hriadel|7|9|3|12|+8|6,2|24|37,50%|Ottawa|ott
+62||Máté Francz|13|8|4|12|+4|5,1|44|18,18%|Calgary|cgy
+63||Zoran Levc|13|8|4|12|+3|5,0|16|50,00%|Detroit|det
+64||Rolando Cicerchia|13|7|5|12|+19|5,7|24|29,17%|Dallas|dal
+65||Matěj Kopecký|13|6|6|12|+12|5,4|28|21,43%|Toronto|tor
+66||Adam Nový|11|6|6|12|-6|4,8|31|19,35%|Buffalo|buf
+67||Jan Novotný|9|5|7|12|+8|5,8|21|23,81%|NJ Devils|njd
+68||Euzebiusz Deleszek|12|4|8|12|-2|4,8|39|10,26%|Columbus|cbj
+69||Filip Polívka|13|3|9|12|+19|5,7|15|20,00%|Dallas|dal
+70||Lukáš Merta|11|2|10|12|+6|5,4|26|7,69%|NJ Devils|njd
+71||Jozef Čihák|13|2|10|12|+9|5,4|43|4,65%|Florida|fla
+72||František Ulrich|8|10|1|11|+13|6,3|27|37,04%|Minnesota|min
+73||Milan Mentel|10|8|3|11|+16|6,0|25|32,00%|St. Louis|stl
+74||Lukáš Martínek|12|7|4|11|+15|5,7|31|22,58%|NJ Devils|njd
+75||Jan Kalita|11|7|4|11|+7|5,3|22|31,82%|Edmonton|edm
+76||Imrich Kudroč|13|7|4|11|+8|5,2|32|21,88%|Montreal|mtl
+77||Tomáš Vlk|13|7|4|11|+7|5,1|25|28,00%|Ottawa|ott
+78||Alexej Kubánek|12|7|4|11|+1|5,0|31|22,58%|Tampa Bay|tbl
+79||Artūrs Zandmans|13|6|5|11|+14|5,5|34|17,65%|Montreal|mtl
+80||Oskar Záhorec|11|6|5|11|+6|5,3|24|25,00%|Chicago|chi
+81||Bohdan Zubko|13|4|7|11|+15|5,6|16|25,00%|Toronto|tor
+82||Razvan Ţiriac|13|4|7|11|0|4,9|28|14,29%|LA Kings|lak
+83||Leonard Doležal|13|1|10|11|+7|5,1|25|4,00%|Edmonton|edm
+84||Janez Kisovec|12|0|11|11|+14|5,6|31|0,00%|NJ Devils|njd
+85||Kai Krempin|11|9|1|10|-1|4,7|27|33,33%|Columbus|cbj
+86||Roman Haluška|7|8|2|10|+2|5,6|24|33,33%|Colorado|col
+87||Juraj Žižňovský|13|8|2|10|+3|4,9|42|19,05%|Calgary|cgy
+88||Pauls Līcis|13|8|2|10|-2|4,6|40|20,00%|Carolina|car
+89||Marek Michlík|8|6|4|10|+9|5,8|26|23,08%|Minnesota|min
+90||Vladimír Bečvář|13|6|4|10|+10|5,2|22|27,27%|Atlanta|atl
+91||Dušan Bebko|11|6|4|10|+5|5,2|23|26,09%|Atlanta|atl
+92||Hermann Isdal|13|6|4|10|+7|5,1|32|18,75%|NJ Devils|njd
+93||Sebastian Eschmann|13|6|4|10|+5|5,0|30|20,00%|Montreal|mtl
+94||Žiga Gabrijelčič|13|6|4|10|+1|4,8|40|15,00%|Detroit|det
+95||Oleh Romyshevskiy|13|5|5|10|+7|5,1|22|22,73%|Ottawa|ott
+96||Iyseden Menard|13|5|5|10|+5|5,0|32|15,63%|Montreal|mtl
+97||Martin Letko|12|4|6|10|+17|5,7|19|21,05%|St. Louis|stl
+98||Dominik Brychta|13|4|6|10|+12|5,3|40|10,00%|Montreal|mtl
+99||Doug Short|13|4|6|10|+9|5,2|31|12,90%|Dallas|dal
+100||Theo Stolwijk|13|4|6|10|+7|5,0|26|15,38%|Philadelphia|phi
+101||Rafael Linkola|8|3|7|10|+11|6,0|16|18,75%|Minnesota|min
+102||Ladislav Hatala|13|3|7|10|-5|4,5|21|14,29%|Phoenix|phx
+103||Roman Kotrla|12|1|9|10|+21|5,8|16|6,25%|St. Louis|stl
+104||Rareş Vadim|10|9|0|9|+3|5,1|21|42,86%|Chicago|chi
+105||Petr Nedvěd|11|8|1|9|+3|4,9|29|27,59%|Pittsburgh|pit
+106||Tomáš Linhart|7|6|3|9|+5|5,7|22|27,27%|NJ Devils|njd
+107||Reijo Juusela|10|6|3|9|+5|5,2|35|17,14%|LA Kings|lak
+108||Juha Tynjälä|11|6|3|9|+3|4,9|27|22,22%|Washington|was
+109||Artis Raitums|8|5|4|9|+8|5,7|20|25,00%|Minnesota|min
+110||Maximilián Kondrla|13|5|4|9|+14|5,3|33|15,15%|Toronto|tor
+111||Remi Bouvet|7|5|4|9|0|5,3|22|22,73%|Atlanta|atl
+112||Wacław Stachyra|12|5|4|9|-2|4,6|29|17,24%|Columbus|cbj
+113||Gustavs Laiviņš|13|5|4|9|-4|4,5|41|12,20%|Edmonton|edm
+114||Gaudencjusz Orgasiński|9|4|5|9|+2|5,1|23|17,39%|NY Islanders|nyi
+115||Feliks Mierzejewski|13|4|5|9|-2|4,6|35|11,43%|Edmonton|edm
+116||Petr Polívka|13|4|5|9|-8|4,3|28|14,29%|Buffalo|buf
+117||Gustav Hájek|13|3|6|9|+4|4,9|20|15,00%|Dallas|dal
+118||Ilgvars Sprungulis|13|2|7|9|+14|5,3|24|8,33%|Toronto|tor
+119||Dávid Šafárik|13|1|8|9|+15|5,3|8|12,50%|NY Rangers|nyr
+120||Anton Topolčani|11|1|8|9|0|4,9|26|3,85%|Dallas|dal
+121||Petar Sušić|8|0|9|9|+8|5,7|15|0,00%|Minnesota|min
+122||Karol Ondov|13|0|9|9|+22|5,6|34|0,00%|NY Rangers|nyr
+123||István Gróf|13|0|9|9|+4|4,9|25|0,00%|Atlanta|atl
+124||Giusto Pichler|12|5|3|8|+8|5,1|23|21,74%|Tampa Bay|tbl
+125||Ernesto Ingrassia|13|5|3|8|+5|4,8|17|29,41%|Philadelphia|phi
+126||Patrycjusz Ziółkowski|13|5|3|8|+1|4,7|14|35,71%|LA Kings|lak
+127||Dainis Ruksis|13|5|3|8|-8|4,3|27|18,52%|Buffalo|buf
+128||Dobroslav Šatan|10|4|4|8|+23|6,0|18|22,22%|NY Rangers|nyr
+129||Tuomo Larsson|10|4|4|8|+10|5,4|38|10,53%|Florida|fla
+130||Teppo Simontaival|8|4|4|8|+5|5,3|18|22,22%|Washington|was
+131||Urko Marolt|10|4|4|8|+1|4,8|26|15,38%|Detroit|det
+132||Matti Hynönen|13|3|5|8|+2|4,7|25|12,00%|Washington|was
+133||Ladislav Cerulík|12|3|5|8|-4|4,5|32|9,38%|NY Islanders|nyi
+134||Donnie Young|11|2|6|8|+5|5,1|29|6,90%|Florida|fla
+135||Dorinel Costache|12|2|6|8|+8|5,0|20|10,00%|Edmonton|edm
+136||Dobroslav Kolečáni|13|2|6|8|+7|4,9|17|11,76%|Tampa Bay|tbl
+137||Witalis Ośko|11|2|6|8|+1|4,9|40|5,00%|NJ Devils|njd
+138||Hugo Tennilä|13|2|6|8|+2|4,7|28|7,14%|San Jose|sjs
+139||Emīls Kvēpiņš|7|1|7|8|+13|6,2|14|7,14%|St. Louis|stl
+140||Mitja Kozomara|13|1|7|8|+21|5,5|33|3,03%|Florida|fla
+141||Marek Debnár|8|1|7|8|+6|5,4|11|9,09%|Minnesota|min
+142||Yrjo Pöysä|13|1|7|8|+14|5,2|25|4,00%|Dallas|dal
+143||Hubert Vogel|13|1|7|8|+3|4,7|6|16,67%|Chicago|chi
+144||Matěj Chytil|9|0|8|8|+15|5,8|18|0,00%|St. Louis|stl
+145||Bruno Ferrero|10|0|8|8|+16|5,6|18|0,00%|NY Rangers|nyr
+146||Ondřej Koukal|13|0|8|8|+8|4,9|36|0,00%|San Jose|sjs
+147||Stanislav Dobšík|13|6|1|7|+7|4,9|17|35,29%|Tampa Bay|tbl
+148||Felix Fischnaller|13|5|2|7|+9|5,0|30|16,67%|Atlanta|atl
+149||Samuel Haluščák|11|5|2|7|+5|4,9|19|26,32%|NJ Devils|njd
+150||Daniel Bibescu|13|5|2|7|+3|4,6|29|17,24%|Edmonton|edm
+151||Ioan Dimitrescu|12|5|2|7|-5|4,4|21|23,81%|NY Islanders|nyi
+152||Vlastislav Řezníček|9|4|3|7|+4|5,0|12|33,33%|Detroit|det
+153||Bystrík Cíbik|10|4|3|7|+5|4,9|26|15,38%|Phoenix|phx
+154||Miloš Kriko|13|4|3|7|+7|4,9|26|15,38%|Dallas|dal
+155||Viesturs Rītiņš|13|4|3|7|+5|4,7|25|16,00%|Edmonton|edm
+156||Daniel Hruška|13|4|3|7|+5|4,7|15|26,67%|Phoenix|phx
+157||Siarhey Chystiakou|13|3|4|7|+14|5,1|36|8,33%|Ottawa|ott
+158||Leoš Čermák|13|3|4|7|-2|4,3|24|12,50%|Carolina|car
+159||Kari Perttunen|13|2|5|7|+19|5,3|38|5,26%|San Jose|sjs
+160||Oleg Hostovečka|13|2|5|7|+17|5,2|22|9,09%|Dallas|dal
+161||Ľubomír Rajčan|11|2|5|7|+1|4,6|14|14,29%|Colorado|col
+162||Martin Soukup|13|2|5|7|-19|3,8|25|8,00%|Nashville|nas
+163||Benjamín Jelenák|3|1|6|7|+9|7,9|9|11,11%|St. Louis|stl
+164||Cveto Palčič|12|1|6|7|+16|5,3|20|5,00%|Florida|fla
+165||Ewan Grant|13|1|6|7|+12|5,1|17|5,88%|Montreal|mtl
+166||David Nový|11|1|6|7|+5|4,9|22|4,55%|Dallas|dal
+167||Barna Szilágyi|13|1|6|7|+2|4,6|22|4,55%|NY Islanders|nyi
+168||Martin Brachňák|8|0|7|7|+16|6,0|14|0,00%|NY Rangers|nyr
+169||Michal Vysloužil|11|0|7|7|+14|5,4|15|0,00%|St. Louis|stl
+170||Marcel Konečný|13|0|7|7|+5|4,8|20|0,00%|Tampa Bay|tbl
+171||Pierre Pichon|11|0|7|7|+2|4,7|19|0,00%|Calgary|cgy
+172||Vavrinec Krnáč|13|0|7|7|-5|4,3|14|0,00%|Phoenix|phx
+173||Dragoljub Škorić|13|6|0|6|+2|4,5|20|30,00%|Chicago|chi
+174||Vital Sidarchuk|12|4|2|6|+16|5,3|15|26,67%|St. Louis|stl
+175||Vincent Chochol|13|4|2|6|+6|4,8|23|17,39%|LA Kings|lak
+176||Peter-Alexander Drossel|12|4|2|6|-8|4,2|22|18,18%|Philadelphia|phi
+177||Emil Remeň|11|4|2|6|-14|3,9|27|14,81%|Nashville|nas
+178||Noel Flack|6|3|3|6|+3|5,3|19|15,79%|Colorado|col
+179||Alexander Obkirchler|12|3|3|6|+7|4,9|24|12,50%|St. Louis|stl
+180||Jakub Říha|7|3|3|6|+1|4,9|14|21,43%|Nashville|nas
+181||Samuel Kankula|12|3|3|6|+5|4,7|39|7,69%|Calgary|cgy
+182||Viroslav Langr|11|3|3|6|+2|4,5|26|11,54%|Carolina|car
+183||Osvalds Kurmis|11|3|3|6|-3|4,4|16|18,75%|Chicago|chi
+184||Jaromír Valeš|13|3|3|6|-1|4,4|21|14,29%|Buffalo|buf
+185||Andrej Fridrich|13|3|3|6|-4|4,3|13|23,08%|NY Islanders|nyi
+186||Torsti Nikulainen|10|3|3|6|-6|4,3|19|15,79%|Washington|was
+187||Edmund Trebichalský|12|2|4|6|+20|5,4|17|11,76%|NY Rangers|nyr
+188||Philip Corkin|9|2|4|6|+6|5,0|7|28,57%|Ottawa|ott
+189||Wolfgang Röger|11|2|4|6|+3|4,8|14|14,29%|Toronto|tor
+190||Blahoslav Fabo|10|2|4|6|+3|4,8|13|15,38%|Chicago|chi
+191||Dušan Konc|13|2|4|6|+6|4,7|30|6,67%|Tampa Bay|tbl
+192||Vladimír Paták|13|2|4|6|+3|4,6|51|3,92%|Calgary|cgy
+193||Jiří Provazník|13|2|4|6|-8|4,1|29|6,90%|Buffalo|buf
+194||Idálio Caires|9|1|5|6|+17|5,7|11|9,09%|Toronto|tor
+195||Ladislav Harvilla|12|1|5|6|+23|5,6|21|4,76%|St. Louis|stl
+196||Bobby Orr|12|1|5|6|+4|4,6|11|9,09%|Pittsburgh|pit
+197||Kristian Heggoy|12|1|5|6|0|4,6|26|3,85%|San Jose|sjs
+198||Louis Jacquet|13|0|6|6|+22|5,3|24|0,00%|Florida|fla
+199||Gabriel Dumont|13|0|6|6|-8|4,1|20|0,00%|Phoenix|phx
+200||Florián Halmeš|13|5|0|5|+5|4,6|38|13,16%|Calgary|cgy
+201||Vlastimil Boledovič|13|5|0|5|-8|4,1|21|23,81%|Phoenix|phx
+202||Pankrác Civáň|8|4|1|5|+6|5,1|18|22,22%|Minnesota|min
+203||Cyril Delattre|10|4|1|5|-8|4,1|22|18,18%|Ottawa|ott
+204||Ilya Kovalchuk|12|4|1|5|-7|4,1|24|16,67%|Pittsburgh|pit
+205||Reinhardt Clausen|13|3|2|5|+4|4,6|24|12,50%|Philadelphia|phi
+206||Andrej Hrabovský|13|3|2|5|-1|4,3|26|11,54%|Edmonton|edm
+207||František Daniš|13|3|2|5|-1|4,3|17|17,65%|Buffalo|buf
+208||Dalimil Valeš|13|3|2|5|-8|4,1|35|8,57%|Buffalo|buf
+209||Belo Mravík|5|2|3|5|+6|5,6|9|22,22%|Colorado|col
+210||Milan Cibuľa|12|2|3|5|+18|5,3|22|9,09%|St. Louis|stl
+211||Thore Alisch|9|2|3|5|+5|4,9|14|14,29%|Philadelphia|phi
+212||Marian Micu|8|2|3|5|+1|4,7|21|9,52%|San Jose|sjs
+213||Petr Průcha|12|2|3|5|+4|4,5|38|5,26%|Pittsburgh|pit
+214||Ján Bubeník|12|2|3|5|+2|4,5|13|15,38%|LA Kings|lak
+215||Kaj Torkildsen|13|2|3|5|+3|4,5|13|15,38%|Chicago|chi
+216||Branislav Trabalík|13|2|3|5|-2|4,3|15|13,33%|NY Islanders|nyi
+217||Simu Prunariu|13|1|4|5|+22|5,4|18|5,56%|Toronto|tor
+218||Ernesto Salvatierra|7|1|4|5|+8|5,4|18|5,56%|Atlanta|atl
+219||Jack Adolfsson|12|1|4|5|+7|4,8|21|4,76%|NY Rangers|nyr
+220||Michel Hohenberger|9|1|4|5|+3|4,7|16|6,25%|Dallas|dal
+221||Gerhard Byzdra|12|1|4|5|+6|4,7|8|12,50%|Atlanta|atl
+222||Milan Hejduk|12|1|4|5|+3|4,5|18|5,56%|Pittsburgh|pit
+223||Boleslav Jašúrek|10|1|4|5|+1|4,5|15|6,67%|Phoenix|phx
+224||Denis Masson|11|1|4|5|-17|3,6|14|7,14%|Vancouver|van
+225||Lukáš Zelina|10|0|5|5|+13|5,2|16|0,00%|NJ Devils|njd
+226||Richard Demcsák|13|0|5|5|+18|5,1|21|0,00%|Montreal|mtl
+227||Dragutin Drčar|13|0|5|5|+8|4,7|19|0,00%|Montreal|mtl
+228||Alexey Semenov|12|0|5|5|+4|4,5|12|0,00%|Pittsburgh|pit
+229||Denis Valent|13|0|5|5|0|4,4|14|0,00%|Edmonton|edm
+230||Viliam Lipna|13|0|5|5|-1|4,3|13|0,00%|Buffalo|buf
+231||Martin Zoubek|13|0|5|5|-8|4,0|25|0,00%|Buffalo|buf
+232||Oleg Bystriansky|10|0|5|5|-12|3,8|4|0,00%|Vancouver|van
+233||Dante Trotta|11|4|0|4|+3|4,6|18|22,22%|Toronto|tor
+234||Joonas Kerminen|13|4|0|4|-24|3,4|19|21,05%|Anaheim|ana
+235||Vilgirdas Mičelis|8|3|1|4|+4|4,8|16|18,75%|Minnesota|min
+236||Kajtan Nizevich|10|3|1|4|+6|4,8|16|18,75%|NY Rangers|nyr
+237||Vladimír Dobiaš|9|3|1|4|+3|4,6|14|21,43%|Phoenix|phx
+238||Hasney Lever|11|3|1|4|+3|4,6|15|20,00%|Toronto|tor
+239||Maxime Paul|13|3|1|4|-1|4,3|32|9,38%|Calgary|cgy
+240||Samuel Šimčák|8|2|2|4|+12|5,3|32|6,25%|NY Rangers|nyr
+241||Daniel Hýbl|13|2|2|4|+12|4,8|16|12,50%|Montreal|mtl
+242||Marian Fraňo|9|2|2|4|+3|4,5|15|13,33%|Nashville|nas
+243||Alfonz Gaťko|13|2|2|4|+4|4,5|15|13,33%|LA Kings|lak
+244||Nazar Avdonov|13|2|2|4|0|4,4|29|6,90%|Dallas|dal
+245||Szabolcs Kánya|13|2|2|4|0|4,4|21|9,52%|San Jose|sjs
+246||Paolo Chenna|13|2|2|4|-1|4,2|20|10,00%|NY Islanders|nyi
+247||Silvester Bryndza|13|2|2|4|-6|4,0|23|8,70%|NY Islanders|nyi
+248||Boris Koudela|13|2|2|4|-9|4,0|24|8,33%|Buffalo|buf
+249||Róbert Holobradý|9|2|2|4|-9|3,9|8|25,00%|Nashville|nas
+250||Stanislav Matejkavec|13|2|2|4|-19|3,6|46|4,35%|Nashville|nas
+251||Jonathan Johansson|3|1|3|4|+8|6,8|7|14,29%|Minnesota|min
+252||Juraj Bombic|3|1|3|4|+4|6,1|7|14,29%|Colorado|col
+253||Jonas Wöldike|5|1|3|4|+12|6,0|12|8,33%|San Jose|sjs
+254||Marek Kořínek|12|1|3|4|+17|5,1|17|5,88%|St. Louis|stl
+255||Flavio Seeburger|4|1|3|4|+1|5,1|4|25,00%|Detroit|det
+256||David Lindén|4|1|3|4|+1|5,1|4|25,00%|Detroit|det
+257||Filip Chudoba|13|1|3|4|+14|4,9|18|5,56%|NY Rangers|nyr
+258||Heiko Heines|9|1|3|4|+5|4,8|15|6,67%|Philadelphia|phi
+259||Gejza Kopáčik|13|1|3|4|+8|4,6|15|6,67%|Chicago|chi
+260||Joel Hallaranta|13|1|3|4|+5|4,5|4|25,00%|Phoenix|phx
+261||Cameron Newman|11|1|3|4|+1|4,4|16|6,25%|Colorado|col
+262||Viesturs Pērkons|13|1|3|4|0|4,3|10|10,00%|Edmonton|edm
+263||Jūlijs Salzemnieks|13|1|3|4|-1|4,2|14|7,14%|NY Islanders|nyi
+264||Edmunds Birziņš|8|1|3|4|-4|4,2|9|11,11%|Washington|was
+265||Juri Spenn|13|1|3|4|-4|4,1|21|4,76%|NY Islanders|nyi
+266||Vance Belanger|11|1|3|4|-6|4,1|21|4,76%|NY Islanders|nyi
+267||Ján Hajdúch|12|1|3|4|-6|4,1|15|6,67%|NY Islanders|nyi
+268||Anto Eensalu|13|1|3|4|-9|4,0|22|4,55%|Ottawa|ott
+269||Karol Buchala|13|1|3|4|-8|3,9|14|7,14%|Phoenix|phx
+270||Eugen Rusu|12|1|3|4|-9|3,9|8|12,50%|Columbus|cbj
+271||Ruppert Sieberer|13|1|3|4|-24|3,3|17|5,88%|Anaheim|ana
+272||Izydor Bigas|6|0|4|4|+5|5,1|6|0,00%|Minnesota|min
+273||Feliks Uniłowski|13|0|4|4|+12|4,8|20|0,00%|Montreal|mtl
+274||Rainer Geißler|13|0|4|4|+6|4,6|13|0,00%|Philadelphia|phi
+275||Bjorn Johnsrud|11|0|4|4|+3|4,5|11|0,00%|Chicago|chi
+276||Kimmo Jormakka|9|0|4|4|-2|4,3|9|0,00%|Carolina|car
+277||Erich Gábriš|11|0|4|4|-3|4,3|19|0,00%|Montreal|mtl
+278||Ljubiša Popović|13|0|4|4|-2|4,2|13|0,00%|Calgary|cgy
+279||Ignác Korbel|13|0|4|4|-2|4,2|13|0,00%|Carolina|car
+280||Konštantín Malec|12|0|4|4|-2|4,1|19|0,00%|Columbus|cbj
+281||Clemens Brauer|12|0|4|4|-8|4,0|9|0,00%|Philadelphia|phi
+282||Peter Hlebanja|11|0|4|4|-8|4,0|13|0,00%|Detroit|det
+283||Boris Kajfež|13|0|4|4|-12|3,8|13|0,00%|Detroit|det
+284||Blahoslav Gemela|5|3|0|3|-2|4,4|8|37,50%|LA Kings|lak
+285||Ben Kinner|10|3|0|3|0|4,3|37|8,11%|San Jose|sjs
+286||Matija Ažman|9|3|0|3|-2|4,2|15|20,00%|Detroit|det
+287||Norbert Lačný|8|3|0|3|-8|3,8|13|23,08%|Vancouver|van
+288||Ľudovít Zálešák|9|3|0|3|-11|3,6|8|37,50%|Vancouver|van
+289||Otakar Beneš|13|3|0|3|-21|3,5|22|13,64%|Boston|bos
+290||René Liška|2|2|1|3|+1|5,8|5|40,00%|St. Louis|stl
+291||Viliam Tužinský|8|2|1|3|+9|5,0|16|12,50%|Minnesota|min
+292||Felix Dvořák|6|2|1|3|+4|4,8|9|22,22%|Minnesota|min
+293||Laar Pettai|8|2|1|3|+5|4,8|11|18,18%|Atlanta|atl
+294||Jozef Hrnčiarik|3|2|1|3|-1|4,7|8|25,00%|Columbus|cbj
+295||Patrik Gáfrik|8|2|1|3|+3|4,6|10|20,00%|NJ Devils|njd
+296||Ervín Deviatka|10|2|1|3|+4|4,6|9|22,22%|NY Rangers|nyr
+297||Samu Sojka|13|2|1|3|+6|4,5|23|8,70%|Philadelphia|phi
+298||Björn Köjer|13|2|1|3|+4|4,4|15|13,33%|Philadelphia|phi
+299||Flavio Steinebrunner|13|2|1|3|+5|4,4|9|22,22%|Edmonton|edm
+300||Ilya Lybin|11|2|1|3|0|4,3|19|10,53%|San Jose|sjs
+301||Dominik Herda|13|2|1|3|+1|4,3|17|11,76%|Atlanta|atl
+302||Edgars Vērpiņš|13|2|1|3|-1|4,2|25|8,00%|Calgary|cgy
+303||Noah Jonsson|11|2|1|3|-3|4,1|10|20,00%|NY Islanders|nyi
+304||Bryan Blackwell|13|2|1|3|-1|4,1|8|25,00%|NY Islanders|nyi
+305||Benjamin Laiho|8|2|1|3|-4|4,1|12|16,67%|Washington|was
+306||Martin Straka|12|2|1|3|-7|3,9|22|9,09%|Pittsburgh|pit
+307||Alain Osvald|13|2|1|3|-7|3,9|13|15,38%|Detroit|det
+308||Borut Janša|13|2|1|3|-10|3,8|25|8,00%|Detroit|det
+309||Lado Hrovat|13|2|1|3|-15|3,6|11|18,18%|Carolina|car
+310||Levoslav Kršák|5|2|1|3|-15|3,2|12|16,67%|Minnesota|min
+311||Jure Paklar|3|1|2|3|+5|5,9|5|20,00%|Colorado|col
+312||Lambert Lorenc|12|1|2|3|+9|4,6|18|5,56%|Edmonton|edm
+313||Boris Homolka|12|1|2|3|+8|4,6|13|7,69%|NJ Devils|njd
+314||Andrejs Zīlīte|13|1|2|3|+8|4,6|19|5,26%|Ottawa|ott
+315||Ludwik Wawszczak|12|1|2|3|+3|4,4|15|6,67%|Atlanta|atl
+316||Roman Spišiak|12|1|2|3|+3|4,4|10|10,00%|Calgary|cgy
+317||Kristián Čihák|11|1|2|3|+1|4,4|24|4,17%|San Jose|sjs
+318||Róbert Tonin|11|1|2|3|+2|4,3|18|5,56%|Phoenix|phx
+319||Alfréd Lužica|13|1|2|3|0|4,3|15|6,67%|Tampa Bay|tbl
+320||Rudolf Faragó|12|1|2|3|0|4,3|22|4,55%|LA Kings|lak
+321||David Kaňa|13|1|2|3|-1|4,2|12|8,33%|Buffalo|buf
+322||Josef Melichar|10|1|2|3|-4|4,1|14|7,14%|Pittsburgh|pit
+323||Servác Rajnoha|13|1|2|3|-5|4,0|8|12,50%|NY Islanders|nyi
+324||Libor Pokorný|10|1|2|3|-6|4,0|23|4,35%|Nashville|nas
+325||Bohumír Janota|13|1|2|3|-8|3,9|16|6,25%|Buffalo|buf
+326||Silvestrs Skrastiņš|11|1|2|3|-9|3,9|23|4,35%|Philadelphia|phi
+327||Oliver Jamrich|13|1|2|3|-8|3,9|30|3,33%|Buffalo|buf
+328||Visvaldis Jumiķis|11|1|2|3|-10|3,8|14|7,14%|Detroit|det
+329||Benno Pichon|12|1|2|3|-12|3,7|22|4,55%|Nashville|nas
+330||Ładysław Donica|9|1|2|3|-21|3,1|5|20,00%|Anaheim|ana
+331||Timon Alexander Ebinger|3|0|3|3|+2|5,5|7|0,00%|St. Louis|stl
+332||Dávid Senecký|5|0|3|3|+6|5,3|1|0,00%|NY Rangers|nyr
+333||Klement Gapa|11|0|3|3|+20|5,2|28|0,00%|Toronto|tor
+334||Arsenio Nobal|6|0|3|3|+7|5,2|13|0,00%|NY Rangers|nyr
+335||Ştefan Buzatu|11|0|3|3|+16|5,1|11|0,00%|Florida|fla
+336||Jukums Otiņš|12|0|3|3|+14|4,9|14|0,00%|NJ Devils|njd
+337||Lukáš Salár|12|0|3|3|+12|4,8|32|0,00%|Ottawa|ott
+338||Ľubomír Kahan|13|0|3|3|+10|4,7|23|0,00%|Atlanta|atl
+339||Georg Kautiainen|8|0|3|3|+5|4,7|12|0,00%|Washington|was
+340||Martin Lavrinc|11|0|3|3|+7|4,7|28|0,00%|Atlanta|atl
+341||Mihails Andermans|12|0|3|3|+7|4,6|6|0,00%|Ottawa|ott
+342||Konstantin Vostrikov|11|0|3|3|+4|4,5|9|0,00%|Dallas|dal
+343||Zdeno German|6|0|3|3|+1|4,5|6|0,00%|Edmonton|edm
+344||Sevostyan Nesyn|13|0|3|3|+5|4,5|18|0,00%|Calgary|cgy
+345||Jurij Gogala|10|0|3|3|+3|4,5|15|0,00%|Chicago|chi
+346||Alun Jenkins|13|0|3|3|+5|4,4|13|0,00%|Chicago|chi
+347||Mariss Meisars|13|0|3|3|+4|4,4|24|0,00%|Calgary|cgy
+348||Sergio Kauth|13|0|3|3|+3|4,3|25|0,00%|Chicago|chi
+349||Arhip Sabanau|13|0|3|3|+3|4,3|14|0,00%|Detroit|det
+350||Hinrich Semmelweis|10|0|3|3|-5|4,1|4|0,00%|Chicago|chi
+351||Bjarne Forum|12|0|3|3|-2|4,1|13|0,00%|Columbus|cbj
+352||Emīls Asanovs|11|0|3|3|-11|4,0|11|0,00%|NJ Devils|njd
+353||Richard Groves|13|0|3|3|-13|3,8|13|0,00%|Colorado|col
+354||Radoje Đorđević|13|0|3|3|-18|3,6|14|0,00%|Anaheim|ana
+355||Erik Solčanský|3|2|0|2|+4|5,4|6|33,33%|Colorado|col
+356||Adalbert Bende|8|2|0|2|+6|4,7|9|22,22%|Minnesota|min
+357||Dalibor Jambor|12|2|0|2|+8|4,6|18|11,11%|NJ Devils|njd
+358||Brett Sakic|3|2|0|2|-1|4,5|3|66,67%|Chicago|chi
+359||Petr Ivannikov|7|2|0|2|+1|4,4|13|15,38%|Ottawa|ott
+360||Ján Panchura|11|2|0|2|+3|4,3|23|8,70%|Philadelphia|phi
+361||Miroslav Benčat|13|2|0|2|+3|4,3|10|20,00%|Calgary|cgy
+362||Mojmír Porubčan|13|2|0|2|+1|4,2|35|5,71%|San Jose|sjs
+363||Maroš Hulek|13|2|0|2|0|4,1|14|14,29%|Buffalo|buf
+364||Zikmund Tříska|4|2|0|2|-4|4,0|10|20,00%|Florida|fla
+365||Frederik Zelinka|13|2|0|2|-16|3,5|25|8,00%|Vancouver|van
+366||Gordon Michalec|12|2|0|2|-18|3,4|9|22,22%|Boston|bos
+367||Robert Schwarz|10|2|0|2|-23|3,3|13|15,38%|Colorado|col
+368||Vinko Prešern|7|1|1|2|+6|4,8|11|9,09%|Minnesota|min
+369||Emil Petrů|7|1|1|2|+3|4,5|5|20,00%|NY Rangers|nyr
+370||Alexander Mejer|7|1|1|2|+3|4,5|9|11,11%|Colorado|col
+371||Armands Strautnieks|13|1|1|2|+5|4,4|20|5,00%|Calgary|cgy
+372||Timotej Bosco|13|1|1|2|+5|4,4|15|6,67%|LA Kings|lak
+373||Marians Rupais|7|1|1|2|+1|4,3|6|16,67%|Nashville|nas
+374||Johann Rößler|13|1|1|2|+5|4,3|24|4,17%|Calgary|cgy
+375||Tibor Studený|13|1|1|2|+4|4,3|36|2,78%|NY Islanders|nyi
+376||Urban Mrkvička|11|1|1|2|0|4,3|13|7,69%|Atlanta|atl
+377||Olavi Jylkkä|13|1|1|2|0|4,2|24|4,17%|San Jose|sjs
+378||Václav Timkovič|4|1|1|2|-3|4,2|5|20,00%|Dallas|dal
+379||Dezider Zuggo|13|1|1|2|0|4,1|14|7,14%|Edmonton|edm
+380||Uolevi Bergroth|7|1|1|2|-4|4,0|13|7,69%|Washington|was
+381||Maximilián Vaško|13|1|1|2|-5|3,9|17|5,88%|NY Islanders|nyi
+382||Dragutin Kalođera|9|1|1|2|-6|3,9|18|5,56%|Nashville|nas
+383||Marek Formánek|7|1|1|2|-5|3,9|4|25,00%|Boston|bos
+384||Eino Kamsula|13|1|1|2|-7|3,9|13|7,69%|Washington|was
+385||Jan Hejda|12|1|1|2|-9|3,8|6|16,67%|Pittsburgh|pit
+386||Elias Vehmanen|13|1|1|2|-8|3,8|15|6,67%|Washington|was
+387||Peik Tapola|13|1|1|2|-8|3,8|11|9,09%|Washington|was
+388||Marek Krupka|8|1|1|2|-7|3,7|13|7,69%|Nashville|nas
+389||Jaroslav Modrý|12|1|1|2|-11|3,7|4|25,00%|Pittsburgh|pit
+390||Mark Messier|12|1|1|2|-11|3,7|5|20,00%|Pittsburgh|pit
+391||Filip Milo|13|1|1|2|-15|3,5|21|4,76%|Carolina|car
+392||Martin Kotek|13|1|1|2|-18|3,4|20|5,00%|Vancouver|van
+393||Frederik Hrúzik|13|1|1|2|-23|3,2|15|6,67%|Vancouver|van
+394||Martin Demel|5|1|1|2|-15|3,0|16|6,25%|Minnesota|min
+395||Boleslav Bzek|2|0|2|2|+5|6,4|3|0,00%|Chicago|chi
+396||Spencer Saunders|5|0|2|2|+6|5,1|3|0,00%|Colorado|col
+397||Bruno Pleva|2|0|2|2|0|5,0|1|0,00%|St. Louis|stl
+398||Bernd Hillebrandt|7|0|2|2|+8|5,0|4|0,00%|Philadelphia|phi
+399||Vlastislav Ondrišík|3|0|2|2|0|4,8|4|0,00%|Ottawa|ott
+400||Brage Bjune|8|0|2|2|+4|4,6|12|0,00%|Minnesota|min
+401||Leopold Čonda|8|0|2|2|+4|4,6|8|0,00%|Minnesota|min
+402||Cedric Madlener|5|0|2|2|+1|4,5|9|0,00%|Atlanta|atl
+403||Július Druga|11|0|2|2|+6|4,5|14|0,00%|Atlanta|atl
+404||Adam Šimáček|10|0|2|2|+5|4,5|11|0,00%|NY Rangers|nyr
+405||Ján Vozár|11|0|2|2|+6|4,5|10|0,00%|Tampa Bay|tbl
+406||Tomáš Soukup|13|0|2|2|+7|4,5|7|0,00%|Tampa Bay|tbl
+407||James Strachan|7|0|2|2|+2|4,5|19|0,00%|Ottawa|ott
+408||Dzianis Nitsevich|4|0|2|2|-1|4,4|3|0,00%|Philadelphia|phi
+409||Colin McGooken|4|0|2|2|-1|4,4|4|0,00%|Nashville|nas
+410||Jaroslavas Lesčiukaitis|10|0|2|2|+3|4,3|25|0,00%|Chicago|chi
+411||Ville Nieminen|4|0|2|2|-1|4,3|2|0,00%|Pittsburgh|pit
+412||Guy Menard|12|0|2|2|+3|4,3|22|0,00%|NY Islanders|nyi
+413||Maximilián Štefák|10|0|2|2|0|4,2|10|0,00%|Edmonton|edm
+414||Jan Dusheuski|13|0|2|2|+1|4,2|19|0,00%|LA Kings|lak
+415||Michael Moser|13|0|2|2|-1|4,2|23|0,00%|Calgary|cgy
+416||Jakub Pánsky|8|0|2|2|-3|4,2|9|0,00%|NJ Devils|njd
+417||Antti Merivuo|9|0|2|2|-1|4,1|14|0,00%|Detroit|det
+418||Yrjö Vähäsöyrinki|8|0|2|2|-2|4,1|5|0,00%|Washington|was
+419||Žiga Simšič|9|0|2|2|-1|4,1|5|0,00%|Detroit|det
+420||Roman Náhlovský|13|0|2|2|-4|4,0|16|0,00%|Colorado|col
+421||Petri Karinkanta|13|0|2|2|-6|3,9|21|0,00%|Chicago|chi
+422||Rolands Caune|13|0|2|2|-7|3,9|9|0,00%|Chicago|chi
+423||Eduard Kanareykin|4|0|2|2|-4|3,9|6|0,00%|Colorado|col
+424||Darren Ricker|12|0|2|2|-9|3,9|16|0,00%|Philadelphia|phi
+425||Mark Köhne|13|0|2|2|-10|3,8|9|0,00%|Ottawa|ott
+426||Nils Ekman|12|0|2|2|-9|3,8|8|0,00%|Pittsburgh|pit
+427||Mark Steffen|8|0|2|2|-7|3,8|9|0,00%|Nashville|nas
+428||Andrey Markov|12|0|2|2|-8|3,8|13|0,00%|Pittsburgh|pit
+429||Robert Pungaršek|6|0|2|2|-6|3,7|5|0,00%|Carolina|car
+430||Ulf Ecker|10|0|2|2|-9|3,7|6|0,00%|Columbus|cbj
+431||Kristaps Emsis|6|0|2|2|-7|3,7|8|0,00%|Boston|bos
+432||Vojtěch Masopust|13|0|2|2|-14|3,6|14|0,00%|Carolina|car
+433||Simon Figura|13|0|2|2|-21|3,3|12|0,00%|Boston|bos
+434||Joonas Vuorisalmi|10|0|2|2|-25|3,2|12|0,00%|Colorado|col
+435||Amon Zwolan|11|0|2|2|-21|3,1|10|0,00%|Anaheim|ana
+436||Medard Polomský|1|1|0|1|+1|5,6|1|100,00%|Colorado|col
+437||Jazon Ejfler|2|1|0|1|+3|5,4|3|33,33%|St. Louis|stl
+438||David Sklenář|2|1|0|1|+2|5,1|6|16,67%|Atlanta|atl
+439||Klaus Rosenberg|3|1|0|1|+3|4,9|6|16,67%|Colorado|col
+440||Bartolomej Ohlas|3|1|0|1|+1|4,5|4|25,00%|Phoenix|phx
+441||Voitto Kantola|2|1|0|1|0|4,5|4|25,00%|Philadelphia|phi
+442||Alain Lorbek|3|1|0|1|0|4,4|3|33,33%|Detroit|det
+443||Václav Káčer|3|1|0|1|0|4,4|5|20,00%|Tampa Bay|tbl
+444||Imanuel Hubač|6|1|0|1|0|4,2|7|14,29%|Minnesota|min
+445||Lassi Meritähti|2|1|0|1|-1|4,2|2|50,00%|Nashville|nas
+446||Jakub Kořínek|12|1|0|1|+3|4,2|3|33,33%|Calgary|cgy
+447||Timmu Roosmaa|9|1|0|1|+1|4,2|8|12,50%|Ottawa|ott
+448||Matej Drobiš|11|1|0|1|+2|4,2|4|25,00%|Phoenix|phx
+449||Dionizy Gronowski|10|1|0|1|0|4,2|2|50,00%|Montreal|mtl
+450||Anton Hočevar|13|1|0|1|0|4,2|10|10,00%|San Jose|sjs
+451||Radek Dokoupil|3|1|0|1|-1|4,1|3|33,33%|Buffalo|buf
+452||Nichypar Satsevich|13|1|0|1|-1|4,1|5|20,00%|Tampa Bay|tbl
+453||Oldrich Behál|4|1|0|1|-1|4,1|9|11,11%|Ottawa|ott
+454||Tomáš Beneš|3|1|0|1|-2|4,0|3|33,33%|Philadelphia|phi
+455||Pēteris Seskis|7|1|0|1|-3|4,0|25|4,00%|Dallas|dal
+456||Tuomas Hyötylä|8|1|0|1|-2|3,9|13|7,69%|Washington|was
+457||Adrien Dos santos|13|1|0|1|-6|3,8|13|7,69%|Chicago|chi
+458||Per Allén|7|1|0|1|-4|3,8|5|20,00%|Washington|was
+459||Ján Šutka|5|1|0|1|-3|3,8|6|16,67%|Anaheim|ana
+460||Steve Yzerman|12|1|0|1|-10|3,7|12|8,33%|Pittsburgh|pit
+461||Petr Svoboda|11|1|0|1|-9|3,7|4|25,00%|Pittsburgh|pit
+462||Niko Lah|13|1|0|1|-12|3,6|8|12,50%|Detroit|det
+463||Mário Haluza|12|1|0|1|-10|3,6|15|6,67%|Columbus|cbj
+464||Albert Sklenář|13|1|0|1|-13|3,5|13|7,69%|Carolina|car
+465||Patrik Eliáš|11|1|0|1|-12|3,5|6|16,67%|Pittsburgh|pit
+466||Štefan Lejko|13|1|0|1|-15|3,4|16|6,25%|Boston|bos
+467||Ivan Fatović|12|1|0|1|-13|3,4|7|14,29%|Columbus|cbj
+468||Anco Kroeze|5|1|0|1|-8|3,4|5|20,00%|Minnesota|min
+469||Arie Winkes|12|1|0|1|-17|3,4|11|9,09%|Anaheim|ana
+470||Marcel Stanciu|12|1|0|1|-16|3,3|17|5,88%|Columbus|cbj
+471||Normunds Zemnieks|13|1|0|1|-19|3,3|7|14,29%|Anaheim|ana
+472||Ernest Horbacz|13|1|0|1|-19|3,3|27|3,70%|Boston|bos
+473||Dušan Ľuptáčik|6|1|0|1|-10|3,3|5|20,00%|Vancouver|van
+474||Koert Berkhout|1|0|1|1|+3|6,7|1|0,00%|Ottawa|ott
+475||Valto Näykki|1|0|1|1|+2|6,2|4|0,00%|Atlanta|atl
+476||Janez Demšar|1|0|1|1|+2|6,0|1|0,00%|Calgary|cgy
+477||Leon Geerts|1|0|1|1|+2|5,9|3|0,00%|Nashville|nas
+478||Ossian Maarup|1|0|1|1|+1|5,7|1|0,00%|NY Rangers|nyr
+479||Drahoslav Krišpinský|2|0|1|1|+2|5,2|4|0,00%|NY Rangers|nyr
+480||Gancho Germanov|2|0|1|1|+2|5,0|1|0,00%|NJ Devils|njd
+481||Onni Nääppä|1|0|1|1|0|5,0|1|0,00%|Minnesota|min
+482||Denis Pelich|2|0|1|1|+2|5,0|0|0,00%|Dallas|dal
+483||Klāvs Maksimovs|2|0|1|1|+1|4,9|1|0,00%|Montreal|mtl
+484||Ladislav Beňo|3|0|1|1|+4|4,9|7|0,00%|Ottawa|ott
+485||Jēkabs Karsums|8|0|1|1|+11|4,8|17|0,00%|Philadelphia|phi
+486||Bryan Bathurst|2|0|1|1|+1|4,8|4|0,00%|NY Islanders|nyi
+487||Sidón Majtner|3|0|1|1|+2|4,7|2|0,00%|Atlanta|atl
+488||Kaspars Lejiņš|4|0|1|1|+3|4,6|8|0,00%|Chicago|chi
+489||Tomáš Filander|2|0|1|1|0|4,6|1|0,00%|Boston|bos
+490||Marián Richtarčík|4|0|1|1|+2|4,6|7|0,00%|Montreal|mtl
+491||Roberto Rosal|11|0|1|1|+8|4,5|9|0,00%|Toronto|tor
+492||Maxmilián Jurečka|10|0|1|1|+5|4,4|4|0,00%|NY Rangers|nyr
+493||Jonatan Taimisto|8|0|1|1|+5|4,4|15|0,00%|Washington|was
+494||Otto Wendt|9|0|1|1|+4|4,4|10|0,00%|Philadelphia|phi
+495||Prokop Špilár|13|0|1|1|+4|4,3|10|0,00%|Toronto|tor
+496||Dezider Kaščák|3|0|1|1|0|4,3|8|0,00%|LA Kings|lak
+497||Pablo Osorio|3|0|1|1|0|4,3|2|0,00%|Chicago|chi
+498||Ján Zelinka|3|0|1|1|0|4,3|6|0,00%|LA Kings|lak
+499||Tsihan Lazarevich|12|0|1|1|+5|4,3|17|0,00%|NJ Devils|njd
+500||Jozef Mošať|10|0|1|1|+4|4,3|9|0,00%|Chicago|chi
+501||Ernest Palka|11|0|1|1|+4|4,3|12|0,00%|Phoenix|phx
+502||Radoslav Levý|13|0|1|1|+4|4,3|8|0,00%|Philadelphia|phi
+503||Egon Ruka|2|0|1|1|-1|4,3|2|0,00%|Minnesota|min
+504||Henri Kleb|3|0|1|1|0|4,2|3|0,00%|Philadelphia|phi
+505||Ludwig Scheer|8|0|1|1|+1|4,2|9|0,00%|Minnesota|min
+506||Radomír Drobiš|4|0|1|1|0|4,2|9|0,00%|NY Islanders|nyi
+507||Olve Solvik|10|0|1|1|+1|4,2|10|0,00%|San Jose|sjs
+508||Mica Reid|10|0|1|1|+1|4,2|8|0,00%|Atlanta|atl
+509||Dobroslav Čermák|11|0|1|1|+1|4,2|14|0,00%|Tampa Bay|tbl
+510||Egor Vasiliev|8|0|1|1|0|4,2|6|0,00%|NY Islanders|nyi
+511||Juro Borović|11|0|1|1|-1|4,1|9|0,00%|Tampa Bay|tbl
+512||Radoslav Dvořák|13|0|1|1|0|4,1|8|0,00%|Tampa Bay|tbl
+513||Joachim Schett|13|0|1|1|-1|4,1|9|0,00%|Tampa Bay|tbl
+514||Bohumír Roháčik|8|0|1|1|0|4,1|7|0,00%|Edmonton|edm
+515||Juraj Turčan|3|0|1|1|-1|4,1|1|0,00%|LA Kings|lak
+516||Viktor Södergren|9|0|1|1|-1|4,1|13|0,00%|Detroit|det
+517||Lavrentiy Konyushenko|13|0|1|1|-2|4,1|12|0,00%|Tampa Bay|tbl
+518||Dionýz Peniaško|3|0|1|1|-1|4,0|4|0,00%|Edmonton|edm
+519||Guntars Vilnītis|5|0|1|1|-1|4,0|6|0,00%|Buffalo|buf
+520||Ruslan Mitskovich|8|0|1|1|-1|4,0|12|0,00%|Edmonton|edm
+521||Fedor Boledovič|2|0|1|1|-2|4,0|2|0,00%|Detroit|det
+522||Jesse Polvi|8|0|1|1|-2|4,0|10|0,00%|Washington|was
+523||Mitchell Care|8|0|1|1|-4|3,9|9|0,00%|Washington|was
+524||Leevi Meronen|5|0|1|1|-3|3,9|2|0,00%|Colorado|col
+525||Zdeněk Horák|2|0|1|1|-2|3,9|1|0,00%|Detroit|det
+526||Matej Pecho|13|0|1|1|-5|3,8|11|0,00%|Colorado|col
+527||Vojtěch Červený|6|0|1|1|-4|3,8|2|0,00%|Washington|was
+528||John Caron|13|0|1|1|-8|3,8|10|0,00%|Ottawa|ott
+529||Marvin Heithorst|12|0|1|1|-8|3,8|19|0,00%|Philadelphia|phi
+530||Ján Moravec|5|0|1|1|-4|3,8|7|0,00%|Washington|was
+531||Bohuš Hreha|10|0|1|1|-6|3,8|9|0,00%|Washington|was
+532||Jaromír Haspra|5|0|1|1|-4|3,7|2|0,00%|Nashville|nas
+533||Karel Dočekal|5|0|1|1|-4|3,7|2|0,00%|Colorado|col
+534||Lasse Nyqvist|13|0|1|1|-9|3,7|25|0,00%|Buffalo|buf
+535||Arto Viika|5|0|1|1|-4|3,7|8|0,00%|Washington|was
+536||Orvo Ristola|5|0|1|1|-5|3,7|0|0,00%|Minnesota|min
+537||Bruno Chladný|4|0|1|1|-5|3,7|4|0,00%|Nashville|nas
+538||Daniel Aksdal|12|0|1|1|-8|3,7|6|0,00%|Columbus|cbj
+539||Srečko Turk|11|0|1|1|-9|3,7|5|0,00%|Detroit|det
+540||Artūrs Gerkens|9|0|1|1|-7|3,7|9|0,00%|Nashville|nas
+541||Robin Pelikán|13|0|1|1|-10|3,7|28|0,00%|Ottawa|ott
+542||Pēteris Jass|11|0|1|1|-9|3,6|7|0,00%|Detroit|det
+543||Frederik Menze|9|0|1|1|-8|3,6|8|0,00%|Edmonton|edm
+544||Peter Bondra|10|0|1|1|-9|3,6|6|0,00%|Pittsburgh|pit
+545||Dobroslav Rajtár|13|0|1|1|-12|3,6|14|0,00%|Detroit|det
+546||Ladislav Májik|9|0|1|1|-8|3,6|8|0,00%|Boston|bos
+547||Ladislav Císař|13|0|1|1|-14|3,5|23|0,00%|Boston|bos
+548||Aleš Rusovský|10|0|1|1|-12|3,5|8|0,00%|Nashville|nas
+549||Helmut Čierny|4|0|1|1|-6|3,5|4|0,00%|Vancouver|van
+550||Vítězslav Dočkal|11|0|1|1|-14|3,4|24|0,00%|Nashville|nas
+551||Josue Pena|3|0|1|1|-5|3,4|1|0,00%|Anaheim|ana
+552||Metod Šenk|11|0|1|1|-14|3,4|13|0,00%|Anaheim|ana
+553||Horst Peitz|12|0|1|1|-16|3,4|12|0,00%|Columbus|cbj
+554||Gerold Zeier|13|0|1|1|-18|3,3|9|0,00%|Anaheim|ana
+555||Iván Mora|13|0|1|1|-18|3,3|7|0,00%|Vancouver|van
+556||Aivars Melnalksnis|11|0|1|1|-17|3,3|12|0,00%|Nashville|nas
+557||Iľja Vodný|13|0|1|1|-18|3,3|8|0,00%|Anaheim|ana
+558||Ignác Zajíček|13|0|1|1|-21|3,2|13|0,00%|Boston|bos
+559||Martin Demeš|8|0|1|1|-15|3,2|10|0,00%|Colorado|col
+560||Samuel Zedník|4|0|1|1|-10|3,0|6|0,00%|Minnesota|min
+561||Vyacheslav Berezin|5|0|1|1|-15|2,8|5|0,00%|Minnesota|min
+562||Tomáš Filander|5|0|1|1|-15|2,8|8|0,00%|Minnesota|min
+563||Andre Bonnet|2|0|0|0|+4|5,1|3|0,00%|St. Louis|stl
+564||Patrik Kastelovič|2|0|0|0|+3|5,0|2|0,00%|Atlanta|atl
+565||Gustav Hanousek|1|0|0|0|+1|4,7|0|0,00%|Colorado|col
+566||Milan Katriňák|1|0|0|0|+1|4,7|2|0,00%|San Jose|sjs
+567||Vladimir Kargopolov|1|0|0|0|+1|4,7|0|0,00%|Ottawa|ott
+568||Viktor Netto|6|0|0|0|+6|4,6|5|0,00%|NJ Devils|njd
+569||Miroslav Štofk|1|0|0|0|+1|4,4|0|0,00%|Tampa Bay|tbl
+570||Denis Šahraj|5|0|0|0|+3|4,4|11|0,00%|Florida|fla
+571||Anatol Chmiel|4|0|0|0|+3|4,4|8|0,00%|NJ Devils|njd
+572||Frederik Martynyuk|13|0|0|0|+8|4,3|24|0,00%|LA Kings|lak
+573||Adolf Spengemann|3|0|0|0|+2|4,3|7|0,00%|Chicago|chi
+574||Pravomil Janovec|4|0|0|0|+2|4,3|4|0,00%|Dallas|dal
+575||Brian Mong|6|0|0|0|+2|4,3|8|0,00%|Atlanta|atl
+576||Dávid Pechs|1|0|0|0|0|4,2|0|0,00%|NY Rangers|nyr
+577||Edwin Bengtsson|1|0|0|0|0|4,2|2|0,00%|Colorado|col
+578||Erik Ekdahl|1|0|0|0|0|4,2|2|0,00%|Dallas|dal
+579||Gerd Rosenberg|1|0|0|0|0|4,2|4|0,00%|San Jose|sjs
+580||Konštantín Černošek|1|0|0|0|0|4,2|1|0,00%|Ottawa|ott
+581||Michal Hašek|8|0|0|0|+3|4,2|10|0,00%|Minnesota|min
+582||Urban Čaja|13|0|0|0|+4|4,2|8|0,00%|Phoenix|phx
+583||Antonín Sklenář|12|0|0|0|+2|4,2|1|0,00%|Atlanta|atl
+584||Alekss Sinčuks|3|0|0|0|+1|4,2|1|0,00%|Ottawa|ott
+585||Ondřej Trojan|12|0|0|0|+3|4,2|10|0,00%|Calgary|cgy
+586||Svätopluk Smutný|12|0|0|0|+2|4,2|2|0,00%|Atlanta|atl
+587||Bernard Skrúcaný|2|0|0|0|+1|4,2|5|0,00%|Dallas|dal
+588||David Petříček|12|0|0|0|+3|4,1|14|0,00%|Calgary|cgy
+589||Iskren Tilev|11|0|0|0|+2|4,1|8|0,00%|Phoenix|phx
+590||Tomáš Janů|12|0|0|0|+2|4,1|2|0,00%|Montreal|mtl
+591||Selimir Stanković|11|0|0|0|+2|4,1|4|0,00%|Detroit|det
+592||Eduard Rovňák|2|0|0|0|0|4,1|4|0,00%|Atlanta|atl
+593||Ľuboš Gaži|1|0|0|0|0|4,1|1|0,00%|Calgary|cgy
+594||Vladimír Halmovský|3|0|0|0|0|4,1|0|0,00%|Minnesota|min
+595||Peter Demko|8|0|0|0|0|4,1|2|0,00%|Atlanta|atl
+596||Štefan Zvarik|4|0|0|0|+1|4,1|2|0,00%|Montreal|mtl
+597||Rudolf Chrenko|7|0|0|0|+1|4,1|7|0,00%|Montreal|mtl
+598||Sandy von Steiger|3|0|0|0|0|4,1|2|0,00%|Dallas|dal
+599||Ari Österberg|7|0|0|0|0|4,1|8|0,00%|Minnesota|min
+600||Kristaps Ūsiņš|2|0|0|0|0|4,1|4|0,00%|Florida|fla
+601||Manuel Denis|8|0|0|0|0|4,0|19|0,00%|Chicago|chi
+602||Daniel Harbuľák|12|0|0|0|0|4,0|7|0,00%|Montreal|mtl
+603||Roman Smejkal|4|0|0|0|-1|4,0|1|0,00%|Montreal|mtl
+604||Havel Hradecký|13|0|0|0|-1|4,0|11|0,00%|Tampa Bay|tbl
+605||Mathieu Igier|10|0|0|0|-3|4,0|6|0,00%|St. Louis|stl
+606||Astap Karpovich|11|0|0|0|-1|4,0|13|0,00%|Tampa Bay|tbl
+607||Antun Buterin|1|0|0|0|0|4,0|2|0,00%|Tampa Bay|tbl
+608||Joachim Marcenko|1|0|0|0|0|4,0|2|0,00%|Anaheim|ana
+609||Libor Mucha|2|0|0|0|0|4,0|1|0,00%|Dallas|dal
+610||Pravomil Bečka|1|0|0|0|0|4,0|1|0,00%|Montreal|mtl
+611||Dino Hinterberger|13|0|0|0|-1|4,0|25|0,00%|Calgary|cgy
+612||Václav Pukalovič|4|0|0|0|0|4,0|0|0,00%|NY Rangers|nyr
+613||Aleš Banka|3|0|0|0|0|4,0|0|0,00%|Carolina|car
+614||Aurel Látečka|3|0|0|0|0|4,0|4|0,00%|Minnesota|min
+615||René Krasňan|3|0|0|0|0|4,0|1|0,00%|LA Kings|lak
+616||Tomáš Minarovjech|10|0|0|0|-3|4,0|4|0,00%|St. Louis|stl
+617||Zdeno Petrov|5|0|0|0|0|4,0|1|0,00%|Montreal|mtl
+618||Ronald Dub|5|0|0|0|0|3,9|0|0,00%|Tampa Bay|tbl
+619||Martin Dobiáš|3|0|0|0|0|3,9|1|0,00%|Carolina|car
+620||Hubert Piroš|3|0|0|0|-1|3,9|0|0,00%|Montreal|mtl
+621||Roman Macko|11|0|0|0|-3|3,9|16|0,00%|Tampa Bay|tbl
+622||Ivan Bugyi|1|0|0|0|0|3,9|0|0,00%|Colorado|col
+623||Móric Lehoťák|3|0|0|0|0|3,9|0|0,00%|Carolina|car
+624||Radomír Bukovský|1|0|0|0|0|3,9|1|0,00%|Colorado|col
+625||Sergey Kalashnikov|3|0|0|0|0|3,9|0|0,00%|LA Kings|lak
+626||Sírius Pangrac|1|0|0|0|0|3,9|1|0,00%|Atlanta|atl
+627||Torben Friese|1|0|0|0|0|3,9|0|0,00%|Philadelphia|phi
+628||Albín Drozda|13|0|0|0|-2|3,9|9|0,00%|Phoenix|phx
+629||Miroslav Kecer|9|0|0|0|-2|3,9|17|0,00%|Edmonton|edm
+630||Félix Kotrla|7|0|0|0|-1|3,9|4|0,00%|Phoenix|phx
+631||Normunds Vikulovs|6|0|0|0|-1|3,9|3|0,00%|Detroit|det
+632||Ivan Bradáč|4|0|0|0|-2|3,9|1|0,00%|Toronto|tor
+633||Ugo Coffey|8|0|0|0|-4|3,9|1|0,00%|St. Louis|stl
+634||Gatis Zvēriņš|7|0|0|0|-3|3,9|2|0,00%|St. Louis|stl
+635||Vincent Blanc|11|0|0|0|-5|3,9|9|0,00%|St. Louis|stl
+636||Stanislav Gengeľ|2|0|0|0|-1|3,9|2|0,00%|Atlanta|atl
+637||Kamil Smrčka|3|0|0|0|-1|3,8|2|0,00%|Buffalo|buf
+638||Vladimír Bánik|3|0|0|0|-1|3,8|4|0,00%|LA Kings|lak
+639||Rihards Ķirsis|7|0|0|0|-3|3,8|3|0,00%|NJ Devils|njd
+640||Kimmo Koivukangas|5|0|0|0|-1|3,8|9|0,00%|Washington|was
+641||Arcangelo Manfredonia|3|0|0|0|-1|3,8|0|0,00%|Carolina|car
+642||Miroslav Brejcha|5|0|0|0|-1|3,8|4|0,00%|NY Islanders|nyi
+643||Valev Kaasik|5|0|0|0|-2|3,8|7|0,00%|Ottawa|ott
+644||Vojtěch Chmelař|1|0|0|0|0|3,8|3|0,00%|Ottawa|ott
+645||Jozef Florek|3|0|0|0|-2|3,8|3|0,00%|Dallas|dal
+646||Ľubomír Vaňo|4|0|0|0|-2|3,8|4|0,00%|Tampa Bay|tbl
+647||Oren Livzon|2|0|0|0|-1|3,8|2|0,00%|Anaheim|ana
+648||Izidor Palach|5|0|0|0|-4|3,7|4|0,00%|NJ Devils|njd
+649||Olli Tabor|2|0|0|0|-1|3,7|2|0,00%|Philadelphia|phi
+650||Tauno Rohunen|4|0|0|0|-2|3,7|6|0,00%|Edmonton|edm
+651||Aleš Kostík|13|0|0|0|-8|3,7|3|0,00%|Phoenix|phx
+652||Drahoslav Vícha|3|0|0|0|-2|3,7|7|0,00%|Buffalo|buf
+653||Alexander Korolyuk|12|0|0|0|-7|3,7|16|0,00%|Pittsburgh|pit
+654||Niclas Brüggemann|2|0|0|0|-1|3,7|0|0,00%|Vancouver|van
+655||Vladimir Malakhov|12|0|0|0|-8|3,7|10|0,00%|Pittsburgh|pit
+656||Pentti Tuomaala|7|0|0|0|-4|3,6|1|0,00%|Washington|was
+657||Petr Sýkora|12|0|0|0|-9|3,6|8|0,00%|Pittsburgh|pit
+658||Pauli Salli|11|0|0|0|-6|3,6|12|0,00%|Carolina|car
+659||Valdemar Čech|3|0|0|0|-2|3,6|4|0,00%|Buffalo|buf
+660||Dobromil Tobis|2|0|0|0|-1|3,6|1|0,00%|Phoenix|phx
+661||Christian Münzner|11|0|0|0|-9|3,6|8|0,00%|Detroit|det
+662||Vesa Siivola|9|0|0|0|-6|3,6|7|0,00%|Washington|was
+663||Dušan Stolár|4|0|0|0|-3|3,6|1|0,00%|Washington|was
+664||Finnian Sarisbury|6|0|0|0|-4|3,6|0|0,00%|Carolina|car
+665||Lucas Taylor|5|0|0|0|-4|3,5|5|0,00%|Vancouver|van
+666||Rastislav Jankulár|13|0|0|0|-18|3,5|6|0,00%|Colorado|col
+667||Dušan Štefan|4|0|0|0|-3|3,5|2|0,00%|Anaheim|ana
+668||Harri Maksimainen|5|0|0|0|-4|3,5|1|0,00%|Washington|was
+669||Martin Šlechta|5|0|0|0|-4|3,5|4|0,00%|Washington|was
+670||Valeriy Krivelev|10|0|0|0|-8|3,5|10|0,00%|Columbus|cbj
+671||Vilhelm Kiuru|5|0|0|0|-4|3,5|6|0,00%|Washington|was
+672||Bohuslav Nemšovský|1|0|0|0|-1|3,5|2|0,00%|Columbus|cbj
+673||David Gantar|2|0|0|0|-2|3,5|0|0,00%|Detroit|det
+674||Edijs Ieviņš|1|0|0|0|-1|3,5|3|0,00%|Columbus|cbj
+675||Fridrich Drienovský|1|0|0|0|-1|3,5|1|0,00%|NJ Devils|njd
+676||Leon Palmgren|2|0|0|0|-2|3,5|1|0,00%|St. Louis|stl
+677||Tichomír Práznovský|13|0|0|0|-11|3,5|3|0,00%|Boston|bos
+678||Tuomas Mölkänen|2|0|0|0|-2|3,5|6|0,00%|Detroit|det
+679||Viesturs Matulis|1|0|0|0|-1|3,5|0|0,00%|NJ Devils|njd
+680||Marino Bebić|4|0|0|0|-8|3,5|1|0,00%|NJ Devils|njd
+681||Eugen Fridrišek|9|0|0|0|-8|3,5|10|0,00%|Nashville|nas
+682||Jonathan Gossiaux|5|0|0|0|-4|3,5|5|0,00%|Carolina|car
+683||Jaromír Cehuľa|9|0|0|0|-9|3,5|7|0,00%|Phoenix|phx
+684||Ladislav Ďateľ|2|0|0|0|-2|3,5|1|0,00%|NY Islanders|nyi
+685||Tomas Gjoe|13|0|0|0|-13|3,4|3|0,00%|Carolina|car
+686||Adam Zliechovec|13|0|0|0|-13|3,4|4|0,00%|Carolina|car
+687||Viktor Jedlička|11|0|0|0|-12|3,4|19|0,00%|Nashville|nas
+688||Timothy Busby|4|0|0|0|-4|3,4|1|0,00%|Columbus|cbj
+689||Ēriks Svece|5|0|0|0|-5|3,4|4|0,00%|Minnesota|min
+690||Uroš Miler|12|0|0|0|-12|3,4|11|0,00%|Carolina|car
+691||Adam Miron|1|0|0|0|-1|3,4|0|0,00%|NJ Devils|njd
+692||Fedor Ondrejka|3|0|0|0|-3|3,4|1|0,00%|Vancouver|van
+693||Metod Jesenko|3|0|0|0|-3|3,4|6|0,00%|Anaheim|ana
+694||Blažej Gurčík|11|0|0|0|-11|3,4|6|0,00%|Boston|bos
+695||Dušan Mišiak|12|0|0|0|-13|3,4|7|0,00%|Columbus|cbj
+696||Bohumír Tomáš|13|0|0|0|-15|3,4|6|0,00%|Carolina|car
+697||Keijo Näs|13|0|0|0|-15|3,3|8|0,00%|Washington|was
+698||Genādijs Berlands|5|0|0|0|-5|3,3|9|0,00%|Vancouver|van
+699||Iľja Maskaľ|13|0|0|0|-17|3,3|5|0,00%|Boston|bos
+700||Elvis Myšk|10|0|0|0|-12|3,3|3|0,00%|Columbus|cbj
+701||Vít Guzan|13|0|0|0|-17|3,3|11|0,00%|Boston|bos
+702||Klement Jadlovský|4|0|0|0|-5|3,3|2|0,00%|Boston|bos
+703||Murray Hale|1|0|0|0|-1|3,3|0|0,00%|Minnesota|min
+704||Radoslav Klenko|1|0|0|0|-1|3,3|1|0,00%|NJ Devils|njd
+705||Tuomas Granqvist|10|0|0|0|-12|3,3|7|0,00%|Columbus|cbj
+706||Hostimil Rábek|10|0|0|0|-12|3,3|3|0,00%|Columbus|cbj
+707||Petr Pešek|5|0|0|0|-6|3,3|4|0,00%|Columbus|cbj
+708||Daniel Průša|11|0|0|0|-14|3,3|5|0,00%|Anaheim|ana
+709||Sandis Pirtnieks|11|0|0|0|-15|3,3|10|0,00%|Boston|bos
+710||Osvalds Jankovskis|3|0|0|0|-4|3,3|2|0,00%|Washington|was
+711||Artúr Ivanov|5|0|0|0|-6|3,3|1|0,00%|Colorado|col
+712||Anton Nilsson|13|0|0|0|-19|3,3|15|0,00%|Anaheim|ana
+713||Edvards Cauniņš|12|0|0|0|-16|3,2|8|0,00%|Columbus|cbj
+714||Adam Béder|12|0|0|0|-16|3,2|12|0,00%|Columbus|cbj
+715||Jozef Žiška|5|0|0|0|-7|3,2|2|0,00%|Minnesota|min
+716||Sander Moraux|9|0|0|0|-12|3,2|8|0,00%|Vancouver|van
+717||Raimond Shor|4|0|0|0|-5|3,2|1|0,00%|Columbus|cbj
+718||Izidor Forrai|13|0|0|0|-19|3,2|19|0,00%|Boston|bos
+719||Friedrich Tonneau|5|0|0|0|-7|3,2|5|0,00%|Minnesota|min
+720||Karel Pelc|1|0|0|0|-2|3,2|0|0,00%|Dallas|dal
+721||Róbert Chlebo|12|0|0|0|-18|3,2|14|0,00%|Anaheim|ana
+722||Ondrej Kočan|13|0|0|0|-19|3,2|8|0,00%|Vancouver|van
+723||Michal Čejka|5|0|0|0|-9|3,2|1|0,00%|Minnesota|min
+724||Branislav Ďuriš|2|0|0|0|-3|3,2|1|0,00%|Boston|bos
+725||Filip Čarnický|2|0|0|0|-4|3,2|1|0,00%|Nashville|nas
+726||David Sýkora|7|0|0|0|-10|3,1|3|0,00%|Colorado|col
+727||Benny Flo|5|0|0|0|-8|3,1|4|0,00%|Minnesota|min
+728||Alfonz Benčö|13|0|0|0|-20|3,1|7|0,00%|Vancouver|van
+729||Hubert Šípoš|11|0|0|0|-17|3,1|5|0,00%|Vancouver|van
+730||Sergey Zubov|3|0|0|0|-5|3,1|1|0,00%|Pittsburgh|pit
+731||Jay Dunn|8|0|0|0|-13|3,1|4|0,00%|Carolina|car
+732||Pasi Sjöström|3|0|0|0|-5|3,0|3|0,00%|Colorado|col
+733||Juhani Kankaanpää|13|0|0|0|-24|3,0|13|0,00%|Vancouver|van
+734||Károly Bátori|12|0|0|0|-21|3,0|8|0,00%|Vancouver|van
+735||Mik Pančur|9|0|0|0|-17|3,0|9|0,00%|Anaheim|ana
+736||Aris Attiger|1|0|0|0|-2|3,0|0|0,00%|St. Louis|stl
+737||Iiro Kauramäki|1|0|0|0|-2|3,0|0|0,00%|Colorado|col
+738||Jarrett Vernon|1|0|0|0|-2|3,0|0|0,00%|St. Louis|stl
+739||Lukáš Němec|1|0|0|0|-2|3,0|0|0,00%|St. Louis|stl
+740||Marián Lapšanský|1|0|0|0|-2|3,0|0|0,00%|St. Louis|stl
+741||Toms Leimanis|1|0|0|0|-2|3,0|0|0,00%|Dallas|dal
+742||Valér Výrostk|5|0|0|0|-10|3,0|5|0,00%|Minnesota|min
+743||Jan Smrž|5|0|0|0|-10|3,0|4|0,00%|Minnesota|min
+744||Folke Thsillicristos|8|0|0|0|-16|2,9|17|0,00%|Colorado|col
+745||András Magyari|1|0|0|0|-2|2,9|0|0,00%|St. Louis|stl
+746||Greg Orr|1|0|0|0|-2|2,9|0|0,00%|St. Louis|stl
+747||Ihar Pavuk|1|0|0|0|-2|2,9|0|0,00%|St. Louis|stl
+748||Ľubomír Buchala|1|0|0|0|-2|2,9|0|0,00%|St. Louis|stl
+749||Patrik Hriseňko|1|0|0|0|-2|2,9|1|0,00%|St. Louis|stl
+750||Pudens Czernicki|1|0|0|0|-2|2,9|0|0,00%|St. Louis|stl
+751||Filip Špička|8|0|0|0|-22|2,9|4|0,00%|Colorado|col
+752||Yrjo Mettiäinen|9|0|0|0|-21|2,8|3|0,00%|Vancouver|van
+753||Māris Bute|5|0|0|0|-11|2,8|2|0,00%|Washington|was
+754||Bozhil Karadaliev|1|0|0|0|-2|2,8|1|0,00%|NJ Devils|njd
+755||Jozef Blaži|1|0|0|0|-2|2,8|0|0,00%|St. Louis|stl
+756||Mikael Mässeli|5|0|0|0|-11|2,8|6|0,00%|Washington|was
+757||Oskars Ruskulis|1|0|0|0|-2|2,8|0|0,00%|NJ Devils|njd
+758||Patap Khramenkou|1|0|0|0|-2|2,8|0|0,00%|NJ Devils|njd
+759||Romāns Ragainis|5|0|0|0|-11|2,8|2|0,00%|Washington|was
+760||Mikael Lämpsä|4|0|0|0|-9|2,8|2|0,00%|Washington|was
+761||Antons Dreiškins|3|0|0|0|-7|2,8|2|0,00%|Minnesota|min
+762||Jef Gouwy|5|0|0|0|-12|2,7|6|0,00%|Anaheim|ana
+763||Radúz Poľč|3|0|0|0|-8|2,6|2|0,00%|Anaheim|ana
+764||Richardas Kužiulis|3|0|0|0|-8|2,6|5|0,00%|Anaheim|ana
+765||Libor Mucha|1|0|0|0|-3|2,4|0|0,00%|Minnesota|min
+766||Martin Kostík|1|0|0|0|-3|2,4|0|0,00%|Dallas|dal
+767||Štefan Proksa|1|0|0|0|-3|2,4|0|0,00%|Boston|bos
+768||Albert Kaňuch|1|0|0|0|-7|2,0|1|0,00%|NJ Devils|njd
+769||David Coufal|1|0|0|0|-7|2,0|2|0,00%|NJ Devils|njd
+770||Radislav Kosnáč|1|0|0|0|-7|2,0|1|0,00%|NJ Devils|njd

@@ -1,0 +1,6 @@
+trsto|1|3
+pescalune|0|4
+misko|3|3
+lordik13|2|4
+zoidberg|1|3
+sollu|2|3

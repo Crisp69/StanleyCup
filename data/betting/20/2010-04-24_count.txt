@@ -1,0 +1,5 @@
+iron|10|11
+misko|13|14
+zoidberg|12|14
+sollu|11|14
+lordik13|10|14

@@ -1,0 +1,1 @@
+<? $l_session["lord stanley"] = "lord stanley|Es0HFiI0KeVuhhlOeyMGrjC33c7RdHpizfp4DytN|0|";?>

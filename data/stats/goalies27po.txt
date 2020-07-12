@@ -1,0 +1,25 @@
+1||Michel Meili|4|82|76|92.7%|2|5.4|Winnipeg|wpg|17152958|240|1.50|
+2||Víctor Ibias|4|66|61|92.4%|0|5.2|San Jose|sjs|13366779|132.466666666|2.26|
+3||Jakub Čermák|2|49|45|91.8%|0|5.8|Florida|fla|12673994|120|2.00|
+4||Marin Bakalov|8|202|185|91.6%|0|5.7|Carolina|car|19339743|480|2.13|
+5||Hans-Erik Nørgaard|2|69|63|91.3%|1|6.3|Chicago|chi|21156671|120|3.00|
+6||Josef Spáčil|2|99|90|90.9%|0|7.0|Philadelphia|phi|18159996|120|4.50|
+7||Reinis Baltrausis|2|53|48|90.6%|0|5.7|St. Louis|stl|20210989|120|2.50|
+8||Vincenzo Benini|8|217|194|89.4%|1|5.6|Detroit|det|18159167|435.166666667|3.17|
+9||Jonatán Pichlač|4|110|98|89.1%|0|5.7|Toronto|tor|16825202|240|3.00|
+10||Stan Lackovič|6|92|82|89.1%|0|5.0|San Jose|sjs|23457558|227.533333334|2.64|
+11||Vavrinec Figura|4|114|101|88.6%|1|5.5|Florida|fla|15587700|240|3.25|
+12||Hugo Kukučiak|4|51|45|88.2%|0|4.6|Minnesota|min|21342258|118.816666667|3.03|
+13||Michal Feješ|2|65|57|87.7%|0|5.5|Buffalo|buf|17511670|120|4.00|
+14||Gabriel Kelemen|2|8|7|87.5%|1|4.4|Colorado|col|26027991|120|0.50|
+15||Ján Džogan|2|68|58|85.3%|0|5.5|Nashville|nas|22670313|99.6666666667|6.02|
+16||Jaroslav Halák|2|69|58|84.1%|0|5.3|Pittsburgh|pit|24109404|92.4833333333|7.14|
+17||Yuriy Baskakov|4|52|43|82.7%|0|4.4|Minnesota|min|16218067|121.183333333|4.46|
+18||Elemír Lohyňa|2|83|67|80.7%|0|5.3|NY Islanders|nyi|17574474|120|8.00|
+19||Oscar Maudlin|2|47|37|78.7%|0|4.6|Colorado|col|13803905|120|5.00|
+20||Valér Dlábik|2|71|49|69.0%|0|3.9|Anaheim|ana|29689194|81.9333333334|16.11|
+-||Patrik Kočiš|1|16|15|93.8%|0|5.1|Nashville|nas|15189453|20.3333333333|2.95|
+-||Enok Arntsen|2|43|38|88.4%|0|5.0|Anaheim|ana|29725370|38.0666666666|7.88|
+-||Manuel Mankovecký|1|27|23|85.2%|0|5.3|Detroit|det|17155279|44.8333333333|5.35|
+-||Jocelyn Thibault|2|23|16|69.6%|0|3.9|Pittsburgh|pit|22385348|27.5166666667|15.26|
+

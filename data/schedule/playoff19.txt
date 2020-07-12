@@ -1,0 +1,31 @@
+Stanley Cup Finals|Florida Panthers ®|Anaheim Ducks ®|14852|3597|20|03|2010|fla|ana|4|2|1|22001504|30|
+
+Stanley Cup Finals|Anaheim Ducks ®|Florida Panthers ®|3597|14852|21|03|2010|ana|fla|1|6|1|22001505|29|
+Conference Finals|Florida Panthers ®|Tampa Bay Lightningg|14852|2747|13|03|2010|fla|tbl|3|2|1|21953696|28|
+Conference Finals|Dallas Stars ©|Anaheim Ducks ®|21496|3597|13|03|2010|dal|ana|1|2|2|21919503|27|
+Conference Finals|Tampa Bay Lightningg|Florida Panthers ®|2747|14852|14|03|2010|tbl|fla|1|4|1|21953697|26|
+Conference Finals|Anaheim Ducks ®|Dallas Stars ©|3597|21496|14|03|2010|ana|dal|6|3|2|21919504|25|
+Conference Semifinals|Florida Panthers ®|The Washington Capitals|14852|1659|06|03|2010|fla|was|6|1|1|21886918|24|
+Conference Semifinals|Boston Bruins ®|Tampa Bay Lightningg|1220|2747|06|03|2010|bos|tbl|0|3|0|21890546|23|
+Conference Semifinals|Columbus Blue Jackets|Anaheim Ducks ®|32234|3597|06|03|2010|cbj|ana|1|4|0|21892594|22|
+Conference Semifinals|Dallas Stars ©|Colorado Avalanche|21496|9441|06|03|2010|dal|col|7|2|2|21886925|21|
+Conference Semifinals|The Washington Capitals|Florida Panthers ®|1659|14852|07|03|2010|was|fla|4|9|1|21886919|20|
+Conference Semifinals|Tampa Bay Lightningg|Boston Bruins ®|2747|1220|07|03|2010|tbl|bos|1|2|0|21890547|19|
+Conference Semifinals|Anaheim Ducks ®|Columbus Blue Jackets|3597|32234|07|03|2010|ana|cbj|3|5|0|21892595|18|
+Conference Semifinals|Colorado Avalanche|Dallas Stars ©|9441|21496|07|03|2010|col|dal|1|2|2|21886929|17|
+Conference Quarterfinals|Florida Panthers ®|Montreal Canadiens ™|14852|39418|27|02|2010|fla|mtl|7|0|1|21858018|1|
+Conference Quarterfinals|Boston Bruins ®|Philadelphia Flyers|1220|17911|27|02|2010|bos|phi|7|2|0|21865637|2|
+Conference Quarterfinals|** NY RANGERS **|The Washington Capitals|5712|1659|27|02|2010|nyr|was|1|5|0|21856766|3|
+Conference Quarterfinals|Tampa Bay Lightningg|Atlanta Thrashers®|2747|18857|27|02|2010|tbl|atl|3|2|0|21867579|4|
+Conference Quarterfinals|Columbus Blue Jackets|**Calgary Flames**|32234|23488|27|02|2010|cbj|cgy|1|0|0|21862931|5|
+Conference Quarterfinals|Dallas Stars ©|St. Louis Blues®|21496|16565|27|02|2010|dal|stl|1|2|0|21858611|6|
+Conference Quarterfinals|Vancouver Canucks ®|Anaheim Ducks ®|29135|3597|27|02|2010|van|ana|3|4|0|21858333|7|
+Conference Quarterfinals|Nashville Predators©|Colorado Avalanche|21888|9441|27|02|2010|nas|col|3|2|2|21857951|8|
+Conference Quarterfinals|Montreal Canadiens ™|Florida Panthers ®|39418|14852|28|02|2010|mtl|fla|0|1|1|21858019|9|
+Conference Quarterfinals|Philadelphia Flyers|Boston Bruins ®|17911|1220|28|02|2010|phi|bos|1|5|0|21865638|10|
+Conference Quarterfinals|The Washington Capitals|** NY RANGERS **|1659|5712|28|02|2010|was|nyr|5|3|0|21856767|11|
+Conference Quarterfinals|Atlanta Thrashers®|Tampa Bay Lightningg|18857|2747|28|02|2010|atl|tbl|2|3|0|21867580|12|
+Conference Quarterfinals|**Calgary Flames**|Columbus Blue Jackets|23488|32234|28|02|2010|cgy|cbj|2|1|0|21862932|13|
+Conference Quarterfinals|St. Louis Blues®|Dallas Stars ©|16565|21496|28|02|2010|stl|dal|3|4|0|21858619|14|
+Conference Quarterfinals|Anaheim Ducks ®|Vancouver Canucks ®|3597|29135|28|02|2010|ana|van|3|4|0|21858334|15|
+Conference Quarterfinals|Colorado Avalanche|Nashville Predators©|9441|21888|28|02|2010|col|nas|3|1|2|21857952|16|

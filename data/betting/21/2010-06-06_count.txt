@@ -1,0 +1,9 @@
+trsto|11|14
+sexo|11|13
+cpalo|11|14
+zoidberg|9|14
+misko|13|14
+sollu|10|14
+pescalune|11|14
+lordik13|12|14
+speedysportwhiz|10|13

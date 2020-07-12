@@ -1,0 +1,46 @@
+1|Roman Haluška|3||1|10|Colorado|col
+2|Anton Zhankevicz|1|2||7|Ottawa|ott
+3|Enn Viir|1|1|2|7|Dallas|dal
+4|Miroslav Jakeš|2|||6|Ottawa|ott
+5|Torsti Nikulainen|1|1||5|Anaheim|ana
+6|Svatoslav Dostál||2|1|5|Ottawa|ott
+7|Keijo Näs|1||1|4|Anaheim|ana
+8|Richard Groves||2||4|Colorado|col
+9|Adolf Lopuchovský|1|||3|Toronto|tor
+10|Bartoloměj Bárta|1|||3|Calgary|cgy
+11|Benoit Gomez|1|||3|Tampa Bay|tbl
+12|Dziam'jan Pryhach|1|||3|Ottawa|ott
+13|Eric Jenlain|1|||3|Vancouver|van
+14|Gabriel Green|1|||3|Colorado|col
+15|Gerhard Kačka|1|||3|Anaheim|ana
+16|Juha Tynjälä|1|||3|Anaheim|ana
+17|Marek Souček|1|||3|St. Louis|stl
+18|Matěj Přikryl|1|||3|Edmonton|edm
+19|Patrik Mikeš|1|||3|Dallas|dal
+20|Timo Dil|1|||3|Philadelphia|phi
+21|Alexander Meravý||1|1|3|Tampa Bay|tbl
+22|Emmanuel Labbe||1|1|3|Tampa Bay|tbl
+23|Adílson Ramos||1||2|Tampa Bay|tbl
+24|Einari Kuula||1||2|Anaheim|ana
+25|Konštantín Maťašovský||1||2|Edmonton|edm
+26|Martin Urda||1||2|Minnesota|min
+27|Nick Lang||1||2|Tampa Bay|tbl
+28|Niilo Sario||1||2|Dallas|dal
+29|Nikolajs Priede||1||2|Vancouver|van
+30|Ondřej Kocman||1||2|Chicago|chi
+31|Sergej Kostelňák||1||2|Minnesota|min
+32|Sokol Morozov||1||2|Calgary|cgy
+33|Šimon Pastierik||1||2|Florida|fla
+34|František Šebek|||2|2|Florida|fla
+35|Bruno Cunčukovs|||1|1|Dallas|dal
+36|Constantin Stoicescu|||1|1|Ottawa|ott
+37|Daniel Krupička|||1|1|Ottawa|ott
+38|Elo Chovanec|||1|1|Vancouver|van
+39|Emilian Staśkiewicz|||1|1|Toronto|tor
+40|Ivo Šparelić|||1|1|Columbus|cbj
+41|Ľubomír Rajčan|||1|1|Colorado|col
+42|Matti Hynönen|||1|1|Anaheim|ana
+43|Milan Baluch|||1|1|St. Louis|stl
+44|Oskar Záhorec|||1|1|Florida|fla
+45|Prosimir Nitowski|||1|1|Anaheim|ana
+46|Vincent Chochol|||1|1|LA Kings|lak

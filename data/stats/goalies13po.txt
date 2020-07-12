@@ -1,0 +1,27 @@
+1||Heinrich Wohl|3|71|68|95,8%|1|5,9|Florida|fla
+2||Vasil Olejka|2|69|65|94,2%|0|6,6|Edmonton|edm
+3||Miervaldis Aukliņš|6|112|105|93,8%|1|5,4|Montreal|mtl
+4||Stipo Pulja|1|28|26|92,9%|0|6,1|Chicago|chi
+5||Alfréd Čvirik|6|124|114|91,9%|1|5,5|Chicago|chi
+6||Armands Tuncis|2|35|32|91,4%|0|5,4|Florida|fla
+7||Daniel Muro|2|68|62|91,2%|0|6,0|Columbus|cbj
+8||Zbyšek Šmíd|6|174|158|90,8%|0|5,9|Colorado|col
+9||Robert Jacobsen|1|21|19|90,5%|0|5,5|NJ Devils|njd
+10||Jindřich Roubal|2|51|46|90,2%|0|5,6|Anaheim|ana
+11||Denis Chekmarev|4|104|93|89,4%|0|5,6|NY Rangers|nyr
+12||Petteri Tulonen|4|130|116|89,2%|1|5,9|Washington|was
+13||Jacky Petit|2|62|55|88,7%|0|5,6|Phoenix|phx
+14||Lukáš Němec|2|44|39|88,6%|0|5,3|St. Louis|stl
+15||Arvi Pehkola|3|49|43|87,8%|0|4,9|San Jose|sjs
+16||Prokop Kuľha|2|50|43|86,0%|0|5,2|San Jose|sjs
+17||Kristoffer Strandberg|3|63|54|85,7%|0|5,1|Florida|fla
+18||Gregor Taliga|1|7|6|85,7%|0|4,1|St. Louis|stl
+19||Željko Špoljarec|2|40|34|85,0%|0|4,7|Ottawa|ott
+20||Eugen Chytrý|3|59|50|84,7%|1|4,8|Montreal|mtl
+21||Stian Kroken|1|13|11|84,6%|0|4,5|Edmonton|edm
+22||Jozef Lazík|2|49|41|83,7%|0|5,0|Philadelphia|phi
+23||Patrik Petřík|2|58|46|79,3%|0|4,9|Toronto|tor
+24||Tomáš Bossi|1|59|45|76,3%|0|5,2|NJ Devils|njd
+25||Einari Kuula|4|13|9|69,2%|0|4,1|Washington|was
+26||Žigmund Tužinský|2|5|3|60,0%|0|3,9|Toronto|tor
+27||Silvius Dolník|2|4|2|50,0%|0|3,8|Ottawa|ott

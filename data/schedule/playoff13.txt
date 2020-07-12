@@ -1,0 +1,30 @@
+Stanley Cup Finals|Colorado Avalanche ®|Florida Panthers|9441|2372|24|1|2009|col|fla|1|4|1
+Stanley Cup Finals|Florida Panthers|Colorado Avalanche ®|2372|9441|25|1|2009|fla|col|3|2|1
+Conference Finals|Florida Panthers|Montreal Canadiens|2372|2747|17|1|2009|fla|mtl|2|1|1
+Conference Finals|Colorado Avalanche ®|Chicago Blackhawks™|9441|5650|17|1|2009|col|chi|2|4|2
+Conference Finals|Montreal Canadiens|Florida Panthers|2747|2372|18|1|2009|mtl|fla|0|1|1
+Conference Finals|Chicago Blackhawks™|Colorado Avalanche ®|5650|9441|18|1|2009|chi|col|2|4|2
+Conference Semifinals|Florida Panthers|- Washington Capitals -|2372|3597|10|1|2009|fla|was|6|2|1
+Conference Semifinals|** NY RANGERS **|Montreal Canadiens|5712|2747|10|1|2009|nyr|mtl|4|3|0
+Conference Semifinals|Colorado Avalanche ®|Anaheim Ducks ™|9441|2449|10|1|2009|col|ana|3|0|0
+Conference Semifinals|Chicago Blackhawks™|San Jose Shark|5650|6576|10|1|2009|chi|sjs|5|1|2
+Conference Semifinals|- Washington Capitals -|Florida Panthers|3597|2372|11|1|2009|was|fla|1|8|1
+Conference Semifinals|Montreal Canadiens|** NY RANGERS **|2747|5712|11|1|2009|mtl|nyr|4|1|0
+Conference Semifinals|Anaheim Ducks ™|Colorado Avalanche ®|2449|9441|11|1|2009|ana|col|0|3|0
+Conference Semifinals|San Jose Shark|Chicago Blackhawks™|6576|5650|11|1|2009|sjs|chi|2|3|2
+Conference Quarterfinals|Florida Panthers|Toronto Maple Leafs ®|2372|9503|3|1|2009|fla|tor|6|3|1
+Conference Quarterfinals|Ottawa Senators ®|- Washington Capitals -|2459|3597|3|1|2009|ott|was|1|3|0
+Conference Quarterfinals|** NY RANGERS **|Philadelphia Flyers|5712|17911|3|1|2009|nyr|phi|3|2|0
+Conference Quarterfinals|New Jersey Devils(Nr)|Montreal Canadiens|12576|2747|3|1|2009|njd|mtl|0|14|0
+Conference Quarterfinals|Colorado Avalanche ®|Phoenix Coyotes®|9441|2499|3|1|2009|col|phx|4|1|0
+Conference Quarterfinals|Chicago Blackhawks™|Columbus Blue Jacket™|5650|5678|3|1|2009|chi|cbj|4|2|0
+Conference Quarterfinals|San Jose Shark|Edmonton Oilers @|6576|18843|3|1|2009|sjs|edm|5|3|0
+Conference Quarterfinals|St. Louis Blues™|Anaheim Ducks ™|2769|2449|3|1|2009|stl|ana|1|4|2
+Conference Quarterfinals|Toronto Maple Leafs ®|Florida Panthers|9503|2372|4|1|2009|tor|fla|5|8|1
+Conference Quarterfinals|- Washington Capitals -|Ottawa Senators ®|3597|2459|4|1|2009|was|ott|5|3|0
+Conference Quarterfinals|Philadelphia Flyers|** NY RANGERS **|17911|5712|4|1|2009|phi|nyr|2|5|0
+Conference Quarterfinals|Montreal Canadiens|New Jersey Devils(Nr)|2747|12576|4|1|2009|mtl|njd|2|8|0
+Conference Quarterfinals|Phoenix Coyotes®|Colorado Avalanche ®|2499|9441|4|1|2009|phx|col|2|3|0
+Conference Quarterfinals|Columbus Blue Jacket™|Chicago Blackhawks™|5678|5650|4|1|2009|cbj|chi|1|2|0
+Conference Quarterfinals|Edmonton Oilers @|San Jose Shark|18843|6576|4|1|2009|edm|sjs|2|1|0
+Conference Quarterfinals|Anaheim Ducks ™|St. Louis Blues™|2449|2769|4|1|2009|ana|stl|2|4|2

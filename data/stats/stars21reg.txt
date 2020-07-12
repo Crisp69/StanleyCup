@@ -1,0 +1,50 @@
+1|Adrián Révay|2|||6|Carolina|car
+2|Juha Tynjälä|2|||6|Anaheim|ana
+3|Arthur Pitt|1|1|1|6|Washington|was
+4|Oskar Záhorec|1|1|1|6|Florida|fla
+5|Emil Jurak|1|1||5|Florida|fla
+6|František Šebek|1|1||5|Florida|fla
+7|Richard Groves|1|1||5|Colorado|col
+8|Prosimir Nitowski|1||1|4|Anaheim|ana
+9|Jan Melichar||2||4|Florida|fla
+10|Agris Burvis|1|||3|Atlanta|atl
+11|Dale Miles|1|||3|Columbus|cbj
+12|David Kočí|1|||3|Tampa Bay|tbl
+13|David Němec|1|||3|Florida|fla
+14|David Pokorný|1|||3|Florida|fla
+15|Elo Chovanec|1|||3|Vancouver|van
+16|Gabriel Green|1|||3|Colorado|col
+17|Gustav Josefsson|1|||3|St. Louis|stl
+18|Jan Dobiáš|1|||3|Colorado|col
+19|Martin Kadlec|1|||3|Tampa Bay|tbl
+20|Nikolajs Priede|1|||3|Vancouver|van
+21|Evgeniy Turkovskiy||1|1|3|Tampa Bay|tbl
+22|Armands Latvānis||1||2|Phoenix|phx
+23|Birk Sundell||1||2|Ottawa|ott
+24|Marek Májik||1||2|NJ Devils|njd
+25|Marián Bobko||1||2|Carolina|car
+26|Martin Demeš||1||2|Colorado|col
+27|Olavi Elf||1||2|Columbus|cbj
+28|Pavol Behinský||1||2|Edmonton|edm
+29|Robert Schwarz||1||2|Colorado|col
+30|Rudolf Filip||1||2|Detroit|det
+31|Sebastjan Šter||1||2|Carolina|car
+32|Servác Gregorík||1||2|Carolina|car
+33|Tomáš Košťál||1||2|Florida|fla
+34|Vincenc Dvořáček||1||2|Vancouver|van
+35|David Kozák|||2|2|Florida|fla
+36|Andrey Vysotskiy|||1|1|Colorado|col
+37|Béla Zoubek|||1|1|NJ Devils|njd
+38|Daniel Galajd|||1|1|Montreal|mtl
+39|Ilya Bryzgalov|||1|1|Pittsburgh|pit
+40|Joonas Vuorisalmi|||1|1|Colorado|col
+41|Jurica Barišić|||1|1|Calgary|cgy
+42|Kaspars Lejiņš|||1|1|Detroit|det
+43|Manuel Mankovecký|||1|1|Detroit|det
+44|Michal Feješ|||1|1|Buffalo|buf
+45|Michal Hanáček|||1|1|Detroit|det
+46|Miroslav Jakeš|||1|1|Ottawa|ott
+47|Potap Borisov|||1|1|Colorado|col
+48|Radek Sobota|||1|1|Vancouver|van
+49|Šimon Pastierik|||1|1|Florida|fla
+50|Timoteo Díez|||1|1|Phoenix|phx

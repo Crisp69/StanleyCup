@@ -1,0 +1,24 @@
+1||Miljenko Sokač|1|13|13|100,0%|1|5,0|NY Rangers|nyr
+2||Miroslav Klementík|4|108|105|97,2%|3|6,3|Colorado|col
+3||Gregor Taliga|2|38|36|94,7%|0|5,4|Nashville|nas
+4||Oliver Mikula|3|75|71|94,7%|0|5,9|Ottawa|ott
+5||Laimis Bergsons|3|51|48|94,1%|1|5,1|NY Islanders|nyi
+6||Lukáš Čonka|5|143|134|93,7%|0|6,1|Vancouver|van
+7||Alfréd Čvirik|3|108|101|93,5%|1|6,5|St. Louis|stl
+8||Filip Nagy|1|43|40|93,0%|0|7,1|St. Louis|stl
+9||Mareks Pçrkons|2|70|65|92,9%|0|6,4|Chicago|chi
+10||Jindřich Roubal|2|26|24|92,3%|1|5,1|Anaheim|ana
+11||Robert Jacobsen|8|206|190|92,2%|2|5,8|NJ Devils|njd
+12||Jan Burda|4|95|87|91,6%|0|5,6|Colorado|col
+13||Hvedar Pivavarau|2|67|61|91,0%|0|6,0|Carolina|car
+14||Víťazoslav Lazarák|3|55|50|90,9%|1|5,1|Anaheim|ana
+15||István Szūcs|4|127|115|90,6%|0|5,9|Boston|bos
+16||Gregor Kičo|3|68|61|89,7%|0|5,2|NY Islanders|nyi
+17||Krešo Pofuk|2|72|64|88,9%|0|6,1|Washington|was
+18||Željko Špoljarec|4|73|64|87,7%|0|5,1|Ottawa|ott
+19||Vojtech Pichňa|2|50|43|86,0%|0|5,3|Florida|fla
+20||Denis Chekmarev|2|58|49|84,5%|0|5,2|NY Rangers|nyr
+21||Adam Ingaunis|2|56|42|75,0%|0|4,5|Dallas|dal
+22||Lukáš Němec|2|29|21|72,4%|0|4,2|Nashville|nas
+23||Kristaps Vasjuks|2|76|55|72,4%|0|4,1|Minnesota|min
+24||Armands Tuncis|2|17|10|58,8%|0|3,8|Vancouver|van

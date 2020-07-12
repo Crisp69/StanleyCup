@@ -1,0 +1,530 @@
+1-2||Adam Miček|1|35|29|82.9|0|5.4|LA Kings|lak|26049920|60||bos|25.11.2012
+1-2||Yuriy Bakhvalov|1|29|26|89.7|0|5.8|Boston|bos|28500438|60||lak|25.11.2012
+1-2||Yuriy Bakhvalov|1|22|21|95.5|0|5.9|Boston|bos|28500438|60||lak|24.11.2012
+1-2||Adam Miček|1|42|36|85.7|0|5.9|LA Kings|lak|26049920|60||bos|24.11.2012
+1-2||Valio Wendelin|1|21|19|90.5|0|5.3|NY Rangers|nyr|27529605|60||bos|18.11.2012
+1-2||Miron Surautsau|1|12|9|75|0|4.2|Calgary|cgy|22262697|28.3833333333||lak|18.11.2012
+2-2||Glenn Clark|1|8|7|87.5|0|4.3|Calgary|cgy|24711743|31.6166666667||lak|18.11.2012
+1-2||Yuriy Bakhvalov|1|35|32|91.4|0|6.2|Boston|bos|28500438|60||nyr|18.11.2012
+1-2||Adam Miček|1|22|19|86.4|0|5.2|LA Kings|lak|26049920|60||cgy|18.11.2012
+1-2||Yuriy Bakhvalov|1|25|24|96|0|6.0|Boston|bos|28500438|60||nyr|17.11.2012
+1-2||Adam Miček|1|22|21|95.5|0|5.9|LA Kings|lak|26049920|60||cgy|17.11.2012
+1-2||Valio Wendelin|1|22|18|81.8|0|4.7|NY Rangers|nyr|27529605|60||bos|17.11.2012
+1-2||Glenn Clark|1|27|25|92.6|0|5.7|Calgary|cgy|24711743|60||lak|17.11.2012
+1-2||Valio Wendelin|1|14|12|85.7|0|4.8|NY Rangers|nyr|27529605|60||ott|11.11.2012
+1-2||Yaroslav Belyakov|1|38|35|92.1|0|6.3|Colorado|col|26900028|60||lak|11.11.2012
+1-2||Michal Skuban|1|35|31|88.6|0|6.0|Chicago|chi|29630308|60||cgy|11.11.2012
+1-2||Srečko Alagič|1|35|27|77.1|0|4.7|Ottawa|ott|29035329|60||nyr|11.11.2012
+1-2||Adam Miček|1|26|24|92.3|0|6.0|LA Kings|lak|26049920|60||col|11.11.2012
+1-2||Miron Surautsau|1|10|10|100|0|5.1|Calgary|cgy|22262697|41.8166666667||chi|11.11.2012
+2-2||Glenn Clark|1|9|9|100|0|4.9|Calgary|cgy|24711743|18.1833333333||chi|11.11.2012
+1-2||Valio Wendelin|1|24|21|87.5|0|5.4|NY Rangers|nyr|27529605|60||ott|10.11.2012
+1-2||Adam Miček|1|17|15|88.2|0|5.1|LA Kings|lak|26049920|60||col|10.11.2012
+1-2||Glenn Clark|1|26|24|92.3|0|6.0|Calgary|cgy|24711743|60||chi|10.11.2012
+1-2||Bohumír Dlouhý|1|58|54|93.1|0|8.0|Ottawa|ott|29241980|60||nyr|10.11.2012
+1-2||Yaroslav Belyakov|1|34|29|85.3|0|5.6|Colorado|col|26900028|60||lak|10.11.2012
+1-2||Michal Skuban|1|43|40|93|0|6.9|Chicago|chi|29630308|60||cgy|10.11.2012
+1-2||Glenn Clark|1|14|13|92.9|0|5.1|Calgary|cgy|24711743|60||edm|07.11.2012
+1-2||Noel Newsome|1|20|15|75|0|4.3|Edmonton|edm|30118196|30.9||cgy|07.11.2012
+2-2||Ēriks Rozītis|1|24|18|75|0|4.3|Edmonton|edm|30638404|29.1||cgy|07.11.2012
+1-2||Gatis Pakalns|1|49|44|89.8|0|6.9|Tampa Bay|tbl|27990891|60||bos|04.11.2012
+1-2||Jaroslav Korček|1|26|23|88.5|0|5.4|Toronto|tor|23010996|60||bos|04.11.2012
+1-2||Srečko Alagič|1|27|24|88.9|0|5.5|Ottawa|ott|29035329|60||mtl|04.11.2012
+1-2||Adam Miček|1|21|21|100|1|5.9|LA Kings|lak|26049920|60||van|04.11.2012
+1-2||Glenn Clark|1|7|7|100|1|4.6|Calgary|cgy|24711743|60||edm|04.11.2012
+1-2||Yaroslav Belyakov|1|40|37|92.5|0|6.8|Colorado|col|26900028|60||det|04.11.2012
+1-2||Michal Skuban|1|20|19|95|0|5.5|Chicago|chi|29630308|60||dal|04.11.2012
+1-2||Yuriy Bakhvalov|1|17|16|94.1|0|5.2|Boston|bos|28500438|60||tbl|04.11.2012
+1-2||Valio Wendelin|1|18|16|88.9|0|5.2|NY Rangers|nyr|27529605|60||tor|04.11.2012
+1-2||Viktar Dzerazhnia|1|26|24|92.3|0|6.0|Montreal|mtl|22293755|60||ott|04.11.2012
+1-2||Zoltán Gyulai|1|12|8|66.7|0|3.9|Vancouver|van|26967492|22.75||lak|04.11.2012
+2-2||Glenn Gabriel|1|26|24|92.3|0|5.7|Vancouver|van|20860100|37.25||lak|04.11.2012
+1-2||Noel Newsome|1|27|24|88.9|0|5.5|Edmonton|edm|30118196|31||cgy|04.11.2012
+2-2||Ēriks Rozītis|1|22|17|77.3|0|4.3|Edmonton|edm|30638404|29||cgy|04.11.2012
+1-2||Leopold Hamar|1|12|10|83.3|0|4.5|Detroit|det|21172534|31.6166666667||col|04.11.2012
+2-2||Leevi Ahola|1|7|2|28.6|0|3.0|Detroit|det|32699532|28.3833333333||col|04.11.2012
+1-2||Etienne Dugas|1|41|37|90.2|0|6.5|Dallas|dal|26041188|60||chi|04.11.2012
+1-2||Yuriy Bakhvalov|1|24|24|100|1|6.2|Boston|bos|28500438|60||tbl|03.11.2012
+1-2||Valio Wendelin|1|14|13|92.9|0|5.2|NY Rangers|nyr|27529605|60||tor|03.11.2012
+1-2||Srečko Alagič|1|19|18|94.7|0|5.5|Ottawa|ott|29035329|60||mtl|03.11.2012
+1-2||Adam Miček|1|17|16|94.1|0|5.2|LA Kings|lak|26049920|60||van|03.11.2012
+1-2||Leopold Hamar|1|18|16|88.9|0|4.8|Detroit|det|21172534|60||col|03.11.2012
+1-2||Etienne Dugas|1|27|21|77.8|0|4.5|Dallas|dal|26041188|60||chi|03.11.2012
+1-2||Gatis Pakalns|1|19|14|73.7|0|4.2|Tampa Bay|tbl|27990891|24.9166666667||bos|03.11.2012
+2-2||Viktor Harman|1|23|21|91.3|0|5.5|Tampa Bay|tbl|29519710|35.0833333333||bos|03.11.2012
+1-2||Jaroslav Korček|1|35|32|91.4|0|6.2|Toronto|tor|23010996|60||bos|03.11.2012
+1-2||Viktar Dzerazhnia|1|32|28|87.5|0|5.6|Montreal|mtl|22293755|60||ott|03.11.2012
+1-2||Zoltán Gyulai|1|35|30|85.7|0|5.6|Vancouver|van|26967492|60||lak|03.11.2012
+1-2||Yaroslav Belyakov|1|33|33|100|1|7.1|Colorado|col|26900028|60||det|03.11.2012
+1-2||Michal Skuban|1|29|27|93.1|0|6.0|Chicago|chi|29630308|60||dal|03.11.2012
+1-2||Wilhelm Nielsen|1|38|35|92.1|0|6.6|St. Louis|stl|29010523|60||det|28.10.2012
+1-2||Michal Skuban|1|16|15|93.8|0|5.1|Chicago|chi|29630308|60||cbj|28.10.2012
+1-2||Srečko Alagič|1|22|21|95.5|0|5.7|Ottawa|ott|29035329|60||buf|28.10.2012
+1-2||Yuriy Bakhvalov|1|20|19|95|0|5.6|Boston|bos|28500438|60||mtl|28.10.2012
+1-2||Jaroslav Korček|1|9|8|88.9|0|4.6|Toronto|tor|23010996|60||mtl|28.10.2012
+1-2||Valio Wendelin|1|18|17|94.4|0|5.3|NY Rangers|nyr|27529605|60||was|28.10.2012
+1-2||Lillo Pellin|1|23|21|91.3|0|5.5|NY Islanders|nyi|27114964|60||tbl|28.10.2012
+1-2||Bo Enevoldsen|1|6|6|100|1|4.5|Winnipeg|wpg|25687856|60||pit|28.10.2012
+1-2||Tapani Bergbom|1|25|24|96|0|6.0|Florida|fla|32084872|40.95||njd|28.10.2012
+2-2||Tomáš Dvorský|1|9|8|88.9|0|4.6|Florida|fla|32733023|19.05||njd|28.10.2012
+1-2||Ailill Dalry|1|22|16|72.7|0|4.2|Carolina|car|29257370|60||phi|28.10.2012
+1-2||Adam Miček|1|22|21|95.5|0|5.8|LA Kings|lak|26049920|60||cgy|28.10.2012
+1-1||Chip Tilley|1|11|10|90.9|0|4.8|Colorado|col|26494015|60||phx|28.10.2012
+1-2||Etienne Dugas|1|20|18|90|0|5.3|Dallas|dal|26041188|44.7666666667||van|28.10.2012
+2-2||Theo Chevallier|1|8|6|75|0|4.1|Dallas|dal|30152107|15.2333333333||van|28.10.2012
+1-2||Noel Newsome|1|7|4|57.1|0|3.7|Edmonton|edm|30118196|30.2333333333||ana|28.10.2012
+2-2||Ēriks Rozītis|1|7|6|85.7|0|4.4|Edmonton|edm|30638404|29.7666666667||ana|28.10.2012
+1-2||Artem Kunitsa|1|11|9|81.8|0|4.6|Minnesota|min|31850772|40.9666666667||sjs|28.10.2012
+2-2||Arne  Samans|1|6|6|100|0|4.5|Minnesota|min|32530184|19.0333333333||sjs|28.10.2012
+1-1||Leevi Ahola|1|37|28|75.7|0|4.6|Detroit|det|32699532|60||stl|28.10.2012
+1-2||Reino Mielikäinen|1|34|31|91.2|0|6.0|Columbus|cbj|31265391|60||chi|28.10.2012
+1-2||Jaroslav Bednařík|1|25|21|84|0|5.0|Buffalo|buf|29623573|60||ott|28.10.2012
+1-2||Viktar Dzerazhnia|1|38|33|86.8|0|5.8|Montreal|mtl|22293755|60||bos|28.10.2012
+1-2||Ján Džogan|1|45|41|91.1|0|6.8|Nashville|nas|22670313|58.2833333333||tor|28.10.2012
+2-2||Radoslav Zajko|1|1|1|100|0|3.9|Nashville|nas|31669640|1.71666666667||tor|28.10.2012
+1-2||Rafael Zahnd|1|32|31|96.9|0|6.7|Washington|was|26905564|60||nyr|28.10.2012
+1-2||Gatis Pakalns|1|20|17|85|0|4.7|Tampa Bay|tbl|27990891|60||nyi|28.10.2012
+1-2||Jocelyn Thibault|1|48|45|93.8|0|7.4|Pittsburgh|pit|22385348|60||wpg|28.10.2012
+1-2||Andraž Levc|1|12|9|75|0|4.1|NJ Devils|njd|31257395|50.2166666667||fla|28.10.2012
+2-2||František Miškanin|1|2|2|100|0|4.1|NJ Devils|njd|29565349|9.78333333333||fla|28.10.2012
+1-2||Drahoslav Rojka|1|23|20|87|0|5.3|Philadelphia|phi|32154606|30.75||car|28.10.2012
+2-2||Juraj Pataki|1|19|17|89.5|0|5.2|Philadelphia|phi|31435159|29.25||car|28.10.2012
+1-2||Miron Surautsau|1|27|25|92.6|0|5.6|Calgary|cgy|22262697|60||lak|28.10.2012
+1-2||Częstogniew Bunc|1|52|41|78.8|0|5.3|Phoenix|phx|31864105|60||col|28.10.2012
+1-2||Zoltán Gyulai|1|38|33|86.8|0|5.9|Vancouver|van|26967492|60||dal|28.10.2012
+1-2||Valentin Fontaine|1|33|28|84.8|0|5.5|Anaheim|ana|32618981|60||edm|28.10.2012
+1-2||Elis Grubač|1|28|25|89.3|0|5.6|San Jose|sjs|30839050|45||min|28.10.2012
+2-2||Patrick Zentriegen|1|7|7|100|0|4.6|San Jose|sjs|14045151|15||min|28.10.2012
+1-2||Yuriy Bakhvalov|1|8|8|100|1|4.8|Boston|bos|28500438|60||cbj|27.10.2012
+1-2||Bohumír Dlouhý|1|17|17|100|1|5.7|Ottawa|ott|29241980|60||nas|27.10.2012
+1-2||Leopold Hamar|1|28|26|92.9|0|5.8|Detroit|det|21172534|60||mtl|27.10.2012
+1-1||Jaroslav Korček|1|54|48|88.9|0|7.0|Toronto|tor|23010996|60||mtl|27.10.2012
+1-2||Wilhelm Nielsen|1|28|24|85.7|0|5.1|St. Louis|stl|29010523|60||buf|27.10.2012
+1-2||Adam Miček|1|16|13|81.3|0|4.6|LA Kings|lak|26049920|60||pit|27.10.2012
+1-2||Elis Grubač|1|28|25|89.3|0|5.5|San Jose|sjs|30839050|28.6333333333||nyi|27.10.2012
+2-2||Patrick Zentriegen|1|19|16|84.2|0|4.6|San Jose|sjs|14045151|31.3666666667||nyi|27.10.2012
+1-2||Valio Wendelin|1|3|3|100|1|4.3|NY Rangers|nyr|27529605|60||phx|27.10.2012
+1-2||Etienne Dugas|1|9|8|88.9|0|4.5|Dallas|dal|26041188|40.6666666667||njd|27.10.2012
+2-2||Theo Chevallier|1|4|3|75|0|4.3|Dallas|dal|30152107|19.3333333333||njd|27.10.2012
+1-2||Valentin Fontaine|1|31|26|83.9|0|5.3|Anaheim|ana|32618981|60||phi|27.10.2012
+1-2||Zoltán Gyulai|1|6|6|100|1|4.7|Vancouver|van|26967492|60||fla|27.10.2012
+1-2||Yaroslav Belyakov|1|37|33|89.2|0|6.2|Colorado|col|26900028|60||tbl|27.10.2012
+1-2||Artem Kunitsa|1|20|16|80|0|4.4|Minnesota|min|31850772|40.9833333333||car|27.10.2012
+2-2||Arne  Samans|1|10|10|100|0|4.8|Minnesota|min|32530184|19.0166666667||car|27.10.2012
+1-2||Štěpán Vácha|1|26|25|96.2|0|6.0|Calgary|cgy|26146532|60||was|27.10.2012
+1-2||Scott Aiston|1|17|16|94.1|0|5.2|Winnipeg|wpg|27560296|60||edm|27.10.2012
+1-2||Reino Mielikäinen|1|39|34|87.2|0|6.0|Columbus|cbj|31265391|60||bos|27.10.2012
+1-2||Ján Džogan|1|39|36|92.3|0|6.4|Nashville|nas|22670313|60||ott|27.10.2012
+1-2||Viktar Dzerazhnia|1|24|22|91.7|0|5.6|Montreal|mtl|22293755|60||det|27.10.2012
+1-2||Michal Skuban|1|3|3|100|1|4.5|Chicago|chi|29630308|60||tor|27.10.2012
+1-2||Jaroslav Bednařík|1|21|19|90.5|0|5.3|Buffalo|buf|29623573|60||stl|27.10.2012
+1-2||Jocelyn Thibault|1|36|30|83.3|0|5.5|Pittsburgh|pit|22385348|60||lak|27.10.2012
+1-2||Lillo Pellin|1|5|5|100|1|4.7|NY Islanders|nyi|27114964|60||sjs|27.10.2012
+1-2||Częstogniew Bunc|1|52|41|78.8|0|5.3|Phoenix|phx|31864105|60||nyr|27.10.2012
+1-2||Andraž Levc|1|25|20|80|0|4.8|NJ Devils|njd|31257395|41.0833333333||dal|27.10.2012
+2-2||František Miškanin|1|15|11|73.3|0|4.1|NJ Devils|njd|29565349|18.9166666667||dal|27.10.2012
+1-2||Drahoslav Rojka|1|18|17|94.4|0|5.4|Philadelphia|phi|32154606|30.8166666667||ana|27.10.2012
+2-2||Juraj Pataki|1|18|16|88.9|0|5.0|Philadelphia|phi|31435159|29.1833333333||ana|27.10.2012
+1-2||Tapani Bergbom|1|30|24|80|0|4.7|Florida|fla|32084872|41.05||van|27.10.2012
+2-2||Martin Srb|1|13|11|84.6|0|4.5|Florida|fla|32371958|18.95||van|27.10.2012
+1-2||Gatis Pakalns|1|25|20|80|0|4.6|Tampa Bay|tbl|27990891|60||col|27.10.2012
+1-2||Ailill Dalry|1|21|19|90.5|0|5.3|Carolina|car|29257370|60||min|27.10.2012
+1-2||Rafael Zahnd|1|3|1|33.3|0|3.6|Washington|was|26905564|3.75||cgy|27.10.2012
+2-2||František Schrötter|1|40|34|85|0|5.6|Washington|was|26967848|56.25||cgy|27.10.2012
+1-2||Noel Newsome|1|24|21|87.5|0|5.3|Edmonton|edm|30118196|31||wpg|27.10.2012
+2-2||Ēriks Rozītis|1|20|17|85|0|4.8|Edmonton|edm|30638404|29||wpg|27.10.2012
+1-2||Wilhelm Nielsen|1|25|21|84|0|5.1|St. Louis|stl|29010523|60||cbj|21.10.2012
+1-2||Leopold Hamar|1|16|15|93.8|0|5.2|Detroit|det|21172534|60||nas|21.10.2012
+1-2||Viktar Dzerazhnia|1|37|33|89.2|0|6.0|Montreal|mtl|22293755|60||ott|21.10.2012
+1-2||Jaroslav Bednařík|1|33|26|78.8|0|4.7|Buffalo|buf|29623573|60||tor|21.10.2012
+1-2||Yuriy Bakhvalov|1|16|14|87.5|0|5.0|Boston|bos|28500438|60||chi|21.10.2012
+1-1||František Schrötter|1|58|47|81|0|6.0|Washington|was|26967848|60||lak|21.10.2012
+1-2||Gatis Pakalns|1|6|6|100|1|4.5|Tampa Bay|tbl|27990891|60||phx|21.10.2012
+1-2||Bo Enevoldsen|1|9|9|100|1|4.8|Winnipeg|wpg|25687856|60||dal|21.10.2012
+1-2||Tapani Bergbom|1|22|19|86.4|0|5.0|Florida|fla|32084872|41.0833333333||ana|21.10.2012
+2-2||Martin Srb|1|12|12|100|0|4.9|Florida|fla|32371958|18.9166666667||ana|21.10.2012
+1-2||Elis Grubač|1|18|15|83.3|0|4.6|San Jose|sjs|30839050|16.55||car|21.10.2012
+2-2||Patrick Zentriegen|1|34|25|73.5|0|4.3|San Jose|sjs|14045151|43.45||car|21.10.2012
+1-2||Valio Wendelin|1|17|17|100|1|5.5|NY Rangers|nyr|27529605|60||cgy|21.10.2012
+1-2||Lillo Pellin|1|30|24|80|0|4.8|NY Islanders|nyi|27114964|60||col|21.10.2012
+1-2||Jaroslav Halák|1|31|30|96.8|0|6.7|Pittsburgh|pit|24109404|60||van|21.10.2012
+1-2||Andraž Levc|1|28|24|85.7|0|5.3|NJ Devils|njd|31257395|60||edm|21.10.2012
+1-2||Artem Kunitsa|1|25|23|92|0|5.5|Minnesota|min|31850772|41||phi|21.10.2012
+2-2||Arne  Samans|1|11|9|81.8|0|4.3|Minnesota|min|32530184|19||phi|21.10.2012
+1-2||Reino Mielikäinen|1|6|3|50|0|3.6|Columbus|cbj|31265391|9.38333333333||stl|21.10.2012
+2-2||Petr Chmelař|1|32|24|75|0|4.4|Columbus|cbj|29518015|50.6166666667||stl|21.10.2012
+1-2||Radoslav Zajko|1|17|13|76.5|0|4.3|Nashville|nas|31669640|23.9166666667||det|21.10.2012
+2-2||Pravomil Monka|1|23|19|82.6|0|4.7|Nashville|nas|28799468|36.0833333333||det|21.10.2012
+1-2||Bohumír Dlouhý|1|30|27|90|0|6.0|Ottawa|ott|29241980|60||mtl|21.10.2012
+1-2||Jaroslav Korček|1|20|20|100|1|5.8|Toronto|tor|23010996|60||mtl|21.10.2012
+1-2||Michal Skuban|1|48|36|75|0|4.6|Chicago|chi|29630308|60||bos|21.10.2012
+1-2||Adam Miček|1|3|3|100|1|4.4|LA Kings|lak|26049920|60||was|21.10.2012
+1-2||Częstogniew Bunc|1|44|34|77.3|0|4.8|Phoenix|phx|31864105|60||tbl|21.10.2012
+1-2||Etienne Dugas|1|47|43|91.5|0|7.1|Dallas|dal|26041188|60||wpg|21.10.2012
+1-2||Valentin Fontaine|1|22|20|90.9|0|5.5|Anaheim|ana|32618981|60||fla|21.10.2012
+1-2||Ailill Dalry|1|14|13|92.9|0|5.2|Carolina|car|29257370|60||sjs|21.10.2012
+1-2||Miron Surautsau|1|18|13|72.2|0|4.2|Calgary|cgy|22262697|30.25||nyr|21.10.2012
+2-2||Glenn Clark|1|23|21|91.3|0|5.4|Calgary|cgy|24711743|29.75||nyr|21.10.2012
+1-2||Yaroslav Belyakov|1|20|17|85|0|5.1|Colorado|col|26900028|60||nyi|21.10.2012
+1-2||Zoltán Gyulai|1|29|23|79.3|0|4.8|Vancouver|van|26967492|60||pit|21.10.2012
+1-2||Noel Newsome|1|12|11|91.7|0|4.9|Edmonton|edm|30118196|30.9666666667||njd|21.10.2012
+2-2||Ēriks Rozītis|1|9|9|100|0|4.9|Edmonton|edm|30638404|29.0333333333||njd|21.10.2012
+1-2||Drahoslav Rojka|1|12|11|91.7|0|4.9|Philadelphia|phi|32154606|30.1666666667||min|21.10.2012
+2-2||Juraj Pataki|1|15|13|86.7|0|4.9|Philadelphia|phi|31435159|29.8333333333||min|21.10.2012
+1-2||Radoslav Zajko|1|14|10|71.4|0|4.1|Nashville|nas|31669640|15.6166666667||bos|20.10.2012
+2-2||Pravomil Monka|1|33|28|84.8|0|5.4|Nashville|nas|28799468|44.3833333333||bos|20.10.2012
+1-2||Tauno Antikainen|1|25|22|88|0|5.6|Detroit|det|27053252|60||ott|20.10.2012
+1-2||Milan Biloveský|1|27|21|77.8|0|4.7|Montreal|mtl|20220217|60||chi|20.10.2012
+1-2||Wilhelm Nielsen|1|23|21|91.3|0|5.6|St. Louis|stl|29010523|60||tor|20.10.2012
+1-2||Jaroslav Bednařík|1|29|25|86.2|0|5.5|Buffalo|buf|29623573|60||cbj|20.10.2012
+1-2||Jaroslav Halák|1|14|13|92.9|0|5.2|Pittsburgh|pit|24109404|60||sjs|20.10.2012
+1-2||Lillo Pellin|1|7|7|100|1|4.8|NY Islanders|nyi|27114964|60||phx|20.10.2012
+1-2||Etienne Dugas|1|3|3|100|0|4.4|Dallas|dal|26041188|42.5166666667||nyr|20.10.2012
+2-2||Theo Chevallier|1|2|2|100|0|4.2|Dallas|dal|30152107|17.4833333333||nyr|20.10.2012
+1-2||Andraž Levc|1|15|11|73.3|0|4.0|NJ Devils|njd|31257395|45.4833333333||ana|20.10.2012
+2-2||František Miškanin|1|5|4|80|0|4.0|NJ Devils|njd|29565349|14.5166666667||ana|20.10.2012
+1-2||Adam Miček|1|9|9|100|1|4.8|LA Kings|lak|26049920|60||phi|20.10.2012
+1-2||Tapani Bergbom|1|43|34|79.1|0|5.1|Florida|fla|32084872|41.0833333333||col|20.10.2012
+2-2||Martin Srb|1|22|19|86.4|0|5.1|Florida|fla|32371958|18.9166666667||col|20.10.2012
+1-2||Artem Kunitsa|1|41|34|82.9|0|5.4|Minnesota|min|31850772|41.0166666667||tbl|20.10.2012
+2-2||Arne  Samans|1|19|16|84.2|0|4.8|Minnesota|min|32530184|18.9833333333||tbl|20.10.2012
+1-2||Ailill Dalry|1|42|32|76.2|0|4.8|Carolina|car|29257370|60||cgy|20.10.2012
+1-1||František Schrötter|1|43|34|79.1|0|5.0|Washington|was|26967848|60||edm|20.10.2012
+1-1||Scott Aiston|1|42|35|83.3|0|5.6|Winnipeg|wpg|27560296|60||van|20.10.2012
+1-2||Yuriy Bakhvalov|1|12|11|91.7|0|4.8|Boston|bos|28500438|60||nas|20.10.2012
+1-2||Bohumír Dlouhý|1|32|28|87.5|0|5.6|Ottawa|ott|29241980|60||det|20.10.2012
+1-2||Michal Skuban|1|38|32|84.2|0|5.6|Chicago|chi|29630308|60||mtl|20.10.2012
+1-2||Jaroslav Korček|1|20|18|90|0|5.2|Toronto|tor|23010996|60||mtl|20.10.2012
+1-2||Reino Mielikäinen|1|33|26|78.8|0|4.8|Columbus|cbj|31265391|60||buf|20.10.2012
+1-2||Elis Grubač|1|12|9|75|0|4.0|San Jose|sjs|30839050|22.2666666667||pit|20.10.2012
+2-2||Patrick Zentriegen|1|25|18|72|0|4.1|San Jose|sjs|14045151|37.7333333333||pit|20.10.2012
+1-2||Częstogniew Bunc|1|32|23|71.9|0|4.0|Phoenix|phx|31864105|60||nyi|20.10.2012
+1-1||Valio Wendelin|1|47|40|85.1|0|6.2|NY Rangers|nyr|27529605|60||dal|20.10.2012
+1-2||Valentin Fontaine|1|25|22|88|0|5.5|Anaheim|ana|32618981|60||njd|20.10.2012
+1-2||Drahoslav Rojka|1|32|26|81.3|0|5.0|Philadelphia|phi|32154606|32.5333333333||lak|20.10.2012
+2-2||Juraj Pataki|1|27|22|81.5|0|5.0|Philadelphia|phi|31435159|27.4666666667||lak|20.10.2012
+1-2||Yaroslav Belyakov|1|2|2|100|1|4.2|Colorado|col|26900028|60||fla|20.10.2012
+1-2||Gatis Pakalns|1|11|10|90.9|0|4.8|Tampa Bay|tbl|27990891|60||min|20.10.2012
+1-2||Štěpán Vácha|1|14|13|92.9|0|5.2|Calgary|cgy|26146532|60||car|20.10.2012
+1-2||Noel Newsome|1|3|3|100|0|4.4|Edmonton|edm|30118196|30.0666666667||was|20.10.2012
+2-2||Ēriks Rozītis|1|5|3|60|0|4.0|Edmonton|edm|30638404|29.9333333333||was|20.10.2012
+1-2||Zoltán Gyulai|1|11|11|100|1|5.1|Vancouver|van|26967492|60||wpg|20.10.2012
+1-2||Noel Newsome|1|14|11|78.6|0|4.4|Edmonton|edm|30118196|30.15||van|14.10.2012
+2-2||Ēriks Rozītis|1|14|12|85.7|0|4.6|Edmonton|edm|30638404|29.85||van|14.10.2012
+1-2||Artem Kunitsa|1|25|21|84|0|5.0|Minnesota|min|31850772|40.0666666667||col|14.10.2012
+2-2||Arne  Samans|1|16|11|68.8|0|4.0|Minnesota|min|32530184|19.9333333333||col|14.10.2012
+1-2||Ailill Dalry|1|44|38|86.4|0|6.2|Carolina|car|29257370|60||tbl|14.10.2012
+1-2||Tapani Bergbom|1|45|34|75.6|0|4.7|Florida|fla|32084872|44.2166666667||cgy|14.10.2012
+2-2||Martin Srb|1|13|11|84.6|0|4.4|Florida|fla|32371958|15.7833333333||cgy|14.10.2012
+1-2||Jaroslav Korček|1|38|30|78.9|0|5.1|Toronto|tor|23010996|60||cgy|14.10.2012
+1-2||Viktar Dzerazhnia|1|20|19|95|0|5.5|Montreal|mtl|22293755|60||nyi|14.10.2012
+1-2||Yuriy Bakhvalov|1|7|7|100|1|4.6|Boston|bos|28500438|60||pit|14.10.2012
+1-2||Jaroslav Bednařík|1|11|11|100|1|5.0|Buffalo|buf|29623573|60||njd|14.10.2012
+1-2||Bohumír Dlouhý|1|5|5|100|1|4.5|Ottawa|ott|29241980|60||phi|14.10.2012
+1-2||Craig Duffield|1|30|27|90|0|5.9|St. Louis|stl|18262736|60||lak|14.10.2012
+1-2||Tauno Antikainen|1|3|3|100|1|4.5|Detroit|det|27053252|60||phx|14.10.2012
+1-2||Reino Mielikäinen|1|29|26|89.7|0|5.8|Columbus|cbj|31265391|60||dal|14.10.2012
+1-2||Michal Skuban|1|11|11|100|1|5.2|Chicago|chi|29630308|60||ana|14.10.2012
+1-2||Elis Grubač|1|41|38|92.7|0|6.6|San Jose|sjs|30839050|49.6666666667||nas|14.10.2012
+2-2||Patrick Zentriegen|1|9|8|88.9|0|4.3|San Jose|sjs|14045151|10.3333333333||nas|14.10.2012
+1-2||Zoltán Gyulai|1|24|20|83.3|0|5.0|Vancouver|van|26967492|60||edm|14.10.2012
+1-2||Yaroslav Belyakov|1|7|6|85.7|0|4.3|Colorado|col|26900028|60||min|14.10.2012
+1-2||Gatis Pakalns|1|14|12|85.7|0|4.7|Tampa Bay|tbl|27990891|60||car|14.10.2012
+2-2|||1||||1||Tampa Bay|tbl|@_jscript_version < 5.7 @*/) // ie6|60||car|14.10.2012
+1-2||Miron Surautsau|1|2|2|100|1|4.2|Calgary|cgy|22262697|60||fla|14.10.2012
+1-2||Valio Wendelin|1|20|18|90|0|5.2|NY Rangers|nyr|27529605|60||tor|14.10.2012
+1-2||Lillo Pellin|1|30|28|93.3|0|6.0|NY Islanders|nyi|27114964|60||mtl|14.10.2012
+1-2||Jocelyn Thibault|1|7|4|57.1|0|3.5|Pittsburgh|pit|22385348|9.93333333333||bos|14.10.2012
+2-2||Jaroslav Halák|1|53|46|86.8|0|6.7|Pittsburgh|pit|24109404|50.0666666667||bos|14.10.2012
+1-2||Andraž Levc|1|37|29|78.4|0|5.0|NJ Devils|njd|31257395|45.0333333333||buf|14.10.2012
+2-2||František Miškanin|1|9|9|100|0|4.8|NJ Devils|njd|29565349|14.9666666667||buf|14.10.2012
+1-2||Drahoslav Rojka|1|19|17|89.5|0|5.1|Philadelphia|phi|32154606|30.3833333333||ott|14.10.2012
+2-2||Juraj Pataki|1|22|17|77.3|0|4.4|Philadelphia|phi|31435159|29.6166666667||ott|14.10.2012
+1-2||Adam Miček|1|22|19|86.4|0|5.0|LA Kings|lak|26049920|60||stl|14.10.2012
+1-2||Częstogniew Bunc|1|53|40|75.5|0|4.9|Phoenix|phx|31864105|60||det|14.10.2012
+1-2||Etienne Dugas|1|32|26|81.3|0|4.9|Dallas|dal|26041188|60||cbj|14.10.2012
+1-2||Valentin Fontaine|1|27|23|85.2|0|5.1|Anaheim|ana|32618981|46.3666666667||chi|14.10.2012
+2-2||Denis Možucha|1|12|11|91.7|0|4.7|Anaheim|ana|29627564|13.6333333333||chi|14.10.2012
+1-2||Ján Džogan|1|9|9|100|1|4.8|Nashville|nas|22670313|60||sjs|14.10.2012
+1-2||Częstogniew Bunc|1|31|25|80.6|0|5.0|Phoenix|phx|31864105|60||ana|13.10.2012
+1-2||Adam Miček|1|13|12|92.3|0|5.1|LA Kings|lak|26049920|60||dal|13.10.2012
+1-2||Lillo Pellin|1|11|10|90.9|0|4.7|NY Islanders|nyi|27114964|60||phi|13.10.2012
+1-1||Valio Wendelin|1|46|43|93.5|0|7.3|NY Rangers|nyr|27529605|60||pit|13.10.2012
+1-2||Elis Grubač|1|32|32|100|1|7.0|San Jose|sjs|30839050|60||njd|13.10.2012
+1-2||Jaroslav Korček|1|32|30|93.8|0|6.3|Toronto|tor|23010996|60||njd|13.10.2012
+1-2||Viktar Dzerazhnia|1|20|18|90|0|5.3|Montreal|mtl|22293755|60||col|13.10.2012
+1-2||Yuriy Bakhvalov|1|9|6|66.7|0|4.0|Boston|bos|28500438|60||van|13.10.2012
+1-2||Jaroslav Bednařík|1|21|19|90.5|0|5.4|Buffalo|buf|29623573|60||edm|13.10.2012
+1-2||Artem Kunitsa|1|33|24|72.7|0|4.2|Minnesota|min|31850772|40.9666666667||ott|13.10.2012
+2-2||Arne  Samans|1|19|16|84.2|0|4.8|Minnesota|min|32530184|19.0333333333||ott|13.10.2012
+1-2||Wilhelm Nielsen|1|37|34|91.9|0|6.4|St. Louis|stl|29010523|60||was|13.10.2012
+1-2||Tauno Antikainen|1|20|17|85|0|4.8|Detroit|det|27053252|60||tbl|13.10.2012
+1-2||Scott Aiston|1|14|10|71.4|0|4.2|Winnipeg|wpg|27560296|60||cbj|13.10.2012
+1-2||Michal Skuban|1|3|3|100|1|4.4|Chicago|chi|29630308|60||fla|13.10.2012
+1-2||Ján Džogan|1|36|35|97.2|0|7.0|Nashville|nas|22670313|60||car|13.10.2012
+1-2||Valentin Fontaine|1|27|25|92.6|0|6.0|Anaheim|ana|32618981|60||phx|13.10.2012
+1-2||Etienne Dugas|1|34|31|91.2|0|6.2|Dallas|dal|26041188|60||lak|13.10.2012
+1-2||Drahoslav Rojka|1|21|19|90.5|0|5.2|Philadelphia|phi|32154606|30.0666666667||nyi|13.10.2012
+2-2||Juraj Pataki|1|24|20|83.3|0|4.9|Philadelphia|phi|31435159|29.9333333333||nyi|13.10.2012
+1-2||Jaroslav Halák|1|5|5|100|1|4.7|Pittsburgh|pit|24109404|60||nyr|13.10.2012
+1-2||Andraž Levc|1|17|14|82.4|0|4.4|NJ Devils|njd|31257395|60||sjs|13.10.2012
+1-2||Štěpán Vácha|1|18|15|83.3|0|4.5|Calgary|cgy|26146532|60||tor|13.10.2012
+1-2||Yaroslav Belyakov|1|30|25|83.3|0|5.2|Colorado|col|26900028|60||mtl|13.10.2012
+1-2||Zoltán Gyulai|1|34|26|76.5|0|4.6|Vancouver|van|26967492|34.8833333333||bos|13.10.2012
+2-2||Glenn Gabriel|1|18|15|83.3|0|4.6|Vancouver|van|20860100|25.1166666667||bos|13.10.2012
+1-2||Noel Newsome|1|19|18|94.7|0|5.2|Edmonton|edm|30118196|30.6833333333||buf|13.10.2012
+2-2||Ēriks Rozītis|1|14|12|85.7|0|4.7|Edmonton|edm|30638404|29.3166666667||buf|13.10.2012
+1-2||Bohumír Dlouhý|1|9|8|88.9|0|4.7|Ottawa|ott|29241980|60||min|13.10.2012
+1-2||Rafael Zahnd|1|24|21|87.5|0|5.3|Washington|was|26905564|60||stl|13.10.2012
+1-2||Gatis Pakalns|1|31|30|96.8|0|6.5|Tampa Bay|tbl|27990891|60||det|13.10.2012
+1-2||Reino Mielikäinen|1|42|37|88.1|0|6.3|Columbus|cbj|31265391|60||wpg|13.10.2012
+1-2||Tapani Bergbom|1|43|33|76.7|0|4.7|Florida|fla|32084872|42.8166666667||chi|13.10.2012
+2-2||Martin Srb|1|14|14|100|0|5.3|Florida|fla|32371958|17.1833333333||chi|13.10.2012
+1-2||Ailill Dalry|1|29|27|93.1|0|5.9|Carolina|car|29257370|60||nas|13.10.2012
+1-2||Michal Skuban|1|30|28|93.3|0|6.0|Chicago|chi|29630308|60||nas|07.10.2012
+1-2||Tauno Antikainen|1|13|13|100|1|5.3|Detroit|det|27053252|60||cbj|07.10.2012
+1-2||Jaroslav Korček|1|34|27|79.4|0|4.9|Toronto|tor|23010996|60||cbj|07.10.2012
+1-2||Viktar Dzerazhnia|1|23|22|95.7|0|5.9|Montreal|mtl|22293755|60||buf|07.10.2012
+1-2||Lukáš Kratochvíl|1|24|21|87.5|0|5.1|St. Louis|stl|31672843|60||ott|07.10.2012
+1-2||Elis Grubač|1|44|41|93.2|0|7.1|San Jose|sjs|30839050|49.8833333333||dal|07.10.2012
+2-2||Patrick Zentriegen|1|9|8|88.9|0|4.5|San Jose|sjs|14045151|10.1166666667||dal|07.10.2012
+1-2||Adam Miček|1|6|6|100|1|4.7|LA Kings|lak|26049920|60||phx|07.10.2012
+1-2||Jaroslav Halák|1|22|21|95.5|0|5.8|Pittsburgh|pit|24109404|60||njd|07.10.2012
+1-2||Valio Wendelin|1|12|12|100|1|5.2|NY Rangers|nyr|27529605|60||phi|07.10.2012
+1-1||Denis Možucha|1|47|38|80.9|0|5.4|Anaheim|ana|29627564|60||nyi|07.10.2012
+1-2||Miron Surautsau|1|13|13|100|1|5.3|Calgary|cgy|22262697|60||col|07.10.2012
+1-2||Artem Kunitsa|1|30|26|86.7|0|5.5|Minnesota|min|31850772|40.95||van|07.10.2012
+2-2||Arne  Samans|1|14|11|78.6|0|4.4|Minnesota|min|32530184|19.05||van|07.10.2012
+1-2||Tapani Bergbom|1|36|26|72.2|0|4.2|Florida|fla|32084872|41.05||was|07.10.2012
+2-2||Martin Srb|1|22|20|90.9|0|5.2|Florida|fla|32371958|18.95||was|07.10.2012
+1-2||Gatis Pakalns|1|16|16|100|1|5.6|Tampa Bay|tbl|27990891|60||edm|07.10.2012
+1-2||Ján Džogan|1|26|24|92.3|0|5.8|Nashville|nas|22670313|60||chi|07.10.2012
+1-2||Reino Mielikäinen|1|39|33|84.6|0|5.7|Columbus|cbj|31265391|60||det|07.10.2012
+1-2||Yuriy Bakhvalov|1|26|23|88.5|0|5.6|Boston|bos|28500438|60||tor|07.10.2012
+1-2||Jaroslav Bednařík|1|44|39|88.6|0|6.5|Buffalo|buf|29623573|60||mtl|07.10.2012
+1-2||Bohumír Dlouhý|1|31|30|96.8|0|6.5|Ottawa|ott|29241980|60||stl|07.10.2012
+1-2||Etienne Dugas|1|5|5|100|0|4.7|Dallas|dal|26041188|51.0333333333||sjs|07.10.2012
+2-2||Theo Chevallier|1|1|1|100|0|4.1|Dallas|dal|30152107|8.96666666667||sjs|07.10.2012
+1-2||Częstogniew Bunc|1|49|42|85.7|0|6.3|Phoenix|phx|31864105|60||lak|07.10.2012
+2-2||František Miškanin|1|37|35|94.6|0|6.6|NJ Devils|njd|29565349|59||pit|07.10.2012
+1-2||Drahoslav Rojka|1|24|21|87.5|0|5.1|Philadelphia|phi|32154606|30.0333333333||nyr|07.10.2012
+2-2||Juraj Pataki|1|22|19|86.4|0|5.1|Philadelphia|phi|31435159|29.9666666667||nyr|07.10.2012
+1-2||Alexey Arkhireev|1|15|14|93.3|0|5.2|NY Islanders|nyi|30275894|60||ana|07.10.2012
+1-2||Yaroslav Belyakov|1|43|37|86|0|5.9|Colorado|col|26900028|60||cgy|07.10.2012
+1-2||Zoltán Gyulai|1|13|12|92.3|0|5.0|Vancouver|van|26967492|60||min|07.10.2012
+1-2||Rafael Zahnd|1|3|3|100|1|4.5|Washington|was|26905564|60||fla|07.10.2012
+1-2||Noel Newsome|1|21|20|95.2|0|5.6|Edmonton|edm|30118196|30.95||tbl|07.10.2012
+2-2||Ēriks Rozītis|1|17|16|94.1|0|5.2|Edmonton|edm|30638404|29.05||tbl|07.10.2012
+1-2||Wilhelm Nielsen|1|44|38|86.4|0|6.0|St. Louis|stl|29010523|60||bos|06.10.2012
+1-2||Bohumír Dlouhý|1|22|21|95.5|0|5.8|Ottawa|ott|29241980|60||cbj|06.10.2012
+1-2||Ján Džogan|1|49|45|91.8|0|7.3|Nashville|nas|22670313|60||mtl|06.10.2012
+1-2||Jaroslav Korček|1|36|33|91.7|0|6.4|Toronto|tor|23010996|60||mtl|06.10.2012
+1-2||Jaroslav Bednařík|1|30|25|83.3|0|5.1|Buffalo|buf|29623573|60||chi|06.10.2012
+1-2||Brian Boucher|1|17|16|94.1|0|5.3|Pittsburgh|pit|29393411|60||ana|06.10.2012
+1-2||Adam Miček|1|21|16|76.2|0|4.4|LA Kings|lak|26049920|60||nyi|06.10.2012
+1-2||Valio Wendelin|1|9|7|77.8|0|4.2|NY Rangers|nyr|27529605|60||sjs|06.10.2012
+1-2||Częstogniew Bunc|1|41|38|92.7|0|6.6|Phoenix|phx|31864105|60||njd|06.10.2012
+1-2||Drahoslav Rojka|1|27|25|92.6|0|5.8|Philadelphia|phi|32154606|30.95||dal|06.10.2012
+2-2||Juraj Pataki|1|19|18|94.7|0|5.4|Philadelphia|phi|31435159|29.05||dal|06.10.2012
+1-2||Tapani Bergbom|1|32|28|87.5|0|5.5|Florida|fla|32084872|41.1166666667||edm|06.10.2012
+2-2||Martin Srb|1|21|17|81|0|4.6|Florida|fla|32371958|18.8833333333||edm|06.10.2012
+1-2||Gatis Pakalns|1|23|21|91.3|0|5.4|Tampa Bay|tbl|27990891|60||van|06.10.2012
+1-2||Ailill Dalry|1|45|36|80|0|5.3|Carolina|car|29257370|60||col|06.10.2012
+1-2||Rafael Zahnd|1|6|6|100|1|4.5|Washington|was|26905564|60||min|06.10.2012
+1-1||Scott Aiston|1|38|28|73.7|0|4.5|Winnipeg|wpg|27560296|60||cgy|06.10.2012
+1-2||Yuriy Bakhvalov|1|21|18|85.7|0|5.0|Boston|bos|28500438|60||stl|06.10.2012
+1-2||Reino Mielikäinen|1|35|32|91.4|0|6.3|Columbus|cbj|31265391|60||ott|06.10.2012
+1-2||Viktar Dzerazhnia|1|23|19|82.6|0|4.8|Montreal|mtl|22293755|60||nas|06.10.2012
+1-2||Tauno Antikainen|1|8|7|87.5|0|4.3|Detroit|det|27053252|30.6166666667||tor|06.10.2012
+2-2||Jani Pajamäki|1|11|6|54.5|0|3.5|Detroit|det|31910491|29.3833333333||tor|06.10.2012
+1-2||Michal Skuban|1|36|33|91.7|0|6.6|Chicago|chi|29630308|60||buf|06.10.2012
+1-1||Denis Možucha|1|38|34|89.5|0|6.0|Anaheim|ana|29627564|60||pit|06.10.2012
+1-2||Lillo Pellin|1|31|24|77.4|0|4.7|NY Islanders|nyi|27114964|60||lak|06.10.2012
+1-2||Elis Grubač|1|18|15|83.3|0|4.7|San Jose|sjs|30839050|33||nyr|06.10.2012
+2-2||Patrick Zentriegen|1|24|19|79.2|0|4.7|San Jose|sjs|14045151|27||nyr|06.10.2012
+1-1||Andraž Levc|1|22|22|100|1|6.2|NJ Devils|njd|31257395|60||phx|06.10.2012
+1-2||Etienne Dugas|1|11|10|90.9|0|4.7|Dallas|dal|26041188|60||phi|06.10.2012
+1-2||Noel Newsome|1|5|5|100|0|4.7|Edmonton|edm|30118196|30.1666666667||fla|06.10.2012
+2-2||Ēriks Rozītis|1|4|4|100|0|4.5|Edmonton|edm|30638404|29.8333333333||fla|06.10.2012
+1-2||Zoltán Gyulai|1|38|38|100|1|7.6|Vancouver|van|26967492|60||tbl|06.10.2012
+1-2||Yaroslav Belyakov|1|20|19|95|0|5.5|Colorado|col|26900028|60||car|06.10.2012
+1-2||Artem Kunitsa|1|32|27|84.4|0|5.3|Minnesota|min|31850772|40.9833333333||was|06.10.2012
+2-2||Arne  Samans|1|20|12|60|0|3.3|Minnesota|min|32530184|19.0166666667||was|06.10.2012
+1-2||Glenn Clark|1|4|3|75|0|4.3|Calgary|cgy|24711743|60||wpg|06.10.2012
+1-2||Lukáš Kratochvíl|1|13|10|76.9|0|4.4|St. Louis|stl|31672843|60||chi|30.09.2012
+1-2||Reino Mielikäinen|1|22|19|86.4|0|5.1|Columbus|cbj|31265391|60||nas|30.09.2012
+1-2||Yuriy Bakhvalov|1|17|16|94.1|0|5.3|Boston|bos|28500438|60||ott|30.09.2012
+1-2||Jaroslav Bednařík|1|32|28|87.5|0|5.7|Buffalo|buf|29623573|60||det|30.09.2012
+1-2||Etienne Dugas|1|22|19|86.4|0|5.3|Dallas|dal|26041188|56.0833333333||ana|30.09.2012
+2-2||Theo Chevallier|1|1|1|100|0|4.2|Dallas|dal|30152107|3.91666666667||ana|30.09.2012
+1-2||Elis Grubač|1|7|4|57.1|0|3.7|San Jose|sjs|30839050|10.65||lak|30.09.2012
+2-2||Patrick Zentriegen|1|36|31|86.1|0|5.7|San Jose|sjs|14045151|49.35||lak|30.09.2012
+1-2||Jaroslav Halák|1|42|38|90.5|0|6.4|Pittsburgh|pit|24109404|60||nyi|30.09.2012
+1-2||Valio Wendelin|1|10|10|100|1|5.1|NY Rangers|nyr|27529605|60||njd|30.09.2012
+1-2||Częstogniew Bunc|1|36|32|88.9|0|6.1|Phoenix|phx|31864105|60||phi|30.09.2012
+1-2||Miron Surautsau|1|9|7|77.8|0|4.2|Calgary|cgy|22262697|60||edm|30.09.2012
+1-2||Zoltán Gyulai|1|31|27|87.1|0|5.4|Vancouver|van|26967492|60||col|30.09.2012
+1-2||Tapani Bergbom|1|37|31|83.8|0|5.6|Florida|fla|32084872|41.05||tbl|30.09.2012
+2-2||Martin Srb|1|17|13|76.5|0|4.2|Florida|fla|32371958|18.95||tbl|30.09.2012
+1-2||Rafael Zahnd|1|12|12|100|1|5.2|Washington|was|26905564|60||car|30.09.2012
+1-2||Bo Enevoldsen|1|1|1|100|1|4.1|Winnipeg|wpg|25687856|60||min|30.09.2012
+1-2||Michal Skuban|1|37|31|83.8|0|5.5|Chicago|chi|29630308|60||stl|30.09.2012
+1-2||Ján Džogan|1|28|26|92.9|0|6.0|Nashville|nas|22670313|60||cbj|30.09.2012
+1-2||Srečko Alagič|1|35|30|85.7|0|5.6|Ottawa|ott|29035329|60||bos|30.09.2012
+1-2||Tauno Antikainen|1|26|25|96.2|0|6.1|Detroit|det|27053252|60||buf|30.09.2012
+1-2||Juho Tahvanainen|1|40|34|85|0|5.6|Anaheim|ana|32507193|60||dal|30.09.2012
+1-2||Adam Miček|1|3|3|100|1|4.4|LA Kings|lak|26049920|60||sjs|30.09.2012
+1-2||Alexey Arkhireev|1|23|20|87|0|5.3|NY Islanders|nyi|30275894|60||pit|30.09.2012
+1-2||Andraž Levc|1|34|22|64.7|0|3.3|NJ Devils|njd|31257395|48.1333333333||nyr|30.09.2012
+2-2||František Miškanin|1|7|7|100|0|4.5|NJ Devils|njd|29565349|11.8666666667||nyr|30.09.2012
+1-2||Drahoslav Rojka|1|15|15|100|0|5.4|Philadelphia|phi|32154606|31.2833333333||phx|30.09.2012
+2-2||Juraj Pataki|1|9|9|100|0|5.0|Philadelphia|phi|31435159|28.7166666667||phx|30.09.2012
+1-2||Noel Newsome|1|30|21|70|0|4.1|Edmonton|edm|30118196|30.4166666667||cgy|30.09.2012
+2-2||Ēriks Rozītis|1|26|23|88.5|0|5.4|Edmonton|edm|30638404|29.5833333333||cgy|30.09.2012
+1-2||Yaroslav Belyakov|1|29|29|100|1|6.7|Colorado|col|26900028|60||van|30.09.2012
+1-2||Gatis Pakalns|1|4|3|75|0|4.2|Tampa Bay|tbl|27990891|60||fla|30.09.2012
+1-2||Ailill Dalry|1|55|43|78.2|0|5.4|Carolina|car|29257370|60||was|30.09.2012
+1-2||Gabriel Ball|1|28|17|60.7|0|3.1|Minnesota|min|32070061|41.0833333333||wpg|30.09.2012
+2-2||Noah Niggli|1|14|12|85.7|0|4.7|Minnesota|min|31838572|18.9166666667||wpg|30.09.2012
+1-2||Adam Miček|1|14|14|100|1|5.4|LA Kings|lak|26049920|60||ana|29.09.2012
+1-2||Elis Grubač|1|32|30|93.8|0|6.5|San Jose|sjs|30839050|60||phx|29.09.2012
+1-2||Valio Wendelin|1|17|17|100|1|5.7|NY Rangers|nyr|27529605|60||nyi|29.09.2012
+1-2||Andraž Levc|1|33|32|97|0|6.8|NJ Devils|njd|31257395|60||phi|29.09.2012
+1-2||Etienne Dugas|1|14|14|100|1|5.5|Dallas|dal|26041188|60||pit|29.09.2012
+1-2||Rafael Zahnd|1|3|3|100|1|4.5|Washington|was|26905564|60||tor|29.09.2012
+1-2||Milan Biloveský|1|19|18|94.7|0|5.6|Montreal|mtl|20220217|60||tbl|29.09.2012
+1-2||Scott Aiston|1|30|25|83.3|0|5.0|Winnipeg|wpg|27560296|60||bos|29.09.2012
+1-2||Tapani Bergbom|1|42|32|76.2|0|4.8|Florida|fla|32084872|41.1||buf|29.09.2012
+2-2||Martin Srb|1|12|12|100|0|5.1|Florida|fla|32371958|18.9||buf|29.09.2012
+1-2||Srečko Alagič|1|14|14|100|1|5.3|Ottawa|ott|29035329|60||car|29.09.2012
+1-2||Lukáš Kratochvíl|1|24|17|70.8|0|4.1|St. Louis|stl|31672843|60||cgy|29.09.2012
+1-2||Yaroslav Belyakov|1|40|33|82.5|0|5.3|Colorado|col|26900028|60||det|29.09.2012
+1-2||Reino Mielikäinen|1|5|2|40|0|3.5|Columbus|cbj|31265391|7.43333333333||van|29.09.2012
+2-2||Petr Chmelař|1|29|26|89.7|0|5.6|Columbus|cbj|29518015|52.5666666667||van|29.09.2012
+1-2||Michal Skuban|1|25|23|92|0|5.8|Chicago|chi|29630308|60||edm|29.09.2012
+1-2||Gabriel Ball|1|27|22|81.5|0|4.8|Minnesota|min|32070061|41.0166666667||nas|29.09.2012
+2-2||Noah Niggli|1|14|13|92.9|0|4.9|Minnesota|min|31838572|18.9833333333||nas|29.09.2012
+1-2||Denis Možucha|1|45|36|80|0|5.3|Anaheim|ana|29627564|60||lak|29.09.2012
+1-2||Częstogniew Bunc|1|27|20|74.1|0|4.4|Phoenix|phx|31864105|60||sjs|29.09.2012
+1-2||Lillo Pellin|1|31|27|87.1|0|5.6|NY Islanders|nyi|27114964|60||nyr|29.09.2012
+1-2||Drahoslav Rojka|1|14|12|85.7|0|4.7|Philadelphia|phi|32154606|30.4166666667||njd|29.09.2012
+2-2||Juraj Pataki|1|20|19|95|0|5.5|Philadelphia|phi|31435159|29.5833333333||njd|29.09.2012
+1-2||Jaroslav Halák|1|32|31|96.9|0|6.6|Pittsburgh|pit|24109404|60||dal|29.09.2012
+1-1||Jaroslav Korček|1|54|47|87|0|6.7|Toronto|tor|23010996|60||dal|29.09.2012
+1-2||Gatis Pakalns|1|30|28|93.3|0|6.1|Tampa Bay|tbl|27990891|60||mtl|29.09.2012
+1-2||Yuriy Bakhvalov|1|31|29|93.5|0|6.2|Boston|bos|28500438|60||wpg|29.09.2012
+1-2||Jaroslav Bednařík|1|6|6|100|1|4.5|Buffalo|buf|29623573|60||fla|29.09.2012
+1-2||Ailill Dalry|1|32|27|84.4|0|5.3|Carolina|car|29257370|60||ott|29.09.2012
+1-2||Štěpán Vácha|1|28|26|92.9|0|6.0|Calgary|cgy|26146532|60||stl|29.09.2012
+1-1||Tauno Antikainen|1|23|23|100|1|6.3|Detroit|det|27053252|60||col|29.09.2012
+1-2||Zoltán Gyulai|1|26|23|88.5|0|5.7|Vancouver|van|26967492|60||cbj|29.09.2012
+1-2||Noel Newsome|1|19|15|78.9|0|4.5|Edmonton|edm|30118196|30.1166666667||chi|29.09.2012
+2-2||Ēriks Rozītis|1|24|19|79.2|0|4.7|Edmonton|edm|30638404|29.8833333333||chi|29.09.2012
+1-2||Ján Džogan|1|9|9|100|1|4.9|Nashville|nas|22670313|60||min|29.09.2012
+1-2||Gabriel Ball|1|28|19|67.9|0|3.7|Minnesota|min|32070061|41.05||edm|23.09.2012
+2-2||Noah Niggli|1|13|12|92.3|0|4.8|Minnesota|min|31838572|18.95||edm|23.09.2012
+1-2||Miron Surautsau|1|15|14|93.3|0|5.1|Calgary|cgy|22262697|60||van|23.09.2012
+1-2||Bo Enevoldsen|1|20|19|95|0|5.5|Winnipeg|wpg|25687856|60||tbl|23.09.2012
+1-2||Tapani Bergbom|1|40|37|92.5|0|6.5|Florida|fla|32084872|41.7833333333||car|23.09.2012
+2-2||Martin Srb|1|15|15|100|0|5.3|Florida|fla|32371958|18.2166666667||car|23.09.2012
+1-2||Rafael Zahnd|1|21|18|85.7|0|5.0|Washington|was|26905564|60||col|23.09.2012
+1-2||Valio Wendelin|1|17|16|94.1|0|5.4|NY Rangers|nyr|27529605|60||stl|23.09.2012
+1-2||Lillo Pellin|1|37|27|73|0|4.3|NY Islanders|nyi|27114964|60||det|23.09.2012
+1-2||Jocelyn Thibault|1|29|26|89.7|0|5.5|Pittsburgh|pit|22385348|60||cbj|23.09.2012
+1-2||Michal Skuban|1|12|12|100|1|5.1|Chicago|chi|29630308|60||njd|23.09.2012
+1-2||Ján Džogan|1|16|15|93.8|0|5.2|Nashville|nas|22670313|60||phi|23.09.2012
+1-2||Jaroslav Korček|1|20|18|90|0|5.2|Toronto|tor|23010996|60||phi|23.09.2012
+1-2||Milan Biloveský|1|8|8|100|1|4.8|Montreal|mtl|20220217|60||phx|23.09.2012
+1-2||Etienne Dugas|1|57|50|87.7|0|7.0|Dallas|dal|26041188|60||bos|23.09.2012
+1-2||Denis Možucha|1|33|30|90.9|0|6.2|Anaheim|ana|29627564|60||buf|23.09.2012
+1-2||Elis Grubač|1|14|11|78.6|0|4.4|San Jose|sjs|30839050|14.8666666667||ott|23.09.2012
+2-2||Patrick Zentriegen|1|41|32|78|0|4.8|San Jose|sjs|14045151|45.1333333333||ott|23.09.2012
+1-2||Ēriks Rozītis|1|12|9|75|0|4.2|Edmonton|edm|30638404|30.8833333333||min|23.09.2012
+2-2||Čistomil Romanovič|1|7|7|100|0|4.6|Edmonton|edm|20647986|29.1166666667||min|23.09.2012
+1-2||Zoltán Gyulai|1|37|31|83.8|0|5.4|Vancouver|van|26967492|38.15||cgy|23.09.2012
+2-2||Glenn Gabriel|1|17|14|82.4|0|4.6|Vancouver|van|20860100|21.85||cgy|23.09.2012
+1-2||Gatis Pakalns|1|11|6|54.5|0|3.5|Tampa Bay|tbl|27990891|15.0166666667||wpg|23.09.2012
+2-2||Esa Nyyssölä|1|31|29|93.5|0|6.0|Tampa Bay|tbl|23446864|44.9833333333||wpg|23.09.2012
+1-2||Ailill Dalry|1|12|12|100|1|5.2|Carolina|car|29257370|60||fla|23.09.2012
+1-2||Yaroslav Belyakov|1|46|40|87|0|6.4|Colorado|col|26900028|60||was|23.09.2012
+1-2||Lukáš Kratochvíl|1|35|24|68.6|0|3.7|St. Louis|stl|31672843|60||nyr|23.09.2012
+1-2||Tauno Antikainen|1|22|19|86.4|0|5.3|Detroit|det|27053252|60||nyi|23.09.2012
+1-2||Reino Mielikäinen|1|23|22|95.7|0|5.9|Columbus|cbj|31265391|60||pit|23.09.2012
+1-2||Andraž Levc|1|46|34|73.9|0|4.6|NJ Devils|njd|31257395|46.65||chi|23.09.2012
+2-2||František Miškanin|1|14|14|100|0|5.1|NJ Devils|njd|29565349|13.35||chi|23.09.2012
+1-2||Drahoslav Rojka|1|25|18|72|0|4.1|Philadelphia|phi|32154606|32.9833333333||nas|23.09.2012
+2-2||Juraj Pataki|1|26|22|84.6|0|5.1|Philadelphia|phi|31435159|27.0166666667||nas|23.09.2012
+1-2||Adam Miček|1|24|21|87.5|0|5.1|LA Kings|lak|26049920|60||tor|23.09.2012
+1-2||Częstogniew Bunc|1|42|38|90.5|0|6.4|Phoenix|phx|31864105|60||mtl|23.09.2012
+1-2||Yuriy Bakhvalov|1|13|13|100|1|5.3|Boston|bos|28500438|60||dal|23.09.2012
+1-2||Jaroslav Bednařík|1|24|20|83.3|0|4.8|Buffalo|buf|29623573|60||ana|23.09.2012
+1-2||Srečko Alagič|1|5|5|100|1|4.7|Ottawa|ott|29035329|60||sjs|23.09.2012
+1-2||Tauno Antikainen|1|33|31|93.9|0|6.6|Detroit|det|27053252|60||bos|22.09.2012
+1-2||Michal Skuban|1|35|33|94.3|0|6.6|Chicago|chi|29630308|60||ott|22.09.2012
+1-2||Lukáš Kratochvíl|1|33|29|87.9|0|5.7|St. Louis|stl|31672843|60||mtl|22.09.2012
+1-2||Jaroslav Korček|1|32|31|96.9|0|6.8|Toronto|tor|23010996|60||mtl|22.09.2012
+1-2||Ján Džogan|1|35|29|82.9|0|5.3|Nashville|nas|22670313|60||buf|22.09.2012
+1-2||Jocelyn Thibault|1|26|25|96.2|0|6.0|Pittsburgh|pit|22385348|60||phx|22.09.2012
+1-2||Etienne Dugas|1|33|33|100|1|7.0|Dallas|dal|26041188|60||nyi|22.09.2012
+1-2||Valio Wendelin|1|16|16|100|1|5.4|NY Rangers|nyr|27529605|60||ana|22.09.2012
+1-2||Adam Miček|1|6|6|100|1|4.5|LA Kings|lak|26049920|60||njd|22.09.2012
+1-2||Elis Grubač|1|45|42|93.3|0|7.1|San Jose|sjs|30839050|60||phi|22.09.2012
+1-2||Gabriel Ball|1|20|20|100|0|5.9|Minnesota|min|32070061|42.45||fla|22.09.2012
+2-2||Noah Niggli|1|6|6|100|0|4.6|Minnesota|min|31838572|17.55||fla|22.09.2012
+1-2||Miron Surautsau|1|28|28|100|1|6.7|Calgary|cgy|22262697|60||tbl|22.09.2012
+1-2||Rafael Zahnd|1|16|15|93.8|0|5.1|Washington|was|26905564|60||van|22.09.2012
+1-2||Bo Enevoldsen|1|10|10|100|1|4.9|Winnipeg|wpg|25687856|60||col|22.09.2012
+1-2||Yuriy Bakhvalov|1|18|15|83.3|0|4.5|Boston|bos|28500438|60||det|22.09.2012
+1-2||Srečko Alagič|1|17|16|94.1|0|5.3|Ottawa|ott|29035329|60||chi|22.09.2012
+1-2||Milan Biloveský|1|30|27|90|0|5.9|Montreal|mtl|20220217|60||stl|22.09.2012
+1-2||Reino Mielikäinen|1|37|35|94.6|0|6.7|Columbus|cbj|31265391|60||tor|22.09.2012
+1-2||Jaroslav Bednařík|1|17|13|76.5|0|4.6|Buffalo|buf|29623573|60||nas|22.09.2012
+1-2||Częstogniew Bunc|1|30|28|93.3|0|6.0|Phoenix|phx|31864105|60||pit|22.09.2012
+1-2||Lillo Pellin|1|29|28|96.6|0|6.1|NY Islanders|nyi|27114964|60||dal|22.09.2012
+1-2||Denis Možucha|1|35|31|88.6|0|5.9|Anaheim|ana|29627564|60||nyr|22.09.2012
+1-2||Andraž Levc|1|56|42|75|0|4.7|NJ Devils|njd|31257395|60||lak|22.09.2012
+1-2||Drahoslav Rojka|1|9|6|66.7|0|4.0|Philadelphia|phi|32154606|30.1166666667||sjs|22.09.2012
+2-2||Juraj Pataki|1|8|8|100|0|4.7|Philadelphia|phi|31435159|29.8833333333||sjs|22.09.2012
+1-2||Tapani Bergbom|1|37|33|89.2|0|6.0|Florida|fla|32084872|60||min|22.09.2012
+1-2||Gatis Pakalns|1|29|27|93.1|0|5.8|Tampa Bay|tbl|27990891|60||cgy|22.09.2012
+1-2||Zoltán Gyulai|1|27|21|77.8|0|4.5|Vancouver|van|26967492|54.8333333333||was|22.09.2012
+2-2||Glenn Gabriel|1|3|3|100|0|4.2|Vancouver|van|20860100|5.16666666667||was|22.09.2012
+1-2||Yaroslav Belyakov|1|43|34|79.1|0|5.2|Colorado|col|26900028|60||wpg|22.09.2012
+1-2||Michal Skuban|1|46|38|82.6|0|5.7|Chicago|chi|29630308|60||det|21.09.2012
+1-2||Lukáš Kratochvíl|1|22|19|86.4|0|4.9|St. Louis|stl|31672843|60||nas|21.09.2012
+1-2||Yuriy Bakhvalov|1|23|20|87|0|5.3|Boston|bos|28500438|60||buf|21.09.2012
+1-2||Jaroslav Korček|1|27|25|92.6|0|5.8|Toronto|tor|23010996|60||buf|21.09.2012
+1-2||Milan Biloveský|1|16|14|87.5|0|4.9|Montreal|mtl|20220217|60||cbj|21.09.2012
+1-2||Etienne Dugas|1|7|7|100|0|4.8|Dallas|dal|26041188|40.7||phx|21.09.2012
+2-2||Theo Chevallier|1|4|4|100|0|4.4|Dallas|dal|30152107|19.3||phx|21.09.2012
+1-2||Elis Grubač|1|14|11|78.6|0|4.3|San Jose|sjs|30839050|14.7333333333||ana|21.09.2012
+2-2||Patrick Zentriegen|1|40|33|82.5|0|5.3|San Jose|sjs|14045151|45.2666666667||ana|21.09.2012
+1-2||Jaroslav Halák|1|16|16|100|1|5.4|Pittsburgh|pit|24109404|60||phi|21.09.2012
+1-2||Lillo Pellin|1|12|12|100|1|5.2|NY Islanders|nyi|27114964|60||njd|21.09.2012
+1-2||Valio Wendelin|1|31|27|87.1|0|5.6|NY Rangers|nyr|27529605|60||lak|21.09.2012
+1-2||Gabriel Ball|1|34|27|79.4|0|4.8|Minnesota|min|32070061|40.8833333333||cgy|21.09.2012
+2-2||Noah Niggli|1|21|20|95.2|0|5.5|Minnesota|min|31838572|19.1166666667||cgy|21.09.2012
+1-2||Yaroslav Belyakov|1|17|13|76.5|0|4.2|Colorado|col|26900028|60||edm|21.09.2012
+1-2||Bo Enevoldsen|1|1|1|100|1|4.1|Winnipeg|wpg|25687856|60||fla|21.09.2012
+1-2||Rafael Zahnd|1|24|22|91.7|0|5.5|Washington|was|26905564|48.5833333333||tbl|21.09.2012
+2-2||František Schrötter|1|7|6|85.7|0|4.2|Washington|was|26967848|11.4166666667||tbl|21.09.2012
+1-2||Ailill Dalry|1|27|26|96.3|0|5.9|Carolina|car|29257370|60||van|21.09.2012
+1-2||Tauno Antikainen|1|21|20|95.2|0|5.8|Detroit|det|27053252|60||chi|21.09.2012
+1-2||Ján Džogan|1|30|28|93.3|0|6.1|Nashville|nas|22670313|60||stl|21.09.2012
+1-2||Jaroslav Bednařík|1|39|35|89.7|0|6.3|Buffalo|buf|29623573|60||bos|21.09.2012
+1-2||Srečko Alagič|1|25|22|88|0|5.3|Ottawa|ott|29035329|60||tor|21.09.2012
+1-2||Reino Mielikäinen|1|32|31|96.9|0|6.7|Columbus|cbj|31265391|60||mtl|21.09.2012
+1-2||Częstogniew Bunc|1|34|29|85.3|0|5.4|Phoenix|phx|31864105|60||dal|21.09.2012
+1-2||Denis Možucha|1|16|16|100|1|5.5|Anaheim|ana|29627564|60||sjs|21.09.2012
+1-2||Drahoslav Rojka|1|13|12|92.3|0|4.8|Philadelphia|phi|32154606|32.8833333333||pit|21.09.2012
+2-2||Juraj Pataki|1|13|12|92.3|0|4.9|Philadelphia|phi|31435159|27.1166666667||pit|21.09.2012
+1-2||Andraž Levc|1|28|21|75|0|4.3|NJ Devils|njd|31257395|41.0666666667||nyi|21.09.2012
+2-2||František Miškanin|1|8|5|62.5|0|3.7|NJ Devils|njd|29565349|18.9333333333||nyi|21.09.2012
+1-2||Adam Miček|1|32|30|93.8|0|6.3|LA Kings|lak|26049920|60||nyr|21.09.2012
+1-2||Miron Surautsau|1|2|2|100|1|4.4|Calgary|cgy|22262697|60||min|21.09.2012
+1-2||Ēriks Rozītis|1|16|15|93.8|0|5.1|Edmonton|edm|30638404|30.0166666667||col|21.09.2012
+2-2||Čistomil Romanovič|1|17|16|94.1|0|5.4|Edmonton|edm|20647986|29.9833333333||col|21.09.2012
+1-2||Tapani Bergbom|1|31|22|71|0|4.1|Florida|fla|32084872|41.1166666667||wpg|21.09.2012
+2-2||Martin Srb|1|20|18|90|0|5.0|Florida|fla|32371958|18.8833333333||wpg|21.09.2012
+1-2||Gatis Pakalns|1|30|30|100|1|6.7|Tampa Bay|tbl|27990891|60||was|21.09.2012
+1-2||Zoltán Gyulai|1|22|22|100|1|6.1|Vancouver|van|26967492|60||car|21.09.2012

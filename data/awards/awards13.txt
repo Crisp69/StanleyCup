@@ -1,0 +1,13 @@
+stanleycup|Stanley Cup Champions|Florida Panthers|vlasto|fla|Awarded to the league champion.
+pres|Presidents' Trophy|Colorado Avalanche|sollu|col|An annual award to the club finishing the regular season with the best overall record.
+wall|Prince of Wales Trophy|Florida Panthers|vlasto|fla|The club which advances to the Stanley Cup Finals as the winner of the Eastern Conference Championship is presented with the Prince of Wales Trophy.
+cla|Clarence S. Campbell Bowl|Colorado Avalanche|sollu|col|The club which advances to the Stanley Cup Finals as the winner of the Western Conference Championship is presented with the Clarence S. Campbell Bowl.
+jack|Jack Adams Award|Chicago Blackhawks|petrik|chi|The Jack Adams Award is an annual award presented by the National Hockey League Broadcasters' Association to the NHL coach adjudged to have contributed the most to his team's success.
+conn|Conn Smythe Trophy|Florida Panthers|Zdenko Kompuš|fla|The Conn Smythe Trophy is an award given to the most valuable player for his team in the playoffs.
+hart|Hart Memorial Trophy|St.Louis Blues|Daniels Meistars|stl|The Hart Memorial Trophy is an award given to the player judged to be the most valuable to his team.
+art|Art Ross Trophy|San Jose Sharks|Erling Kjeldsen|sjs|The Art Ross Trophy is an award given to the player who leads the tournament in scoring points at the end of the regular season, before the beginning of the play-off.
+moris|Maurice 'Rocket' Richard Trophy|Toronto Meaple Leafs|Miguel Liebana|tor|The Maurice Richard Trophy is an award given to the tournament's top goal scorer.
+james|James Norris Memorial Trophy|St.Louis Blues|Emils Kvepinš|stl|The James Norris Memorial Trophy is an award given to the defense player who demonstrates throughout the season the greatest all-round ability in the position.
+vezina|Vezina Trophy|Ottawa Senators|Željko Špoljarec|ott|The Vezina Trophy is an award given to the goalkeeper adjudged to be the best at this position.
+calder|Calder Memorial Trophy|Colorado Avalanche|Richard Groves|col|The Calder Memorial Trophy is an annual award given to the player selected as the most proficient in his first year of competition in the National Hockey League.
+calder|Calder Memorial Trophy|Vancouver Canucks|Frederik Zelinka|van|The Calder Memorial Trophy is an annual award given to the player selected as the most proficient in his first year of competition in the National Hockey League.

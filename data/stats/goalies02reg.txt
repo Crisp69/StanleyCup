@@ -1,0 +1,10 @@
+1||Niko Žbontar|2|14|14|100,00%|||Montreal|mtl
+2||Benedek Csizmadia|1|1|1|100,00%|||Buffalo|buf
+3||Miroslav Klementík|3|38|37|97,37%|||Colorado|col
+4||Víťazoslav Lazarák|4|57|55|96,49%|||Anaheim|ana
+5||Damian Schurtenberger|1|24|23|95,83%|||Washington|was
+6||Lukáš Červeňák|9|147|139|94,56%|||Toronto|tor
+7||Tuomo Ketola|4|82|77|93,90%|||Dallas|dal
+8||Dario Streitenbürger|2|44|41|93,18%|||Ottawa|ott
+9||Jan Matti Koenig|6|91|84|92,31%|||Colorado|col
+10||Frederik Harabín|1|12|11|91,67%|||NY Islanders|nyi

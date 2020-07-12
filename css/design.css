@@ -1,0 +1,139 @@
+/*BODY*/
+body 		{margin: 0px; padding: 0px; font-family: "Verdana", serif; font-size: 8pt; background-color: #1C1C1C; color: #CDCDCD; overflow: auto; text-align: center; behavior:url('csshover.htc'); background-image: url(../aimg/bcgd_high_main.jpg); Background-position: top right; background-repeat: repeat-x;}
+
+
+/*OBJECTS*/
+#page 		{top: 10px; width: 980px; position: relative; background-color: black; margin-left: auto; margin-right: auto; border: 1px solid #434343;}
+#bottom 	{width: 980px; bottom: 0px; position: relative; padding: 1px 0px 5px 0px; font-size: 7.5pt; text-align: center; color: gray; border-top: solid #434343 1px; border-bottom: solid #1C1C1C 15px; background-color: #1C1C1C; overflow: hidden;}
+#season		{position: absolute; top: 125px; left: 620px; color: #787878;}
+#winner		{position: absolute; top: 135px; left: 835px; color: #787878;}
+#button 	{position: absolute; top: 25px; left: 20px; text-align: left; overflow: hidden; color: #676767;}
+#teamlogo 	{position: absolute; top: 5px; left: 10px; right: 10px;}
+#ha			{position: relative; width: 6px; height: 185px;}
+#main 		{position: relative; top: 20px; padding: 25px 0px 30px 0px;}
+#menu 		{position: absolute; top: 185px; left: 10px; width: 960px;}
+hr {color: grey; border-bottom: 1px solid #CDCDCD; margin-bottom: 10px; margin-top: 25px; visibility: visible;}
+hr.hrstar {color: grey; border-bottom: 1px solid #787878; margin-bottom: 3px; margin-top: 3px; visibility: visible;}
+.tdmain 	{background-color: #343434; padding: 25px; color: #CDCDCD; text-align: left;}
+#column 	{background-color: white; background-image: url(../img/sc_rightcolumn.jpg); background-position: bottom right; background-repeat: no-repeat; border: solid 1px white; margin-bottom: 5px;}
+
+/*BASIC STYLES*/
+div.menuitem 	
+	{font-size: 8pt; height: 17px; font-weight: bold; padding: 5px 0px 3px 0px; color: white; vertical-align: middle; text-align: center; background-image: url(../img/bcgd_menu_1.jpg); Background-position: top right; background-repeat: repeat-x; letter-spacing: 0.1ex;}
+a.menuitem, a.menuitem:visited 	
+	{color: white; text-decoration: none;}
+a.menuitem:hover, div.menuitem:hover, a.hilite:hover 
+	{color: #C6AD96;}
+a.menuitem #id {color: silver;}
+	
+.text, a.text, a.text:visited, a 
+	{font-size: 8pt; color: #CDCDCD; }
+.textstriked, a.textstriked, a.textstriked:visited 
+	{font-size: 8pt; color: #CDCDCD; text-decoration: line-through;}
+	
+.polltext, a.polltext, a.polltext:visited
+	{font-size: 8pt; color: #232323;} 
+.text1, a.text1, a.text1:visited 
+	{font-size: 8pt; color: #CDCDCD; text-decoration: none;}
+.headline, a.headline, a.headline:visited 
+	{font-size: 11pt; color: white; font-weight: bold; padding-top: 14px; text-decoration: none;}
+a.text1:hover, a.text:hover, a.headline:hover
+	{text-decoration: underline; color: #C6AD96;}
+.date 
+	{font-size: 7pt; color: black;}
+.maindate 
+	{font-size: 7pt; color: #989898;}
+.whitedate 
+	{font-size: 7pt; color: white;}
+.note, a.note, a.note:visited 
+	{font-size: 7.5pt; color: #989898;}
+.notered, a.notered, a.notered:visited 
+	{font-size: 7.5pt; color: red;}
+.note1, a.note1, a.note1:visited 
+	{font-size: 7.5pt; color: #989898; text-decoration: none;}
+a.note1:hover
+	{text-decoration: underline; color: #C6AD96;}
+.darknote, a.darknote, a.darknote:visited 
+	{font-size: 7.5pt; color: #656565;}
+.tblhd, a.tblhd, a.tblhd:visited 
+	{color: black; font-weight: bold; padding: 3px; font-size: 9pt; text-decoration: none;}
+a.tblhd:hover
+	{text-decoration: underline;}
+.mag, a.mag
+	{color: #343434; font-size: 12pt; font-weight: bold; text-decoration: none;	letter-spacing: 1px; padding-top: 6px; }
+.mag_title, a.mag_title
+	{color: #343434; font-size: 10pt; font-weight: bold; text-decoration: none; padding: 6px 2px 0px 2px}
+.mag_title_new, a.mag_title_new
+	{color: #DD0000; font-size: 11pt; font-weight: bold; text-decoration: none; padding: 6px 2px 0px 2px;}
+a.mag_title:hover, a.mag_title_new:hover
+	{color: #704830; text-decoration: underline;}
+.hilite, a.hilite 
+	{font-size: 8.5pt; font-weight: bold; padding-top: 3px; padding-bottom: 4px; letter-spacing: 0.1ex; color: #EFEFEF; text-align: center; background-image: url(../img/bcgd1.jpg); Background-position: top right; text-decoration: none;}
+.list 
+	{background-color: #232323; text-align: left; font-size: 8pt; color: #CDCDCD; border: 1px solid #E8CFB8;}
+.tree 
+	{background-color: #CDCDCD; height:32px; border: 1px solid #232323; padding: 1px 3px 1px 3px; text-align: center; color: #000000; font-weight: bold; font-size: 8pt; background-image: url(../img/bcgd_gold.jpg)}
+
+
+/*TABLES*/
+table.poll	 		
+{font-size: 8pt; padding: 3px 3px 0px 3px; }
+
+table.star 			
+{font-size: 8pt; color: #CCCCCC; padding: 0px 5px 0px 5px;text-align: left;}
+
+table.awards 		
+{background-color: #121212; font-size: 8pt; color: #CCCCCC; border: 1px solid #A48B74; margin-bottom: 5px;}
+
+table.awards_small 		
+{background-color: #121212; font-size: 8pt; color: #CCCCCC; border: 1px solid #A48B74; margin: 0px 2px 5px 2px;}
+
+th, .trhead, table.sortable th 
+{color: black; background-color: #C6AD96; font-weight: bold; padding: 3px; background-image: url(../img/bcgd_gold.jpg); Background-position: top right; background-repeat: repeat-x; border-bottom: #343434 3px solid;}
+
+a.trhead 
+{text-decoration: none;}
+	
+table.overview, table.sort-table, table.sortable 
+{border-collapse: collapse; width: 95%; font-size: 8pt; color: #CCCCCC;}
+
+table.schedule
+{border-collapse: collapse; width: 98%; font-size: 8pt; color: #CCCCCC;}
+
+table.overview2  	
+{border-collapse: collapse; border: 0px; width: 98%; font-size: 7pt; color: #CCCCCC;}
+
+table.overview tr.odd, table.overview2 tr
+{background-color:#343434;}
+
+table.schedule tr.even, table.overview tr.even, table.overview2 tr.even, table.sort-table tr.even, table.sortable tr.even  
+{background-color:#454545;}
+
+table.schedule tr:hover td, table.overview tr:hover td, table.overview2 tr:hover td, table.overview tr:hover a.text1, table.schedule tr:hover a.text1, table.overview tr:hover a.text, table.sort-table tr:hover, table.sort-table tr.even:hover, table.sortable tr.even:hover, table.sort-table tr:hover a.text1, table.sortable tr:hover td , table.sortable tr:hover a.text1
+{background-color: #330000; color: #C6AD96;}
+
+tr.sum, tr.sum a.text1, table.overview2 tr.sum 
+{background-color: #330000; font-weight: bold; color: #C6AD96; font-size: 8pt;}
+
+tr.up td 
+{border-bottom: 1px dashed #999999; padding: 3px 0px 3px 0px;}
+
+
+/*IMG*/
+img.logo 
+	{text-align: center; border: 0px;}
+img.awards
+	{text-align: center; padding: 10px 20px 10px 20px; background-color: white; border: 0px;}
+img.awards_small
+	{text-align: center; padding: 10px 10px 10px 10px; background-color: white; border: 0px;}
+img.imgnews
+	{padding: 17px 10px 1px 0px;}
+img.magazine 
+	{padding: 5px 10px 1px 0px;}
+a img 
+	{border: 0;}
+
+
+/*HIDDEN*/
+.hidden
+	{display: none;}

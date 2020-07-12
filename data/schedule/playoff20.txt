@@ -1,0 +1,31 @@
+Stanley Cup Finals|Ottawa Senators|Anaheim Ducks ®|5|3597|29|05|2010|ott|ana|3|2|1|872638592|30|
+
+Stanley Cup Finals|Anaheim Ducks ®|Ottawa Senators|3597|5|30|05|2010|ana|ott|1|6|1|872638594|29|
+Conference Finals|Tampa Bay Lightning©|Ottawa Senators|21888|5|22|05|2010|tbl|ott|4|3|1|872549863|28|
+Conference Finals|Dallas Stars ©|Anaheim Ducks ®|21496|3597|22|05|2010|dal|ana|1|3|2|872562642|27|
+Conference Finals|Ottawa Senators|Tampa Bay Lightning©|5|21888|23|05|2010|ott|tbl|2|1|1|872549864|26|
+Conference Finals|Anaheim Ducks ®|Dallas Stars ©|3597|21496|23|05|2010|ana|dal|1|2|2|872562643|25|
+Conference Semifinals|Tampa Bay Lightning©|The Washington Capitals|21888|1659|15|05|2010|tbl|was|4|0|1|872537820|24|
+Conference Semifinals|Ottawa Senators|Boston Bruins ®|5|1220|15|05|2010|ott|bos|2|1|0|872536005|23|
+Conference Semifinals|Dallas Stars ©|Columbus Blue Jackets|21496|32234|15|05|2010|dal|cbj|2|1|0|872536235|22|
+Conference Semifinals|St. Louis Blues®|Anaheim Ducks ®|16565|3597|15|05|2010|stl|ana|1|4|2|872542889|21|
+Conference Semifinals|The Washington Capitals|Tampa Bay Lightning©|1659|21888|16|05|2010|was|tbl|0|5|1|872537821|20|
+Conference Semifinals|Boston Bruins ®|Ottawa Senators|1220|5|16|05|2010|bos|ott|1|3|0|872536007|19|
+Conference Semifinals|Columbus Blue Jackets|Dallas Stars ©|32234|21496|16|05|2010|cbj|dal|2|5|0|872536236|18|
+Conference Semifinals|Anaheim Ducks ®|St. Louis Blues®|3597|16565|16|05|2010|ana|stl|7|1|2|872542891|17|
+Conference Quarterfinals|Tampa Bay Lightning©|Philadelphia Flyers|21888|17911|08|05|2010|tbl|phi|13|0|1|872526595|1|
+Conference Quarterfinals|Ottawa Senators|Atlanta Thrashers®|5|18857|08|05|2010|ott|atl|3|1|0|872514639|2|
+Conference Quarterfinals|New Jersey Devils®|The Washington Capitals|12576|1659|08|05|2010|njd|was|3|5|0|872516458|3|
+Conference Quarterfinals|Florida Panthers ®|Boston Bruins ®|14852|1220|08|05|2010|fla|bos|2|4|0|872514130|4|
+Conference Quarterfinals|Edmonton Oilers™|Columbus Blue Jackets|25621|32234|08|05|2010|edm|cbj|0|2|0|872516840|5|
+Conference Quarterfinals|Dallas Stars ©|Chicago Blackhawks|21496|1091|08|05|2010|dal|chi|4|1|0|872515405|6|
+Conference Quarterfinals|St. Louis Blues®|Vancouver Canucks ®|16565|29135|08|05|2010|stl|van|3|6|0|872517147|7|
+Conference Quarterfinals|Colorado Avalanche|Anaheim Ducks ®|9441|3597|08|05|2010|col|ana|4|3|2|872518958|8|
+Conference Quarterfinals|Philadelphia Flyers|Tampa Bay Lightning©|17911|21888|09|05|2010|phi|tbl|0|11|1|872526596|9|
+Conference Quarterfinals|Atlanta Thrashers®|Ottawa Senators|18857|5|09|05|2010|atl|ott|0|8|0|872514640|10|
+Conference Quarterfinals|The Washington Capitals|New Jersey Devils®|1659|12576|09|05|2010|was|njd|4|2|0|872516459|11|
+Conference Quarterfinals|Boston Bruins ®|Florida Panthers ®|1220|14852|09|05|2010|bos|fla|2|3|0|872514131|12|
+Conference Quarterfinals|Columbus Blue Jackets|Edmonton Oilers™|32234|25621|09|05|2010|cbj|edm|3|2|0|872516841|13|
+Conference Quarterfinals|Chicago Blackhawks|Dallas Stars ©|1091|21496|09|05|2010|chi|dal|0|4|0|872515406|14|
+Conference Quarterfinals|Vancouver Canucks ®|St. Louis Blues®|29135|16565|09|05|2010|van|stl|2|5|0|872517148|15|
+Conference Quarterfinals|Anaheim Ducks ®|Colorado Avalanche|3597|9441|09|05|2010|ana|col|7|2|2|872518960|16|

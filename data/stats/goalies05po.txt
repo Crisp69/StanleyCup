@@ -1,0 +1,29 @@
+1||Ronnie Neal|4|83|80|96,39%|2|5,6|LA Kings|lak
+2||Alfréd Čvirik|2|64|59|92,19%|0|6,2|St. Louis|stl
+3||Beňadik Barta|1|12|11|91,67%|0|5,0|NJ Devils|njd
+4||Vojtech Pichňa|6|132|118|89,39%|2|5,4|NY Islanders|nyi
+5||Michael Veani|3|55|49|89,09%|1|5,0|Toronto|tor
+6||Jozef Jóčik|2|36|32|88,89%|1|5,2|Anaheim|ana
+7||Mâris Irbe|2|41|36|87,80%|1|5,2|Chicago|chi
+8||Jan Matti Koenig|2|65|56|86,15%|0|5,7|Colorado|col
+9||Bine Rebselj|1|7|6|85,71%|0|4,4|Buffalo|buf
+10||Paul Saubot|4|41|35|85,37%|1|4,5|Toronto|tor
+11||Miroslav Klementík|6|116|99|85,34%|0|4,9|Colorado|col
+12||Richard Štěpánek|6|168|143|85,12%|0|5,3|Tampa Bay|tbl
+13||Osip Volchkov|2|61|51|83,61%|0|5,3|San Jose|sjs
+14||Václav Pelikán|2|90|75|83,33%|0|5,8|Florida|fla
+15||Anton Koch|1|18|15|83,33%|0|4,5|LA Kings|lak
+16||Marcus Chettle|4|125|103|82,40%|0|5,1|Vancouver|van
+17||Miroslav Janota|2|50|41|82,00%|1|4,9|NY Islanders|nyi
+18||Víťazoslav Lazarák|4|81|66|81,48%|1|4,8|Anaheim|ana
+19||Alv Holum|2|40|32|80,00%|0|4,6|Buffalo|buf
+20||Kasper Wallin|3|102|81|79,41%|0|4,9|NJ Devils|njd
+21||Hvedar Pivavarau|1|26|20|76,92%|0|4,6|Carolina|car
+22||Tomáš Vokoun|2|52|40|76,92%|0|4,6|Pittsburgh|pit
+23||Alexander Martynyuk|1|13|10|76,92%|0|4,1|Chicago|chi
+24||Saša Šimić|2|83|61|73,49%|0|4,3|Edmonton|edm
+25||Olli Saarela|2|18|13|72,22%|0|4,0|LA Kings|lak
+26||Dominik Hašek|2|28|20|71,43%|0|4,0|Pittsburgh|pit
+27||Leo Jaakonaho|1|5|3|60,00%|0|3,8|Buffalo|buf
+28||Stian Kroken|2|9|5|55,56%|0|3,7|Edmonton|edm
+29||Albín Ostatník|2|11|3|27,27%|0|3,3|Tampa Bay|tbl

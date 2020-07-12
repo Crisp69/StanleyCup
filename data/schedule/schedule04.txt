@@ -1,0 +1,165 @@
+B|Minnesota Wild|Calgary Flames®|3388|18866|4|3|2007|min|cgy|2|4|1
+B|Vancouver Canucks®|Edmonton Oilers @|5619|18843|4|3|2007|van|edm|6|2|0
+B|Ottawa Senators|Boston Bruins|27283|28601|4|3|2007|ott|bos|2|4|0
+B|Toronto Maple Leafs ™|Montreal Canadiens.|6270|21672|4|3|2007|tor|mtl|8|1|0
+B|Buffalo Sabres|Colorado Avalanche ®|4932|9441|4|3|2007|buf|col|0|2|0
+A|Nashville Predators|Columbus Blue Jackets ®|12952|25106|4|3|2007|nas|cbj|6|3|0
+A|ST.LUIS BLUES|Chicago Blackhawks ®|23513|2295|4|3|2007|stl|chi|2|7|0
+A|Philadelphia Flyers ®|New Jersey ?evils|17911|12576|4|3|2007|phi|njd|1|4|0
+A|Pittsburgh Penguins ®|New York Rangers|876|9401|4|3|2007|pit|nyr|3|2|0
+A|New York Islanders|Detroit Red Wings ™|2733|23149|4|3|2007|nyi|det|0|0|0
+C|Phoenix Coyotes®|Anaheim Ducks ™|2499|2449|4|3|2007|phx|ana|1|11|0
+C|San Jose Sharks ®|Los Angeles Kings|25619|23979|4|3|2007|sjs|lak|0|2|0
+C|Tampa Bay Lightning®|Atlanta Thrashers ®|16293|9503|4|3|2007|tbl|atl|2|2|0
+C|Washington Capitals ™|Florida Panthers ®|22782|16237|4|3|2007|was|fla|2|5|0
+C|Dallas Stars™|Carolina Hurricanes ®|12548|12981|4|3|2007|dal|car|3|2|2
+B|Boston Bruins|Vancouver Canucks®|28601|5619|10|3|2007|bos|van|1|5|1
+B|Calgary Flames®|Buffalo Sabres|18866|4932|10|3|2007|cgy|buf|1|2|0
+B|Montreal Canadiens.|Colorado Avalanche ®|21672|9441|10|3|2007|mtl|col|0|5|0
+B|Edmonton Oilers @|Ottawa Senators|18843|27283|10|3|2007|edm|ott|1|2|0
+B|Toronto Maple Leafs ™|Minnesota Wild|6270|3388|10|3|2007|tor|min|7|0|0
+A|New Jersey ?evils|ST.LUIS BLUES|12576|23513|10|3|2007|njd|stl|1|5|0
+A|Columbus Blue Jackets ®|New York Islanders|25106|2733|10|3|2007|cbj|nyi|0|9|0
+A|Detroit Red Wings ™|New York Rangers|23149|9401|10|3|2007|det|nyr|1|9|0
+A|Chicago Blackhawks ®|Philadelphia Flyers ®|2295|17911|10|3|2007|chi|phi|3|3|0
+A|Pittsburgh Penguins ®|Nashville Predators|876|12952|10|3|2007|pit|nas|5|4|0
+C|Atlanta Thrashers ®|San Jose Sharks ®|9503|25619|10|3|2007|atl|sjs|2|3|0
+C|Anaheim Ducks ™|Carolina Hurricanes ®|2449|12981|10|3|2007|ana|car|12|1|0
+C|Dallas Stars™|Florida Panthers ®|12548|16237|10|3|2007|dal|fla|2|1|0
+C|Los Angeles Kings|Tampa Bay Lightning®|23979|16293|10|3|2007|lak|tbl|1|4|0
+C|Phoenix Coyotes®|Washington Capitals ™|2499|22782|10|3|2007|phx|was|10|4|2
+C|Los Angeles Kings|Dallas Stars™|23979|12548|11|3|2007|lak|dal|0|2|1
+C|San Jose Sharks ®|Phoenix Coyotes®|25619|2499|11|3|2007|sjs|phx|3|1|0
+C|Florida Panthers ®|Carolina Hurricanes ®|16237|12981|11|3|2007|fla|car|2|4|0
+C|Tampa Bay Lightning®|Washington Capitals ™|16293|22782|11|3|2007|tbl|was|8|0|0
+C|Anaheim Ducks ™|Atlanta Thrashers ®|2449|9503|11|3|2007|ana|atl|3|0|0
+A|New York Islanders|Toronto Maple Leafs ™|2733|6270|11|3|2007|nyi|tor|5|2|0
+A|Philadelphia Flyers ®|Ottawa Senators|17911|27283|11|3|2007|phi|ott|5|1|0
+A|New York Rangers|Buffalo Sabres|9401|4932|11|3|2007|nyr|buf|8|1|0
+A|New Jersey ?evils|Boston Bruins|12576|28601|11|3|2007|njd|bos|2|3|0
+A|Pittsburgh Penguins ®|Montreal Canadiens.|876|21672|11|3|2007|pit|mtl|6|5|0
+A|Chicago Blackhawks ®|Colorado Avalanche ®|2295|9441|11|3|2007|chi|col|1|4|0
+A|Detroit Red Wings ™|Vancouver Canucks®|23149|5619|11|3|2007|det|van|2|5|0
+A|Nashville Predators|Minnesota Wild|12952|3388|11|3|2007|nas|min|6|6|0
+A|Columbus Blue Jackets ®|Calgary Flames®|25106|18866|11|3|2007|cbj|cgy|0|2|0
+A|ST.LUIS BLUES|Edmonton Oilers @|23513|18843|11|3|2007|stl|edm|3|2|2
+B|Colorado Avalanche ®|Calgary Flames®|9441|18866|17|3|2007|col|cgy|11|0|1
+B|Minnesota Wild|Edmonton Oilers @|3388|18843|17|3|2007|min|edm|2|7|0
+B|Buffalo Sabres|Boston Bruins|4932|28601|17|3|2007|buf|bos|4|6|0
+B|Ottawa Senators|Montreal Canadiens.|27283|21672|17|3|2007|ott|mtl|1|0|0
+B|Toronto Maple Leafs ™|Vancouver Canucks®|6270|5619|17|3|2007|tor|van|1|1|0
+A|Detroit Red Wings ™|Columbus Blue Jackets ®|23149|25106|17|3|2007|det|cbj|2|1|0
+A|Chicago Blackhawks ®|Nashville Predators|2295|12952|17|3|2007|chi|nas|7|2|0
+A|New Jersey ?evils|New York Islanders|12576|2733|17|3|2007|njd|nyi|0|6|0
+A|Philadelphia Flyers ®|New York Rangers|17911|9401|17|3|2007|phi|nyr|2|5|0
+A|ST.LUIS BLUES|Pittsburgh Penguins ®|23513|876|17|3|2007|stl|pit|2|7|0
+C|Dallas Stars™|Anaheim Ducks ™|12548|2449|17|3|2007|dal|ana|2|7|0
+C|Phoenix Coyotes®|Los Angeles Kings|2499|23979|17|3|2007|phx|lak|0|3|0
+C|Carolina Hurricanes ®|Atlanta Thrashers ®|12981|9503|17|3|2007|car|atl|2|4|0
+C|Tampa Bay Lightning®|Florida Panthers ®|16293|16237|17|3|2007|tbl|fla|1|2|0
+C|Washington Capitals ™|San Jose Sharks ®|22782|25619|17|3|2007|was|sjs|0|6|2
+B|Boston Bruins|Minnesota Wild|28601|3388|18|3|2007|bos|min|6|0|1
+B|Buffalo Sabres|Vancouver Canucks®|4932|5619|18|3|2007|buf|van|3|9|0
+B|Calgary Flames®|Montreal Canadiens.|18866|21672|18|3|2007|cgy|mtl|4|4|0
+B|Colorado Avalanche ®|Ottawa Senators|9441|27283|18|3|2007|col|ott|5|0|0
+B|Edmonton Oilers @|Toronto Maple Leafs ™|18843|6270|18|3|2007|edm|tor|2|4|0
+A|Nashville Predators|New Jersey ?evils|12952|12576|18|3|2007|nas|njd|2|2|0
+A|New York Islanders|ST.LUIS BLUES|2733|23513|18|3|2007|nyi|stl|9|0|0
+A|New York Rangers|Columbus Blue Jackets ®|9401|25106|18|3|2007|nyr|cbj|4|0|0
+A|Detroit Red Wings ™|Philadelphia Flyers ®|23149|17911|18|3|2007|det|phi|7|8|0
+A|Chicago Blackhawks ®|Pittsburgh Penguins ®|2295|876|18|3|2007|chi|pit|6|3|0
+C|Atlanta Thrashers ®|Phoenix Coyotes®|9503|2499|18|3|2007|atl|phx|6|0|0
+C|Carolina Hurricanes ®|San Jose Sharks ®|12981|25619|18|3|2007|car|sjs|4|2|0
+C|Florida Panthers ®|Anaheim Ducks ™|16237|2449|18|3|2007|fla|ana|2|6|0
+C|Dallas Stars™|Tampa Bay Lightning®|12548|16293|18|3|2007|dal|tbl|2|2|0
+C|Los Angeles Kings|Washington Capitals ™|23979|22782|18|3|2007|lak|was|7|0|2
+A|Chicago Blackhawks ®|Detroit Red Wings ™|2295|23149|24|3|2007|chi|det|0|6|1
+A|ST.LUIS BLUES|Nashville Predators|23513|12952|24|3|2007|stl|nas|6|2|0
+A|New York Islanders|New York Rangers|2733|9401|24|3|2007|nyi|nyr|8|1|0
+A|Philadelphia Flyers ®|Pittsburgh Penguins ®|17911|876|24|3|2007|phi|pit|4|2|0
+A|New Jersey ?evils|Columbus Blue Jackets ®|12576|25106|24|3|2007|njd|cbj|3|1|0
+B|Toronto Maple Leafs ™|Tampa Bay Lightning®|6270|16293|24|3|2007|tor|tbl|5|1|0
+B|Ottawa Senators|Carolina Hurricanes ®|27283|12981|24|3|2007|ott|car|3|1|0
+B|Buffalo Sabres|Florida Panthers ®|4932|16237|24|3|2007|buf|fla|0|3|0
+B|Boston Bruins|Washington Capitals ™|28601|22782|24|3|2007|bos|was|3|0|0
+B|Montreal Canadiens.|Atlanta Thrashers ®|21672|9503|24|3|2007|mtl|atl|0|9|0
+B|Colorado Avalanche ®|Anaheim Ducks ™|9441|2449|24|3|2007|col|ana|7|4|0
+B|Vancouver Canucks®|Phoenix Coyotes®|5619|2499|24|3|2007|van|phx|7|4|0
+B|Minnesota Wild|San Jose Sharks ®|3388|25619|24|3|2007|min|sjs|1|3|0
+B|Calgary Flames®|Dallas Stars™|18866|12548|24|3|2007|cgy|dal|2|2|0
+B|Edmonton Oilers @|Los Angeles Kings|18843|23979|24|3|2007|edm|lak|4|1|2
+B|Vancouver Canucks®|Calgary Flames®|5619|18866|25|3|2007|van|cgy|7|4|1
+B|Minnesota Wild|Colorado Avalanche ®|3388|9441|25|3|2007|min|col|1|5|0
+B|Toronto Maple Leafs ™|Boston Bruins|6270|28601|25|3|2007|tor|bos|1|1|0
+B|Ottawa Senators|Buffalo Sabres|27283|4932|25|3|2007|ott|buf|2|3|0
+B|Montreal Canadiens.|Edmonton Oilers @|21672|18843|25|3|2007|mtl|edm|4|1|0
+A|ST.LUIS BLUES|Columbus Blue Jackets ®|23513|25106|25|3|2007|stl|cbj|9|3|0
+A|Nashville Predators|Detroit Red Wings ™|12952|23149|25|3|2007|nas|det|0|4|0
+A|Pittsburgh Penguins ®|New Jersey ?evils|876|12576|25|3|2007|pit|njd|2|0|0
+A|Philadelphia Flyers ®|New York Islanders|17911|2733|25|3|2007|phi|nyi|3|10|0
+A|New York Rangers|Chicago Blackhawks ®|9401|2295|25|3|2007|nyr|chi|3|2|0
+C|San Jose Sharks ®|Anaheim Ducks ™|25619|2449|25|3|2007|sjs|ana|0|9|0
+C|Phoenix Coyotes®|Dallas Stars™|2499|12548|25|3|2007|phx|dal|3|2|0
+C|Washington Capitals ™|Atlanta Thrashers ®|22782|9503|25|3|2007|was|atl|1|6|0
+C|Tampa Bay Lightning®|Carolina Hurricanes ®|16293|12981|25|3|2007|tbl|car|3|1|0
+C|Los Angeles Kings|Florida Panthers ®|23979|16237|25|3|2007|lak|fla|0|1|2
+B|Vancouver Canucks®|Colorado Avalanche ®|5619|9441|31|3|2007|van|col|8|4|1
+B|Calgary Flames®|Edmonton Oilers @|18866|18843|31|3|2007|cgy|edm|5|3|0
+B|Toronto Maple Leafs ™|Buffalo Sabres|6270|4932|31|3|2007|tor|buf|3|0|0
+B|Boston Bruins|Montreal Canadiens.|28601|21672|31|3|2007|bos|mtl|3|0|0
+B|Minnesota Wild|Ottawa Senators|3388|27283|31|3|2007|min|ott|2|2|0
+A|ST.LUIS BLUES|Detroit Red Wings ™|23513|23149|31|3|2007|stl|det|0|4|0
+A|Columbus Blue Jackets ®|Chicago Blackhawks ®|25106|2295|31|3|2007|cbj|chi|3|6|0
+A|Pittsburgh Penguins ®|New York Islanders|876|2733|31|3|2007|pit|nyi|2|13|0
+A|New Jersey ?evils|New York Rangers|12576|9401|31|3|2007|njd|nyr|0|5|0
+A|Nashville Predators|Philadelphia Flyers ®|12952|17911|31|3|2007|nas|phi|4|10|0
+C|San Jose Sharks ®|Dallas Stars™|25619|12548|31|3|2007|sjs|dal|0|3|0
+C|Los Angeles Kings|Anaheim Ducks ™|23979|2449|31|3|2007|lak|ana|0|8|0
+C|Washington Capitals ™|Carolina Hurricanes ®|22782|12981|31|3|2007|was|car|0|4|0
+C|Atlanta Thrashers ®|Florida Panthers ®|9503|16237|31|3|2007|atl|fla|3|2|0
+C|Phoenix Coyotes®|Tampa Bay Lightning®|2499|16293|31|3|2007|phx|tbl|2|4|2
+B|Edmonton Oilers @|Colorado Avalanche ®|18843|9441|1|4|2007|edm|col|0|9|1
+B|Minnesota Wild|Vancouver Canucks®|3388|5619|1|4|2007|min|van|2|10|0
+B|Montreal Canadiens.|Buffalo Sabres|21672|4932|1|4|2007|mtl|buf|1|7|0
+B|Ottawa Senators|Toronto Maple Leafs ™|27283|6270|1|4|2007|ott|tor|1|3|0
+B|Boston Bruins|Calgary Flames®|28601|18866|1|4|2007|bos|cgy|2|1|0
+C|Tampa Bay Lightning®|New York Islanders|16293|2733|1|4|2007|tbl|nyi|0|5|0
+C|Carolina Hurricanes ®|Philadelphia Flyers ®|12981|17911|1|4|2007|car|phi|6|8|0
+C|Florida Panthers ®|New York Rangers|16237|9401|1|4|2007|fla|nyr|0|3|0
+C|Washington Capitals ™|New Jersey ?evils|22782|12576|1|4|2007|was|njd|2|0|0
+C|Atlanta Thrashers ®|Pittsburgh Penguins ®|9503|876|1|4|2007|atl|pit|8|3|0
+C|Anaheim Ducks ™|Chicago Blackhawks ®|2449|2295|1|4|2007|ana|chi|8|1|0
+C|Phoenix Coyotes®|Detroit Red Wings ™|2499|23149|1|4|2007|phx|det|1|5|0
+C|San Jose Sharks ®|Nashville Predators|25619|12952|1|4|2007|sjs|nas|9|3|0
+C|Dallas Stars™|Columbus Blue Jackets ®|12548|25106|1|4|2007|dal|cbj|5|1|0
+C|Los Angeles Kings|ST.LUIS BLUES|23979|23513|1|4|2007|lak|stl|3|2|2
+B|Edmonton Oilers @|Boston Bruins|18843|28601|7|4|2007|edm|bos|1|2|1
+B|Buffalo Sabres|Minnesota Wild|4932|3388|7|4|2007|buf|min|5|7|0
+B|Vancouver Canucks®|Montreal Canadiens.|5619|21672|7|4|2007|van|mtl|9|2|0
+B|Calgary Flames®|Ottawa Senators|18866|27283|7|4|2007|cgy|ott|2|2|0
+B|Colorado Avalanche ®|Toronto Maple Leafs ™|9441|6270|7|4|2007|col|tor|6|2|0
+A|Chicago Blackhawks ®|New Jersey ?evils|2295|12576|7|4|2007|chi|njd|6|0|0
+A|Nashville Predators|New York Islanders|12952|2733|7|4|2007|nas|nyi|2|15|0
+A|New York Rangers|ST.LUIS BLUES|9401|23513|7|4|2007|nyr|stl|9|0|0
+A|Columbus Blue Jackets ®|Philadelphia Flyers ®|25106|17911|7|4|2007|cbj|phi|2|10|0
+A|Detroit Red Wings ™|Pittsburgh Penguins ®|23149|876|7|4|2007|det|pit|1|2|0
+C|Atlanta Thrashers ®|Los Angeles Kings|9503|23979|7|4|2007|atl|lak|8|0|0
+C|Carolina Hurricanes ®|Phoenix Coyotes®|12981|2499|7|4|2007|car|phx|1|4|0
+C|Florida Panthers ®|San Jose Sharks ®|16237|25619|7|4|2007|fla|sjs|1|1|0
+C|Anaheim Ducks ™|Tampa Bay Lightning®|2449|16293|7|4|2007|ana|tbl|7|0|0
+C|Dallas Stars™|Washington Capitals ™|12548|22782|7|4|2007|dal|was|5|0|2
+B|Colorado Avalanche ®|Boston Bruins|9441|28601|8|4|2007|col|bos|6|1|1
+B|Edmonton Oilers @|Buffalo Sabres|18843|4932|8|4|2007|edm|buf|4|9|0
+B|Montreal Canadiens.|Minnesota Wild|21672|3388|8|4|2007|mtl|min|1|4|0
+B|Vancouver Canucks®|Ottawa Senators|5619|27283|8|4|2007|van|ott|6|0|0
+B|Calgary Flames®|Toronto Maple Leafs ™|18866|6270|8|4|2007|cgy|tor|0|6|0
+A|Detroit Red Wings ™|New Jersey ?evils|23149|12576|8|4|2007|det|njd|3|0|0
+A|New York Islanders|Chicago Blackhawks ®|2733|2295|8|4|2007|nyi|chi|11|0|0
+A|New York Rangers|Nashville Predators|9401|12952|8|4|2007|nyr|nas|10|2|0
+A|Philadelphia Flyers ®|ST.LUIS BLUES|17911|23513|8|4|2007|phi|stl|6|0|0
+A|Columbus Blue Jackets ®|Pittsburgh Penguins ®|25106|876|8|4|2007|cbj|pit|2|11|0
+C|Atlanta Thrashers ®|Dallas Stars™|9503|12548|8|4|2007|atl|dal|4|0|0
+C|Carolina Hurricanes ®|Los Angeles Kings|12981|23979|8|4|2007|car|lak|10|3|0
+C|Florida Panthers ®|Phoenix Coyotes®|16237|2499|8|4|2007|fla|phx|2|3|0
+C|San Jose Sharks ®|Tampa Bay Lightning®|25619|16293|8|4|2007|sjs|tbl|3|5|0
+C|Anaheim Ducks ™|Washington Capitals ™|2449|22782|8|4|2007|ana|was|12|0|2

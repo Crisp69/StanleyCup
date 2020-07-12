@@ -1,0 +1,23 @@
+1||Gregor Taliga|2|36|34|94,4%|0|5,5|St. Louis|stl
+2||Valdemar Buša|1|18|17|94,4%|0|5,4|Montreal|mtl
+3||Alexander Kharin|2|75|70|93,3%|0|6,5|Edmonton|edm
+4||Daniel Muro|1|30|28|93,3%|0|6,1|Columbus|cbj
+5||Heinrich Wohl|2|26|24|92,3%|1|4,9|Florida|fla
+6||Bruno Salussoglia|5|135|124|91,9%|0|5,8|Dallas|dal
+7||Robert Jacobsen|8|177|162|91,5%|3|5,5|NJ Devils|njd
+8||Laimis Bergsons|2|60|54|90,0%|0|5,7|NY Islanders|nyi
+9||Alfréd Čvirik|3|78|70|89,7%|0|5,5|Chicago|chi
+10||Anžej Koren|2|44|39|88,6%|0|5,2|Detroit|det
+11||Olafs Bulders|4|116|102|87,9%|0|5,6|Minnesota|min
+12||Jozef Lazík|4|106|93|87,7%|0|5,5|Philadelphia|phi
+13||Józef Bancerz|6|168|147|87,5%|0|5,6|Ottawa|ott
+14||Lukáš Němec|6|183|160|87,4%|1|5,7|St. Louis|stl
+15||Miervaldis Aukliņš|2|63|55|87,3%|0|5,7|Montreal|mtl
+16||Stipo Pulja|4|46|39|84,8%|0|4,4|Chicago|chi
+17||Silvius Šofranko|2|84|70|83,3%|0|5,7|Phoenix|phx
+18||Tomáš Bossi|2|24|20|83,3%|1|4,7|NJ Devils|njd
+19||Burkhard Kohler|1|6|5|83,3%|0|4,2|Philadelphia|phi
+20||Ijsbrand Walraven|1|23|19|82,6%|0|4,8|NY Rangers|nyr
+21||Petteri Tulonen|2|65|53|81,5%|0|5,1|Washington|was
+22||Kristoffer Strandberg|4|74|58|78,4%|1|4,4|Florida|fla
+23||Denis Chekmarev|2|49|38|77,6%|0|4,5|NY Rangers|nyr

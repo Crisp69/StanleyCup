@@ -1,0 +1,10 @@
+1||Štefan Pokrošov|8|11|4|15|13||||New Jersey|njd
+2||Arild Lyssand|7|8|3|11|3||||NY Islanders|nyi
+3||Miloš Plesník|8|8|3|11|10||||Washington|was
+4||Timo Ahlapuro|8|7|2|9|8||||Phoenix|phx
+5||Josef Vašíček|9|7|1|8|2||||Edmonton|edm
+6||Medard Haverlík|9|7|0|7|7||||Colorado|col
+7||Artem Paladyev|7|6|0|6|10||||Washington|was
+8||Jaromír Kapičák|8|6|0|6|10||||New Jersey|njd
+9||Michael Eyholzer|8|6|2|8|10||||Anaheim|ana
+10||Oleg Oboňa|8|6|3|9|10||||Anaheim|ana

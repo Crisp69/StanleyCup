@@ -1,0 +1,31 @@
+Stanley Cup Finals|New York Rangers ™|St. Louis Blues ™|2787|23488|15|09|2012|nyr|stl|1|4|1|883438609|1029|
+
+Stanley Cup Finals|St. Louis Blues ™|New York Rangers ™|23488|2787|16|09|2012|stl|nyr|3|6|1|883438610|1030|
+Conference Finals|New York Rangers ™|Toronto Maple Leafs ®|2787|29473|08|09|2012|nyr|tor|4|2|1|883339603|1025|
+Conference Finals|Calgary Flames ®|St. Louis Blues ™|36702|23488|08|09|2012|cgy|stl|1|3|2|883335159|1026|
+Conference Finals|Toronto Maple Leafs ®|New York Rangers ™|29473|2787|09|09|2012|tor|nyr|3|7|1|883339604|1027|
+Conference Finals|St. Louis Blues ™|Calgary Flames ®|23488|36702|09|09|2012|stl|cgy|2|1|2|883335160|1028|
+Conference Semifinals|New York Rangers ™|Boston Bruins ®|2787|1220|01|09|2012|nyr|bos|2|4|1|883323256|1017|
+Conference Semifinals|Toronto Maple Leafs ®|The Washington Capitals|29473|1659|01|09|2012|tor|was|3|2|0|883319691|1018|
+Conference Semifinals|Calgary Flames ®|Detroit Red Wings™|36702|19051|01|09|2012|cgy|det|6|3|0|883320474|1019|
+Conference Semifinals|St. Louis Blues ™|Los Angeles Kings ®|23488|23979|01|09|2012|stl|lak|2|1|2|883319865|1020|
+Conference Semifinals|Boston Bruins ®|New York Rangers ™|1220|2787|02|09|2012|bos|nyr|4|8|1|883323257|1021|
+Conference Semifinals|The Washington Capitals|Toronto Maple Leafs ®|1659|29473|02|09|2012|was|tor|2|1|0|883319692|1022|
+Conference Semifinals|Detroit Red Wings™|Calgary Flames ®|19051|36702|02|09|2012|det|cgy|5|4|0|883320473|1023|
+Conference Semifinals|Los Angeles Kings ®|St. Louis Blues ™|23979|23488|02|09|2012|lak|stl|2|7|2|883319867|1024|
+Conference Quarterfinals|New York Rangers ™|New York Islanders™|2787|35972|25|08|2012|nyr|nyi|4|1|1|883308108|1001|
+Conference Quarterfinals|Toronto Maple Leafs ®|Buffalo Sabres|29473|28475|25|08|2012|tor|buf|4|1|0|883307060|1002|
+Conference Quarterfinals|The Washington Capitals|Tampa Bay Lightning ®|1659|16293|25|08|2012|was|tbl|3|2|0|883307865|1003|
+Conference Quarterfinals|Montreal Canadiens ™|Boston Bruins ®|39418|1220|25|08|2012|mtl|bos|3|2|0|883312529|1004|
+Conference Quarterfinals|Calgary Flames ®|Chicago Blackhawks ™|36702|18857|25|08|2012|cgy|chi|7|0|0|883314515|1005|
+Conference Quarterfinals|St. Louis Blues ™|Dallas Stars ®|23488|27996|25|08|2012|stl|dal|3|2|0|883305087|1006|
+Conference Quarterfinals|Los Angeles Kings ®|Columbus Blue Jackets|23979|4928|25|08|2012|lak|cbj|5|0|0|883307238|1007|
+Conference Quarterfinals|Detroit Red Wings™|PHEONIX COYOTES|19051|32419|25|08|2012|det|phx|10|0|2|883307577|1008|
+Conference Quarterfinals|New York Islanders™|New York Rangers ™|35972|2787|26|08|2012|nyi|nyr|1|9|1|883308107|1009|
+Conference Quarterfinals|Buffalo Sabres|Toronto Maple Leafs ®|28475|29473|26|08|2012|buf|tor|1|4|0|883307061|1010|
+Conference Quarterfinals|Tampa Bay Lightning ®|The Washington Capitals|16293|1659|26|08|2012|tbl|was|1|4|0|883307866|1011|
+Conference Quarterfinals|Boston Bruins ®|Montreal Canadiens ™|1220|39418|26|08|2012|bos|mtl|6|2|0|883312530|1012|
+Conference Quarterfinals|Chicago Blackhawks ™|Calgary Flames ®|18857|36702|26|08|2012|chi|cgy|2|7|0|883314514|1013|
+Conference Quarterfinals|Dallas Stars ®|St. Louis Blues ™|27996|23488|26|08|2012|dal|stl|1|3|0|883305088|1014|
+Conference Quarterfinals|Columbus Blue Jackets|Los Angeles Kings ®|4928|23979|26|08|2012|cbj|lak|3|6|0|883307239|1015|
+Conference Quarterfinals|PHEONIX COYOTES|Detroit Red Wings™|32419|19051|26|08|2012|phx|det|0|11|2|883307578|1016|

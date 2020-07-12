@@ -1,0 +1,30 @@
+Stanley Cup Finals|Colorado Avalanche ®|Ottawa Senators ®|9441|2459|6|9|2008|col|ott|4|3|1
+Stanley Cup Finals|Ottawa Senators ®|Colorado Avalanche ®|2459|9441|7|9|2008|ott|col|1|3|1
+Conference Finals|Florida Panthers ™|Ottawa Senators ®|2733|2459|30|8|2008|fla|ott|1|3|1
+Conference Finals|Colorado Avalanche ®|St.Louis Blues™|9441|5650|30|8|2008|col|stl|3|4|2
+Conference Finals|Ottawa Senators ®|Florida Panthers ™|2459|2733|31|8|2008|ott|fla|4|0|1
+Conference Finals|St.Louis Blues™|Colorado Avalanche ®|5650|9441|31|8|2008|stl|col|3|5|2
+Conference Semifinals|Montreal Canadiens|Ottawa Senators ®|2747|2459|23|8|2008|mtl|ott|1|3|1
+Conference Semifinals|** NY RANGERS **|Florida Panthers ™|5712|2733|23|8|2008|nyr|fla|2|5|0
+Conference Semifinals|Colorado Avalanche ®|VANCOUVER Canucks ©|9441|2372|23|8|2008|col|van|2|5|0
+Conference Semifinals|St.Louis Blues™|Anaheim Ducks ™|5650|2449|23|8|2008|stl|ana|2|1|2
+Conference Semifinals|Ottawa Senators ®|Montreal Canadiens|2459|2747|24|8|2008|ott|mtl|1|0|1
+Conference Semifinals|Florida Panthers ™|** NY RANGERS **|2733|5712|24|8|2008|fla|nyr|3|2|0
+Conference Semifinals|VANCOUVER Canucks ©|Colorado Avalanche ®|2372|9441|24|8|2008|van|col|1|5|0
+Conference Semifinals|Anaheim Ducks ™|St.Louis Blues™|2449|5650|24|8|2008|ana|stl|4|3|2
+Conference Quarterfinals|Montreal Canadiens|New York Islanders ®|2747|19992|16|8|2008|mtl|nyi|9|4|1
+Conference Quarterfinals|** NY RANGERS **|New Jersey &ETH;evils|5712|12576|16|8|2008|nyr|njd|5|1|0
+Conference Quarterfinals|Florida Panthers ™|Tampa Bay Lightning ®|2733|16293|16|8|2008|fla|tbl|4|0|0
+Conference Quarterfinals|Philadelphia Flyers ®|Ottawa Senators ®|17911|2459|16|8|2008|phi|ott|1|4|0
+Conference Quarterfinals|Colorado Avalanche ®|Dallas Stars™|9441|12548|16|8|2008|col|dal|2|1|0
+Conference Quarterfinals|St.Louis Blues™|Detroit Red Wings ™|5650|23149|16|8|2008|stl|det|3|4|0
+Conference Quarterfinals|Anaheim Ducks ™|San Jose Sharks ®|2449|25619|16|8|2008|ana|sjs|5|4|0
+Conference Quarterfinals|VANCOUVER Canucks ©|Phoenix Coyotes®|2372|2499|16|8|2008|van|phx|6|2|2
+Conference Quarterfinals|New York Islanders ®|Montreal Canadiens|19992|2747|17|8|2008|nyi|mtl|1|3|1
+Conference Quarterfinals|New Jersey &ETH;evils|** NY RANGERS **|12576|5712|17|8|2008|njd|nyr|1|3|0
+Conference Quarterfinals|Tampa Bay Lightning ®|Florida Panthers ™|16293|2733|17|8|2008|tbl|fla|1|3|0
+Conference Quarterfinals|Ottawa Senators ®|Philadelphia Flyers ®|2459|17911|17|8|2008|ott|phi|8|1|0
+Conference Quarterfinals|Dallas Stars™|Colorado Avalanche ®|12548|9441|17|8|2008|dal|col|2|3|0
+Conference Quarterfinals|Detroit Red Wings ™|St.Louis Blues™|23149|5650|17|8|2008|det|stl|5|10|0
+Conference Quarterfinals|San Jose Sharks ®|Anaheim Ducks ™|25619|2449|17|8|2008|sjs|ana|2|5|0
+Conference Quarterfinals|Phoenix Coyotes®|VANCOUVER Canucks ©|2499|2372|17|8|2008|phx|van|4|5|2
